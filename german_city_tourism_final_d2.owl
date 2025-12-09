@@ -10,6 +10,7 @@
   <owl:imports rdf:resource="http://www.ease-crc.org/ont/DUL.owl"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Authors: Giulio Billi, Cono Cirone</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domain: Activity recommendation and tourism in German cities.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German City Tourism Activities Ontology</rdfs:comment>
 </owl:Ontology>
 
 <owl:ObjectProperty rdf:about="#hasBudget">
@@ -60,11 +61,11 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasTimeInterval"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRegion"/>
   <rdfs:domain rdf:resource="#Tour"/>
   <rdfs:range rdf:resource="#Duration"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has duration</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A relation connecting a tour to its duration.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Relates a tour to its duration amount.</rdfs:comment>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasOperatingHours">
@@ -80,7 +81,7 @@
 <owl:ObjectProperty rdf:about="#appliesToDay">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#associatedWith"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="#DayOfWeek"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">applies to day</rdfs:label>
@@ -203,8 +204,8 @@
 
 <owl:Class rdf:about="#Duration">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-  <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The length of time a tour takes.</rdfs:comment>
+  <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Amount"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A temporal quantity representing the length of the tour</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duration</rdfs:label>
 </owl:Class>
 
