@@ -17,7 +17,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#Activity"/>
   <rdfs:range rdf:resource="#BudgetTier"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has budget</rdfs:label>
@@ -28,7 +27,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#Activity"/>
   <rdfs:range rdf:resource="#LocationSetting"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has location setting</rdfs:label>
@@ -39,7 +37,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
   <rdfs:domain rdf:resource="#Activity"/>
   <rdfs:range rdf:resource="#City"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is in city</rdfs:label>
@@ -50,7 +47,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
   <rdfs:domain rdf:resource="#Tour"/>
   <rdfs:range rdf:resource="#MeetingPoint"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has meeting point</rdfs:label>
@@ -61,17 +57,15 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRegion"/>
   <rdfs:domain rdf:resource="#Tour"/>
   <rdfs:range rdf:resource="#Duration"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has duration</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Relates a tour to its duration amount.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A relation connecting a tour to its temporal duration specification.</rdfs:comment>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasOperatingHours">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasTimeInterval"/>
   <rdfs:domain rdf:resource="#PhysicalVenue"/>
   <rdfs:range rdf:resource="#OperatingHours"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has operating hours</rdfs:label>
@@ -81,17 +75,15 @@
 <owl:ObjectProperty rdf:about="#appliesToDay">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#associatedWith"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="#DayOfWeek"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">applies to day</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A relation connecting an operating hours entry to a day of the week.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A relation specifying which day of the week a particular operating hours schedule is valid for.</rdfs:comment>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasLanguage">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#associatedWith"/>
   <rdfs:domain rdf:resource="#Tour"/>
   <rdfs:range rdf:resource="#Language"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has language</rdfs:label>
@@ -102,7 +94,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#Museum"/>
   <rdfs:range rdf:resource="#MuseumType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has museum type</rdfs:label>
@@ -113,7 +104,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#Park"/>
   <rdfs:range rdf:resource="#ParkType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has park type</rdfs:label>
@@ -124,7 +114,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#NightlifeVenue"/>
   <rdfs:range rdf:resource="#ClubType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has club type</rdfs:label>
@@ -135,7 +124,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
   <rdfs:domain rdf:resource="#Sight"/>
   <rdfs:range rdf:resource="#SightType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has sight type</rdfs:label>
@@ -144,20 +132,18 @@
 
 <owl:DatatypeProperty rdf:about="#opensAt">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasDataValue"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">opens at</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An attribute describing the opening time for an Operating Hours entry.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The time at which a venue opens for the specified operating hours period.</rdfs:comment>
 </owl:DatatypeProperty>
 
 <owl:DatatypeProperty rdf:about="#closesAt">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-  <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasDataValue"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">closes at</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An attribute describing the closing time for an Operating Hours entry.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The time at which a venue closes for the specified operating hours period.</rdfs:comment>
 </owl:DatatypeProperty>
 
 <owl:Class rdf:about="#Activity">
@@ -184,28 +170,28 @@
 <owl:Class rdf:about="#LocationSetting">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification of the environment (Indoor or Outdoor).</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification describing the physical environment setting where an activity takes place. (Indoor vs. Outdoor).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Location Setting</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#OperatingHours">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A concept to model a set of opening/closing times.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A time interval specification defining the opening and closing times for a physical venue.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Hours</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#DayOfWeek">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A specific day of the week.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A temporal concept representing a specific day of the week (e.g., Monday, Tuesday).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Day of Week</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#Duration">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Amount"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A temporal quantity representing the length of the tour</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A temporal quantity representing the length of a tour (e.g., 2 hours, 3.5 hours).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duration</rdfs:label>
 </owl:Class>
 
@@ -227,66 +213,66 @@
   <rdfs:subClassOf rdf:resource="#Activity"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
   <owl:disjointWith rdf:resource="#PhysicalVenue"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A guided activity to visit the city. It is an event.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An organized guided activity or experience conducted in a city, typically scheduled at specific times.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tour</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#PhysicalVenue">
   <rdfs:subClassOf rdf:resource="#Activity"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalPlace"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A physical location with set operating hours.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A visitable physical location that tourists can access, characterized by defined operating hours.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physical Venue</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#Museum">
   <rdfs:subClassOf rdf:resource="#PhysicalVenue"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An institution displaying artifacts.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A cultural institution that preserves and exhibits artifacts, artworks, or historical objects for public viewing.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museum</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#Park">
   <rdfs:subClassOf rdf:resource="#PhysicalVenue"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A public green space or natural area.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A public outdoor area featuring green spaces, gardens, or natural landscapes for recreation and leisure.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#NightlifeVenue">
   <rdfs:subClassOf rdf:resource="#PhysicalVenue"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A location for evening entertainment.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A venue offering entertainment, social activities, or refreshments primarily during evening and night hours.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nightlife Venue</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#Sight">
   <rdfs:subClassOf rdf:resource="#PhysicalVenue"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A location or structure of historical interest.</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A notable location, building, or monument of cultural, historical, or architectural significance.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sight</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#MuseumType">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category of museum (e.g., Art, History).</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the thematic category of a museum (e.g., Art, History, Science).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museum Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#ParkType">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category of park (e.g., Botanical Garden).</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a park (e.g., Botanical Garden, Urban Park).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#ClubType">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category of nightlife venue (e.g., Bar, Disco).</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a nightlife venue (e.g., Bar, Nightclub, Live Music Venue).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Club Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#SightType">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category of sight (e.g., Monument).</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a sight (e.g., Monument, Landmark, Historic Building).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sight Type</rdfs:label>
 </owl:Class>
 
