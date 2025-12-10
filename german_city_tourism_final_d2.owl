@@ -212,7 +212,6 @@
 <owl:Class rdf:about="#Tour">
   <rdfs:subClassOf rdf:resource="#Activity"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
-  <owl:disjointWith rdf:resource="#PhysicalVenue"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An organized guided activity or experience conducted in a city, typically scheduled at specific times.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tour</rdfs:label>
 </owl:Class>
@@ -287,15 +286,6 @@
     <rdf:Description rdf:about="#Duration"/>
     <rdf:Description rdf:about="#Language"/>
     <rdf:Description rdf:about="#MeetingPoint"/>
-  </owl:members>
-</owl:AllDisjointClasses>
-
-<owl:AllDisjointClasses>
-  <owl:members rdf:parseType="Collection">
-    <rdf:Description rdf:about="#Museum"/>
-    <rdf:Description rdf:about="#Park"/>
-    <rdf:Description rdf:about="#NightlifeVenue"/>
-    <rdf:Description rdf:about="#Sight"/>
   </owl:members>
 </owl:AllDisjointClasses>
 
