@@ -1,0 +1,8 @@
+services:
+  scraper:
+    build: .
+    volumes:
+      # Mount current directory to /app so the output JSON file appears on your host machine
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
