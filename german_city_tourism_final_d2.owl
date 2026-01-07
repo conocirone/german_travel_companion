@@ -90,10 +90,17 @@
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A relation connecting a tour to its language(s).</rdfs:comment>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#hasMuseumType">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+<owl:ObjectProperty rdf:about="#hasVenueType">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+  <rdfs:domain rdf:resource="#PhysicalVenue"/>
+  <rdfs:range rdf:resource="#VenueType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has venue type</rdfs:label>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A generic relation connecting a physical venue to its categories.</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasMuseumType">
+  <rdfs:subPropertyOf rdf:resource="#hasVenueType"/>
   <rdfs:domain rdf:resource="#Museum"/>
   <rdfs:range rdf:resource="#MuseumType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has museum type</rdfs:label>
@@ -101,9 +108,7 @@
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasParkType">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+  <rdfs:subPropertyOf rdf:resource="#hasVenueType"/>
   <rdfs:domain rdf:resource="#Park"/>
   <rdfs:range rdf:resource="#ParkType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has park type</rdfs:label>
@@ -111,9 +116,7 @@
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasClubType">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+  <rdfs:subPropertyOf rdf:resource="#hasVenueType"/>
   <rdfs:domain rdf:resource="#NightlifeVenue"/>
   <rdfs:range rdf:resource="#ClubType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has club type</rdfs:label>
@@ -121,9 +124,7 @@
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#hasSightType">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+  <rdfs:subPropertyOf rdf:resource="#hasVenueType"/>
   <rdfs:domain rdf:resource="#Sight"/>
   <rdfs:range rdf:resource="#SightType"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has sight type</rdfs:label>
@@ -247,29 +248,36 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sight</rdfs:label>
 </owl:Class>
 
-<owl:Class rdf:about="#MuseumType">
+<owl:Class rdf:about="#VenueType">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A general classification representing the category of a physical venue.</rdfs:comment>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venue Type</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#MuseumType">
+  <rdfs:subClassOf rdf:resource="#VenueType"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the thematic category of a museum (e.g., Art, History, Science).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museum Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#ParkType">
-  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:subClassOf rdf:resource="#VenueType"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a park (e.g., Botanical Garden, Urban Park).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#ClubType">
-  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:subClassOf rdf:resource="#VenueType"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a nightlife venue (e.g., Bar, Nightclub, Live Music Venue).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Club Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#SightType">
-  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:subClassOf rdf:resource="#VenueType"/>
   <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a sight (e.g., Monument, Landmark, Historic Building).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sight Type</rdfs:label>
