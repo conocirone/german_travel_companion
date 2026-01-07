@@ -86,10 +86,11 @@ def scrape_getyourguide(city_url):
                 # Extract basic info (Adapting to generic structure due to dynamic classes)
                 title = card.locator("h3").first.inner_text()
                 
-                # Try to get price if available
+                # Try to get price from activity-price__text-price class
                 price = "N/A"
-                if card.locator("[class*='price']").count() > 0:
-                    price = card.locator("[class*='price']").first.inner_text()
+                price_elem = card.locator(".activity-price__text-price")
+                if price_elem.count() > 0:
+                    price = price_elem.first.inner_text()
                 
                 # Link
                 link = "N/A"
@@ -102,6 +103,7 @@ def scrape_getyourguide(city_url):
                 duration = "N/A"
                 languages = "N/A"
                 meeting_point = "N/A"
+                meeting_point_maps_link = "N/A"
                 
                 if link != "N/A":
                     try:
@@ -137,19 +139,25 @@ def scrape_getyourguide(city_url):
                         # Try alternative language sources (audio guide)
                         if languages == "N/A":
                             try:
-                                audio_block = detail_page.locator("#icon-label-audioGuide")
+                                audio_block = detail_page.locator("#icon-label-audioGuides")
                                 if audio_block.count() > 0:
                                     languages = audio_block.locator("dd .text-atom--caption").first.inner_text()
                             except:
                                 pass
                         
                         # Extract Meeting Point from meeting-points-block
+                        meeting_point_maps_link = "N/A"
                         try:
                             meeting_block = detail_page.locator("#meeting-point-links, .meeting-points-block")
                             if meeting_block.count() > 0:
                                 meeting_text_elem = meeting_block.locator(".text-atom--body").first
                                 if meeting_text_elem.count() > 0:
                                     meeting_point = meeting_text_elem.inner_text()
+                                
+                                # Extract Google Maps link if available
+                                maps_link_elem = meeting_block.locator("a.link-button[href*='maps.google.com']")
+                                if maps_link_elem.count() > 0:
+                                    meeting_point_maps_link = maps_link_elem.first.get_attribute("href")
                         except Exception as e:
                             print(f"⚠️ Could not extract meeting point: {e}")
                         
@@ -164,7 +172,8 @@ def scrape_getyourguide(city_url):
                     "link": link,
                     "duration": duration,
                     "languages": languages,
-                    "meeting_point": meeting_point
+                    "meeting_point": meeting_point,
+                    "meeting_point_maps_link": meeting_point_maps_link
                 })
                 print(f"✔️ Extracted: {title} | Duration: {duration} | Languages: {languages}")
             except Exception as e:
