@@ -125,6 +125,17 @@ def scrape_getyourguide(city_url):
                             if duration_block.count() > 0:
                                 duration_text = duration_block.locator("dt .text-atom--body-strong").first.inner_text()
                                 duration = duration_text.replace("Duration", "").strip()
+                            else:
+                                # Fallback: try div[data-ref="duration"]
+                                alt_duration_block = detail_page.locator('div[data-ref="duration"]')
+                                if alt_duration_block.count() > 0:
+                                    # Look for span containing "Duration" text
+                                    duration_span = alt_duration_block.locator("dt span").all()
+                                    for span in duration_span:
+                                        span_text = span.inner_text()
+                                        if "Duration" in span_text:
+                                            duration = span_text.replace("Duration", "").strip()
+                                            break
                         except Exception as e:
                             print(f"⚠️ Could not extract duration: {e}")
                         
