@@ -174,6 +174,7 @@ def run_scraper():
 
                 for page_num in range(1, 6):
                     print(f"\nPage {page_num}")
+                    
                     index_spec_type_container = 0
 
                     card_selector = 'div.XfVdV.o.AIbhI'                    
@@ -243,6 +244,31 @@ def run_scraper():
                         finally:
                             sb.switch_to_default_window()
                             sb.sleep(1)
+                    
+                if page_num < 5:
+                        next_page_num = page_num + 1
+                        print(f"\nAttempting to go to Page {next_page_num}...")
+
+                        next_selector = f'a[aria-label="{next_page_num}"]'
+                        
+                        fallback_selector = 'a[aria-label="Next page"]'
+
+                        found_next = False
+                        
+                        if sb.is_element_present(next_selector):
+                            sb.scroll_to(next_selector)
+                            sb.click(next_selector)
+                            found_next = True
+                        elif sb.is_element_present(fallback_selector):
+                            sb.scroll_to(fallback_selector)
+                            sb.click(fallback_selector)
+                            found_next = True
+                        
+                        if found_next:
+                            sb.sleep(random.uniform(5, 7))
+                        else:
+                            print(f"Could not find button for Page {next_page_num}. Stopping category.")
+                            break
 
 
 if __name__ == "__main__":
