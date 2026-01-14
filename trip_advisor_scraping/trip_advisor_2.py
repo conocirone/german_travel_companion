@@ -242,8 +242,13 @@ def run_scraper():
                             print(f"Error scraping {name}: {e}")
 
                         finally:
+                            
+                            try:    
+                                sb.execute_script("window.close()")
+                            except Exception:
+                                pass 
                             sb.switch_to_default_window()
-                            sb.sleep(1)
+                            sb.sleep(0.5)
                     
                 if page_num < 5:
                         next_page_num = page_num + 1
