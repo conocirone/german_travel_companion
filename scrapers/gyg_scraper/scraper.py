@@ -156,19 +156,36 @@ def scrape_getyourguide(city_url):
                             except:
                                 pass
                         
-                        # Extract Meeting Point from meeting-points-block
+                        # Extract Meeting Point - handles two HTML structures:
+                        # 1. Normal case: meeting-points-block with text description and maps link
+                        # 2. Alternative case: activity-meeting-point section with only maps link
                         meeting_point_maps_link = "N/A"
                         try:
-                            meeting_block = detail_page.locator("#meeting-point-links, .meeting-points-block")
+                            # Try normal case first: meeting-points-block
+                            meeting_block = detail_page.locator(".meeting-points-block, #meeting-point-links")
                             if meeting_block.count() > 0:
                                 meeting_text_elem = meeting_block.locator(".text-atom--body").first
                                 if meeting_text_elem.count() > 0:
                                     meeting_point = meeting_text_elem.inner_text()
                                 
                                 # Extract Google Maps link if available
-                                maps_link_elem = meeting_block.locator("a.link-button[href*='maps.google.com']")
+                                maps_link_elem = meeting_block.locator("a[href*='maps.google.com']")
                                 if maps_link_elem.count() > 0:
                                     meeting_point_maps_link = maps_link_elem.first.get_attribute("href")
+                            
+                            # Fallback: alternative case with activity-meeting-point section
+                            if meeting_point == "N/A" and meeting_point_maps_link == "N/A":
+                                alt_meeting_block = detail_page.locator("section.activity-meeting-point, [data-test-id='activity-meeting-point']")
+                                if alt_meeting_block.count() > 0:
+                                    # Try to get any text content
+                                    text_elem = alt_meeting_block.locator(".text-atom--body")
+                                    if text_elem.count() > 0:
+                                        meeting_point = text_elem.first.inner_text()
+                                    
+                                    # Extract Google Maps link from this alternative structure
+                                    maps_link_elem = alt_meeting_block.locator("a[href*='maps.google.com']")
+                                    if maps_link_elem.count() > 0:
+                                        meeting_point_maps_link = maps_link_elem.first.get_attribute("href")
                         except Exception as e:
                             print(f"⚠️ Could not extract meeting point: {e}")
                         
@@ -186,7 +203,7 @@ def scrape_getyourguide(city_url):
                     "meeting_point": meeting_point,
                     "meeting_point_maps_link": meeting_point_maps_link
                 })
-                print(f"✔️ Extracted: {title} | Duration: {duration} | Languages: {languages}")
+                print(f"✔️ Extracted: {title} | Duration: {duration} | Languages: {languages}, Price: {price}, Link: {link}, Meeting Point: {meeting_point[:30]}...")
             except Exception as e:
                 print(f"⚠️ Error extracting card: {e}")
                 continue
