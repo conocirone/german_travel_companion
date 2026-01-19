@@ -1,10 +1,25 @@
 import time
 import random
 import json
+import os
 from playwright.sync_api import sync_playwright
 from fake_useragent import UserAgent
 
-def scrape_getyourguide(city_url):
+# Dictionary of German cities with their GetYourGuide URLs
+MY_CITIES = {
+    'Berlin': 'https://www.getyourguide.com/berlin-l17/',
+    'Cologne': 'https://www.getyourguide.com/cologne-l19/',
+    'Munich': 'https://www.getyourguide.com/munich-l26/',
+    'Hamburg': 'https://www.getyourguide.com/hamburg-l23/',
+    'Frankfurt': 'https://www.getyourguide.com/frankfurt-l21/',
+    'Stuttgart': 'https://www.getyourguide.com/stuttgart-l27/',
+    'Dusseldorf': 'https://www.getyourguide.com/dusseldorf-l125/',
+    'Dortmund': 'https://www.getyourguide.com/dortmund-l136/',
+    'Essen': 'https://www.getyourguide.com/essen-l145/',
+    'Leipzig': 'https://www.getyourguide.com/leipzig-l25/',
+}
+
+def scrape_getyourguide(city_name, city_url):
     ua = UserAgent()
     user_agent = ua.random
     
@@ -32,7 +47,7 @@ def scrape_getyourguide(city_url):
             });
         """)
 
-        print(f"🌍 Navigating to {city_url}...")
+        print(f"🌍 [{city_name}] Navigating to {city_url}...")
         page.goto(city_url, wait_until="domcontentloaded", timeout=60000)
         
         # Handle Cookie Consent (Common blocker)
@@ -45,7 +60,7 @@ def scrape_getyourguide(city_url):
             print("🍪 No cookie banner found or already handled.")
 
         # --- PAGINATION LOOP ---
-        max_pages = 1  # Limit to avoid infinite loops during testing
+        max_pages = 2  # Limit to avoid infinite loops during testing
         while max_pages > 0:
             try:
                 # Locator for the "Show more" button based on your snippet
@@ -213,11 +228,41 @@ def scrape_getyourguide(city_url):
     return data
 
 if __name__ == "__main__":
-    target_url = "https://www.getyourguide.com/berlin-l17/"
-    results = scrape_getyourguide(target_url)
+    # Create output directory if it doesn't exist
+    output_dir = 'tours_data'
+    os.makedirs(output_dir, exist_ok=True)
     
-    # Save to JSON
-    with open('berlin_tours.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=4, ensure_ascii=False)
+    all_results = {}
     
-    print(f"🎉 Done! Scraped {len(results)} items. Saved to berlin_tours.json")
+    for city_name, city_url in MY_CITIES.items():
+        print(f"\n{'='*60}")
+        print(f"🏙️  Starting scrape for {city_name}")
+        print(f"{'='*60}")
+        
+        try:
+            results = scrape_getyourguide(city_name, city_url)
+            all_results[city_name] = results
+            
+            # Save individual city file
+            city_filename = f"{output_dir}/{city_name.lower()}_tours.json"
+            with open(city_filename, 'w', encoding='utf-8') as f:
+                json.dump(results, f, indent=4, ensure_ascii=False)
+            
+            print(f"🎉 [{city_name}] Done! Scraped {len(results)} items. Saved to {city_filename}")
+            
+            # Add delay between cities to avoid rate limiting
+            time.sleep(random.uniform(5, 10))
+            
+        except Exception as e:
+            print(f"❌ [{city_name}] Error scraping: {e}")
+            continue
+    
+    # Save combined results
+    with open(f'{output_dir}/all_cities_tours.json', 'w', encoding='utf-8') as f:
+        json.dump(all_results, f, indent=4, ensure_ascii=False)
+    
+    total_items = sum(len(v) for v in all_results.values())
+    print(f"\n{'='*60}")
+    print(f"🎊 All done! Scraped {total_items} total items from {len(all_results)} cities.")
+    print(f"📁 Results saved to {output_dir}/")
+    print(f"{'='*60}")

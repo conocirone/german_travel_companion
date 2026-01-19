@@ -1,0 +1,650 @@
+[
+    {
+        "title": "Chocolate Museum Entrance Ticket",
+        "price": "€16",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-chocolate-museum-entrance-ticket-t321588/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "N/A",
+        "meeting_point": "Go directly to the entrance of the museum and scan your mobile ticket",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93187713623047,6.964443206787109"
+    },
+    {
+        "title": "Brewery Tour with 3 Kölsch Beer Tastings",
+        "price": "€27",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-brewery-tour-with-3-kolsch-beer-tastings-t311618/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German, English",
+        "meeting_point": "Please meet your tour guide at the Kreuzblumen monument. The monument is approximately 150 meters/500 feet in front of the cathedral's grand entrance.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94131088256836,6.9563984870910645"
+    },
+    {
+        "title": "Cologne: Old Town Highlights Walking Tour",
+        "price": "€29",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-old-town-highlights-walking-tour-t412451/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English, German",
+        "meeting_point": "Meet your guide at the Petrusbrunnen Statue next to the Cologne Cathedral.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94100570678711,6.957785129547119"
+    },
+    {
+        "title": "Cologne: The Dark Side of the Dom Tour",
+        "price": "€12",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-the-dark-side-of-the-dom-tour-t1082779/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English, German",
+        "meeting_point": "The meeting point is outside of the restaurant Trattoria L'Ancora at Heumarkt 47 where you'll find your guide with a name tag!",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936119079589844,6.9601030349731445"
+    },
+    {
+        "title": "Cologne: IceBar Entry Ticket with Drinks",
+        "price": "€26",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-entry-ticket-with-3-free-drinks-icebar-t550470/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "N/A",
+        "meeting_point": "Head straight to the IceBar in the center of Cologne near Friesenplatz.\n\nYou can park your car in the parking garage that is opposite the bar and the tram lines 3, 4, 5, 12, and 15 go to Friesenplatz, where you can disembark.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94171142578125,6.941096305847168"
+    },
+    {
+        "title": "Cologne: 24h Hop-On Hop-Off Sightseeing Bus Ticket",
+        "price": "€24",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-hop-on-hop-off-sightseeing-bus-ticket-t435099/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 day",
+        "languages": "German",
+        "meeting_point": "The first stop is opposite Cologne Cathedral, next to Café Reichard. You can also start your tour at any of the other 14 stops along the route.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94135665893555,6.9556779861450195"
+    },
+    {
+        "title": "Cologne: Moulin Rouge! The Musical Entry Ticket",
+        "price": "€59",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-moulin-rouge-the-musical-entry-ticket-t582765/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "3 hours",
+        "languages": "N/A",
+        "meeting_point": "N/A",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.942848205566406,6.961592197418213"
+    },
+    {
+        "title": "Cologne Zoo and Aquarium Entry Ticket",
+        "price": "€23",
+        "link": "https://www.getyourguide.com/cologne-zoological-garden-l3716/cologne-cologne-zoo-entry-ticket-t412548/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 day",
+        "languages": "N/A",
+        "meeting_point": "Cologne Zoo is located in the heart of Cologne at Rieler Str. 173, 50735 Cologne. From Cologne main station you can reach the zoo via the underground train line 18 and from Ebertplatz via bus line 140.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.95978927612305,6.973950386047363"
+    },
+    {
+        "title": "Cologne: Adventure Minigolf – Interactive tour through movie sets!",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-adventure-minigolf-interactive-tour-through-movie-sets-t1011648/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "German, English",
+        "meeting_point": "7th Space Cologne offers unique leisure activities, such as cultural and time travel experiences in virtual reality and a tour through film and gaming history in the form of adventure mini golf. 7th Space Cologne is located at Mittelstraße 20-24, 50672 Cologne, in the heart of the cathedral city, not far from numerous bars, restaurants, and nightclubs.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936981201171875,6.942992210388184"
+    },
+    {
+        "title": "Cologne: Garden of Lights Entry Ticket",
+        "price": "€21",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-garden-of-lights-entry-ticket-t1138697/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "N/A",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.97581481933594,6.95347261428833"
+    },
+    {
+        "title": "Cologne: Top Sights Rhine River Cruise",
+        "price": "€24",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-top-sights-rhine-river-cruise-t414236/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German, English",
+        "meeting_point": "Board the ship at Konrad-Adenauer-Ufer, pier no. 10, opposite Musical Dome and Goldgasse.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.942928314208984,6.963007926940918"
+    },
+    {
+        "title": "Cologne: Panoramic City Cruise",
+        "price": "€18",
+        "link": "https://www.getyourguide.com/cologne-l19/1-hour-panorama-trip-in-cologne-t2987/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "N/A",
+        "meeting_point": "Look for the chalkboards located at landing stages 3 and 7. Here you will find out where your ship will be departing from.\nAt the KD Ticket Office, you will be informed which ship you will be boarding.\n\nProceed to board the ship and present your QR-Code ticket as you enter the ship. Be aware that the ship you will be boarding can be located a short walk away.\n\nIf you know where your ship will be departing from, you can proceed to board the ship and present your GetYourGuide QR-code ticket as you enter the ship.\n\nPlease make sure you have downloaded your ticket (QR-Code) from the GetYour Guide App or have access to your ticket (QR-Code) which was sent to you via Email by Get Your Guide!",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94186782836914,6.962907791137695"
+    },
+    {
+        "title": "Cologne: 1-hour TV studio tour - A look behind the scenes",
+        "price": "€20",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-1-hour-tv-studio-tour-a-look-behind-the-scenes-t1107343/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "German",
+        "meeting_point": "Meet in the foyer at Schanzenstraße 22",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.96683883666992,7.011229515075684"
+    },
+    {
+        "title": "The Museum of Pain and Love: Ticket for a visit",
+        "price": "€19",
+        "link": "https://www.getyourguide.com/cologne-l19/the-museum-of-pain-and-love-ticket-for-a-visit-t1044930/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "N/A",
+        "meeting_point": "At the entrance to the Museum of Pain and Love",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.921993255615234,6.961960315704346"
+    },
+    {
+        "title": "Cologne: 1-day ticket for the Aqualand adventure pool including sauna world",
+        "price": "€33",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-1-day-ticket-for-the-aqualand-adventure-pool-including-sauna-world-t896030/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "N/A",
+        "meeting_point": "Free parking is available directly in front of the Aqualand entrance.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.02680206298828,6.908627510070801"
+    },
+    {
+        "title": "Cologne: 1-hour Rhine Cruise in Cologne",
+        "price": "€19",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-1-hour-rhine-cruise-in-cologne-t414935/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "German, English",
+        "meeting_point": "Board the ship at Konrad-Adenauer-Ufer, pier no. 10, opposite Musical Dome and Goldgasse.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.942928314208984,6.963007926940918"
+    },
+    {
+        "title": "Virtual Reality Time Travel Experience Ticket",
+        "price": "€26",
+        "link": "https://www.getyourguide.com/time-ride-vr-cologne-l138836/cologne-time-travel-with-virtual-reality-elements-t324333/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "45 minutes",
+        "languages": "German, English",
+        "meeting_point": "Meet at the activity provider's office.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93853759765625,6.96047306060791"
+    },
+    {
+        "title": "Cologne: Guided Highlights Tour",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-guided-highlights-tour-t246017/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "English, German",
+        "meeting_point": "Meet your guide at the Kreuzblume - Opposite the Cologne Tourist Office (KölnTourismus).",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94130325317383,6.956413269042969"
+    },
+    {
+        "title": "Cologne Tour Night PubCrawl Shots and Party!",
+        "price": "€25",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-tour-night-pubcrawl-shots-and-party-t884557/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "4 hours",
+        "languages": "English, German",
+        "meeting_point": "in front of the Herz Jesu Church. Zülpicher Pl., 50674 Köln. The tour guide will be wearing a bag with the tour logo PubCrawl Team.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9302978515625,6.939858436584473"
+    },
+    {
+        "title": "Cologne: 2-Hour Evening Cruise on the Rhine River",
+        "price": "€29",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-2-hour-evening-cruise-on-the-rhine-river-t421534/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "N/A",
+        "meeting_point": "Look for the chalkboards located at landing stages 3 and 7. Here you will find out where your ship will be departing from.\n\nAlternatively, you will find the KD Ticket office right under the Hohenzollern Bridge (Hohenzollernbrücke), located between landing stages 7 and 8. Look for a white ticket container and the red and blue KD logo. At the KD Ticket Office, you will be informed which ship you will be boarding.\n\nProceed to board the ship and present your QR-Code ticket as you enter the ship. Be aware that the ship you will be boarding can be located a short walk away.\n\nIf you know where your ship will be departing from, you can proceed to board the ship and present your GetYourGuide QR-code ticket as you enter the ship.\n\nPlease make sure you have downloaded your ticket (QR-Code) from the GetYour Guide App or have access to your ticket (QR-Code) which was sent to you via Email by Get Your Guide!",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9420166015625,6.96297550201416"
+    },
+    {
+        "title": "Cologne: Kölsch Brewery Tour with 3 Beers Included",
+        "price": "€28",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-kolsch-brewery-tour-with-3-beers-included-t603410/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2.5 - 3 hours",
+        "languages": "German, English, Spanish",
+        "meeting_point": "When arriving at the starting point, stand on the side of the building facing Heumarkt, the large square in the Old Town. You'll find your guide there!",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936119079589844,6.9601030349731445"
+    },
+    {
+        "title": "Cologne: Red-light-tour",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-red-light-tour-t569368/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German",
+        "meeting_point": "The Kreuzblume is located opposite Café Reichard, next to Domforum.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94130325317383,6.956413269042969"
+    },
+    {
+        "title": "Cologne: Black wine tasting with secret station – Haus der Manufakturen",
+        "price": "€27",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-black-wine-tasting-with-secret-station-haus-der-manufakturen-t832659/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "House of Manufactories Cologne Klaust e.K.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.939170837402344,6.952268600463867"
+    },
+    {
+        "title": "Excursion to Cologne and Aachen from Brussels",
+        "price": "€69",
+        "link": "https://www.getyourguide.com/cologne-l19/excursion-to-cologne-and-aachen-from-brussels-t1116748/?ranking_uuid=5fd3def7-d322-443f-bb4b-620864452198&closeTabOnNavigationBack=true",
+        "duration": "12 hours",
+        "languages": "English, Spanish",
+        "meeting_point": "Carrefour de l'Europe Square, under the columns of the main entrance to Brussels Central Station, in front of the Hilton Hotel.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.84592819213867,4.356137752532959"
+    },
+    {
+        "title": "Cologne: Drachenburg Castle & Bonn Tour with Tickets",
+        "price": "€85",
+        "link": "https://www.getyourguide.com/bonn-l132/cologne-drachenburg-castle-bonn-tour-with-tickets-t1120997/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "8 hours",
+        "languages": "English",
+        "meeting_point": "N/A",
+        "meeting_point_maps_link": "N/A"
+    },
+    {
+        "title": "Pub Crawl Cologne Including Admission Fee for Bars and Shots",
+        "price": "€20",
+        "link": "https://www.getyourguide.com/cologne-l19/pub-crawl-cologne-including-admission-fee-for-bars-and-shots-t24458/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1 day",
+        "languages": "English, German",
+        "meeting_point": "Club Goldfinger,\nFriesenstrasse 54,\n50672 Cologne",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94072341918945,6.942209720611572"
+    },
+    {
+        "title": "Cologne: BOING! Comedy Club – Top Stand-up Comedy Show",
+        "price": "€29",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-boing-comedy-club-t1172581/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "BOING! shows take place in the Horizont Theater – just walk through the gate.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94940185546875,6.960065841674805"
+    },
+    {
+        "title": "Cologne: Hard Rock Cafe with Set Menu for Lunch or Dinner",
+        "price": "€28",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-hard-rock-cafe-with-set-menu-for-lunch-or-dinner-t13972/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "English, German",
+        "meeting_point": "Hard Rock Cafe Cologne, Gürzenichstr. 8, 50677 Cologne",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93611526489258,6.957789421081543"
+    },
+    {
+        "title": "Cologne: Rhine River Winter Cruise with Festive Music",
+        "price": "€23",
+        "link": "https://www.getyourguide.com/cologne-l19/advent-boat-tour-with-live-music-t393146/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "N/A",
+        "meeting_point": "Cologne, Konrad-Adenauer-Ufer, pier 10 opposite Musical Dome and Goldgasse",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.942779541015625,6.963068962097168"
+    },
+    {
+        "title": "Cologne: Private Half-Day Trip Drachenburg Castle and Linz",
+        "price": "€583",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-drachenburg-castle-half-day-guided-tour-t418408/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "4 - 6 hours",
+        "languages": "English, Spanish, Russian, Italian, German, French",
+        "meeting_point": "N/A",
+        "meeting_point_maps_link": "N/A"
+    },
+    {
+        "title": "Public brewhouse tour Cologne in English",
+        "price": "€15",
+        "link": "https://www.getyourguide.com/cologne-l19/public-brewhouse-tour-cologne-in-english-t652680/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English",
+        "meeting_point": "Meeting point is in front of the Mühlenbar, right next to the Brewery \"Zur Malzmühle\". The guide will have a name tag from our company \"Cologne Guide\".",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.934696197509766,6.96064567565918"
+    },
+    {
+        "title": "Cologne: Best Stand-up-Comedy with laugh guarantee",
+        "price": "€32",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-best-stand-up-comedy-with-laugh-guarantee-t667604/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "130 minutes",
+        "languages": "German",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.92955780029297,6.937907695770264"
+    },
+    {
+        "title": "Cologne: Ehrenfeld District Street Art Walking Tour",
+        "price": "€29",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-street-art-walking-tour-of-ehrenfeld-district-t411317/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Meet the guide in front of Ehrenfeld station (Venloer Str 354) in front of the BackWerk. So that you can easily spot the guide, they will be wearing a yellow high-visibility vest with \"Alternative Cologne Tours\" printed on it.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9509162902832,6.916036605834961"
+    },
+    {
+        "title": "Cologne: 1. FC Köln matchday experience with a local",
+        "price": "€135",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-1-fc-koln-matchday-experience-with-a-local-t1086855/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "5.5 hours",
+        "languages": "German, English",
+        "meeting_point": "in front of the McDonalds, next to the gate tower",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93633270263672,6.940173149108887"
+    },
+    {
+        "title": "Traces of the Second World War and Nazism in Cologne",
+        "price": "€130",
+        "link": "https://www.getyourguide.com/cologne-l19/traces-of-the-second-world-war-and-nazism-in-cologne-t525022/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English, Spanish",
+        "meeting_point": "Outside the NS-Dok at Appellhofplatz. Guide will have a red umbrella.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94065475463867,6.950244426727295"
+    },
+    {
+        "title": "Cologne: 3-Hour Harbor Tour Cruise",
+        "price": "€34",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-3-hour-harbor-tour-cruise-t250852/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "3 hours",
+        "languages": "German",
+        "meeting_point": "Meet at Konrad-Adenauer-Ufer, pier no. 10 opposite the Musical Dome and Goldgasse.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94279479980469,6.963072776794434"
+    },
+    {
+        "title": "Cologne: Viking Challenge – Axe Throwing in the 7th Space!",
+        "price": "€20",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-viking-challenge-axe-throwing-in-the-7th-space-t1127474/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "Dutch, German, English, French, Spanish, Chinese",
+        "meeting_point": "7th Space Cologne - Entrance on Mittelstraße (20-24), 50672 Cologne",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936981201171875,6.942992210388184"
+    },
+    {
+        "title": "Ticket for the German Sport & Olympia Museum",
+        "price": "€10",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-ticket-for-the-german-sport-olympia-museum-t613851/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "German, English",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9311408996582,6.964632034301758"
+    },
+    {
+        "title": "Throw axes & enjoy drinks in Cologne's first axe-throwing bar",
+        "price": "€25",
+        "link": "https://www.getyourguide.com/cologne-l19/throw-axes-enjoy-drinks-in-cologne-s-first-axe-throwing-bar-t833757/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "German, English",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93614196777344,6.938403606414795"
+    },
+    {
+        "title": "3 Old Town Breweries Guided Walking Tour",
+        "price": "€25",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-3-old-town-breweries-guided-walking-tour-t416400/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Look for a guide carrying a bag with the inscription \"Echt Köln.\"",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.939979553222656,6.957307815551758"
+    },
+    {
+        "title": "Cologne Cathedral and Old Town Tour with 1 Kölsch",
+        "price": "€23",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-cathedral-and-old-town-tour-with-1-kolsch-t148172/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Meeting point may vary depending on the option booked.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94133758544922,6.956892013549805"
+    },
+    {
+        "title": "Cologne: Virtual escape game adventure at 7th Space",
+        "price": "€30",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-virtual-escape-game-adventure-at-7th-space-t875291/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "50 minutes",
+        "languages": "German",
+        "meeting_point": "The meeting point is at 7th Space Cologne - Virtual Reality & more! Simply register at the counter / reception with your name and booking number.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936981201171875,6.942992210388184"
+    },
+    {
+        "title": "Stag Party Cologne: Celebration for Your Bachelor Party",
+        "price": "€360",
+        "link": "https://www.getyourguide.com/cologne-l19/stag-party-cologne-celebration-for-your-bachelor-party-t838965/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "4 hours",
+        "languages": "German, English",
+        "meeting_point": "The Guide will sent you the meetingpoint via WhatsApp on the Day of the Tour.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9302978515625,6.939858436584473"
+    },
+    {
+        "title": "Cologne: 3-Hour Guided Bike Tour",
+        "price": "€42",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-3-hour-guided-bike-tour-t44244/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "3 hours",
+        "languages": "English, German",
+        "meeting_point": "The meeting point is at Colonia Aktiv near the Eigelstein Gate. It is located just behind Cafe Extrablatt and is only 600 meters from Cologne Central Station, Ebertplatz Station, and Hansaring Station.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9493408203125,6.956079959869385"
+    },
+    {
+        "title": "Cologne Cathedral Walking Tour around the cathedral with VR",
+        "price": "€31",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-cathedral-walking-tour-around-the-cathedral-with-vr-t490607/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1 hour",
+        "languages": "German",
+        "meeting_point": "Be on the lookout for a flag bearing the name and logo of TIMERIDE. The meeting point is a model of the finial directly opposite the main portal of the cathedral. Please be aware that the model of the finial has become a popular meeting point in front of the cathedral and is the starting point for numerous city tours around Cologne Cathedral. However, you should be able to recognize our TimeRide lettering immediately.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94130325317383,6.956413269042969"
+    },
+    {
+        "title": "Cologne: Rickshaw Sightseeing Tour",
+        "price": "€41",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-15-hour-rickshaw-sightseeing-tour-t330691/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "1 - 1.5 hours",
+        "languages": "German, English",
+        "meeting_point": "Look for rickshaws around the Equestrian statue of Friedrich Wilhelm III. (Reiterstandbild König Friedrich Wilhelm III). If you wish to be picked-up somewhere else inside the city center, please contact the provider. Pick-ups outside the city center will lead to additional costs.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93626022338867,6.9607157707214355"
+    },
+    {
+        "title": "Cologne: Street Art Walking Tour in the Ehrenfeld District",
+        "price": "€18",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-street-art-walking-tour-in-the-ehrenfeld-district-t432465/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Meet your 'Echt Köln' tour guide outside the Stadtische-Badeanstalt Neptunebad building.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94742202758789,6.919009208679199"
+    },
+    {
+        "title": "Cologne: Kölsch Beer and Brew House 2-Hour Tour",
+        "price": "€19",
+        "link": "https://www.getyourguide.com/cologne-l19/kolsch-and-brewhouse-tour-18-and-up-t148208/?ranking_uuid=20401718-acae-4bb8-a189-f80bd3f72208&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English, German",
+        "meeting_point": "Meeting point may vary depending on the option booked.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.941158294677734,6.956972599029541"
+    },
+    {
+        "title": "Cologne: 1.5-Hour Comedy Bus Tour",
+        "price": "€33",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-15-hour-comedy-bus-tour-t14483/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German",
+        "meeting_point": "Meeting point: Bushaltestelle - Gereonstraße 16, 50670 Köln",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94305419921875,6.949153423309326"
+    },
+    {
+        "title": "Cologne: City Highlights with Local Guide",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-city-highlights-with-local-guide-t406122/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Meet at the equestrian monument on the \"Heumarkt\"\nIf there is an event on the square, the meeting point is Heumarkt/corner of Gürzenichstraße.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93626022338867,6.960700511932373"
+    },
+    {
+        "title": "Graffiti Spray Workshop in Cologne",
+        "price": "€150",
+        "link": "https://www.getyourguide.com/cologne-l19/graffiti-spray-workshop-in-cologne-t859324/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "3.5 hours",
+        "languages": "German",
+        "meeting_point": "Here you will find the hall where the spray workshop starts. There is a small \"flag\" from Alternative Cologne Tours at the entrance so that you can easily find the entrance.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.959815979003906,6.998438835144043"
+    },
+    {
+        "title": "Cologne: Ferris wheel in front of the Cologne Zoo",
+        "price": "€9",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-ferris-wheel-in-front-of-the-cologne-zoo-t478360/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "Valid 1 day",
+        "languages": "N/A",
+        "meeting_point": "The Ferris wheel is located at Cologne Zoo on the meadow in front of the aquarium. Simply go to the ticket office of the Ferris wheel, where your digital ticket will be scanned at the entrance.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.95978927612305,6.973950386047363"
+    },
+    {
+        "title": "Cologne: Südstadt Guided Foodie Walking Tour",
+        "price": "€500",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-3-hour-sudstadt-food-tour-t157359/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "3 hours",
+        "languages": "German, English",
+        "meeting_point": "Meeting point may vary depending on the option booked.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.92195510864258,6.959231376647949"
+    },
+    {
+        "title": "Cologne: Night Watchman Old Town Walking Tour",
+        "price": "€15",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-night-watchman-tour-of-the-old-town-in-german-t75131/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German",
+        "meeting_point": "Meet in front of the town hall entrance Alter Markt (neben U-Bahneingang/Rolltreppe).\nAchtung: Google-Angabe in GyG nicht korrekt! Treffpunkt ist Alter Markt vor Eingang Rathaus, neben U-Bahneingang/Rolltreppe) - NICHT Alter Markt 18 !!!",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.937984466552734,6.96009635925293"
+    },
+    {
+        "title": "Cologne: Crime on the Rhine guided tour",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-crime-on-the-rhine-guided-tour-t927171/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Kreuzblume, opposite Café Reichard, Kardinal-Höffner-Platz, 50667 Cologne",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9414176940918,6.95640230178833"
+    },
+    {
+        "title": "Cologne: Brewery Tour with Kölsch and Halven Hahn",
+        "price": "€29",
+        "link": "https://www.getyourguide.com/cologne-l19/koln-altstadt-brauhaustour-mit-4-kolsch-und-12-halven-hahn-t63509/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Kreuzblume, Kardinal-Höffner-Platz, 50667 Köln (across from Café Reichard/next to Domforum)",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9413948059082,6.956393241882324"
+    },
+    {
+        "title": "Cologne: Melaten Cemetery Celebrities and Curiosities",
+        "price": "€80",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-melaten-cemetery-celebrities-and-curiosities-t403368/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93642044067383,6.919126987457275"
+    },
+    {
+        "title": "Informative and fun brewery tour in German, public",
+        "price": "€19",
+        "link": "https://www.getyourguide.com/cologne-l19/public-brewhouse-tour-in-german-t655710/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "We meet right in front of the \"Mühlenbar\", next to the \"Brauerei Zur Malzmühle\".",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9347038269043,6.960613250732422"
+    },
+    {
+        "title": "Cologne: Melaten Cemetery Life, Love and Death Tour",
+        "price": "€13",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-guided-tour-of-the-melaten-cemetery-t63295/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Meet your guide at the entrance to Melaten Cemetery in Aachener Straße, opposite house no. 251.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936798095703125,6.918893814086914"
+    },
+    {
+        "title": "Köln-Altstadt: Scharfrichter, Henker & Co.-Tour",
+        "price": "€15",
+        "link": "https://www.getyourguide.com/cologne-l19/koln-altstadt-scharfrichter-henker-co-tour-t120602/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German",
+        "meeting_point": "Heinzelmännchenbrunnen (vor Brauhaus Früh), Am Hof, 50667 Köln",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94002151489258,6.957334995269775"
+    },
+    {
+        "title": "Cologne: The Dark Side of the City Walking Tour",
+        "price": "€13",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-the-dark-side-of-the-city-walking-tour-t417790/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "1.5 hours",
+        "languages": "German",
+        "meeting_point": "Meet your guide at the Cross Flower in front of Cologne Cathedral to begin your tour",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94130325317383,6.956413269042969"
+    },
+    {
+        "title": "Melaten Friedhof: Guided tour with all senses",
+        "price": "€17",
+        "link": "https://www.getyourguide.com/cologne-l19/melaten-friedhof-guided-tour-with-all-senses-t675794/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Entrance at Aachener Straße, opposite house number 249.\n\nGo through the gate and to the left of the guardhouse is the meeting point.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93642044067383,6.919126987457275"
+    },
+    {
+        "title": "From Amsterdam: Cologne & Antwerp Full-Day Tour",
+        "price": "€199",
+        "link": "https://www.getyourguide.com/amsterdam-l36/from-amsterdam-cologne-antwerp-full-day-tour-t834425/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "14 hours",
+        "languages": "English, Spanish",
+        "meeting_point": "Please meet the guide at the meeting point, in front of Aloha Bowling, Amsterdam De Ruijterkade 151, 1011 AC. The guide will be waiting with a sign of Amigo Tours.\n\nPlease arrive at least 10 minutes before the departure time for the check in.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.3778190612793,4.9096221923828125"
+    },
+    {
+        "title": "Köln Ehrenfeld: Street Art und Graffiti Tour Walls of Wonder",
+        "price": "€28",
+        "link": "https://www.getyourguide.com/cologne-l19/koln-ehrenfeld-street-art-und-graffiti-tour-walls-of-wonder-t560431/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "We will meet at the entrance to Cologne-Ehrenfeld train station right next to the huge 2 storeys commuters bike stand. Your guide is wearing a badge with the companies logo and name 'Cologne Streetart Tours'.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.951568603515625,6.919076442718506"
+    },
+    {
+        "title": "Cologne Old Town: Outdoor Escape Game",
+        "price": "€33",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-old-town-outdoor-ipad-escape-game-with-game-master-t409060/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Your game master guide will be waiting for you at the statue of Trude Herr.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.92512893676758,6.963843822479248"
+    },
+    {
+        "title": "Cologne: Guided Tour of Melatenfriedhof",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-guided-tour-of-melatenfriedhof-t411181/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Aachener Straße, advers House Nr. 249",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936798095703125,6.918893814086914"
+    },
+    {
+        "title": "Cologne: Belgian Quarter and Kiosk Tour",
+        "price": "€27",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-belgian-quarter-and-kiosk-tour-with-beer-tasting-t420591/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.936309814453125,6.940185546875"
+    },
+    {
+        "title": "The rather unknown Melaten",
+        "price": "€14",
+        "link": "https://www.getyourguide.com/cologne-l19/the-rather-unknown-melaten-t560746/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.93939208984375,6.922280311584473"
+    },
+    {
+        "title": "Cologne-Nippes: wine hopping (wine trip)",
+        "price": "€69",
+        "link": "https://www.getyourguide.com/cologne-l19/koln-nippes-weinhopping-weinreise-t591388/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "4.5 hours",
+        "languages": "German",
+        "meeting_point": "Schillplatz vor der Kirche Heinrich und Kunigunde",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.96651077270508,6.951450347900391"
+    },
+    {
+        "title": "Cologne-Nippes: Gourmet wine tasting with cheese platter",
+        "price": "€65",
+        "link": "https://www.getyourguide.com/cologne-l19/koln-nippes-gourmet-weinprobe-mit-kaseplatte-t592232/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "4 hours",
+        "languages": "German",
+        "meeting_point": "Bei der Weinhandlung \"Le Caveau\"",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.96858215332031,6.9459147453308105"
+    },
+    {
+        "title": "Cologne-Kölsch Live: Brewery Tour with a Brewmaster - Kölsch, Culture & Insights",
+        "price": "€25",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-kolsch-live-brewery-tour-with-a-brewmaster-kolsch-culture-insights-t1076525/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "German",
+        "meeting_point": "We'll meet at Cologne Cathedral, at the cross flower on the cathedral's forecourt.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.9413948059082,6.956296920776367"
+    },
+    {
+        "title": "Cologne: City Highlights Segway Tour",
+        "price": "€79",
+        "link": "https://www.getyourguide.com/cologne-l19/cologne-city-highlights-segway-tour-t426291/?ranking_uuid=170c99dd-c0fd-466e-ae3e-7e4ddba1006c&closeTabOnNavigationBack=true",
+        "duration": "2 hours",
+        "languages": "English, German",
+        "meeting_point": "Open in Google Maps",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.94230651855469,6.969619274139404"
+    }
+]
