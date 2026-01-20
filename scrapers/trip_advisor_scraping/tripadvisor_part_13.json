@@ -13,7 +13,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8c/5c/a2/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8c/5c/a2/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Fernsehturm Stuttgart",
@@ -28,7 +30,9 @@
             "Saturday": "10:00 AM - 10:00 PM",
             "Sunday": "10:00 AM - 10:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/76/30/e1/der-fernsehturm-ist-zwar.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/76/30/e1/der-fernsehturm-ist-zwar.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Staatsgalerie Stuttgart",
@@ -43,7 +47,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Konigstrasse",
@@ -51,7 +57,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7f/43/91/el-centro-de-stuttgart.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7f/43/91/el-centro-de-stuttgart.jpg?w=700&h=-1&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Landesmuseum W\u00fcrttemberg",
@@ -66,7 +74,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Mercedes Benz Arena",
@@ -74,7 +84,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Arenas & Stadiums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/a9/18/05/mercedes-benz-arena.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/a9/18/05/mercedes-benz-arena.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "name": "Feuerseeplatz",
@@ -82,7 +94,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/1d/7a/e3/feuerseeplatz.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/1d/7a/e3/feuerseeplatz.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Grabkapelle auf dem Wuerttemberg",
@@ -90,7 +104,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Killesbergturm",
@@ -106,7 +122,9 @@
             "Saturday": "7:00 AM - 6:00 PM",
             "Sunday": "7:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/82/c9/killesbergturm.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/82/c9/killesbergturm.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Solitude Palace",
@@ -120,7 +138,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/74/f0/d7/hauptgebaude-schloss.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/74/f0/d7/hauptgebaude-schloss.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "SI-Erlebnis-Centrum Stuttgart",
@@ -136,7 +156,9 @@
             "Saturday": "9:00 AM - 3:00 AM",
             "Sunday": "9:00 AM - 11:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ea/74/3e/si-erlebnis-centrum-stuttgart.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ea/74/3e/si-erlebnis-centrum-stuttgart.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Rubble Hill",
@@ -144,7 +166,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/44/84/ae/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/44/84/ae/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Johanneskirche",
@@ -152,7 +176,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f3/21/b7/toll.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f3/21/b7/toll.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Teehaus, Weissenburg Park",
@@ -160,7 +186,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fe/6c/57/teehaus-weissenburg-park.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fe/6c/57/teehaus-weissenburg-park.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "New Castle (Neues Schloss)",
@@ -168,7 +196,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Castles",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2a/3e/37/20190326-152707-largejpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2a/3e/37/20190326-152707-largejpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Weissenhof Colony",
@@ -183,7 +213,9 @@
             "Saturday": "11:00 AM - 6:00 PM",
             "Sunday": "11:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5b/0c/d8/photo0jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5b/0c/d8/photo0jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Haus Der Geschichte Baden-Wurttemberg",
@@ -198,7 +230,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/13/21/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/13/21/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Bahnhofsturm",
@@ -206,7 +240,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/44/89/16/bahnhofsturm.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/44/89/16/bahnhofsturm.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Waldfriedhof",
@@ -214,7 +250,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Cemeteries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0d/ae/3d/entrance-to-the-cemetery.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0d/ae/3d/entrance-to-the-cemetery.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Collegiate Church of the Holy Cross (Stiftskirche)",
@@ -222,7 +260,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a7/91/f0/looking-from-the-main.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a7/91/f0/looking-from-the-main.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Inspiration 911 - Porsche-Skulptur",
@@ -230,7 +270,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/93/b2/photo0jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/93/b2/photo0jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Flughafen Stuttgart Besucherterrasse",
@@ -246,7 +288,9 @@
             "Saturday": "8:00 AM - 9:00 PM",
             "Sunday": "8:00 AM - 9:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/f1/6e/terraco-aeroporto-estugarda.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/f1/6e/terraco-aeroporto-estugarda.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Haus des Waldes",
@@ -254,7 +298,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/85/f8/the-house-of-the-forest.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/85/f8/the-house-of-the-forest.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Galateabrunnen",
@@ -262,7 +308,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Fountains",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f8/52/l-exterieur.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f8/52/l-exterieur.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Bismarck Tower",
@@ -270,7 +318,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1c/d1/a3/der-bismarckturm-in-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1c/d1/a3/der-bismarckturm-in-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Jubilaeumssaule",
@@ -278,7 +328,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/31/ba/e8/jubilaumssaule-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/31/ba/e8/jubilaumssaule-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Sky Beach Stuttgart",
@@ -294,7 +346,9 @@
             "Saturday": "12:00 PM - 12:00 AM",
             "Sunday": "1:00 PM - 11:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/a0/de/view-over-the-city-from.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/a0/de/view-over-the-city-from.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Pragfriedhof",
@@ -302,7 +356,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Cemeteries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3c/7b/5a/krematorium.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3c/7b/5a/krematorium.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Theodor-Heuss-Haus",
@@ -317,7 +373,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/a9/fe/blick-in-die-dauerausstellung.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/a9/fe/blick-in-die-dauerausstellung.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Gr\u00fcner Heiner",
@@ -325,7 +383,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Lookouts",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a2/94/38/photo0jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a2/94/38/photo0jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Hoppenlaufriedhof",
@@ -333,7 +393,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Cemeteries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f5/1a/l-exterieur.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f5/1a/l-exterieur.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Altes Schloss (Old Castle)",
@@ -341,7 +403,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Castles",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/65/ea/dd/altes-schloss-2.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/65/ea/dd/altes-schloss-2.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Sternwarte",
@@ -349,7 +413,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Observation Decks & Towers",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f5/f0/l-exterieur.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/f5/f0/l-exterieur.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Domkirche St. Eberhard",
@@ -357,7 +423,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/17/2e/2e/st-eberhard-co-cathedral.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/17/2e/2e/st-eberhard-co-cathedral.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "\"Hotel Silber\" - Gedenkstatte",
@@ -365,7 +433,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c8/1d/16/this-property-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c8/1d/16/this-property-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "University of Hohenheim",
@@ -373,7 +443,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Universities & Schools",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c4/7c/78/es-el-palacio-el-cual.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c4/7c/78/es-el-palacio-el-cual.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "R\u00f6merkastell",
@@ -381,7 +453,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": null
+        "image_url": null,
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Rathaus",
@@ -389,7 +463,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/48/b2/c3/rathaus.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/48/b2/c3/rathaus.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Evangelische Schlosskirche",
@@ -404,7 +480,9 @@
             "Friday": "10:00 AM - 5:00 PM",
             "Saturday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/11/3a/0f/street-view.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/11/3a/0f/street-view.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Porsche-Arena",
@@ -412,7 +490,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Arenas & Stadiums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cf/98/51/photo2jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cf/98/51/photo2jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "name": "Veitskapelle",
@@ -420,7 +500,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Religious Sites \u2022 Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cf/74/e2/veitskapelle.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cf/74/e2/veitskapelle.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Aussichtspunkt Freienstein",
@@ -428,7 +510,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites \u2022 Lookouts",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0d/af/d3/aussichtspunkt-freienstein.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0d/af/d3/aussichtspunkt-freienstein.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Villa Reitzenstein",
@@ -436,7 +520,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings \u2022 Government Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/74/23/1e/staatsministerium-baden.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/74/23/1e/staatsministerium-baden.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Denkpartner",
@@ -444,7 +530,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/30/3f/76/pomnik-denkpartner-denkmal.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/30/3f/76/pomnik-denkpartner-denkmal.jpg?w=600&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Im Wizemann",
@@ -452,7 +540,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Civic Centres",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/21/5e/4b/20190407-190116-largejpg.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/21/5e/4b/20190407-190116-largejpg.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "name": "Stadtmuseum Bad Cannstatt",
@@ -464,7 +554,9 @@
             "Saturday": "2:00 PM - 5:00 PM",
             "Sunday": "12:00 PM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c4/57/d9/stadtmuseum-bad-cannstatt.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c4/57/d9/stadtmuseum-bad-cannstatt.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kaiser Wilhelm Denkmal",
@@ -472,7 +564,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f4/10/66/photo1jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f4/10/66/photo1jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Hans-im-Gl\u00fcck-Brunnen - Stadt Stuttgart",
@@ -480,7 +574,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites \u2022 Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/6a/18/b7/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/6a/18/b7/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Herzog-Christoph-Denkmal in Stuttgart",
@@ -488,7 +584,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/30/61/3d/pomnik-christoph-herzog.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/30/61/3d/pomnik-christoph-herzog.jpg?w=600&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Santiago de Chile Platz",
@@ -496,7 +594,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/39/00/7a/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/39/00/7a/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Ev. Matth\u00e4uskirche",
@@ -504,7 +604,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites \u2022 Religious Sites",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/44/87/eb/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/44/87/eb/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Aussichtsturm Burgholzhof",
@@ -515,7 +617,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/b0/ba/aussicht-uber-die-weinberge.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/b0/ba/aussicht-uber-die-weinberge.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Gazi-Stadion auf der Waldau",
@@ -523,7 +627,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Arenas & Stadiums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0c/e7/8e/stuttgarter-kickers-spiel.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0c/e7/8e/stuttgarter-kickers-spiel.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "name": "Leonhardskirche",
@@ -531,7 +637,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bf/41/d9/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bf/41/d9/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Schillerdenkmal",
@@ -539,7 +647,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/dc/09/1f/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/dc/09/1f/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Statue der Stuttgardia",
@@ -547,7 +657,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/45/1d/b1/stuttgard.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/45/1d/b1/stuttgard.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Landtag Baden-Wuerttemberg",
@@ -555,7 +667,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Government Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/85/ae/d0/photo0jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/85/ae/d0/photo0jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Jugendfarm Freiberg/Rot",
@@ -569,7 +683,9 @@
             "Friday": "2:00 PM - 6:00 PM",
             "Saturday": "10:30 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kaffeewasserbrunnen",
@@ -577,7 +693,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Fountains",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/2e/79/56/kaffeewasserbrunnen-hermann.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/2e/79/56/kaffeewasserbrunnen-hermann.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Mercedes-Benz Museum",
@@ -592,7 +710,9 @@
             "Saturday": "9:00 AM - 6:00 PM",
             "Sunday": "9:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/da/d6/1a/der-mercedes-benz-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/da/d6/1a/der-mercedes-benz-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Porsche Museum",
@@ -607,7 +727,9 @@
             "Saturday": "9:00 AM - 6:00 PM",
             "Sunday": "9:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ad/49/2f/een-gedeelte-van-de-collectie.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ad/49/2f/een-gedeelte-van-de-collectie.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Staatsgalerie Stuttgart",
@@ -622,7 +744,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Landesmuseum W\u00fcrttemberg",
@@ -637,7 +761,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Naturkunde Museum Stuttgart",
@@ -652,7 +778,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/66/c2/museum-am-lowentor-plateosauri.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/66/c2/museum-am-lowentor-plateosauri.jpg?w=600&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Miniaturwelten Stuttgart",
@@ -665,7 +793,9 @@
             "Saturday": "1:00 PM - 5:00 PM",
             "Sunday": "1:00 PM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6c/64/5d/true-to-scale-replica.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6c/64/5d/true-to-scale-replica.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Kunstmuseum Stuttgart",
@@ -680,7 +810,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/81/65/1c/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/81/65/1c/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Schweine-Museum",
@@ -695,7 +827,9 @@
             "Saturday": "11:00 AM - 5:00 PM",
             "Sunday": "11:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f1/cb/ce/schweine-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f1/cb/ce/schweine-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Strassenbahnwelt Stuttgart",
@@ -707,7 +841,9 @@
             "Thursday": "10:00 AM - 4:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/92/c4/c7/ausstellungshalle.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/92/c4/c7/ausstellungshalle.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Carl-Zeiss-Planetarium",
@@ -722,7 +858,9 @@
             "Saturday": "12:30 PM - 7:15 PM",
             "Sunday": "12:30 PM - 7:30 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/4d/fb/20170719-122754-largejpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/4d/fb/20170719-122754-largejpg.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Museum der Illusionen",
@@ -737,7 +875,9 @@
             "Saturday": "10:00 AM - 8:00 PM",
             "Sunday": "10:00 AM - 8:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/30/88/willkommen-in-der-fantastische.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/30/88/willkommen-in-der-fantastische.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Weissenhofmuseum im Haus Le Corbusier",
@@ -752,7 +892,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0c/90/b8/weissenhofmuseum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0c/90/b8/weissenhofmuseum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Linden-Museum - Staatliches Museum fuer Voelkerkunde",
@@ -767,7 +909,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e2/be/b0/linden-museum-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e2/be/b0/linden-museum-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Haus Der Geschichte Baden-Wurttemberg",
@@ -782,7 +926,9 @@
             "Saturday": "10:00 AM - 5:00 PM",
             "Sunday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/13/21/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/13/21/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Haus der Musik - Fruchtkasten am Schillerplatz",
@@ -790,7 +936,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/e5/ce/haus-der-musik-fruchtkasten.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/e5/ce/haus-der-musik-fruchtkasten.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "StadtPalais \u2013 Museum fur Stuttgart",
@@ -805,7 +953,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/8b/4e/10/aussenansicht.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/8b/4e/10/aussenansicht.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Auktionshaus von Br\u00fchl",
@@ -813,7 +963,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries \u2022 Antique Shops",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/dc/0f/a4/empfangs-und-begutachtungsraum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/dc/0f/a4/empfangs-und-begutachtungsraum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Weinbaumuseum Stuttgart",
@@ -826,7 +978,9 @@
             "Saturday": "11:00 AM - 6:00 PM",
             "Sunday": "11:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/34/03/71/weinbaumuseum-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/34/03/71/weinbaumuseum-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Cmt Urlaubsmesse Auf Der Messe in Stuttgart",
@@ -834,7 +988,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/42/79/cb/cmt-urlaubsmesse-auf.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/42/79/cb/cmt-urlaubsmesse-auf.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Haus der Musik at the Fruchtkasten Stuttgart",
@@ -842,7 +998,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/29/36/da/photo0jpg.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/29/36/da/photo0jpg.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Gottlieb Daimler Memorial",
@@ -850,7 +1008,9 @@
         "attraction_type": "Museums",
         "spec_type": "History Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/12/00/90/gottlieb-daimler-s-workshop.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/12/00/90/gottlieb-daimler-s-workshop.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Stauffenberg-Erinnerungsstaette",
@@ -865,7 +1025,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/ae/e7/stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/ae/e7/stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Theodor-Heuss-Haus",
@@ -880,7 +1042,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/a9/fe/blick-in-die-dauerausstellung.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/a9/fe/blick-in-die-dauerausstellung.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Faszination Psyche",
@@ -888,7 +1052,9 @@
         "attraction_type": "Museums",
         "spec_type": "Science Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b6/66/87/eingangshalle.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b6/66/87/eingangshalle.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "\"Hotel Silber\" - Gedenkstatte",
@@ -896,7 +1062,9 @@
         "attraction_type": "Museums",
         "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c8/1d/16/this-property-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c8/1d/16/this-property-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Museum Hegel-Haus",
@@ -910,7 +1078,9 @@
             "Friday": "10:00 AM - 1:00 PM 2:00 PM - 6:00 PM",
             "Saturday": "10:00 AM - 1:00 PM 2:00 PM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/9c/80/a6/foto-museum-hegel-haus.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/9c/80/a6/foto-museum-hegel-haus.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Bibliorama - Das Bibelmuseum Stuttgart",
@@ -918,7 +1088,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/25/31/c4/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/25/31/c4/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Polizeimuseum Stuttgart",
@@ -926,7 +1098,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": null
+        "image_url": null,
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Strasenbahnmuseum",
@@ -939,7 +1113,9 @@
             "Wednesday": "10:00 AM - 3:00 PM",
             "Sunday": "10:00 AM - 3:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4e/56/0a/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4e/56/0a/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "ArtWalk Stuttgart",
@@ -947,7 +1123,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d0/fe/b4/das-schaufenster-in-der.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d0/fe/b4/das-schaufenster-in-der.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Galerie Bistro",
@@ -955,7 +1133,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/18/5e/07/caption.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/18/5e/07/caption.jpg?w=600&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Heimatmuseum Plieningen",
@@ -966,7 +1146,9 @@
             "Saturday": "2:00 PM - 6:00 PM",
             "Sunday": "11:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "EXOgallery",
@@ -980,7 +1162,9 @@
             "Friday": "11:00 AM - 3:00 PM",
             "Saturday": "1:00 PM - 4:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/68/5a/d2/visitanos-en-el-centro.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/68/5a/d2/visitanos-en-el-centro.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Christophorus",
@@ -988,7 +1172,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": null
+        "image_url": null,
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Heimatmuseum Der Deutschen Aus Bessarabien Und Der Dobrudscha",
@@ -1002,7 +1188,9 @@
             "Thursday": "10:00 AM - 5:00 PM",
             "Friday": "10:00 AM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b0/83/e1/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b0/83/e1/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Galerie Fischinger",
@@ -1010,7 +1198,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Feuerwehrmuseum Stuttgart",
@@ -1018,7 +1208,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b7/88/a3/feuerwehrmuseum-stuttgart.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b7/88/a3/feuerwehrmuseum-stuttgart.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Museum fur Stuttgart",
@@ -1026,6 +1218,8 @@
         "attraction_type": "Museums",
         "spec_type": "History Museums",
         "operating_hours": null,
-        "image_url": null
+        "image_url": null,
+        "location_setting": "indoor",
+        "budget_tier": "free"
     }
 ]
