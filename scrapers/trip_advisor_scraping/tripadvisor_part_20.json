@@ -1,0 +1,767 @@
+[
+    {
+        "name": "Galerie M\u00fchlenhof",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunst Raum Schulte-goltz Noelte",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelier F\u00fcr Schmuck Alexandra Berg-bode",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Klose",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Tattoostudio The Three Norns",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rahmen Und Bild Barbara Klein",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Carnap Art",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Hilda-heinemann-haus",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Ilse Wirtz Bilder Und Rahmen",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie 33, Die Rahmenmacher",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Steeler Archiv E.v.",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Obrist",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelier Susanne Nocke",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Dieserart",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelier-22",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Blende57",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Bildhauer.atelier Stegmann",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Baustelle Schaustelle",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Uph Kunstladen",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Vera Moss Malerei",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Forum Kunst Und Architektur",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/67/b0/84/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunstwerden",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Basement",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Dagmar Reimus",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Kk",
+        "city": "Essen",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Daktari",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 1:00 AM",
+            "Wednesday": "7:00 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "7:00 PM - 2:00 AM",
+            "Saturday": "7:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0d/49/42/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Freak SHOW",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Friday": "8:00 PM - 4:00 AM",
+            "Saturday": "8:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e6/be/66/freak-show-rock-n-roll.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sudrock",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ff/48/e7/concertruimte-achteraan.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Temple Bar",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "4:00 PM - 1:00 AM",
+            "Tuesday": "4:00 PM - 1:00 AM",
+            "Wednesday": "4:00 PM - 1:00 AM",
+            "Thursday": "4:00 PM - 1:00 AM",
+            "Friday": "4:00 PM - 5:00 AM",
+            "Saturday": "4:00 PM - 5:00 AM",
+            "Sunday": "4:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/01/44/c2/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pluto Sauna Essen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Gay Bars",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/c6/6b/28/finnische-sauna.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fritzpatrick's - Irish Pub",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 1:00 AM",
+            "Tuesday": "11:00 AM - 1:00 AM",
+            "Wednesday": "11:00 AM - 1:00 AM",
+            "Thursday": "11:00 AM - 1:00 AM",
+            "Friday": "11:00 AM - 3:00 AM",
+            "Saturday": "11:00 AM - 3:00 AM",
+            "Sunday": "11:00 AM - 1:00 AM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Jagdhaus Schellenberg - Biergarten",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/28/8b/a3/getlstd-property-photo.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe Goldbar",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/94/eb/55/top-platz-in-eine-entspannten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Don\u00b4t Panic Essen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/85/e8/c9/don-t-panic-essen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Soul Hellcafe",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/85/79/3a/innen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Banditen Wie Wir",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9c/5f/c5/ta-img-20200115-204300.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zum Puempchen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Gay Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/16/ef/e3/the-local-pils-beer.jpg?w=600&h=300&s=1"
+    },
+    {
+        "name": "Goethebunker",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Sailor's Pub",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Menehune Cocktailbar",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a3/2c/d1/cocktails.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Teatro Club",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b3/bd/5e/teatro-club-essen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "De Prins",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Heimat. Kneipe",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 10:00 PM",
+            "Thursday": "6:00 PM - 11:30 PM",
+            "Friday": "6:00 PM - 11:30 PM",
+            "Saturday": "6:00 PM - 11:30 PM",
+            "Sunday": "5:00 PM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0e/18/59/typische-eckkneipe.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Panoptikum",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 3:00 AM",
+            "Saturday": "6:00 PM - 3:00 AM",
+            "Sunday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Turock",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/23/2a/52/fantastisch-konzert-mit.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Diskothek",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Wendekreis",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/ab/48/55/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Diamond Cocktail Lounge",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Lotkolben",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Chocholate Lounge - Essen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Gastst\u00e4tte Zum Tusem",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Hookah Inn Essen | Essen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Musikpalette",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Hookah Stop Essen",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Jokers Lounge Cocktails",
+        "city": "Essen",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Grugapark Essen",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": {
+            "Monday": "9:00 AM - 8:00 PM",
+            "Tuesday": "9:00 AM - 8:00 PM",
+            "Wednesday": "9:00 AM - 8:00 PM",
+            "Thursday": "9:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 8:00 PM",
+            "Saturday": "9:00 AM - 8:00 PM",
+            "Sunday": "9:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b6/e8/4d/pflanzenschauhaus.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Baldeneysee",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e1/9c/ee/baldeneysee.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Heissiwald",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Forests",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/da/ed/c0/schoner-park-in-mitten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spielehaus Grugapark",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Playgrounds",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4c/f7/d3/dom-zabaw-dla-dzieci.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Vogelfreifluganlage",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/68/0d/08/flamingi-i-ibisy-pod.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Brehminsel",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Islands",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c8/7c/bf/brehminsel.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Margarethensee",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/ac/4b/lago-e-torres-da-e-on.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Damwildgehege im Grugapark",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/00/22/22/grugapark-damwildgehege.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Spielplatz Am Handelshof",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Playgrounds",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/64/06/spielplatz-am-handelshof.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Krauter- und Heilpflanzengarten",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/54/d6/estatua-na-entrada-para.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Spielplatz Eppinghofer",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Playgrounds",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/68/a8/a0/spielplatz-eppinghofer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "H\u00fcgel Park",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b8/54/99/widok-na-park-hugel.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Halde Schurenbach",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Hiking Trails",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b8/96/69/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mustergartenanlage im Grugapark",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/a6/23/praca.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Eulen-Gehege Grugapark",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/ae/7c/woliera-z-sowami-w-grugaparku.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stadtgarten Essen",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kardinal Hengsbach-platz",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/4e/2c/stadtpark-kardinal-hengsbach.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Werdener Kr\u00e4uter- Und Heilpflanzengarten",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/68/a6/4d/werdener-krauter-und.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ruhr-Hoehen-Weg",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Hiking Trails",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f8/ce/ad/caption.jpg?w=200&h=200&s=1&cx=1060&cy=707&chk=v1_cc552cd62108f58c507c"
+    },
+    {
+        "name": "Spielplatz Am Hexenbergweg",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Asbachtal Essen Nature Reserve",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Nature & Wildlife Areas",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Stadt Route",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Biking Trails",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/bd/3e/4e/mapa-miejskiej-trasy.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Asbachtal Nature Reserve",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Nature & Wildlife Areas",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Siepental",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Park",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Bader El Awad",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Antique Shops \u2022 Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Am Sonderfeld",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Schlo\u00dfstr.",
+        "city": "Essen",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    }
+]

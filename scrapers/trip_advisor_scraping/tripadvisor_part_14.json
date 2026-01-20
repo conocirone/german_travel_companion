@@ -1,0 +1,1020 @@
+[
+    {
+        "name": "W\u00fcrttembergischer Kunstverein Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Schwabengalerie",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Stellwerk S",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunsthaus Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Heimatmuseum Mohringen",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Saturday": "10:00 AM - 12:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunststiftung Baden-w\u00fcrttemberg",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Landesarchiv Baden W\u00fcrttemberg - Hauptstaatsarchiv Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Libraries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Schlichtenmaier",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunsthaus Fischer",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Gro\u00dfartig - Die Kleine Galerie",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Klaus Braun Gallery",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/11/80/ausstellungsansicht-mit.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Palermo Galerie",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Matthias K\u00fcper Galleries",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Elisabeth & Reinhard Hauff",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Imke Valentien",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Cc Kunst Galerie Und Ideenwerkstatt",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunst Im Fenster",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kultur Am Kelterberg Vaihingen",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Strzelski Galerie",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "True Colours",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelier Hathor",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Lumas Galerie Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Jigger & Spoon",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Piano Bars",
+        "operating_hours": {
+            "Monday": "5:00 PM - 3:00 AM",
+            "Tuesday": "5:00 PM - 3:00 AM",
+            "Wednesday": "5:00 PM - 3:00 AM",
+            "Thursday": "5:00 PM - 4:00 AM",
+            "Friday": "5:00 PM - 4:00 AM",
+            "Saturday": "5:00 PM - 4:00 AM",
+            "Sunday": "5:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/24/10/1c/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sky Beach Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Lookouts",
+        "operating_hours": {
+            "Monday": "12:00 PM - 11:00 PM",
+            "Tuesday": "12:00 PM - 12:00 AM",
+            "Wednesday": "12:00 PM - 12:00 AM",
+            "Thursday": "12:00 PM - 12:00 AM",
+            "Friday": "12:00 PM - 12:00 AM",
+            "Saturday": "12:00 PM - 12:00 AM",
+            "Sunday": "1:00 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/a0/de/view-over-the-city-from.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spielbank Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Casinos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/02/ba/spielsaal-2.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schwarz-Weiss-Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "7:00 PM - 1:00 AM",
+            "Wednesday": "7:00 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "7:00 PM - 5:00 AM",
+            "Saturday": "7:00 PM - 5:00 AM",
+            "Sunday": "7:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/6a/e1/e8/img-20181112-wa0014-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fou Fou",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 1:00 AM",
+            "Wednesday": "7:00 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 2:00 AM",
+            "Friday": "7:00 PM - 3:00 AM",
+            "Saturday": "7:00 PM - 3:00 AM",
+            "Sunday": "7:00 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c1/ca/05/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Blinde Kuh",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/df/8c/98/die-theke.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Billardsaal",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 2:00 AM",
+            "Tuesday": "6:00 PM - 2:00 AM",
+            "Wednesday": "6:00 PM - 2:00 AM",
+            "Thursday": "6:00 PM - 2:00 AM",
+            "Friday": "6:00 PM - 2:00 AM",
+            "Saturday": "6:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e2/2f/b2/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Paul & George",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d0/ca/ea/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Weindorf Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/0f/83/89/weindorf-stuttgart.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Caffe-Bar Fleck & Schneck",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "8:30 AM - 1:00 AM",
+            "Tuesday": "8:30 AM - 1:00 AM",
+            "Wednesday": "8:30 AM - 1:00 AM",
+            "Thursday": "8:30 AM - 2:00 AM",
+            "Friday": "8:30 AM - 2:00 AM",
+            "Saturday": "9:30 AM - 3:00 AM",
+            "Sunday": "4:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ef/ff/d0/cappuccino.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stereo Karaokebar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Karaoke Bars \u2022 Wine Bars",
+        "operating_hours": {
+            "Monday": "6:00 PM - 2:00 AM",
+            "Wednesday": "6:00 PM - 2:00 AM",
+            "Thursday": "6:00 PM - 2:00 AM",
+            "Friday": "6:00 PM - 2:00 AM",
+            "Saturday": "6:00 PM - 2:00 AM",
+            "Sunday": "6:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4a/d7/22/stereokara.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Oblomow Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3c/9b/a1/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Proton The Club",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d3/9a/27/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fischlabor Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 1:00 AM",
+            "Saturday": "5:00 PM - 1:00 AM",
+            "Sunday": "5:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7b/bc/82/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Puf",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d7/ed/eb/emin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Maulwurf Kneipe & Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 2:00 AM",
+            "Saturday": "7:00 PM - 2:00 AM",
+            "Sunday": "7:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5c/e2/8f/maulwurf-kneipe-und-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Das Albdorf",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Points of Interest & Landmarks \u2022 Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "The New GRACE",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/84/d0/lounge-1.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Friends",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Karaoke Bars",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 3:00 AM",
+            "Wednesday": "6:00 PM - 3:00 AM",
+            "Thursday": "6:00 PM - 3:00 AM",
+            "Friday": "6:00 PM - 5:00 AM",
+            "Saturday": "6:00 PM - 5:00 AM",
+            "Sunday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/09/08/26/caption.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Lennart Cocktailbar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9d/f1/25/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Studio Amore",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "6:00 PM - 3:00 AM",
+            "Friday": "8:00 PM - 3:00 AM",
+            "Saturday": "8:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/fe/f1/69/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Corner",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Eagle",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Gay Bars",
+        "operating_hours": {
+            "Tuesday": "9:00 PM - 1:00 AM",
+            "Friday": "9:00 PM - 1:00 AM",
+            "Saturday": "9:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/dd/f6/04/eagle-inside.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Cafe Bar Bliss",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "9:00 AM - 2:00 AM",
+            "Tuesday": "9:00 AM - 2:00 AM",
+            "Wednesday": "9:00 AM - 2:00 AM",
+            "Thursday": "9:00 AM - 2:00 AM",
+            "Friday": "9:00 AM - 4:00 AM",
+            "Saturday": "9:00 AM - 4:00 AM",
+            "Sunday": "9:00 AM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ba/1f/83/bliss.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mos Eisley",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Holzmaler",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/57/b5/2b/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b210becf5cd9edf83cbc"
+    },
+    {
+        "name": "Sausalitos Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:30 AM - 2:00 AM",
+            "Tuesday": "11:30 AM - 2:00 AM",
+            "Wednesday": "11:30 AM - 2:00 AM",
+            "Thursday": "11:30 AM - 4:00 AM",
+            "Friday": "11:30 AM - 4:00 AM",
+            "Saturday": "11:30 AM - 1:00 AM",
+            "Sunday": "5:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ab/d8/12/sausalitos-burger.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Gaststatte Hohenstaufen",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ce/38/90/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bernstein Bar Restauration",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "4:00 PM - 2:00 AM",
+            "Wednesday": "4:00 PM - 2:00 AM",
+            "Thursday": "4:00 PM - 2:00 AM",
+            "Friday": "4:00 PM - 3:00 AM",
+            "Saturday": "4:00 PM - 3:00 AM",
+            "Sunday": "4:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/09/68/97/photo2jpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "minibar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/48/1e/44/kleinste-bar-mit-der.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "White Noise",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Cafe Monroe's",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Sutsche",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 1:00 AM",
+            "Tuesday": "11:00 AM - 1:00 AM",
+            "Wednesday": "11:00 AM - 1:00 AM",
+            "Thursday": "11:00 AM - 1:00 AM",
+            "Friday": "11:00 AM - 3:00 AM",
+            "Saturday": "2:00 PM - 3:00 AM",
+            "Sunday": "10:00 AM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/95/dd/b7/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Sophie's Brauhaus",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:30 AM - 1:00 AM",
+            "Tuesday": "11:30 AM - 1:00 AM",
+            "Wednesday": "11:30 AM - 1:00 AM",
+            "Thursday": "11:30 AM - 1:00 AM",
+            "Friday": "11:30 AM - 2:00 AM",
+            "Saturday": "11:30 AM - 2:00 AM",
+            "Sunday": "11:30 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/36/81/91/20170120-225419-largejpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Ackermanns Kneipe und Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 2:00 AM",
+            "Saturday": "5:00 PM - 2:00 AM",
+            "Sunday": "5:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/61/44/3a/der-innenraum-ist-ansprechend.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bix",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Jazz Bars",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 2:00 AM",
+            "Wednesday": "7:00 PM - 2:00 AM",
+            "Thursday": "7:00 PM - 2:00 AM",
+            "Friday": "7:00 PM - 2:00 AM",
+            "Saturday": "7:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/87/96/49/die-franzosche-big-band.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Havanna Cafe & Cocktailbar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/17/ea/11/kurzurlaub-in-stuttgart.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Cafe Bar Gecko",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a0/16/8f/friendly-cafe-and-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Times Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 5:00 AM",
+            "Saturday": "7:00 AM - 5:00 AM",
+            "Sunday": "7:00 AM - 7:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/76/96/4a/the-times-bar-ist-die.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dilayla",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "After Work Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "5:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/39/c4/fb/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Intus - Kulturkneipe in Burgerhaus Botnang",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "7:00 PM - 1:00 AM",
+            "Tuesday": "7:00 PM - 1:00 AM",
+            "Wednesday": "7:00 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "7:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/35/fe/72/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Milchbar Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Unithekle",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c6/7d/a2/unithekle.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wolke7 Shisha-bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "4:00 PM - 1:00 AM",
+            "Tuesday": "4:00 PM - 1:00 AM",
+            "Wednesday": "4:00 PM - 1:00 AM",
+            "Thursday": "4:00 PM - 1:00 AM",
+            "Friday": "4:00 PM - 3:00 AM",
+            "Saturday": "4:00 PM - 3:00 AM",
+            "Sunday": "4:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rumors Club",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Zubrovka Bar & Club",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Lucky Bar Stuttgart-Wangen",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 AM - 2:00 AM",
+            "Tuesday": "6:00 AM - 2:00 AM",
+            "Wednesday": "6:00 AM - 2:00 AM",
+            "Thursday": "6:00 AM - 2:00 AM",
+            "Friday": "6:00 AM - 2:00 AM",
+            "Saturday": "6:00 AM - 3:00 AM",
+            "Sunday": "6:30 AM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Cafe Bar Mythos",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bc/4e/f0/an-hellowin.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Anderthalb Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "6:00 PM - 3:30 AM",
+            "Thursday": "6:00 PM - 3:00 AM",
+            "Friday": "6:00 PM - 3:00 AM",
+            "Saturday": "6:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/d2/0f/0e/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Palmenhof",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Torhaus Zwanzig",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/50/be/6b/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe-Foxi-Bar",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 2:00 AM",
+            "Wednesday": "7:00 PM - 2:00 AM",
+            "Thursday": "7:00 PM - 2:00 AM",
+            "Friday": "8:00 PM - 3:00 AM",
+            "Saturday": "8:00 PM - 3:00 AM",
+            "Sunday": "7:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Marshallmatt",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/0b/4c/16/latte-machiato-iced-latte.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "People Club",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Filderh\u00f6he Degerloch",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Bar & Bistro SIDEWAYS",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "6:00 PM - 11:30 PM",
+            "Wednesday": "6:00 PM - 11:30 PM",
+            "Thursday": "6:00 PM - 12:30 AM",
+            "Friday": "6:00 PM - 12:30 AM",
+            "Saturday": "6:00 PM - 12:30 AM",
+            "Sunday": "10:00 AM - 6:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/ca/78/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "MICA - Caf\u00e9 & Club",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Jakobstube Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Nachbar - Kneipe und Kultur",
+        "city": "Stuttgart",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0a/5b/c5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Wilhelma Zoologisch-Botanischer Garten",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos \u2022 Gardens",
+        "operating_hours": {
+            "Monday": "8:15 AM - 8:00 PM",
+            "Tuesday": "8:15 AM - 8:00 PM",
+            "Wednesday": "8:15 AM - 8:00 PM",
+            "Thursday": "8:15 AM - 8:00 PM",
+            "Friday": "8:15 AM - 8:00 PM",
+            "Saturday": "8:15 AM - 8:00 PM",
+            "Sunday": "8:15 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/79/a5/e6/le-parc.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "H\u00f6henpark Killesberg",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/2a/76/23/hohenpark-killesberg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stadion NeckarPark GmbH & Co. KG",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Concerts \u2022 Amusement & Theme Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3f/e7/fe/neckar-park.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Schlossgarten",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/88/ba/1e/schlossgarten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "B\u00e4rensee",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/61/2e/56/photo1jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Max-Eyth See",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/18/16/ca/prima.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Teehaus, Weissenburg Park",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fe/6c/57/teehaus-weissenburg-park.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hohenheimer G\u00e4rten",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/29/02/18/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schillerplatz",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9a/f3/0d/schillerplatz.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Chinesische Garten",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "7:00 AM - 8:00 PM",
+            "Tuesday": "7:00 AM - 8:00 PM",
+            "Wednesday": "7:00 AM - 8:00 PM",
+            "Thursday": "7:00 AM - 8:00 PM",
+            "Friday": "7:00 AM - 8:00 PM",
+            "Saturday": "7:00 AM - 8:00 PM",
+            "Sunday": "7:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d9/81/0b/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Rosenstein Park",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/89/fe/c0/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "St\u00e4dtisches Lapidarium Stuttgart",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3b/90/a4/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Wurttemberg Alpakas",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Nature & Wildlife Areas",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/f4/5d/bd/wurttemberg-alpakas.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Das Grune U",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Strasenbahnmuseum",
+        "city": "Stuttgart",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Speciality Museums \u2022 Canyons",
+        "operating_hours": {
+            "Monday": "10:00 AM - 3:00 PM",
+            "Tuesday": "10:00 AM - 3:00 PM",
+            "Wednesday": "10:00 AM - 3:00 PM",
+            "Sunday": "10:00 AM - 3:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4e/56/0a/caption.jpg?w=700&h=400&s=1"
+    }
+]

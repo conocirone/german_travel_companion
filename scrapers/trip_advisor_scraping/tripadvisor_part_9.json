@@ -1,0 +1,1160 @@
+[
+    {
+        "name": "U-Bootmuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "9:00 AM - 8:00 PM",
+            "Tuesday": "9:00 AM - 8:00 PM",
+            "Wednesday": "9:00 AM - 8:00 PM",
+            "Thursday": "9:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 8:00 PM",
+            "Saturday": "9:00 AM - 8:00 PM",
+            "Sunday": "11:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/5a/b1/u-boot-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mahnmal St. Nikolai",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Architectural Buildings \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/94/fc/the-tower.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Panik City",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Character Experiences",
+        "operating_hours": {
+            "Wednesday": "11:00 AM - 3:00 PM",
+            "Thursday": "11:00 AM - 3:00 PM",
+            "Friday": "11:00 AM - 3:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "11:00 AM - 2:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/78/a7/14/panik-city.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Museum der Illusionen Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/db/2d/e0/verzerrung-der-grossen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Montblanc Haus",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 6:00 PM",
+            "Friday": "9:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/07/79/4f/das-montblanc-haus-heisst.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Planetarium Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Observatories & Planetariums",
+        "operating_hours": {
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "9:00 AM - 9:00 PM",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "12:00 PM - 10:30 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/4a/4b/c7/planetarium-hamburg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zaubermuseum Bellachini",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": {
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/1d/66/31/jeden-donnerstag-und.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "MINDWAYS - 3D TrickArt",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4b/2c/47/die-familienattraktion.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Neuengamme Concentration Camp Memorial",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Monday": "9:30 AM - 4:00 PM",
+            "Tuesday": "9:30 AM - 4:00 PM",
+            "Wednesday": "9:30 AM - 4:00 PM",
+            "Thursday": "9:30 AM - 4:00 PM",
+            "Friday": "9:30 AM - 4:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/2a/7e/da/interior-of-building.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum of Hamburg History",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4c/cb/d4/innenansicht.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Automuseum Prototyp",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/03/b9/a1/the-exhibited-vehicles.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Museum f\u00fcr Kunst und Gewerbe",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 9:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/64/f8/museum-fur-kunst-und.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "BallinStadt Emigration Museum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/42/06/83/im-raum-der-ankunft-erfahren.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Panoptikum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 8:00 PM",
+            "Tuesday": "10:00 AM - 8:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 10:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/9b/d9/19/panoptikum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kaffeemuseum Burg (Museum of Coffee)",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6b/11/3f/kaffeemuseum-burg-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dialog Im Stillen",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "11:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4c/bb/87/drei-junge-menschen-mit.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Krameramtswohnungen (Flats for Small Trader's Guild)",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ff/25/da/krameramtswohnungen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museumsschiff Cap San Diego",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cc/db/91/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zoologisches Museum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7c/65/dc/zoologisches-museum.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Polizeimuseum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 1:00 PM",
+            "Wednesday": "10:00 AM - 1:00 PM",
+            "Thursday": "10:00 AM - 1:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/40/94/8a/zeitreise-der-polizei.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Deichtorhallen Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4a/5d/d9/deichtorhallen-hamburg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deutsches Zollmuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e5/d6/7c/toll-museum-hamburg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Speicherstadtmuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/fd/fd/0c/francesco-carovillano.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bunker St. Pauli",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Military Museums \u2022 Lookouts",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/57/b5/2b/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b210becf5cd9edf83cbc"
+    },
+    {
+        "name": "MARKK - Museum am Rothenbaum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 9:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/24/75/22/aussenansicht-des-museums.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Hafenmuseum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3e/20/aa/photo1jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Johannes Brahms Museum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e7/41/ff/neighborhood-of-brahms.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spicy's Gewuerzmuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/07/c3/46/spicy-s-gewurzmuseum.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Tropenquarium",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Natural History Museums \u2022 Science Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/e2/64/23/tropenquarium.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bunkermuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Historic Sites \u2022 History Museums",
+        "operating_hours": {
+            "Thursday": "10:00 AM - 12:00 PM 3:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/44/ed/01/more-shelter-seating.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Red Gallery",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b8/e2/9f/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bucerius Kunst Forum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "11:00 AM - 7:00 PM",
+            "Tuesday": "11:00 AM - 7:00 PM",
+            "Wednesday": "11:00 AM - 7:00 PM",
+            "Thursday": "11:00 AM - 9:00 PM",
+            "Friday": "11:00 AM - 7:00 PM",
+            "Saturday": "11:00 AM - 7:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/53/27/db/das-bucerius-kunst-forum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hamburg Observatory",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Observatories & Planetariums",
+        "operating_hours": {
+            "Wednesday": "12:00 PM - 2:00 PM",
+            "Thursday": "12:00 PM - 2:00 PM",
+            "Friday": "12:00 PM - 2:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5c/6c/cb/sternwarte-hamburg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Medical Historical Museum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Science Museums",
+        "operating_hours": {
+            "Saturday": "1:00 PM - 6:00 PM",
+            "Sunday": "1:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d0/35/2b/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Jenischhaus",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Monday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/cf/e7/7b/hamburg-jenischhaus.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Erotic Art Museum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Monday": "12:00 PM - 6:00 PM",
+            "Thursday": "12:00 PM - 6:00 PM",
+            "Friday": "12:00 PM - 6:00 PM",
+            "Saturday": "2:00 PM - 6:00 PM",
+            "Sunday": "2:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3b/32/26/hier-in-der-bernhard.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hamburger Underwelten",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/44/f4/4d/doctor-s-station.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "KomponistenQuartier",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/87/62/b6/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Altonaer Museum - Norddeutsches Landesmuseum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/27/db/da/altonaer-museum-norddeutsches.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Electrum Museum of Electricity",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Science Museums",
+        "operating_hours": {
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/59/49/f6/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Arch\u00e4ologisches Museum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8d/4c/48/20171031-152134-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sammlung Falckenberg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/03/29/8b/thomas-schutte.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museumshafen Oevelg\u00f6nne",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/88/5c/4e/dsc-1058-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mineralogisches Museum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/65/72/c3/mineralogisches-museum.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Flughafenmodell",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Observation Decks & Towers",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/a7/14/emirates-777-on-pushback.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ernst Barlach Haus",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f2/3e/35/barlachhaus.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Genuss-Speicher",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5e/69/eb/img-20190502-102009-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Paradox Museum Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Science Museums \u2022 Cultural Events",
+        "operating_hours": {
+            "Monday": "11:00 AM - 7:00 PM",
+            "Tuesday": "11:00 AM - 7:00 PM",
+            "Wednesday": "11:00 AM - 7:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 8:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/2e/29/5b/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "HSV-Museum",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7c/39/d9/la-copa-de-europa-orgullo.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Port Des Lumi\u00e8res",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/95/53/8a/port-des-lumieres-in.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "FC St. Pauli-Museum / 1910 eV",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Wednesday": "3:00 PM - 7:00 PM",
+            "Thursday": "3:00 PM - 10:00 PM",
+            "Friday": "3:00 PM - 7:00 PM",
+            "Saturday": "11:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 3:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/eb/19/57/wwwsiesahde.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Museum f\u00fcr Bergedorf und die Vierlande",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/66/8c/67/das-schloss.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum Der Arbeit",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 9:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/7a/72/19/werksgelande-nyh.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Affenfaust Galerie",
+        "city": "Hamburg",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/bc/9e/01/affenfaust-galerie-since.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Le Lion Bar de Paris",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 1:00 AM",
+            "Saturday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/04/06/40/the-pine-room.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Skyline Bar 20up",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 1:30 AM",
+            "Saturday": "6:00 PM - 1:30 AM",
+            "Sunday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/12/20/33/die-skyline-bar-20up.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Quatsch Comedy Club Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Theaters \u2022 Comedy Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/28/42/cd/innenraum-des-quatsch.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Glanz & Gloria",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 3:00 AM",
+            "Saturday": "1:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ed/9e/23/glanz-gloria-foto-schmidts.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe Elbgold",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Coffeehouses",
+        "operating_hours": {
+            "Monday": "8:00 AM - 7:00 PM",
+            "Tuesday": "8:00 AM - 7:00 PM",
+            "Wednesday": "8:00 AM - 7:00 PM",
+            "Thursday": "8:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 7:00 PM",
+            "Saturday": "9:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/c8/ae/img-20180311-wa0069-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Club Equinoxe",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Friday": "9:00 PM - 3:00 AM",
+            "Saturday": "9:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/89/a6/88/bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Boilerman Bar Altes Hafenamt",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 2:00 AM",
+            "Saturday": "5:00 PM - 2:00 AM",
+            "Sunday": "5:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/66/df/a4/img-20190920-212954-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cotton Club",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2b/e1/15/noche-de-jazz-en-hamburgo.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "The Rabbithole Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 12:00 AM",
+            "Tuesday": "6:00 PM - 12:00 AM",
+            "Wednesday": "6:00 PM - 12:00 AM",
+            "Thursday": "6:00 PM - 12:00 AM",
+            "Friday": "6:00 PM - 2:00 AM",
+            "Saturday": "6:00 PM - 2:00 AM",
+            "Sunday": "6:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/16/56/c5/elderflower.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "GAGA",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Saturday": "10:30 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/21/ca/centerbar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fabrik Kultur und Kommunikationszentrum",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Theaters",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e3/2a/be/buhne.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Indra Musikclub",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Historic Sites \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a4/ce/a1/indra.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Olivia Jones Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "7:00 PM - 3:00 AM",
+            "Tuesday": "7:00 PM - 3:00 AM",
+            "Wednesday": "9:00 AM - 3:00 AM",
+            "Thursday": "7:00 PM - 12:00 AM",
+            "Friday": "7:00 PM - 3:00 AM",
+            "Saturday": "6:00 PM - 3:00 AM",
+            "Sunday": "7:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bb/90/c0/olivia-jones-bar.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "The Chug Club",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 2:00 AM",
+            "Tuesday": "6:00 PM - 2:00 AM",
+            "Wednesday": "6:00 PM - 2:00 AM",
+            "Thursday": "6:00 PM - 2:00 AM",
+            "Friday": "6:00 PM - 2:00 AM",
+            "Saturday": "6:00 PM - 2:00 AM",
+            "Sunday": "6:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/93/e4/0f/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Atlantic Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Cigar Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b0/0f/f3/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Beerpongbar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "7:30 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 4:00 AM",
+            "Saturday": "12:00 PM - 4:00 AM",
+            "Sunday": "8:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ef/f7/d1/beerpongbar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sushi L\u00f4",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/16/ad/e4/bento-17.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Reeperbahn Comedy Club",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Theaters",
+        "operating_hours": {
+            "Friday": "8:00 PM - 10:00 PM",
+            "Saturday": "8:00 PM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/07/83/c6/batz-im-reeperbahn-comedy.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Caipi Colada Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/15/ee/62/super-cocktailbar-in.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Markthalle",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Theater & Performances",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/32/3b/9a/standort-hinten-am-mischpult.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Gaststatte Dreyer",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f8/6d/66/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Turmbar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/7e/cd/19/turmbar-at-night.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Clockers Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/86/09/cd/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pony Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "9:30 AM - 2:00 AM",
+            "Tuesday": "9:30 AM - 2:00 AM",
+            "Wednesday": "9:30 AM - 2:00 AM",
+            "Thursday": "9:30 AM - 2:00 AM",
+            "Friday": "9:30 AM - 2:00 AM",
+            "Saturday": "10:00 AM - 12:00 AM",
+            "Sunday": "10:00 AM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/50/b5/18/die-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wunder Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Gay Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/11/70/79/wunder-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Grosse Freiheit 36",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "8:00 PM - 6:00 AM",
+            "Friday": "10:00 PM - 6:00 AM",
+            "Saturday": "10:00 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bb/cf/d7/36-grosse-freiheit-36.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Die Weingaleristen",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": {
+            "Monday": "12:00 PM - 8:00 PM",
+            "Tuesday": "12:00 PM - 8:00 PM",
+            "Wednesday": "12:00 PM - 8:00 PM",
+            "Thursday": "12:00 PM - 8:00 PM",
+            "Friday": "12:00 PM - 8:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b2/e8/17/getlstd-property-photo.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "CAVE Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c6/c6/43/bar-2.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mojo Club",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9d/ae/dc/mojo-club.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Tipsy Baker Bar Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 2:00 AM",
+            "Thursday": "5:00 PM - 2:00 AM",
+            "Friday": "5:00 PM - 3:00 AM",
+            "Saturday": "5:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8b/5a/b8/gastraum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Thomas Read Irish Pub",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/15/f3/57/imag0087-largejpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Meyer Lansky's Hamburg",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "4:00 PM - 3:00 AM",
+            "Tuesday": "4:00 PM - 3:00 AM",
+            "Wednesday": "4:00 PM - 3:00 AM",
+            "Thursday": "4:00 PM - 3:00 AM",
+            "Friday": "4:00 PM - 5:00 AM",
+            "Saturday": "4:00 PM - 5:00 AM",
+            "Sunday": "6:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/b7/69/49/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar 99 Cent",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a9/32/04/tequiilaaaa.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Other Place",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/16/43/1c/rock-bar-im-herzen-von.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Cowboy und Indianer",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a9/32/ab/photo4jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kaiserkeller",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a4/d1/e2/kaiserkeller.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Lunacy - Hamburg St. Pauli",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "6:00 PM - 10:45 PM",
+            "Friday": "6:00 PM - 10:45 PM",
+            "Saturday": "6:00 PM - 10:45 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/54/ac/ab/lunacy-hamburg-st-pauli.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Haifisch Bar",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 4:00 AM 11:00 AM - 4:00 AM",
+            "Tuesday": "11:00 AM - 4:00 AM",
+            "Wednesday": "11:00 AM - 4:00 AM",
+            "Thursday": "11:00 AM - 4:00 AM",
+            "Friday": "11:00 AM - 12:00 AM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/57/9d/94/photo3jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kiezjungs",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "City Tours \u2022 Bar, Club & Pub Tours",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ba/98/0e/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_979486e460bf79f071f6"
+    },
+    {
+        "name": "Angie's",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/bd/d0/f0/angie-s-nightclub-c-oliver.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Frau Hedis Tanzkaffee",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/39/34/b3/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "David Quelle",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fb/d3/32/david-quelle.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tom's Saloon",
+        "city": "Hamburg",
+        "attraction_type": "Nightlife",
+        "spec_type": "Gay Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/23/85/94/caption.jpg?w=800&h=400&s=1"
+    }
+]

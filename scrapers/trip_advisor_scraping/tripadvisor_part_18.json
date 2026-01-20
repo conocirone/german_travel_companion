@@ -1,0 +1,997 @@
+[
+    {
+        "name": "Tierbestattung Andr\u00e9 Kuth Trauer Mit Herz",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Government Buildings",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/cc/3e/ae/caption.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Stadion Rote Erde",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Europabrunnen",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Fountains",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/fa/89/31/das-ist-auf-und-an-der.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bl\u00e4serbrunnen",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Fountains",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/13/1d/blaserbrunnen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "BVB  trainingszentrum",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "St. Peter Zu Syburg",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Churches & Cathedrals",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/1c/87/st-peter-zu-syburg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Vincketurm",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/1d/46/vincketurm.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Haus Schulte-Witten",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "St Marien",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Churches & Cathedrals",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/24/52/ev-stadtkirche-st-marien.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "40. Adac Supercross 2025",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums \u2022 Motorcycle Trails",
+        "operating_hours": {
+            "Friday": "8:00 PM - 11:30 PM",
+            "Saturday": "7:00 PM - 10:30 PM",
+            "Sunday": "2:00 PM - 5:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Nashorn - Kampstrasse Skulptur",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/00/60/nashorn-kampstrasse-skulptur.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Katholische Kirche St. Remigius",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Churches & Cathedrals",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Villa Friemann",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rechteckbrunnen",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Fountains",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/3f/46/rechteckbrunnen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Brunnen Wochenmarkt",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Fountains",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/59/f0/0c/brunnen-wochenmarkt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Friedenss\u00e4ule Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Chabad Lubavitch Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Religious Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Katharinentreppe",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Sporthalle Nord",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Hsv Dortmund-brackel 1909",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Getr\u00e4nke Arena Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Fu\u00dfballplatz Im Odemsloh",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Sportplatz P\u00f6tschke Rosengarten",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Reitanlage Oehmchen",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "German Football Museum",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Children's Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/25/5a/4f/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "LWL Museum Zeche Zollern",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ca/41/a7/ehrenhof-zeche-zollern.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "DASA",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "9:00 AM - 5:00 PM",
+            "Friday": "9:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/a1/52/d0/hochofen.jpg?w=400&h=200&s=1"
+    },
+    {
+        "name": "Dortmunder U",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 8:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5c/81/ed/blick-uber-dortmund.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Phoenix des Lumieres",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8f/bc/4b/falko-wubbecke.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum F\u00fcr Kunst Und Kulturgeschichte",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/99/78/0e/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pace Automobil Museum",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Wednesday": "12:00 PM - 8:00 PM",
+            "Thursday": "12:00 PM - 8:00 PM",
+            "Friday": "12:00 PM - 8:00 PM",
+            "Saturday": "12:00 PM - 8:00 PM",
+            "Sunday": "12:00 PM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/cc/ea/a2/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mondo Mio! Kindermuseum",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Children's Museums",
+        "operating_hours": {
+            "Saturday": "11:00 AM - 1:30 PM 2:30 PM - 5:00 PM",
+            "Sunday": "11:00 AM - 1:30 PM 2:30 PM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/71/b4/cc/das-mondo-mio-kindermuseum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Brewery Museum Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "12:00 PM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/cf/7e/ee/seitenansicht-des-brauerei.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum of Natural History",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/57/6a/1d/capti_r.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mahn- und Gedenkst\u00e4tte Steinwache",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d4/6d/73/steinwache-memorial.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "East Wall Museum (Museum am Ostwall)",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 8:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/7a/89/13/u-dortmund.jpg?w=500&h=300&s=1"
+    },
+    {
+        "name": "Hoesch Museum",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "1:00 PM - 5:00 PM",
+            "Wednesday": "1:00 PM - 5:00 PM",
+            "Thursday": "9:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/33/2b/88/exterior.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Automobilmuseum Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "HMKV Hartware MedienKunstVerein",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/27/bd/fa/getlstd-property-photo.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Galerie Z&H",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9e/19/c2/getlstd-property-photo.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "44309 Street Art Gallery",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "12:00 PM - 6:00 PM",
+            "Wednesday": "12:00 PM - 6:00 PM",
+            "Thursday": "12:00 PM - 6:00 PM",
+            "Friday": "12:00 PM - 8:00 PM",
+            "Saturday": "2:00 PM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/3e/59/c6/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Dortmund Schauraum: Comic + Cartoon",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 8:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Apotheken Museum",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Halle 77  Old- und Youngtimermuseum Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "1:00 PM - 6:00 PM",
+            "Tuesday": "1:00 PM - 6:00 PM",
+            "Wednesday": "1:00 PM - 6:00 PM",
+            "Thursday": "1:00 PM - 6:00 PM",
+            "Friday": "1:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/9d/3f/ff/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Baukunstarchiv Nordrhein-Westfalen",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": {
+            "Tuesday": "2:00 PM - 5:00 PM",
+            "Wednesday": "2:00 PM - 5:00 PM",
+            "Thursday": "2:00 PM - 8:00 PM",
+            "Friday": "2:00 PM - 5:00 PM",
+            "Saturday": "2:00 PM - 5:00 PM",
+            "Sunday": "2:00 PM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Shoot Again Flippermuseum Ruhr",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Gallery Utermann",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 4:00 PM",
+            "Wednesday": "10:00 AM - 4:00 PM",
+            "Thursday": "10:00 AM - 4:00 PM",
+            "Friday": "10:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0b/52/25/ausstellungsraume.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "K\u00fcnstlerhaus",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunst Im Kreuzviertel",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Lumas Galerie Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Heimatmuseum L\u00fctgendortmund E.v.",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Art For Life T\u00e4towierungen",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Postergalerie Schroeder Bild Und Rahmen",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Wilhelm Frosting",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Nordstadtgalerie Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Raum F\u00fcr Kunst Auf Zeit",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Andrea Schmidt",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Creatief-atelier",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Tribal Art Kortmann",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunstdom\u00e4ne",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunstbonbon",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Biank Art",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Depot",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Theaters",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ab/38/f6/foto-peter-lutz.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kunstort Ruhr",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelier Autering",
+        "city": "Dortmund",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Strobels",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 10:00 PM",
+            "Tuesday": "11:00 AM - 10:00 PM",
+            "Wednesday": "11:00 AM - 10:00 PM",
+            "Thursday": "11:00 AM - 10:00 PM",
+            "Friday": "11:00 AM - 3:00 AM",
+            "Saturday": "11:00 AM - 3:00 AM",
+            "Sunday": "1:00 PM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/3a/35/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Domicil",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": {
+            "Monday": "6:30 PM - 11:45 PM",
+            "Tuesday": "6:30 PM - 11:45 PM",
+            "Wednesday": "6:30 PM - 11:45 PM",
+            "Thursday": "6:30 PM - 11:45 PM",
+            "Friday": "6:30 PM - 11:45 PM",
+            "Saturday": "12:00 AM - 2:00 AM 6:30 PM - 11:45 PM",
+            "Sunday": "12:00 AM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/97/1b/d0/die-bar-im-domicil-c.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Diskothek Village",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Thursday": "10:30 PM - 5:00 AM",
+            "Friday": "10:30 PM - 6:00 AM",
+            "Saturday": "10:30 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/02/ba/27/diskothek-village.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Wohnzimmer Cafebar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 12:00 AM",
+            "Wednesday": "10:00 AM - 12:00 AM",
+            "Thursday": "10:00 AM - 12:00 AM",
+            "Friday": "10:00 AM - 12:00 AM",
+            "Saturday": "10:00 AM - 12:00 AM",
+            "Sunday": "10:00 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/92/53/78/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Grossmarktschanke",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8e/70/aa/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Der Weinkommissar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4d/ea/0e/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Manhattan Sports Bar -  Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f0/79/98/top-sportsbar-mit-breitem.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Baropchen",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Eftelya Turku Evi Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/dc/04/45/eftelya-turku-evi-dortmund.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "CU Restaubar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 3:00 AM",
+            "Saturday": "3:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/8b/9a/3d/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe Banane",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3d/1e/26/cafe-banane.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Londoner",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Leo 23",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6c/58/f1/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rush Hour",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Dance Clubs & Discos",
+        "operating_hours": {
+            "Saturday": "11:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/d1/ac/5d/rush-hour-performance.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Bistro Markttreff",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/46/e5/geburtstagsfeier.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bauernstuben Aplerbeck",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "iRoom",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/23/69/iroom-cocktailbar-nachtclub.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "MATO lounge",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 PM - 12:00 AM",
+            "Tuesday": "12:00 PM - 12:00 AM",
+            "Wednesday": "12:00 PM - 12:00 AM",
+            "Thursday": "12:00 PM - 12:00 AM",
+            "Friday": "12:00 PM - 2:00 AM",
+            "Saturday": "12:00 PM - 3:00 AM",
+            "Sunday": "2:00 PM - 12:00 AM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Cabernet & Co.",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": {
+            "Monday": "11:00 AM - 8:00 PM",
+            "Tuesday": "11:00 AM - 8:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "10:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/13/9a/ff/20180216-212504-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "TorFabrik Sky Sportsbar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kaminchen",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Musiktheater Piano",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Piano Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Marktschanke",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e3/a8/76/vor-der-ms.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Collins Cocktailbar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/23/ad/5d/collins-cocktailbar.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Gaststatte Auf Der Lauke",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Prisma Lounge",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Havannalounge Cocktailbar",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Nikki's Inn Pub/Gaststatte",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Big Smoke Lounge Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "NiGHTROOMS Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Gastst\u00e4tte Actien Becher",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/fb/d3/98/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Badgepacker",
+        "city": "Dortmund",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bar, Club & Pub Tours",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/9b/07/f2/caption.jpg?w=1100&h=-1&s=1"
+    }
+]

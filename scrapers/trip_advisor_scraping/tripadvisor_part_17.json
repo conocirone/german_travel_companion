@@ -1,0 +1,983 @@
+[
+    {
+        "name": "Papidoux",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/b4/cf/42/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Roh Comedy StandUp",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Comedy Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/23/85/8d/comedy-wettbewerb.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Engel Rockbar",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bc/cf/46/engel-rockbar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Villa Wahnsinn",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/20/73/fa/great-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Am Kamin",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Pub Crawl Duesseldorf",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bar, Club & Pub Tours",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2b/6b/5e/caption.jpg?w=200&h=200&s=1"
+    },
+    {
+        "name": "Gaststatte Kohler",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Dubai Night",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Bar95",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Gooba Lounge",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "3:00 PM - 2:00 AM",
+            "Tuesday": "3:00 PM - 2:00 AM",
+            "Wednesday": "3:00 PM - 2:00 AM",
+            "Thursday": "3:00 PM - 2:00 AM",
+            "Friday": "3:00 PM - 4:00 AM",
+            "Saturday": "3:00 PM - 4:00 AM",
+            "Sunday": "3:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "PubCrawl D\u00fcsseldorf",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bar, Club & Pub Tours \u2022 Night Tours",
+        "operating_hours": null,
+        "image_url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/fe/9e.jpg"
+    },
+    {
+        "name": "Isla De Cuba",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 4:00 AM",
+            "Tuesday": "5:00 PM - 4:00 AM",
+            "Wednesday": "5:00 PM - 4:00 AM",
+            "Thursday": "5:00 PM - 4:00 AM",
+            "Friday": "5:00 PM - 5:00 AM",
+            "Saturday": "3:00 PM - 5:00 AM",
+            "Sunday": "3:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Birkenklause",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 11:00 PM",
+            "Tuesday": "5:00 PM - 11:00 PM",
+            "Wednesday": "5:00 PM - 11:00 PM",
+            "Thursday": "5:00 PM - 11:00 PM",
+            "Friday": "3:00 PM - 12:00 AM",
+            "Saturday": "3:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Scotti's",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "#3ZEHN",
+        "city": "Dusseldorf",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/08/39/e8/3zehn-shisha-bar-in-dusseldorf.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Wildpark Grafenberg",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos",
+        "operating_hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "9:00 AM - 7:00 PM",
+            "Friday": "9:00 AM - 7:00 PM",
+            "Saturday": "9:00 AM - 7:00 PM",
+            "Sunday": "9:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/db/71/14/wildpark-dusseldorf.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "River Rhine",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/1d/b7/4f/rhine-river.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Aquazoo Loebbecke Museum",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Natural History Museums \u2022 Aquariums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b8/ee/b1/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Japanese Garden",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/7e/26/7c/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Nord Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/16/c8/ee/water-fountain.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hofgarten",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c3/bf/62/hofgarten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Botanical Garden",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/41/0d/11/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "S\u00fcdpark",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/75/e9/99/goldener-herbst.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Volksgarten",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/5b/9b/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Standehaus Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/dc/82/ad/standehauspark.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Unterbacher See",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/40/95/1c/doga-harikasi-bir-yer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spee'scher Graben",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/26/08/49/img-20160723-181529-01.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Angermunder See",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4c/0f/56/angermunder-see.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Kart\u00e4user Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/5f/9c/06/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Himmelgeister Strand",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Beaches",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2e/19/6d/himmelgeister-strand.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Hohenzollernstrasse",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Playgrounds",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/66/d3/e6/spielplatz-hohenzollernstrasse.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Duessel",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b0/e6/83/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Corneliusplatz",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/18/0d/bd/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Lantz\u2019scher Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/87/7a/41/funeral-chapel-of-the.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Martin-luther-platz",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/12/4f/76/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Landskrone",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/18/04/f3/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schlossgarten",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/36/41/c0/ogrod-francuski.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rheinpark Bilk",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/66/c1/1c/rheinpark-bilk.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Haifa Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/06/26/3d/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Baby Bee Spielraum",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Spiegelweiher",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/36/70/8b/staw-lustrzany-i-palac.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Park an der N\u00f6rdlichen D\u00fcssel",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/64/3d/ac/bahce.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schlossweiher",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/36/66/12/staw-zamkowy.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stadtgraben",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b4/74/3f/nice-area.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dussel",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/11/d2/24/beautiful.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Burgerpark IHZ",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Viereckiger Weiher",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/08/91/7b/staw-czworokatny.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz S\u00fcdpark",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rosengarten",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kaiserteich",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/23/2b/d1/caption.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Kopfweiher",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/0a/ea/19/staw-kopfweiher.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wasserweg Unterbacher See / Elbsee",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Hiking Trails",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Orangerie Benrath",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Ginos Kinderland",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Haniel Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rather Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Karadeniz Servet",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Hot Springs & Geysers",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz F\u00e4hrstra\u00dfe Am Rheinufer",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Rohrreinigung Rohr",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Moorenplatz",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Seilspielplatz Im S\u00fcdpark",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Wasserspielplatz",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Pflugstra\u00dfe",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Ecs Gruppe Geb\u00e4udereinigung",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Water Playground Auf'm Rott",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Im Schlosspark",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Ratger Park",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Pilgerweg",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Skatepark",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Spielplatz Jostenstra\u00dfe",
+        "city": "Dusseldorf",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Signal Iduna Park",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a7/78/54/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Florian Tower (Florianturm)",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9a/b2/55/foto-mallon.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hohensyburg Castle",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Castles",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/df/c5/2e/ruine.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Borussia Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d8/43/e4/bvb-v-fc-porto-europa.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Reinoldikirche",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Religious Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/34/92/89/reinoldikirche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schloss Bodelschwingh",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Castles",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a0/9a/84/schloss-bodelschwingh.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kokerei Hansa",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Mines",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/72/f5/aa/kokerei-hansa.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "BVB Event & Catering GmbH",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/31/e1/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "St. Petri Ev. Stadtkirche",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 5:00 PM",
+            "Wednesday": "11:00 AM - 5:00 PM",
+            "Thursday": "11:00 AM - 5:00 PM",
+            "Friday": "11:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/34/91/5d/st-petri-ev-stadtkirche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Marienkirche",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Churches & Cathedrals",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 12:00 PM 2:00 PM - 4:00 PM",
+            "Wednesday": "10:00 AM - 12:00 PM 2:00 PM - 4:00 PM",
+            "Thursday": "10:00 AM - 12:00 PM 2:00 PM - 6:00 PM",
+            "Friday": "10:00 AM - 12:00 PM 2:00 PM - 4:00 PM",
+            "Saturday": "10:00 AM - 1:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/01/98/e4/da-hat-ein-riesenrad.jpg?w=400&h=300&s=1"
+    },
+    {
+        "name": "Ph\u00f6nix West",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c8/32/d6/ausblick.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Propsteikirche",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Churches & Cathedrals",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/c0/95/e4/st-johannes-baptist-dortmund.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ostfriedhof Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Cemeteries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/94/27/34/ostfriedhof.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Westfalenhalle 1",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Arenas & Stadiums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/01/1d/13/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kaiser-wilhelm-denkmal",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/96/d6/29/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Das Alte Hafenamt",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e0/57/ba/hafenamt-im-sonnenuntergang.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Platz von Hiroshima",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4d/31/82/20170120-145926-largejpg_rotated_90.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "SchachtV Zeche Minister Stein Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Adlerturm",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/6a/13/ab/photo5jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Alter Markt Dortmund",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/0d/6e/alter-markt-dortmund.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Borsigplatz",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Walking Areas",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Altes Stadthaus",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/34/11/altes-stadthaus-sight.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wat Dhammabharami",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Religious Sites",
+        "operating_hours": {
+            "Sunday": "9:00 AM - 2:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9c/eb/c7/der-buddha-im-buddhistischen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "St. Nicolai Kirche",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Churches & Cathedrals",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b1/ca/5a/luneburg-st-nicolai-kirche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Aussichtsplattform Park Denkmal",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Observation Decks & Towers",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/39/e9/aussichtsplattform-park.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Friedensplatz",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/59/e7/ec/friedensplatz.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Denkmal Kommunikation",
+        "city": "Dortmund",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/20/0c/denkmal-kommunikation.jpg?w=700&h=400&s=1"
+    }
+]

@@ -1,0 +1,1080 @@
+[
+    {
+        "name": "B\u00f6rse Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/04/21/cc/borse-frankfurt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Eschenheimer Turm",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "12:00 PM - 1:00 AM",
+            "Tuesday": "12:00 PM - 1:00 AM",
+            "Wednesday": "12:00 PM - 1:00 AM",
+            "Thursday": "12:00 PM - 1:00 AM",
+            "Friday": "12:00 PM - 3:00 AM",
+            "Saturday": "12:00 PM - 3:00 AM",
+            "Sunday": "12:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/e6/a3/ec/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "St. Paul's Church (Paulskirche)",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Religious Sites",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/2c/8a/84/juin-2015.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Hauptfriedhof",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Cemeteries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cb/84/78/hauptfriedhof-frankfurt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Eurotower",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Observation Decks & Towers",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/26/50/e2/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zeil",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7c/bb/e2/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Grosse Bockenheimer Strasse",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Neighborhoods \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/2b/66/5e/grosse-bockenheimer-strasse.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Holbeinsteg",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Bridges",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d7/67/57/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Commerzbank",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7e/f5/55/commerzbank-tower.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dreikonigskirche",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Religious Sites",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 3:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/26/4c/db/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Messeturm",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 12:30 AM",
+            "Tuesday": "12:00 AM - 12:30 AM",
+            "Wednesday": "12:00 AM - 12:30 AM",
+            "Thursday": "12:00 AM - 12:30 AM",
+            "Friday": "12:00 AM - 12:30 AM",
+            "Saturday": "12:00 AM - 12:30 AM",
+            "Sunday": "12:00 AM - 12:30 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/88/42/4e/messeturm.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Karmeliterkloster",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Art Galleries \u2022 Architectural Buildings",
+        "operating_hours": {
+            "Monday": "8:30 AM - 5:00 PM",
+            "Tuesday": "8:30 AM - 5:00 PM",
+            "Wednesday": "8:30 AM - 5:00 PM",
+            "Thursday": "8:30 AM - 5:00 PM",
+            "Friday": "8:30 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/99/0a/eb/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "IG Farben Building Johann Wolfgang Goethe University",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6b/92/20/geothe-universitat.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Neue Altstadt",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Neighborhoods \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/9d/90/neue-alstadt.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Goethestrasse",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/32/ed/86/goethestrasse.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "European Central Bank",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings \u2022 Government Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cb/8e/67/europaische-zentralbank.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Holzhausenschl\u00f6sschen",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Castles",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/64/cf/0c/20180621-184724-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Liebfrauen, Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Religious Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/51/0f/72/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Luftbrueckendenkmal Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f3/0f/e7/luftbruckendenkmal-frankfurt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Katharinenkirche",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Religious Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/eb/1d/9f/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Gutenberg-Denkmal",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/98/69/d4/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rathaus Seckbach",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Government Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/78/e5/6f/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Altes Schloss Hoechst",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3c/5b/e8/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Anne Franks Geburtshaus",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/71/91/7c/geburtshaus-von-anne.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Peter-Behrens-Bau",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/50/72/15/trifora-contemporanea.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Holocaust Memorial",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d9/06/c4/cemetery.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Tower 185",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7d/1f/ee/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Goethe-Denkmal",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Monuments & Statues",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f2/a4/d4/monumentet.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Die Goldene Waage",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/be/4b/8b/goldene-waage.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Westend Tower",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4e/cf/50/view-from-the-top-at.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Europaturm",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d7/3e/2b/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Huhnermarkt",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/d5/ee/24/huhnermarkt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Aussichtsplattform Zeppelinheim",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Lookouts \u2022 Scenic Walking Areas",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1c/b3/35/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hammering Man",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f3/51/27/hammering-man-1.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Leipziger Strasse",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6f/fe/32/guzel-bir-bolge-keyf.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Haus Wertheym",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Historic Sites \u2022 Architectural Buildings",
+        "operating_hours": {
+            "Monday": "11:00 AM - 11:00 PM",
+            "Tuesday": "11:00 AM - 11:00 PM",
+            "Wednesday": "11:00 AM - 11:00 PM",
+            "Thursday": "11:00 AM - 11:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "11:00 AM - 11:00 PM",
+            "Sunday": "11:00 AM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fa/5a/7b/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Henninger Tower",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Architectural Buildings",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
+    },
+    {
+        "name": "St. Leonard Church",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Religious Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/92/ba/de/leonhardskirche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Roemer Kaisersaal",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/1d/96/cc/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Old Jewish Cemetery",
+        "city": "Frankfurt",
+        "attraction_type": "Sights & Landmarks",
+        "spec_type": "Cemeteries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/17/56/fd/old-jewish-cemetery.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "St\u00e4del Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 9:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c5/c7/a4/stadel-museum-foto-stadel.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Senckenberg Natural History Museum (Naturmuseum Senckenberg)",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Natural History Museums \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 8:00 PM",
+            "Thursday": "9:00 AM - 5:00 PM",
+            "Friday": "9:00 AM - 5:00 PM",
+            "Saturday": "9:00 AM - 6:00 PM",
+            "Sunday": "9:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/46/34/77/senckenberg-natural-history.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museumsufer",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bd/a1/c1/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "German Film Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/41/f4/91/img-20190126-121756-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dialog Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "9:00 AM - 1:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "9:00 AM - 5:00 PM",
+            "Friday": "9:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/7d/07/02/laura-brichta.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Geldmuseum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "9:00 AM - 5:00 PM",
+            "Friday": "9:00 AM - 5:00 PM",
+            "Sunday": "9:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ba/01/6d/img-20190530-115754-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schirn Kunsthalle Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 10:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/77/5a/01/schirn-rotunde.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Liebieghaus Skulpturensammlung",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "12:00 PM - 6:00 PM",
+            "Wednesday": "12:00 PM - 6:00 PM",
+            "Thursday": "10:00 AM - 9:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a7/25/47/aussenansicht-villa-liebieg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum fur Kommunikation",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0c/8f/f9/museum-fur-post-und-kommunikat.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum Judengasse",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Historic Sites",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5e/96/23/das-museum-judengasse.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum MMK f\u00fcr Moderne Kunst",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5c/bf/4a/installationsansicht.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Historisches Museum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/99/0f/4a/vue-exterieure-gauche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Goethe Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 5:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/35/58/d0/goethe-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "EXPERIMINTA",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Science Museums",
+        "operating_hours": {
+            "Monday": "9:30 AM - 2:00 PM",
+            "Tuesday": "9:30 AM - 2:00 PM",
+            "Wednesday": "9:30 AM - 2:00 PM",
+            "Thursday": "9:30 AM - 2:00 PM",
+            "Friday": "9:30 AM - 2:00 PM",
+            "Saturday": "10:30 AM - 5:30 PM",
+            "Sunday": "10:30 AM - 5:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/9e/1c/90/die-experiminta.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "J\u00fcdisches Museum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/fa/b9/4e/blick-auf-das-neue-judische.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Struwwelpeter Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/2e/36/f8/struwwelpeter-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Karmeliterkloster",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Architectural Buildings",
+        "operating_hours": {
+            "Monday": "8:30 AM - 5:00 PM",
+            "Tuesday": "8:30 AM - 5:00 PM",
+            "Wednesday": "8:30 AM - 5:00 PM",
+            "Thursday": "8:30 AM - 5:00 PM",
+            "Friday": "8:30 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/99/0a/eb/photo2jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "TimeRide Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/96/fd/71/in-der-dritten-station.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Caricatura Museum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 9:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/86/26/93/caricatura-museum-frankfurt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Arch\u00e4ologisches Museum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/72/6b/42/musee-archeologique.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Dom-Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e9/65/7d/caption.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Verkehrsmuseum Frankfurt am Main",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bf/ef/a1/img-20170702-112659-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deutsches Architekturmuseum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/92/bf/deutsches-architekturmuseum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ikonen Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/53/ba/a4/icon-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Frankfurter Feldbahn Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/1c/f5/7a/frankfurter-feldbahn.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Ernst May Haus & Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 4:00 PM",
+            "Wednesday": "11:00 AM - 4:00 PM",
+            "Thursday": "11:00 AM - 4:00 PM",
+            "Saturday": "12:00 PM - 5:00 PM",
+            "Sunday": "12:00 PM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/af/9c/2d/back.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "MGGU - Museum Giersch der Goethe-Universit\u00e4t",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/01/92/9d/museum-giersch.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "ARTime Gallery",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/1a/8a/73/artime-galerie.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Leica Gallery Frankfurt/Main",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/2e/3b/55/main.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum Angewandte Kunst",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c6/a0/1f/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Junges Museum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Children's Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/00/c4/13/kinder-museum-frankfurt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Frankfurter Kunstverein",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 9:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 7:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5c/8a/ef/fachada-de-la-casa-de.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bibelhaus",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7e/09/f3/bibelhaus.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Weltkulturen Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/94/a4/f7/weltkulturen-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deutsches Romantik-museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cf/cf/3a/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Portikus",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "12:00 PM - 7:00 PM",
+            "Wednesday": "12:00 PM - 7:00 PM",
+            "Thursday": "12:00 PM - 7:00 PM",
+            "Friday": "12:00 PM - 7:00 PM",
+            "Saturday": "11:00 AM - 7:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5e/9f/ce/portikus-ligt-op-het.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Leinwandhaus",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Historic Sites",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/38/4e/11/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Feuerwehrmuseum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Sunday": "9:30 AM - 12:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/92/50/16/frankfurt-am-main-feuerwehrmus.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum fuer Kochkunst und Tafelkultur",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/19/f0/fb/museum-fur-kochkunst.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Apfelweingalerie",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/55/c7/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bernhard Knaus Fine Art",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "1:00 PM - 6:00 PM",
+            "Wednesday": "1:00 PM - 6:00 PM",
+            "Thursday": "1:00 PM - 6:00 PM",
+            "Friday": "1:00 PM - 6:00 PM",
+            "Saturday": "11:00 AM - 3:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/06/e3/5c/exhbition-view-robert.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Former Police Prison",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Saturday": "3:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8e/d9/8a/ehemaliges-polizeigefangnis.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sweetpics Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Friday": "11:00 AM - 10:30 PM",
+            "Saturday": "11:00 AM - 10:30 PM",
+            "Sunday": "11:00 AM - 10:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/40/70/78/bright-stars-room.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "DZ BANK Kunstsammlung",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b7/16/89/20181213-085146-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fotografie Forum Frankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Architectural Buildings",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5a/bc/a7/entrance-area-at-braubachstras.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Porzellan Museum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/63/a7/2d/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Van Gogh Alive",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/62/45/c6/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Albert Schweitzer Center (Deutsches Albert-Schweitzer-Zentrum)",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 4:00 PM",
+            "Tuesday": "9:00 AM - 4:00 PM",
+            "Wednesday": "9:00 AM - 4:00 PM",
+            "Thursday": "9:00 AM - 4:00 PM",
+            "Friday": "9:00 AM - 4:00 PM",
+            "Saturday": "9:00 AM - 4:00 PM",
+            "Sunday": "9:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/94/bd/ef/deutsches-albert-schweitzer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Der Mixer",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Friday": "3:00 PM - 6:00 PM",
+            "Saturday": "12:00 PM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b9/46/f7/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bildungsst\u00e4tte Anne Frank",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Museum Mmk F\u00fcr Moderne Kunst - Zollamt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 7:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/66/69/28/entrance.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Teehaus Ronnefeldt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5a/aa/0f/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Japan Art Galerie Friedrich Mueller",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Atelierfrankfurt",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/7e/b3/36/vorderansicht-des-atelierfrank.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Porzellan Museum Frankfurt Im Kronberger Haus",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Kunstverein Familie Montez",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Ikonenmuseum",
+        "city": "Frankfurt",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/18/22/48/caption.jpg?w=700&h=400&s=1"
+    }
+]

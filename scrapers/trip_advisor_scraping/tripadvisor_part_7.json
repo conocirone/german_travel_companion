@@ -1,0 +1,1072 @@
+[
+    {
+        "name": "Versicherungskammer Kulturstiftung Kunstfoyer",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/74/ad/db/versicherungskammer-kulturstif.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Das Kartoffelmuseum",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0b/01/0d/das-kartoffelmuseum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "lothringer13",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/85/6a/8b/street-view.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bayerische Volkssternwarte M\u00fcnchen",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Science Museums \u2022 Observatories & Planetariums",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Skulpturengarten Heaven 7",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9e/ad/06/flatz-skulpturengarten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Studio Of Wonders",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Speciality Museums",
+        "operating_hours": {
+            "Monday": "11:00 AM - 8:00 PM",
+            "Tuesday": "11:00 AM - 8:00 PM",
+            "Wednesday": "11:00 AM - 8:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "11:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/55/97/47/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deutsches Theatermuseum",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b9/be/9c/vista.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Michael-Ende-Museum",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 Art Museums",
+        "operating_hours": {
+            "Wednesday": "2:00 PM - 5:00 PM",
+            "Thursday": "2:00 PM - 5:00 PM",
+            "Friday": "2:00 PM - 5:00 PM",
+            "Saturday": "2:00 PM - 5:00 PM",
+            "Sunday": "2:00 PM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/65/b0/e5/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "Galerie Soul Of Afrika",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "12:00 PM - 6:00 PM",
+            "Wednesday": "12:00 PM - 6:00 PM",
+            "Thursday": "12:00 PM - 3:00 PM 3:30 PM - 7:00 PM",
+            "Friday": "12:00 PM - 6:00 PM",
+            "Saturday": "11:00 AM - 3:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6c/0f/c1/eingang-der-galerie.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Porzellan Manufaktur Nymphenburg",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality & Gift Shops \u2022 Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a6/a0/5b/porzellanmanufaktur-nymphenbur.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Atelier & Galerie Claudia Botz",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries \u2022 Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/2a/71/21/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "MUCA Museum of Urban and Contemporary Art",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8f/c5/e6/muca-museum-aussenansicht.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Museum f\u00fcr Abg\u00fcsse Klassischer Bildwerke",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/02/bb/cb/museum-fur-abgusse-klassischer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Galerie Leu",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": {
+            "Tuesday": "11:00 AM - 6:00 PM",
+            "Wednesday": "11:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 6:00 PM",
+            "Friday": "11:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/c1/42/b5/insatllationview.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Peter Guest Kr\u00e4uter Gallery",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Kindermuseum M\u00fcnchen",
+        "city": "Munich",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Thursday": "2:00 PM - 5:00 PM",
+            "Friday": "2:00 PM - 7:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bc/66/f6/unterwegs-in-meiner-stadt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Jazzbar Vogler",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": {
+            "Tuesday": "6:30 PM - 11:00 PM",
+            "Wednesday": "6:30 PM - 11:00 PM",
+            "Thursday": "6:30 PM - 11:00 PM",
+            "Friday": "6:30 PM - 11:00 PM",
+            "Saturday": "6:30 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/66/de/c3/thomas-vogler-in-seiner.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hirschgarten",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 10:00 PM",
+            "Tuesday": "11:00 AM - 10:00 PM",
+            "Wednesday": "11:00 AM - 10:00 PM",
+            "Thursday": "11:00 AM - 10:00 PM",
+            "Friday": "11:00 AM - 10:00 PM",
+            "Saturday": "11:00 AM - 10:00 PM",
+            "Sunday": "11:00 AM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/df/51/52/beer-stand.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Augustinerkeller",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "10:00 AM - 12:00 AM",
+            "Tuesday": "10:00 AM - 12:00 AM",
+            "Wednesday": "10:00 AM - 12:00 AM",
+            "Thursday": "10:00 AM - 12:00 AM",
+            "Friday": "10:00 AM - 12:00 AM",
+            "Saturday": "10:00 AM - 12:00 AM",
+            "Sunday": "10:00 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e0/69/1f/augustinerkeller.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stadion an der Schleissheimerstrasse",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "6:30 PM - 12:00 AM",
+            "Wednesday": "6:30 PM - 12:00 AM",
+            "Friday": "6:00 PM - 12:00 AM",
+            "Saturday": "12:30 PM - 12:00 AM",
+            "Sunday": "1:00 PM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b2/03/34/stadion-an-der-schleissheimers.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Boilerman Bar Munich",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 2:00 AM",
+            "Saturday": "6:00 PM - 2:00 AM",
+            "Sunday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8b/de/dd/boilerman-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bayerischer Hof Night Club",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars \u2022 Piano Bars",
+        "operating_hours": {
+            "Tuesday": "10:00 PM - 3:00 AM",
+            "Wednesday": "10:00 PM - 3:00 AM",
+            "Thursday": "10:00 PM - 3:00 AM",
+            "Friday": "10:00 PM - 3:00 AM",
+            "Saturday": "10:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0d/8a/2d/bayerischer-hof-night.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Augustiner Stammhaus",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "8:00 AM - 12:00 AM 1:00 PM - 3:00 PM",
+            "Tuesday": "8:00 AM - 12:00 AM 1:00 PM - 3:00 PM",
+            "Wednesday": "8:00 AM - 12:00 AM 1:00 PM - 3:00 PM",
+            "Thursday": "8:00 AM - 12:00 AM 1:00 PM - 3:00 PM",
+            "Friday": "8:00 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/47/84/74/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Shakespeare",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "10:00 AM - 2:00 AM",
+            "Tuesday": "10:00 AM - 2:00 AM",
+            "Wednesday": "10:00 AM - 2:00 AM",
+            "Thursday": "10:00 AM - 2:00 AM",
+            "Friday": "10:00 AM - 5:00 AM",
+            "Saturday": "10:00 AM - 5:00 AM",
+            "Sunday": "10:00 AM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/40/a9/37/20180609-224921-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Edelheiss Munchen",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "3:00 PM - 1:00 AM",
+            "Tuesday": "3:00 PM - 1:00 AM",
+            "Wednesday": "3:00 PM - 1:00 AM",
+            "Thursday": "3:00 PM - 1:00 AM",
+            "Friday": "3:00 PM - 3:00 AM",
+            "Saturday": "3:00 PM - 3:00 AM",
+            "Sunday": "3:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/b9/77/3c/edelheiss-munchen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Jazzclub Unterfahrt",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3c/51/bd/the-big-band-munich-lounge.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Call me Drella",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Thursday": "10:00 PM - 5:00 AM",
+            "Friday": "8:00 PM - 5:00 AM",
+            "Saturday": "10:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/87/9d/22/das-call-me-drella-ist.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "BlackBook Tours",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "City Tours \u2022 Bar, Club & Pub Tours",
+        "operating_hours": null,
+        "image_url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/7a/6e/16.jpg"
+    },
+    {
+        "name": "Hard Rock Cafe Munich",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 PM - 12:00 AM",
+            "Tuesday": "12:00 PM - 12:00 AM",
+            "Wednesday": "12:00 PM - 12:00 AM",
+            "Thursday": "12:00 PM - 12:00 AM",
+            "Friday": "12:00 PM - 2:00 AM",
+            "Saturday": "12:00 PM - 2:00 AM",
+            "Sunday": "12:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/c4/50/55/bar-hard-rock-cafe-munchen.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Stammbar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/26/f6/ff/good-beer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cohibar City",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "8:00 PM - 2:00 AM",
+            "Friday": "8:00 PM - 4:00 AM",
+            "Saturday": "8:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/7c/7a/7d/kind-and-fast-barman.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Yokocho Karaoke Box & Bar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Karaoke Bars",
+        "operating_hours": {
+            "Wednesday": "5:00 PM - 12:00 AM",
+            "Thursday": "5:00 PM - 2:00 AM",
+            "Friday": "5:00 PM - 2:00 AM",
+            "Saturday": "5:00 PM - 2:00 AM",
+            "Sunday": "5:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5d/76/f7/view-of-yokocho-karaoke.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Bar Rendezvous",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Gay Bars",
+        "operating_hours": {
+            "Monday": "6:00 PM - 2:00 AM",
+            "Tuesday": "6:00 PM - 2:00 AM",
+            "Wednesday": "6:00 PM - 3:00 AM",
+            "Thursday": "6:00 PM - 3:00 AM",
+            "Friday": "6:00 PM - 6:00 AM",
+            "Saturday": "6:00 PM - 6:00 AM",
+            "Sunday": "6:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3b/7a/2a/bar-rendezvous.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schwabinger 7",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d6/86/5f/basta-stallet.jpg?w=400&h=200&s=1"
+    },
+    {
+        "name": "NY.Club",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Gay Bars",
+        "operating_hours": {
+            "Friday": "11:00 PM - 7:00 AM",
+            "Saturday": "11:00 PM - 7:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a2/ca/78/dancefloor.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pfeifen Huber",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Cigar Bars",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/aa/05/8f/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Fox Bar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 2:30 AM 6:30 AM - 2:30 AM",
+            "Tuesday": "6:30 AM - 2:30 AM",
+            "Wednesday": "6:30 AM - 3:00 AM",
+            "Thursday": "6:30 AM - 4:00 AM",
+            "Friday": "6:30 AM - 4:00 AM",
+            "Saturday": "6:30 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/db/6d/50/fox-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The HIGH",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Grunes Eck",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/fb/bb/bd/schweinebraten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kennedys Bar & Restaurant, Munich",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 2:00 AM",
+            "Tuesday": "11:00 AM - 2:00 AM",
+            "Wednesday": "11:00 AM - 2:00 AM",
+            "Thursday": "11:00 AM - 2:00 AM",
+            "Friday": "11:00 AM - 3:00 AM",
+            "Saturday": "11:00 AM - 3:00 AM",
+            "Sunday": "11:00 AM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/38/ac/db/photo0jpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Charlie Green Cannabis Caf\u00e9",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/07/f8/28/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar Gabanyi",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "6:00 PM - 3:00 AM",
+            "Thursday": "6:00 PM - 3:00 AM",
+            "Friday": "8:00 PM - 5:00 AM",
+            "Saturday": "8:00 PM - 5:00 AM",
+            "Sunday": "8:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/df/20/12/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Salon Irkutsk",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 1:00 AM 5:00 PM - 12:00 AM",
+            "Tuesday": "12:00 AM - 1:00 AM 5:00 PM - 12:00 AM",
+            "Wednesday": "12:00 AM - 1:00 AM 5:00 PM - 12:00 AM",
+            "Thursday": "12:00 AM - 1:00 AM 5:00 PM - 12:00 AM",
+            "Friday": "12:00 AM - 2:00 AM 5:00 PM - 12:00 AM",
+            "Saturday": "12:00 AM - 3:00 AM 5:00 PM - 12:00 AM",
+            "Sunday": "12:00 AM - 3:00 AM 5:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c9/91/lichtinstallation.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Haus der 111 Biere",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/03/18/60/caption.jpg?w=800&h=400&s=1"
+    },
+    {
+        "name": "La Dolce Vita",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/2b/0b/c9/la-dolce-vita.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Vertigo",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/08/11/64/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schwabinger Podium",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fd/d0/5a/schwabinger-podium.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Strom",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Points of Interest & Landmarks \u2022 Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/4a/7b/73/the-outside.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Crowbar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ec/8d/66/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_514a4eb91270c7f8e087"
+    },
+    {
+        "name": "Marco Brussolo Wein Import",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Speciality & Gift Shops \u2022 Wine Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c9/70/36/photo8jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rote Sonne",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/1b/6a/a5/hallo-freunde-ich-habe.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Mariannenhof",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/88/29/72/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "El Perro y El Griego - Tapas-Bar Munchen-Haidhausen",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 PM - 1:00 AM",
+            "Tuesday": "12:00 PM - 1:00 AM",
+            "Wednesday": "12:00 PM - 1:00 AM",
+            "Thursday": "12:00 PM - 1:00 AM",
+            "Friday": "12:00 PM - 1:00 AM",
+            "Saturday": "4:00 PM - 1:00 AM",
+            "Sunday": "12:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/af/42/d7/el-perro-y-el-griego.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Flushing Meadows Bar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/35/63/79/the-flushing-meadows.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pimpernel",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "10:00 PM - 6:00 AM",
+            "Tuesday": "10:00 PM - 6:00 AM",
+            "Wednesday": "10:00 PM - 6:00 AM",
+            "Thursday": "10:00 PM - 6:00 AM",
+            "Friday": "10:00 PM - 7:00 AM",
+            "Saturday": "10:00 PM - 7:00 AM",
+            "Sunday": "10:00 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/4a/67/9d/good-times-pimpernel.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Harry's",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ec/8d/66/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_514a4eb91270c7f8e087"
+    },
+    {
+        "name": "Peaches-Neuhausen",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "7:00 PM - 1:00 AM",
+            "Tuesday": "7:00 PM - 1:00 AM",
+            "Wednesday": "7:00 PM - 1:00 AM",
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "7:00 PM - 1:00 AM",
+            "Saturday": "7:00 PM - 1:00 AM",
+            "Sunday": "7:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/d4/88/10/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Circulo",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/01/6f/d9/circulo-monaco-di-baviera.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Toskana Wine and Winebar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": {
+            "Tuesday": "2:00 PM - 7:00 PM",
+            "Wednesday": "2:00 PM - 7:00 PM",
+            "Thursday": "2:00 PM - 7:00 PM",
+            "Friday": "2:00 PM - 7:00 PM",
+            "Saturday": "12:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f7/ca/7b/our-special-drinks-best.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Unter Deck",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/78/d4/5e/unter-deck.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar Rennbahn Schwabing",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "12:00 AM - 2:00 AM 7:00 PM - 2:00 AM",
+            "Wednesday": "7:00 PM - 3:00 AM",
+            "Thursday": "7:00 PM - 4:00 AM",
+            "Friday": "7:00 PM - 4:00 AM",
+            "Saturday": "7:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7c/88/bf/bar-von-aussen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bella Billard",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Trisoux",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/80/4d/a7/roof.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Palais Club & Bar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Friday": "8:00 PM - 10:00 AM",
+            "Saturday": "8:00 PM - 10:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/fa/c3/5c/palais-club-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Schumanns Bar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
+    },
+    {
+        "name": "Einfach Geniessen - M\u00fcnchens Wein- und Whiskyschule",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Wine Bars",
+        "operating_hours": {
+            "Monday": "7:00 PM - 11:00 PM",
+            "Tuesday": "7:00 PM - 11:00 PM",
+            "Wednesday": "7:00 PM - 11:00 PM",
+            "Thursday": "7:00 PM - 11:00 PM",
+            "Friday": "7:00 PM - 11:00 PM",
+            "Saturday": "12:00 PM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a0/06/aa/unsere-seminare-sind.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar Sehnsucht",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0e/45/8a/bar-sehnsucht.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Sofa so Good",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Shamrock Irish Pub",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "8:00 PM - 2:00 AM",
+            "Tuesday": "8:00 PM - 2:00 AM",
+            "Wednesday": "8:00 PM - 2:00 AM",
+            "Thursday": "8:00 PM - 2:00 AM",
+            "Friday": "7:00 PM - 3:00 AM",
+            "Saturday": "7:00 PM - 3:00 AM"
+        },
+        "image_url": null
+    },
+    {
+        "name": "Munchen72",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 1:00 AM",
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 3:00 AM",
+            "Saturday": "10:00 AM - 3:00 AM",
+            "Sunday": "10:00 AM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/23/51/c3/photo3jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Medium Rare Comedy Club",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Comedy Clubs",
+        "operating_hours": {
+            "Tuesday": "6:30 PM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/00/02/dd/56/the-view-from-the-back.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe Capposecco",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/84/e7/15/eine-der-taglich-wechselnden.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Paradiso Tanzbar",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Friday": "10:00 PM - 5:00 AM",
+            "Saturday": "10:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/43/04/eb/paradiso-tanzbar-inside.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bei Otto",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/61/8a/af/alexander-haukde.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Backstage",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Concerts \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 1:00 AM",
+            "Tuesday": "6:00 PM - 1:00 AM",
+            "Wednesday": "6:00 PM - 1:00 AM",
+            "Thursday": "6:00 PM - 1:00 AM",
+            "Friday": "6:00 PM - 1:00 AM",
+            "Saturday": "3:00 PM - 3:00 AM",
+            "Sunday": "3:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0e/48/a8/img-20190830-202207-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "City Lounge",
+        "city": "Munich",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "English Garden",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c7/0b/16/3.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tierpark Hellabrunn",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos \u2022 Parks",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1a/23/6f/tierpark-hellabrunn.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Botanischer Garten M\u00fcnchen-Nymphenburg",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 6:00 PM",
+            "Friday": "9:00 AM - 6:00 PM",
+            "Saturday": "9:00 AM - 6:00 PM",
+            "Sunday": "9:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a6/95/58/botanischer-garten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Theresienwiese",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/56/ad/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Westpark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/6c/2d/ae/die-pagode-spiegelt-sich.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hofgarten",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c6/94/0c/diana-temple.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Flaucher",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water \u2022 Points of Interest & Landmarks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/2a/17/28/flaucher-beach.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "SEA LIFE Munich",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Aquariums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 5:00 PM",
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "9:00 AM - 6:00 PM",
+            "Sunday": "9:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/23/e4/2c/ryby.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ostpark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e3/db/4b/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Golfclub Schloss Egmating",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Hiking Trails \u2022 Golf Courses",
+        "operating_hours": {
+            "Monday": "8:00 AM - 6:00 PM",
+            "Tuesday": "8:00 AM - 6:00 PM",
+            "Wednesday": "8:00 AM - 6:00 PM",
+            "Thursday": "8:00 AM - 6:00 PM",
+            "Friday": "8:00 AM - 6:00 PM",
+            "Saturday": "8:00 AM - 6:00 PM",
+            "Sunday": "8:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/2e/3c/8f/golfanlage-schloss-egmating.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Alter Botanischer Garten",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c5/d0/16/neptune-fountain-in-old.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Luitpoldpark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/71/f4/b0/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Maximilian Park",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b3/bd/a2/photo4jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hermann Von Siemens Park",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/66/a4/db/zu-jeder-tageszeit-eine.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Feldmochinger See",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a9/a2/18/feldmochinger-see.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bavariapark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cc/32/db/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Isar",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
+    },
+    {
+        "name": "Pasinger Stadtpark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/4e/67/e2/pasinger-stadtpark.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Grunwaldpark",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": null
+    },
+    {
+        "name": "Kabinettsgarten",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4b/bb/5f/kabinettsgarten-en-munich.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Lerchenauer See",
+        "city": "Munich",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ec/8d/66/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_514a4eb91270c7f8e087"
+    }
+]

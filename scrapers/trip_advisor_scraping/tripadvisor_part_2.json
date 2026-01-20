@@ -1,0 +1,1251 @@
+[
+    {
+        "name": "Sammlung Boros",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/db/67/88/stunning-building.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "art4berlin GALERIE",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Galleries",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/47/b6/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Designpanoptikum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Thursday": "12:00 PM - 6:00 PM",
+            "Saturday": "12:00 PM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/51/22/57/designpanoptikum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Wall Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Tuesday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/88/e5/der-kalte-krieg-staniskaw.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Checkpoint Charlie Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 8:00 PM",
+            "Tuesday": "10:00 AM - 8:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/08/86/bb/view-from-ballon.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum Berggruen",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 4:00 PM",
+            "Tuesday": "9:00 AM - 4:00 PM",
+            "Wednesday": "9:00 AM - 4:00 PM",
+            "Thursday": "9:00 AM - 4:00 PM",
+            "Friday": "9:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b6/77/b4/museum-berggruen-staatliche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Neue Nationalgalerie",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d1/6e/26/la-facade-cote-sud-est.jpg?w=700&h=400&s=1&cx=1930&cy=2038&chk=v1_d9c59d00ff79c04d7a93"
+    },
+    {
+        "name": "Altes Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Wednesday": "10:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b3/a6/d6/altes-museum-staatliche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "The Story of Berlin",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 8:00 PM",
+            "Tuesday": "10:00 AM - 8:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 8:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e5/0e/c4/story-of-berlin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Allied Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Military Museums \u2022 History Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/73/6c/ab/war-plane.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Berlin Museum of Medical History of the Charite",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 5:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 5:00 PM",
+            "Friday": "10:00 AM - 5:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 5:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b1/f5/d1/i-am-a-neurologist-and.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Liebermann-Villa am Wannsee",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f3/40/8f/liebermann-villa-am-wannsee.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Neue Wache",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d4/3c/86/img-20180430-095939-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zeiss Gro\u00dfplanetarium",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "9:00 AM - 12:00 PM 1:00 PM - 5:00 PM",
+            "Wednesday": "9:00 AM - 12:00 PM 1:00 PM - 5:00 PM",
+            "Thursday": "9:00 AM - 12:00 PM 1:00 PM - 5:00 PM",
+            "Friday": "9:00 AM - 12:00 PM 1:00 PM - 9:30 PM",
+            "Saturday": "2:30 PM - 9:00 PM",
+            "Sunday": "2:30 PM - 9:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/43/18/51/zeiss-gross-planetarium.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Science Center Spectrum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Science Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bc/9e/92/science-center-spectrum.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "MACHmit! Museum f\u00fcr Kinder",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Children's Museums",
+        "operating_hours": {
+            "Wednesday": "2:00 PM - 6:00 PM",
+            "Thursday": "2:00 PM - 6:00 PM",
+            "Friday": "2:00 PM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/07/ee/bd/machmit-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deutsche Kinemathek",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/17/8c/e2/neues-quartier-fur-die.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Gropius Bau",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Architectural Buildings \u2022 Art Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 7:00 PM",
+            "Wednesday": "10:00 AM - 7:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "10:00 AM - 7:00 PM",
+            "Saturday": "10:00 AM - 7:00 PM",
+            "Sunday": "10:00 AM - 7:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/84/42/c4/gropius-bau.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Anne Frank Zentrum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/15/0e/dauerausstellung-des.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Museum Nikolai Church",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Architectural Buildings \u2022 History Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "10:00 AM - 6:00 PM",
+            "Sunday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f2/8f/10/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Humboldt Forum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "10:00 AM - 8:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 10:00 PM",
+            "Saturday": "10:00 AM - 10:00 PM",
+            "Sunday": "10:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/1d/c3/44/schluterhof-c-foto-von.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hamburger Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Art Museums",
+        "operating_hours": {
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 6:00 PM",
+            "Saturday": "11:00 AM - 6:00 PM",
+            "Sunday": "11:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b6/55/ad/hamburger-bahnhof-staatliche.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "David Hasselhoff Museum",
+        "city": "Berlin",
+        "attraction_type": "Museums",
+        "spec_type": "Speciality Museums",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/9d/83/c4/david-hasselhoff-museum.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "KitKatClub",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 7:00 AM 10:00 PM - 12:00 AM",
+            "Tuesday": "12:00 AM - 7:00 AM 10:00 PM - 12:00 AM",
+            "Wednesday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Thursday": "12:00 AM - 7:00 AM 10:00 PM - 12:00 AM",
+            "Friday": "12:00 AM - 6:00 AM 8:00 PM - 12:00 AM",
+            "Saturday": "12:00 AM - 9:00 AM 8:00 PM - 12:00 AM",
+            "Sunday": "12:00 AM - 5:00 AM 10:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/1e/65/c0/kitkatklub.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Berghain",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "12:00 AM - 6:00 AM",
+            "Friday": "10:00 PM - 12:00 AM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d2/de/2d/berghain.jpg?w=600&h=-1&s=1"
+    },
+    {
+        "name": "Ramones Museum",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Speciality Museums \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Monday": "4:00 PM - 11:00 PM",
+            "Tuesday": "4:00 PM - 11:00 PM",
+            "Wednesday": "4:00 PM - 11:00 PM",
+            "Thursday": "4:00 PM - 11:00 PM",
+            "Friday": "4:00 PM - 1:00 AM",
+            "Saturday": "12:00 PM - 1:00 AM",
+            "Sunday": "12:00 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/56/d9/e6/photo2jpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Boiler",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Gay Bars \u2022 Spas",
+        "operating_hours": {
+            "Monday": "12:00 PM - 12:00 AM 12:00 PM - 6:00 AM",
+            "Tuesday": "12:00 PM - 12:00 AM 12:00 PM - 6:00 AM",
+            "Wednesday": "12:00 PM - 12:00 AM 12:00 PM - 6:00 AM",
+            "Thursday": "12:00 PM - 12:00 AM 12:00 PM - 6:00 AM",
+            "Friday": "12:00 PM - 12:00 AM 12:00 PM - 6:00 AM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/76/7a/ec/der-boiler.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Berlin Icebar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "3:00 PM - 12:00 AM",
+            "Tuesday": "3:00 PM - 12:00 AM",
+            "Wednesday": "3:00 PM - 12:00 AM",
+            "Thursday": "3:00 PM - 12:00 AM",
+            "Friday": "3:00 PM - 12:00 AM",
+            "Saturday": "2:00 PM - 12:00 AM",
+            "Sunday": "2:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ae/0f/9b/cheers-with-your-friends.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Badeschiff",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Points of Interest & Landmarks \u2022 Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/03/c7/3c/beach-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cosmic Comedy Club Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Comedy Clubs",
+        "operating_hours": {
+            "Thursday": "7:00 PM - 1:00 AM",
+            "Friday": "7:00 PM - 1:00 AM",
+            "Saturday": "7:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3a/15/b6/img-20180301-210903r.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Holzmarkt 25",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Theaters",
+        "operating_hours": {
+            "Monday": "8:00 AM - 10:00 PM",
+            "Tuesday": "8:00 AM - 10:00 PM",
+            "Wednesday": "8:00 AM - 10:00 PM",
+            "Thursday": "8:00 AM - 10:00 PM",
+            "Friday": "8:00 AM - 11:30 PM",
+            "Saturday": "8:00 AM - 11:30 PM",
+            "Sunday": "8:00 AM - 10:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5c/15/bd/holzmarkt-25.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Laughing Spree Comedy",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Comedy Clubs",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 11:00 PM",
+            "Thursday": "7:00 PM - 11:00 PM",
+            "Sunday": "7:00 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/af/84/81/happy-people.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cl\u00e4rchens Ballhaus",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Dance Clubs & Discos",
+        "operating_hours": {
+            "Thursday": "5:00 PM - 12:00 AM",
+            "Friday": "5:00 PM - 12:00 AM",
+            "Saturday": "5:00 PM - 12:00 AM",
+            "Sunday": "5:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e7/8c/b9/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tresor",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "11:00 PM - 12:00 AM",
+            "Thursday": "12:00 AM - 9:00 AM 11:00 PM - 12:00 AM",
+            "Friday": "12:00 AM - 9:00 AM 11:00 PM - 12:00 AM",
+            "Saturday": "12:00 AM - 12:00 PM 11:00 PM - 12:00 AM",
+            "Sunday": "12:00 AM - 12:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/6b/30/cb/filename-1f6q0048s-jpg.jpg?w=600&h=400&s=1"
+    },
+    {
+        "name": "Klunkerkranich",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "4:00 PM - 2:00 AM",
+            "Friday": "4:00 PM - 3:00 AM",
+            "Saturday": "4:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/6d/be/a8/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Klo",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "7:00 PM - 1:30 AM",
+            "Tuesday": "7:00 PM - 1:30 AM",
+            "Wednesday": "7:00 PM - 1:30 AM",
+            "Thursday": "7:00 PM - 1:30 AM",
+            "Friday": "7:00 PM - 2:30 AM",
+            "Saturday": "7:00 PM - 2:30 AM",
+            "Sunday": "7:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/54/79/c6/img-20160214-193645-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Maxxim Club Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "10:30 PM - 5:00 AM",
+            "Tuesday": "7:00 PM - 3:00 AM",
+            "Wednesday": "10:30 PM - 5:00 AM",
+            "Thursday": "10:30 PM - 5:00 AM",
+            "Friday": "10:30 PM - 6:00 AM",
+            "Saturday": "10:30 PM - 6:00 AM",
+            "Sunday": "10:30 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8f/19/1f/maxxim-club-berlin-wwwmaxxim.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Matrix Club Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Tuesday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Wednesday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Thursday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Friday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Saturday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM",
+            "Sunday": "12:00 AM - 6:00 AM 10:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/dc/d9/a0/party-every-night.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Meisterschueler",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Art Galleries \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 4:00 AM",
+            "Tuesday": "6:00 PM - 4:00 AM",
+            "Wednesday": "6:00 PM - 4:00 AM",
+            "Thursday": "6:00 PM - 4:00 AM",
+            "Friday": "6:00 PM - 4:00 AM",
+            "Saturday": "6:00 PM - 4:00 AM",
+            "Sunday": "6:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e3/d7/4a/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mampe Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Distilleries \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Monday": "10:00 AM - 6:00 PM",
+            "Tuesday": "10:00 AM - 6:00 PM",
+            "Wednesday": "10:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "10:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/be/74/63/das-herzstuck-unserer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Prinzknecht",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Gay Bars",
+        "operating_hours": {
+            "Monday": "3:00 PM - 2:00 AM",
+            "Tuesday": "3:00 PM - 2:00 AM",
+            "Wednesday": "3:00 PM - 2:00 AM",
+            "Thursday": "3:00 PM - 2:00 AM",
+            "Friday": "3:00 PM - 3:00 AM",
+            "Saturday": "3:00 PM - 3:00 AM",
+            "Sunday": "3:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/23/fa/33/prinzknecht.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Quatsch Comedy Club",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Theaters \u2022 Comedy Clubs",
+        "operating_hours": {
+            "Thursday": "7:00 PM - 10:00 PM",
+            "Friday": "7:00 PM - 10:00 PM",
+            "Saturday": "6:00 PM - 11:00 PM",
+            "Sunday": "6:00 PM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/27/e4/d7/der-quatsch-comedy-club.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zig Zag Jazz Club Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": {
+            "Tuesday": "8:00 PM - 12:00 AM",
+            "Wednesday": "8:00 PM - 12:00 AM",
+            "Thursday": "8:00 PM - 12:00 AM",
+            "Friday": "8:00 AM - 12:30 AM",
+            "Saturday": "8:00 AM - 12:30 AM",
+            "Sunday": "8:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7f/be/74/berlin-zig-zag-jazz-club.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kleine Nachtrevue",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Friday": "7:00 PM - 11:00 PM",
+            "Saturday": "7:00 PM - 11:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/27/cc/70/kleine-nachtrevue-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Cafe Wintergarten in Literaturhaus Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Speciality & Gift Shops \u2022 Coffeehouses",
+        "operating_hours": {
+            "Monday": "9:00 AM - 12:00 AM",
+            "Tuesday": "9:00 AM - 12:00 AM",
+            "Wednesday": "9:00 AM - 12:00 AM",
+            "Thursday": "9:00 AM - 12:00 AM",
+            "Friday": "9:00 AM - 12:00 AM",
+            "Saturday": "9:00 AM - 12:00 AM",
+            "Sunday": "9:00 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/37/f7/68/cafe-wintergarten-in.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Newton Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 PM - 2:00 PM",
+            "Tuesday": "12:00 PM - 2:00 PM",
+            "Wednesday": "12:00 PM - 2:00 PM",
+            "Thursday": "12:00 PM - 2:00 PM",
+            "Friday": "12:00 PM - 3:00 AM",
+            "Saturday": "12:00 PM - 3:00 AM",
+            "Sunday": "12:00 PM - 2:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e7/3d/dc/bar-mit-allen-flaschen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hafenbar Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Friday": "9:00 PM - 5:00 AM",
+            "Saturday": "9:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/c3/7e/14/hafenbar-berlin-hauptbar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rheingauer Weinbrunnen",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/47/c4/4b/rheingauer-weinbrunnen.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Minimal Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 6:00 AM",
+            "Tuesday": "6:00 PM - 6:00 AM",
+            "Wednesday": "6:00 PM - 6:00 AM",
+            "Thursday": "6:00 PM - 6:00 AM",
+            "Friday": "6:00 PM - 6:00 AM",
+            "Saturday": "6:00 PM - 6:00 AM",
+            "Sunday": "6:00 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ed/4e/8f/view-from-dance-floor.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "B-Flat",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Jazz Bars",
+        "operating_hours": {
+            "Monday": "8:00 PM - 2:00 AM",
+            "Tuesday": "8:00 PM - 2:00 AM",
+            "Wednesday": "8:00 PM - 2:00 AM",
+            "Thursday": "8:00 PM - 2:00 AM",
+            "Friday": "8:00 PM - 2:00 AM",
+            "Saturday": "8:00 PM - 2:00 AM",
+            "Sunday": "8:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a9/39/32/robins-nest-jam-session.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kara Kas Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "5:00 PM - 11:30 PM",
+            "Tuesday": "5:00 PM - 11:30 PM",
+            "Wednesday": "5:00 PM - 11:30 PM",
+            "Thursday": "5:00 PM - 11:30 PM",
+            "Friday": "5:00 PM - 2:30 AM",
+            "Saturday": "5:00 PM - 2:30 AM",
+            "Sunday": "5:00 PM - 11:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/70/a8/4f/wir-haben-alles.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "A-Trane",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Jazz Bars",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/d5/23/10/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Sisyphos",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "12:00 AM - 10:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/95/a1/5d/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bei Schlawinchen",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/63/11/d6/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Ritter Butzke",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Friday": "10:00 PM - 9:00 AM",
+            "Saturday": "10:00 PM - 9:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/02/dc/54/innenhof.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar Tausend",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ba/53/e4/club.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Suicide Circus",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "11:00 PM - 7:00 AM",
+            "Friday": "11:00 PM - 9:00 AM",
+            "Saturday": "11:00 PM - 9:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/06/38/a8/suicide-circus.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Anomalie Art club",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Art Galleries \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Friday": "11:00 PM - 10:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/07/ce/08/club-before-it-started.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Clash",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/8e/4f/56/20160816-212508-largejpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Badfish Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 5:00 AM",
+            "Tuesday": "5:00 PM - 5:00 AM",
+            "Wednesday": "5:00 PM - 5:00 AM",
+            "Thursday": "5:00 PM - 5:00 AM",
+            "Friday": "5:00 PM - 5:00 AM",
+            "Saturday": "5:00 PM - 5:00 AM",
+            "Sunday": "5:00 PM - 5:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/d3/a2/19/badfish-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "RAW Tempel Nightclub",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/57/b5/2b/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b210becf5cd9edf83cbc"
+    },
+    {
+        "name": "Alternative Berlin Tours",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "City Tours \u2022 Bar, Club & Pub Tours",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/31/8b/38/amazing-street-art-graffiti.jpg?w=600&h=-1&s=1"
+    },
+    {
+        "name": "Kater",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/25/1e/59/kater-blau.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Rock Cafe, Halford",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c5/67/79/dentro-do-local.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Hackbarth's",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Neighborhoods \u2022 Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a0/f7/d2/ta-img-20190522-201544.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Crack Bellmer",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "7:00 PM - 3:00 AM",
+            "Wednesday": "7:00 PM - 3:00 AM",
+            "Thursday": "7:00 PM - 6:00 AM",
+            "Friday": "7:00 PM - 6:00 AM",
+            "Saturday": "7:00 PM - 6:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b6/18/53/crack-bellmer.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Deck 5",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fe/d3/ac/bei-einem-kuhlen-getrank.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Stairs Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Cigar Bars",
+        "operating_hours": {
+            "Tuesday": "5:00 PM - 1:00 AM",
+            "Wednesday": "5:00 PM - 1:00 AM",
+            "Thursday": "5:00 PM - 1:00 AM",
+            "Friday": "5:00 PM - 1:00 AM",
+            "Saturday": "5:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/39/aa/a7/bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Madame Claude Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4b/3d/d1/20191210-224339-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Monster Ronsons Ichiban Karaoke",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 4:00 AM",
+            "Tuesday": "6:00 PM - 4:00 AM",
+            "Wednesday": "6:00 PM - 4:00 AM",
+            "Thursday": "6:00 PM - 4:00 AM",
+            "Friday": "6:00 PM - 6:00 AM",
+            "Saturday": "6:00 PM - 6:00 AM",
+            "Sunday": "6:00 PM - 4:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b1/45/f3/20170221-213018-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Limonadier",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "6:00 PM - 2:00 AM",
+            "Tuesday": "6:00 PM - 2:00 AM",
+            "Wednesday": "6:00 PM - 2:00 AM",
+            "Thursday": "6:00 PM - 2:00 AM",
+            "Friday": "6:00 PM - 3:00 AM",
+            "Saturday": "6:00 PM - 3:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/4e/ac/good-lemonades.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Knutschfleck",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Tuesday": "12:00 AM - 3:00 AM 6:00 PM - 12:00 AM",
+            "Thursday": "12:00 AM - 3:00 AM 6:00 PM - 4:00 AM",
+            "Friday": "6:00 PM - 4:00 AM",
+            "Saturday": "6:00 PM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ba/62/bf/knutschfleck-berlin-eventlocat.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Panorama Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+        "operating_hours": {
+            "Monday": "12:00 AM - 6:00 AM",
+            "Friday": "10:00 AM - 12:00 AM",
+            "Saturday": "12:00 AM - 6:00 AM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/cc/79/c4/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mad Monkey Room",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs \u2022 Cabarets",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/43/e6/03/getlstd-property-photo.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Bar Zentral",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "5:00 PM - 2:00 AM",
+            "Tuesday": "5:00 PM - 2:00 AM",
+            "Wednesday": "5:00 PM - 2:00 AM",
+            "Thursday": "5:00 PM - 2:00 AM",
+            "Friday": "5:00 PM - 3:00 AM",
+            "Saturday": "5:00 PM - 3:00 AM",
+            "Sunday": "5:00 PM - 2:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4a/e1/b4/20190713-020923-largejpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wilde Renate",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Thursday": "11:55 PM - 8:00 AM",
+            "Friday": "10:00 PM - 11:00 AM",
+            "Saturday": "8:00 PM - 11:00 AM",
+            "Sunday": "8:00 PM - 11:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a8/2c/74/the-outside-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Charlie's Beach",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Monday": "11:00 AM - 11:00 PM",
+            "Tuesday": "11:00 AM - 11:00 PM",
+            "Wednesday": "11:00 AM - 11:00 PM",
+            "Thursday": "11:00 AM - 11:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "11:00 AM - 11:00 PM",
+            "Sunday": "11:00 AM - 11:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/27/f8/8a/great-beach-area.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "SchwuZ",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/87/88/7b/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_a0668b7d46372cf4f87e"
+    },
+    {
+        "name": "Avarus",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": {
+            "Wednesday": "6:00 PM - 12:00 AM",
+            "Thursday": "8:00 PM - 2:00 AM",
+            "Friday": "8:00 PM - 3:00 AM",
+            "Saturday": "8:00 PM - 4:00 AM",
+            "Sunday": "6:00 PM - 1:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/28/fe/70/the-bar-the-best-place.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Lane7 Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bowling Alleys \u2022 Bars & Clubs",
+        "operating_hours": {
+            "Monday": "3:00 PM - 12:00 AM",
+            "Tuesday": "3:00 PM - 12:00 AM",
+            "Wednesday": "3:00 PM - 12:00 AM",
+            "Thursday": "3:00 PM - 12:00 AM",
+            "Friday": "12:00 PM - 2:00 AM",
+            "Saturday": "11:00 AM - 2:00 AM",
+            "Sunday": "11:00 AM - 12:00 AM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/83/6e/2a/photo-only.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Flow Bar Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/dc/e4/5e/caption.jpg?w=200&h=200&s=1&cx=700&cy=525&chk=v1_af52af92bc85a4baee93"
+    },
+    {
+        "name": "Ballhaus Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Dance Clubs & Discos",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/07/2c/8d/ballhaus-berlin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Lang Bar",
+        "city": "Berlin",
+        "attraction_type": "Nightlife",
+        "spec_type": "Bars & Clubs",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a1/14/5e/lang-bar.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Zoo Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos \u2022 Aquariums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 6:30 PM",
+            "Tuesday": "9:00 AM - 6:30 PM",
+            "Wednesday": "9:00 AM - 6:30 PM",
+            "Thursday": "9:00 AM - 6:30 PM",
+            "Friday": "9:00 AM - 6:30 PM",
+            "Saturday": "9:00 AM - 6:30 PM",
+            "Sunday": "9:00 AM - 6:30 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/35/64/66/zoo-berlin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tiergarten",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Gardens",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3e/be/2c/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Kurf\u00fcrstendamm",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/a5/c9/e6/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Treptower Park",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "12:00 AM - 11:59 PM",
+            "Tuesday": "12:00 AM - 11:59 PM",
+            "Wednesday": "12:00 AM - 11:59 PM",
+            "Thursday": "12:00 AM - 11:59 PM",
+            "Friday": "12:00 AM - 11:59 PM",
+            "Saturday": "12:00 AM - 11:59 PM",
+            "Sunday": "12:00 AM - 11:59 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9e/77/94/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "G\u00e4rten der Welt",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks \u2022 Gardens",
+        "operating_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 6:00 PM",
+            "Friday": "9:00 AM - 6:00 PM",
+            "Saturday": "9:00 AM - 6:00 PM",
+            "Sunday": "9:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/1c/fc/chinesischer-garten.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Mauerpark",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Lookouts",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/25/fa/98/mauerpark.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tempelhofer Feld",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ee/48/ea/photo0jpg.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Tierpark Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Zoos",
+        "operating_hours": {
+            "Monday": "9:00 AM - 4:00 PM",
+            "Tuesday": "9:00 AM - 4:00 PM",
+            "Wednesday": "9:00 AM - 4:00 PM",
+            "Thursday": "9:00 AM - 4:00 PM",
+            "Friday": "9:00 AM - 4:00 PM",
+            "Saturday": "9:00 AM - 4:00 PM",
+            "Sunday": "9:00 AM - 4:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3b/4b/3a/caption.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Botanischen Gartens und Botanischen Museums Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "11:00 AM - 8:00 PM",
+            "Tuesday": "9:00 AM - 8:00 PM",
+            "Wednesday": "9:00 AM - 8:00 PM",
+            "Thursday": "9:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 8:00 PM",
+            "Saturday": "9:00 AM - 8:00 PM",
+            "Sunday": "9:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e8/e9/07/botanischer-garten-berlin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Aquarium Berlin",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Aquariums",
+        "operating_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 6:00 PM",
+            "Friday": "9:00 AM - 6:00 PM",
+            "Saturday": "9:00 AM - 6:00 PM",
+            "Sunday": "9:00 AM - 6:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/35/6a/43/aquarium-berlin.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Pfaueninsel",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Points of Interest & Landmarks \u2022 Islands",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/30/06/19/pfaueninsel-park-peacock.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Wannsee Lake",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Bodies of Water",
+        "operating_hours": null,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/62/cb/95/wannseerundfahrt.jpg?w=700&h=400&s=1"
+    },
+    {
+        "name": "Britzer Garten",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Parks",
+        "operating_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 6:00 PM",
+            "Friday": "9:00 AM - 6:00 PM",
+            "Saturday": "9:00 AM - 8:00 PM",
+            "Sunday": "9:00 AM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/de/ba/0a/dsc-0807-largejpg.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "name": "Strandbad Wannsee",
+        "city": "Berlin",
+        "attraction_type": "Nature & Parks",
+        "spec_type": "Beaches",
+        "operating_hours": {
+            "Monday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Tuesday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Wednesday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Thursday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Friday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Saturday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM",
+            "Sunday": "9:00 AM - 2:00 PM 3:00 PM - 8:00 PM"
+        },
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9e/9a/68/photo0jpg.jpg?w=700&h=400&s=1"
+    }
+]
