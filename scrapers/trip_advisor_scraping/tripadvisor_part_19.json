@@ -13,7 +13,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/23/13/23/kohleflora-in-den-pflanzenscha.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/23/13/23/kohleflora-in-den-pflanzenscha.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Westfalenpark",
@@ -29,7 +31,9 @@
             "Saturday": "9:00 AM - 9:00 PM",
             "Sunday": "9:00 AM - 9:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9a/c6/e0/impressionen-aus-dem.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9a/c6/e0/impressionen-aus-dem.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Phoenix See",
@@ -37,7 +41,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Bodies of Water",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/05/eb/lake.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/05/eb/lake.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Zoo Dortmund",
@@ -53,7 +59,9 @@
             "Saturday": "9:00 AM - 6:30 PM",
             "Sunday": "9:00 AM - 6:30 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/44/6c/c2/zwergotter-futtern-flusskrebse.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/44/6c/c2/zwergotter-futtern-flusskrebse.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Fredenbaumpark",
@@ -69,10 +77,12 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c4/e2/44/20181215-211911-largejpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c4/e2/44/20181215-211911-largejpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Wahrscheinlich L\u00e4ngste Wippe Der Welt",
+        "name": "Wahrscheinlich Längste Wippe Der Welt",
         "city": "Dortmund",
         "attraction_type": "Nature & Parks",
         "spec_type": "Playgrounds",
@@ -85,7 +95,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/96/c2/17/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/96/c2/17/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Galopprennbahn Dortmund",
@@ -93,10 +105,12 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Equestrian Trails",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a7/3f/63/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a7/3f/63/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
-        "name": "Ruhrsteilh\u00e4nge Hohensyburg",
+        "name": "Ruhrsteilhänge Hohensyburg",
         "city": "Dortmund",
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
@@ -109,7 +123,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/49/51/ruhrsteilhange-hohensyburg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/49/51/ruhrsteilhange-hohensyburg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Monkey Town Dortmund",
@@ -125,7 +141,9 @@
             "Saturday": "9:00 AM - 8:00 PM",
             "Sunday": "9:00 AM - 7:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d9/01/41/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d9/01/41/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Miniplanet Wunderland Dortmund",
@@ -133,15 +151,19 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
-        "name": "Kleing\u00e4rtnerverein Fritz Hen\u00dfler",
+        "name": "Kleingärtnerverein Fritz Henßler",
         "city": "Dortmund",
         "attraction_type": "Nature & Parks",
         "spec_type": "Zoos",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Bikepark Aplerbeck",
@@ -149,7 +171,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Stollen Park",
@@ -157,7 +181,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "40. Adac Supercross 2025",
@@ -169,7 +195,9 @@
             "Saturday": "7:00 PM - 10:30 PM",
             "Sunday": "2:00 PM - 5:30 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "name": "Skatehalle Dortmund",
@@ -177,7 +205,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Gartenverein Gildenpark",
@@ -185,7 +215,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Indupark",
@@ -193,7 +225,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/d0/09/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Hundewiese Am Volksgarten Mengede",
@@ -201,15 +235,19 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Drei B\u00e4ume Park",
+        "name": "Drei Bäume Park",
         "city": "Dortmund",
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Galerie Torfhaus",
@@ -217,7 +255,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Experience Fredenbaum - Big Tipi",
@@ -225,7 +265,9 @@
         "attraction_type": "Nature & Parks",
         "spec_type": "Parks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/2a/88/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Zeche Zollverein Essen",
@@ -233,10 +275,12 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Historic Sites",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/43/55/e3/photo0jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/43/55/e3/photo0jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Villa H\u00fcgel",
+        "name": "Villa Hügel",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings",
@@ -248,7 +292,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/16/bd/2f/villa-hugel.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/16/bd/2f/villa-hugel.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Old Town Kettwig",
@@ -256,7 +302,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2e/94/82/kettwig.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2e/94/82/kettwig.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Siedlung Margarethenhohe",
@@ -264,7 +312,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/4d/40/ad/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/4d/40/ad/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Philharmonie Essen",
@@ -272,7 +322,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings \u2022 Theaters",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/35/5f/b0/alfried-krupp-saal.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/35/5f/b0/alfried-krupp-saal.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Old Town Werden",
@@ -280,7 +332,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/80/70/werdener-altstadt.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/80/70/werdener-altstadt.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Aalto-Theater",
@@ -288,7 +342,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings \u2022 Theaters",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/5f/de/52/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/5f/de/52/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "name": "Ruttenscheiderstrasse",
@@ -296,7 +352,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/5b/ad/ruttenscheiderstrasse.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/5b/ad/ruttenscheiderstrasse.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Daytona Kartbahn",
@@ -311,10 +369,12 @@
             "Friday": "3:00 PM - 11:00 PM",
             "Sunday": "3:00 PM - 11:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/31/6a/84/daytona-kartbahn.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/31/6a/84/daytona-kartbahn.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
-        "name": "Alte Synagoge - Haus J\u00fcdischer Kultur",
+        "name": "Alte Synagoge - Haus Jüdischer Kultur",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
@@ -326,7 +386,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3e/a7/a5/synagoge-von-aussen-am.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3e/a7/a5/synagoge-von-aussen-am.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Essener Dom",
@@ -334,7 +396,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b1/4b/c2/essener-dom.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b1/4b/c2/essener-dom.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Schloss Borbeck",
@@ -349,7 +413,9 @@
             "Saturday": "11:00 AM - 10:00 PM",
             "Sunday": "11:00 AM - 10:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/41/c6/c6/schloss-borbeck-ansicht.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/41/c6/c6/schloss-borbeck-ansicht.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Thyssen Krupp Hauptquartier",
@@ -357,7 +423,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/8e/ae/modern.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/8e/ae/modern.jpg?w=600&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Ronald McDonald Haus",
@@ -365,7 +433,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Architectural Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/1a/2b/haus.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/1a/2b/haus.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kettwigerstrasse",
@@ -373,7 +443,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d4/93/ea/kettwiger-strasse.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d4/93/ea/kettwiger-strasse.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Glockenspiel am Deiterhaus",
@@ -381,7 +453,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/4b/a0/ec/glockenspiel-am-deiterhaus.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/4b/a0/ec/glockenspiel-am-deiterhaus.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Burgruine Isenburg",
@@ -389,7 +463,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/d1/6b/28/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/d1/6b/28/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "RWE Tower",
@@ -397,7 +473,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Observation Decks & Towers",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9e/fc/cf/rwe-turm.jpg?w=600&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9e/fc/cf/rwe-turm.jpg?w=600&h=-1&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Schellenberg Castle",
@@ -405,7 +483,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Castles",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3c/0a/45/schloss-schellenberg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3c/0a/45/schloss-schellenberg.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Amerikahaus",
@@ -413,7 +493,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ad/be/ab/caption.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ad/be/ab/caption.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "St. Ludgerus",
@@ -429,7 +511,9 @@
             "Saturday": "9:00 AM - 6:00 PM",
             "Sunday": "9:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/92/51/22/die-basilika-st-ludgerus.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/92/51/22/die-basilika-st-ludgerus.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Folkwang University of the Arts",
@@ -437,7 +521,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/55/da/e1/folkwang-university-of.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/55/da/e1/folkwang-university-of.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Rathaus",
@@ -445,7 +531,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9b/62/29/rathaus.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9b/62/29/rathaus.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Zeche Carl",
@@ -453,7 +541,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Civic Centres",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f3/ba/72/getlstd-property-photo.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f3/ba/72/getlstd-property-photo.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Steile Lagerung",
@@ -461,7 +551,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3b/a5/d7/steile-lagerung-essen.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3b/a5/d7/steile-lagerung-essen.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kreuzeskirche",
@@ -473,7 +565,9 @@
             "Saturday": "11:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 2:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d8/cd/5e/20190608-195354-largejpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d8/cd/5e/20190608-195354-largejpg.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "St. Johann Baptist, Altenessen",
@@ -481,7 +575,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c8/7d/d1/st-johann-baptist.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c8/7d/d1/st-johann-baptist.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Marktkirche",
@@ -489,15 +585,19 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/89/05/marktkirche.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/89/05/marktkirche.jpg?w=600&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Erl\u00f6serkirche Essen.",
+        "name": "Erlöserkirche Essen.",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/86/41/erloserkirche-konzert.jpg?w=500&h=300&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/47/86/41/erloserkirche-konzert.jpg?w=500&h=300&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Krauter- und Heilpflanzengarten",
@@ -505,7 +605,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Gardens",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/54/d6/estatua-na-entrada-para.jpg?w=500&h=300&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/57/54/d6/estatua-na-entrada-para.jpg?w=500&h=300&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Goldene Madonna",
@@ -513,7 +615,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/95/54/e2/espaco-reservado.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/95/54/e2/espaco-reservado.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Sankt Lucius Kirche",
@@ -521,7 +625,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/60/f3/3f/st-lucius-kirche.jpg?w=700&h=-1&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/60/f3/3f/st-lucius-kirche.jpg?w=700&h=-1&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Evangelische Kirchengemeinde Kettwig",
@@ -531,7 +637,9 @@
         "operating_hours": {
             "Thursday": "2:00 PM - 4:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7f/33/76/auf-dem-weg-zur-kirche.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7f/33/76/auf-dem-weg-zur-kirche.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kaiser-Wilhelm-Denkmal",
@@ -539,7 +647,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/5f/f4/keizer-wilhelm-met-op.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/5f/f4/keizer-wilhelm-met-op.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Evangelische Kirche Werden",
@@ -547,7 +657,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/30/72/7b/evangelische-kirche-werden.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/30/72/7b/evangelische-kirche-werden.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Pfarrkirche St. Nikolas Am Stoppenberg",
@@ -560,7 +672,9 @@
             "Thursday": "3:00 PM - 5:00 PM",
             "Friday": "10:00 AM - 12:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/33/f4/pfarrkirche-st-nikolas.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/33/f4/pfarrkirche-st-nikolas.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Flachsmarkt",
@@ -568,7 +682,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/cf/39/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/cf/39/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Burg Altendorf",
@@ -579,7 +695,9 @@
             "Saturday": "3:00 PM - 5:00 PM",
             "Sunday": "3:00 PM - 5:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Gemeinde St. Bonifatius",
@@ -587,7 +705,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": null
+        "image_url": null,
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Alter Werdener Friedhof",
@@ -595,10 +715,12 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Cemeteries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/13/b1/3a/parkansicht.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/13/b1/3a/parkansicht.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Wachsames H\u00e4hnchen",
+        "name": "Wachsames Hähnchen",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
@@ -611,7 +733,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/df/64/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/df/64/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Alfred-krupp-denkmal",
@@ -627,7 +751,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/e6/b2/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/e6/b2/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Romanisches Haus",
@@ -635,7 +761,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Architectural Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Buergermeisterhaus",
@@ -643,7 +771,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Architectural Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Sphinx statue",
@@ -651,15 +781,19 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b8/60/1b/posagi-sfinksow-przed.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b8/60/1b/posagi-sfinksow-przed.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Brunnen Font\u00e4nengasse (lichtbogen)",
+        "name": "Brunnen Fontänengasse (lichtbogen)",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Fountains",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d1/16/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d1/16/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Ruine St. Clements-Kirche",
@@ -667,10 +801,12 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Ancient Ruins",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Skulptur Uranus Von Markus L\u00fcpertz",
+        "name": "Skulptur Uranus Von Markus Lüpertz",
         "city": "Essen",
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
@@ -683,7 +819,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Weberhaus",
@@ -691,7 +829,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Architectural Buildings",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Monument to Friedrich Alfred Krupp",
@@ -699,7 +839,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/bd/44/3d/pomnik-friedricha-alfreda.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/bd/44/3d/pomnik-friedricha-alfreda.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Thomaskirche",
@@ -707,7 +849,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Churches & Cathedrals",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/d7/71/thomaskirche.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/d7/71/thomaskirche.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Ludgerusbrunnen",
@@ -715,7 +859,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks \u2022 Fountains",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Statue of Alfred Krupp",
@@ -723,7 +869,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b6/15/86/pomnik-alfreda-kruppa.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b6/15/86/pomnik-alfreda-kruppa.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Denkmal Bischof Hengsbach",
@@ -739,7 +887,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/ae/2e/denkmal-bischof-hengsbach.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6d/ae/2e/denkmal-bischof-hengsbach.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Charlie & Lu - Kids Fashion Store",
@@ -754,7 +904,9 @@
             "Friday": "10:00 AM - 6:00 PM",
             "Saturday": "10:00 AM - 3:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Burgplatz",
@@ -762,7 +914,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d3/be/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d3/be/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Schiffspropeller Schnelldampfer Europa",
@@ -770,7 +924,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Monuments & Statues",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b5/f9/7e/widok-przez-srube-napedowa.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b5/f9/7e/widok-przez-srube-napedowa.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Friedenplatz",
@@ -778,7 +934,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d5/c3/caption.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/d5/c3/caption.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Regattaturm Essen",
@@ -786,7 +944,9 @@
         "attraction_type": "Sights & Landmarks",
         "spec_type": "Points of Interest & Landmarks",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Museum Folkwang",
@@ -801,7 +961,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d8/51/2b/museum-folkwang.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d8/51/2b/museum-folkwang.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Red Dot Design Museum",
@@ -816,7 +978,9 @@
             "Saturday": "11:00 AM - 6:00 PM",
             "Sunday": "11:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/40/3a/46/red-dot-design-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/40/3a/46/red-dot-design-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Ruhr Museum",
@@ -832,7 +996,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/80/c8/77/aussenansicht-ruhr-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/80/c8/77/aussenansicht-ruhr-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Hespertalbahn Museumseisenbahn Essen",
@@ -840,7 +1006,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums \u2022 Game & Entertainment Centers",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/12/09/38/hespertalbahn-museumseisenbahn.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/12/09/38/hespertalbahn-museumseisenbahn.jpg?w=700&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "name": "Mineralien Museum",
@@ -855,7 +1023,9 @@
             "Saturday": "10:00 AM - 6:00 PM",
             "Sunday": "10:00 AM - 6:00 PM"
         },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d1/22/36/photo6jpg.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d1/22/36/photo6jpg.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Dom-Schatzkammer",
@@ -863,7 +1033,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/ad/f3/b6/aussenansicht.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/ad/f3/b6/aussenansicht.jpg?w=600&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Soul of Africa Museum",
@@ -871,7 +1043,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums \u2022 History Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a8/2f/19/soul-of-africa-museum.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a8/2f/19/soul-of-africa-museum.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Oktorail",
@@ -879,7 +1053,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/86/8f/oktorail.jpg?w=700&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/86/8f/oktorail.jpg?w=700&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Halbachhammer",
@@ -887,7 +1063,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ed/db/37/halbachhammer.jpg?w=600&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ed/db/37/halbachhammer.jpg?w=600&h=400&s=1",
+        "location_setting": "outdoor",
+        "budget_tier": "free"
     },
     {
         "name": "Museum Of Art",
@@ -903,7 +1081,9 @@
             "Saturday": "12:00 AM - 11:59 PM",
             "Sunday": "12:00 AM - 11:59 PM"
         },
-        "image_url": null
+        "image_url": null,
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Colmar Schulte-goltz",
@@ -911,7 +1091,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Yes. Baby",
@@ -919,7 +1101,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kunsthaus",
@@ -927,7 +1111,9 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Kunstverein Ruhr",
@@ -935,15 +1121,19 @@
         "attraction_type": "Museums",
         "spec_type": "Art Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
-        "name": "Sanit\u00e4tshaus G. Morant",
+        "name": "Sanitätshaus G. Morant",
         "city": "Essen",
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     },
     {
         "name": "Schatzkammer Werden",
@@ -951,7 +1141,9 @@
         "attraction_type": "Museums",
         "spec_type": "Speciality Museums",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9e/de/20/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "low"
     },
     {
         "name": "Raum 55",
@@ -959,6 +1151,8 @@
         "attraction_type": "Museums",
         "spec_type": "Art Galleries",
         "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1"
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/05/66/3b/caption.jpg?w=800&h=400&s=1",
+        "location_setting": "indoor",
+        "budget_tier": "free"
     }
 ]
