@@ -1,1015 +1,1209 @@
 [
-    {
-        "name": "Galerie An Der Schirn",
-        "city": "Frankfurt",
-        "attraction_type": "Museums",
-        "spec_type": "Art Galleries",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Saasfee Pavillon",
-        "city": "Frankfurt",
-        "attraction_type": "Museums",
-        "spec_type": "Art Galleries",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Embury Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Tuesday": "5:00 PM - 1:00 AM",
-            "Wednesday": "5:00 PM - 1:00 AM",
-            "Thursday": "5:00 PM - 1:00 AM",
-            "Friday": "5:00 PM - 2:00 AM",
-            "Saturday": "5:00 PM - 2:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8b/2e/ef/bar.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Jazzkeller Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Jazz Bars",
-        "operating_hours": {
-            "Wednesday": "8:00 PM - 12:00 AM",
-            "Thursday": "8:00 PM - 12:00 AM",
-            "Friday": "8:00 PM - 12:00 AM",
-            "Saturday": "8:00 PM - 12:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f8/60/4c/margaritas-at-jazzkeller.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Hunky Dory Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/af/65/2b/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Alte Schiffsmeldestelle Hochst",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "11:00 AM - 12:00 AM",
-            "Tuesday": "11:00 AM - 12:00 AM",
-            "Wednesday": "11:00 AM - 12:00 AM",
-            "Thursday": "11:00 AM - 12:00 AM",
-            "Friday": "11:00 AM - 12:00 AM",
-            "Saturday": "11:00 AM - 12:00 AM",
-            "Sunday": "11:00 AM - 12:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1d/9f/e3/alte-schiffsmeldestelle.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Old Fashioned - Kultur Tanz Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/db/ff/83/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "die rote bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5e/45/d4/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Roomers Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "7:00 PM - 2:00 AM",
-            "Tuesday": "7:00 PM - 2:00 AM",
-            "Wednesday": "7:00 PM - 2:00 AM",
-            "Thursday": "7:00 PM - 2:00 AM",
-            "Friday": "7:00 PM - 2:00 AM",
-            "Saturday": "7:00 PM - 2:00 AM",
-            "Sunday": "7:00 PM - 11:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6e/e9/c2/photo0jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Myticket Jahrhunderthalle Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Jazz Bars \u2022 Dance Clubs & Discos",
-        "operating_hours": {
-            "Monday": "9:00 AM - 6:00 PM",
-            "Tuesday": "9:00 AM - 6:00 PM",
-            "Wednesday": "9:00 AM - 6:00 PM",
-            "Thursday": "9:00 AM - 6:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/65/8f/af/jahrhunderthalle-von.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Rot & Vogel",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/a2/4e/20180117-202516-largejpg.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "The Palace - Fkk Saunaclub",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Spas",
-        "operating_hours": {
-            "Monday": "11:00 AM - 4:00 AM",
-            "Tuesday": "11:00 AM - 4:00 AM",
-            "Wednesday": "11:00 AM - 4:00 AM",
-            "Thursday": "11:00 AM - 4:00 AM",
-            "Friday": "10:00 AM - 5:00 AM",
-            "Saturday": "10:00 AM - 5:00 AM",
-            "Sunday": "10:00 AM - 4:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ed/ba/87/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Mercedes Reyes Cigarlounge & Factory",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Cigar Bars",
-        "operating_hours": {
-            "Monday": "12:00 AM - 11:59 PM",
-            "Tuesday": "12:00 AM - 11:59 PM",
-            "Wednesday": "12:00 AM - 11:59 PM",
-            "Thursday": "12:00 AM - 11:59 PM",
-            "Friday": "12:00 AM - 11:59 PM",
-            "Saturday": "12:00 AM - 11:59 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ce/41/6f/mercedes-reyes-zigarrenlounge.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Birmingham Pub",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Gay Bars",
-        "operating_hours": {
-            "Monday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Tuesday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Wednesday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Thursday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Friday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Saturday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
-            "Sunday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/0b/c6/ef/birmingham-pub.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "The Gatsby Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "3:00 PM - 2:00 AM",
-            "Tuesday": "3:00 PM - 2:00 AM",
-            "Wednesday": "3:00 PM - 2:00 AM",
-            "Thursday": "3:00 PM - 2:00 AM",
-            "Friday": "3:00 PM - 3:00 AM",
-            "Saturday": "3:00 PM - 3:00 AM",
-            "Sunday": "3:00 PM - 2:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e3/76/e0/bar.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "22nd Lounge & Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/bc/25/33/img-20161015-223310-largejpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Butzenstubchen",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fa/c9/8b/abends-in-der-butze.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Zoom",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2e/bf/aa/photo0jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Rosterei Wissmuller",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Coffeehouses",
-        "operating_hours": {
-            "Monday": "8:00 AM - 6:30 PM",
-            "Tuesday": "8:00 AM - 6:30 PM",
-            "Wednesday": "8:00 AM - 6:30 PM",
-            "Thursday": "8:00 AM - 6:30 PM",
-            "Friday": "8:00 AM - 6:30 PM",
-            "Saturday": "9:00 AM - 5:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/cf/da/you-can-enjoy-your-coffee.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Speak Easy",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/6d/d9/e0/speak-easy-frankfurt.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Bananas Shisha Lounge",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/29/aa/sehr-schone-lounge.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Tanzhaus West",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/dc/7b/86/img-20180929-wa0051-largejpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Bar Lemons and Limes",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/eb/66/89/nice-presentation.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "The Anglo Irish Pub - Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/62/b5/5e/cozy-irish-pub.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "Mandala Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "6:00 PM - 3:00 AM",
-            "Tuesday": "6:00 PM - 3:00 AM",
-            "Wednesday": "6:00 PM - 3:00 AM",
-            "Thursday": "6:00 PM - 3:00 AM",
-            "Friday": "6:00 PM - 3:00 AM",
-            "Saturday": "6:00 PM - 3:00 AM",
-            "Sunday": "6:00 PM - 3:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bf/5d/ba/bar-bereich-mit-den-2.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Bull & Bear",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a7/75/cb/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Erdnusschen",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/2d/bc/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Das Bett",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0d/b6/f0/inside-club.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Hausbar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/86/0d/f0/aussenbereich-haus-bar.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Berliner Keller",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/f5/48/d7/ein-ort-zum-verweilen.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Long Island Lounge",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cc/18/34/abendlicher-ausblick.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Orange Peel",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Blues Bars",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/29/90/14/orange-peel.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Balalaika Bar & Music Venue",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/27/28/97/the-outside-small-but.jpg?w=500&h=300&s=1"
-    },
-    {
-        "name": "Logenhaus",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Wednesday": "9:00 PM - 2:00 AM",
-            "Thursday": "9:00 PM - 2:00 AM",
-            "Friday": "9:00 PM - 3:00 AM",
-            "Saturday": "9:00 PM - 3:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7b/23/41/daiquiri-mata-hari.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Nacht Leben",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ac/97/23/nachtleben.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Zum Alten Schlagbaum",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "2:00 PM - 1:00 AM",
-            "Tuesday": "2:00 PM - 1:00 AM",
-            "Wednesday": "2:00 PM - 1:00 AM",
-            "Thursday": "2:00 PM - 1:00 AM",
-            "Friday": "2:00 PM - 3:00 AM",
-            "Saturday": "12:00 PM - 3:00 AM",
-            "Sunday": "2:00 PM - 1:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/98/c9/85/great-pub.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "Musiklokal S\u00fcdbahnhof",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Jazz Bars",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c6/30/2b/auftritt-der-die-komm.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Niddastrand",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d5/ac/31/niddastrand.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Lucky's Manhattan",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Gay Bars",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e2/b9/e8/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Old Fritz",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Tuesday": "6:00 PM - 1:00 AM",
-            "Wednesday": "6:00 PM - 1:00 AM",
-            "Thursday": "6:00 PM - 1:00 AM",
-            "Friday": "6:00 PM - 3:00 AM",
-            "Saturday": "6:00 PM - 3:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/98/6c/3e/photo1jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Melody Party Box - Myzeil",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Karaoke Bars",
-        "operating_hours": {
-            "Monday": "10:00 AM - 1:00 AM",
-            "Tuesday": "10:00 AM - 1:00 AM",
-            "Wednesday": "10:00 AM - 1:00 AM",
-            "Thursday": "10:00 AM - 1:00 AM",
-            "Friday": "10:00 AM - 1:00 AM",
-            "Saturday": "10:00 AM - 1:00 AM",
-            "Sunday": "3:00 PM - 1:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d1/50/37/room-saturn-up-to-20.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Apfelweinkontor",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Wine Bars",
-        "operating_hours": {
-            "Monday": "12:00 PM - 4:00 PM",
-            "Tuesday": "11:00 AM - 6:00 PM",
-            "Wednesday": "11:00 AM - 6:00 PM",
-            "Thursday": "11:00 AM - 6:00 PM",
-            "Friday": "11:00 AM - 6:00 PM",
-            "Saturday": "11:00 AM - 6:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a0/8f/19/the-magic-of-apfelwein.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "The Fox And Hound",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "9:00 AM - 12:00 AM",
-            "Tuesday": "9:00 AM - 1:00 AM",
-            "Wednesday": "9:00 AM - 1:00 AM",
-            "Thursday": "9:00 AM - 1:00 AM",
-            "Friday": "9:00 AM - 1:00 AM",
-            "Saturday": "3:00 PM - 1:00 AM",
-            "Sunday": "12:00 PM - 10:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e4/0a/33/welcome-to-the-fox-and.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Trinkhalle",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/37/24/de/lecker.jpg?w=500&h=300&s=1"
-    },
-    {
-        "name": "Gleis 25",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/99/f2/fe/tuesday-night-the-place.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Zum Schweijk",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Gay Bars",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
-    },
-    {
-        "name": "Dachgarten im Hotel Nizza",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/77/c2/8e/night-view.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Central",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Gay Bars",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4d/cc/33/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Gibson Club",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Thursday": "9:00 PM - 4:00 AM",
-            "Friday": "11:00 PM - 5:00 AM",
-            "Saturday": "11:00 PM - 5:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/c4/eb/gibson-club-frankfurt.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "3 Faces Shisha Lounge Club",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "12:00 PM - 1:00 AM",
-            "Tuesday": "12:00 PM - 1:00 AM",
-            "Wednesday": "12:00 PM - 1:00 AM",
-            "Thursday": "12:00 PM - 1:00 AM",
-            "Friday": "12:00 PM - 4:00 AM",
-            "Saturday": "12:00 PM - 4:00 AM",
-            "Sunday": "12:00 PM - 1:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/47/8c/ad/3-faces-winter-garden.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Pasha Lounge",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/48/13/pasha-lounge.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Theplacetobe / Souper",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "11:00 AM - 1:00 AM",
-            "Tuesday": "11:00 AM - 1:00 AM",
-            "Wednesday": "11:00 AM - 1:00 AM",
-            "Thursday": "11:00 AM - 1:00 AM",
-            "Friday": "11:00 AM - 1:00 AM",
-            "Saturday": "11:00 AM - 1:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d9/b7/98/souper.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Getdahooka Store",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Speciality & Gift Shops \u2022 Bars & Clubs",
-        "operating_hours": {
-            "Monday": "11:00 AM - 10:00 PM",
-            "Tuesday": "11:00 AM - 10:00 PM",
-            "Wednesday": "11:00 AM - 10:00 PM",
-            "Thursday": "11:00 AM - 10:00 PM",
-            "Friday": "11:00 AM - 12:00 AM",
-            "Saturday": "11:00 AM - 12:00 AM",
-            "Sunday": "12:00 PM - 10:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/9f/71/72/vor-unserem-getdahooka.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "One Ninety East",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d8/8a/79/caption.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "East Grape",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Tuesday": "4:00 PM - 12:00 AM",
-            "Wednesday": "4:00 PM - 12:00 AM",
-            "Thursday": "4:00 PM - 12:00 AM",
-            "Friday": "4:00 PM - 12:00 AM",
-            "Saturday": "4:00 PM - 12:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/f9/45/leidenschaft-und-wertschatzung.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Das Nord",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Tuesday": "6:30 PM - 1:00 AM",
-            "Wednesday": "6:30 PM - 1:00 AM",
-            "Thursday": "6:30 PM - 1:00 AM",
-            "Friday": "6:30 PM - 3:00 AM",
-            "Saturday": "6:30 PM - 3:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/43/55/b0/das-nord.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Grune Scheune",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6d/31/f9/veranstaltungsort-fur.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Diwan Shisha Lounge",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7a/81/95/photo3jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Sandbar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "6:00 PM - 2:00 AM",
-            "Tuesday": "6:00 PM - 2:00 AM",
-            "Wednesday": "6:00 PM - 2:00 AM",
-            "Thursday": "6:00 PM - 2:00 AM",
-            "Friday": "6:00 PM - 3:00 AM",
-            "Saturday": "6:00 PM - 3:00 AM",
-            "Sunday": "6:00 PM - 2:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ac/38/18/sandbar.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Luna Bar Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
-    },
-    {
-        "name": "Chaplin Bar & Lounge",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": {
-            "Monday": "5:00 PM - 2:00 AM",
-            "Tuesday": "5:00 PM - 2:00 AM",
-            "Wednesday": "5:00 PM - 2:00 AM",
-            "Thursday": "5:00 PM - 2:00 AM",
-            "Friday": "5:00 PM - 3:00 AM",
-            "Saturday": "5:00 PM - 3:00 AM",
-            "Sunday": "5:00 PM - 1:00 AM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f9/dd/90/chaplin-bar-lounge.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Chillout Coffee & Shisha Bar",
-        "city": "Frankfurt",
-        "attraction_type": "Nightlife",
-        "spec_type": "Bars & Clubs",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ee/bd/22/pic-taken-24jul22.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Palmengarten Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Gardens",
-        "operating_hours": {
-            "Monday": "9:00 AM - 4:00 PM",
-            "Tuesday": "9:00 AM - 4:00 PM",
-            "Wednesday": "9:00 AM - 4:00 PM",
-            "Thursday": "9:00 AM - 4:00 PM",
-            "Friday": "9:00 AM - 4:00 PM",
-            "Saturday": "9:00 AM - 4:00 PM",
-            "Sunday": "9:00 AM - 4:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/94/99/24/photo3jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Zoo Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Zoos",
-        "operating_hours": {
-            "Monday": "9:00 AM - 7:00 PM",
-            "Tuesday": "9:00 AM - 7:00 PM",
-            "Wednesday": "9:00 AM - 7:00 PM",
-            "Thursday": "9:00 AM - 7:00 PM",
-            "Friday": "9:00 AM - 7:00 PM",
-            "Saturday": "9:00 AM - 7:00 PM",
-            "Sunday": "9:00 AM - 7:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/70/1a/zoologischer-garten-frankfurt.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Chinesischer Garten",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Gardens",
-        "operating_hours": {
-            "Monday": "7:00 AM - 7:30 PM",
-            "Tuesday": "7:00 AM - 7:30 PM",
-            "Wednesday": "7:00 AM - 7:30 PM",
-            "Thursday": "7:00 AM - 7:30 PM",
-            "Friday": "7:00 AM - 7:30 PM",
-            "Saturday": "10:00 AM - 7:30 PM",
-            "Sunday": "10:00 AM - 7:30 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c8/93/ac/photo8jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Lohrpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/88/ff/47/the-local-mountain-and.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Gunthersburgpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3a/ef/a0/gunthersburgpark.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Bethmannpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b4/79/a3/img-20160530-wa0022-largejpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "River Main",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Bodies of Water",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c2/51/7e/river-main-frankfurt.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Schwanheimer D\u00fcne",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Nature & Wildlife Areas",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/68/63/52/photo2jpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Waldspielpark Heinrich-Kraft-Park",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks \u2022 Playgrounds",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/24/c7/ae/img-20190701-wa0011-largejpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Stadtwald",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/fd/02/05/stadtwald.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Koreanischer Garten",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Gardens",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/af/2f/36/caption.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Kobelt Zoo",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Zoos",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e0/ec/b4/20200710-120446-largejpg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Rothschildpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/c9/aa/6c/rothschildpark.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Alter Flugplatz",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ce/8a/d5/frankfurt-am-main-bonames.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "Rebstockpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/81/35/12/rebstockpark.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Gruneburgpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "State Parks",
-        "operating_hours": {
-            "Monday": "12:00 AM - 11:59 PM",
-            "Tuesday": "12:00 AM - 11:59 PM",
-            "Wednesday": "12:00 AM - 11:59 PM",
-            "Thursday": "12:00 AM - 11:59 PM",
-            "Friday": "12:00 AM - 11:59 PM",
-            "Saturday": "12:00 AM - 11:59 PM",
-            "Sunday": "12:00 AM - 11:59 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/89/ff/ce/gruneburgpark.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Main\u00c4ppelHaus Lohrberg Streuobstzentrum e.V.",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Nature & Wildlife Areas",
-        "operating_hours": {
-            "Tuesday": "11:00 AM - 6:00 PM",
-            "Wednesday": "11:00 AM - 6:00 PM",
-            "Thursday": "11:00 AM - 6:00 PM",
-            "Friday": "11:00 AM - 6:00 PM",
-            "Saturday": "11:00 AM - 6:00 PM",
-            "Sunday": "11:00 AM - 6:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3f/2f/4e/lohr-wein-berg.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Hafenpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/00/0a/e3/caption.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Brentanopark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/20/7f/outono.jpg?w=600&h=400&s=1"
-    },
-    {
-        "name": "Ostpark",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/14/97/17/ostpark.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Frankfurter Wallanlagen",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks \u2022 Gardens",
-        "operating_hours": {
-            "Monday": "12:00 AM - 11:59 PM",
-            "Tuesday": "12:00 AM - 11:59 PM",
-            "Wednesday": "12:00 AM - 11:59 PM",
-            "Thursday": "12:00 AM - 11:59 PM",
-            "Friday": "12:00 AM - 11:59 PM",
-            "Saturday": "12:00 AM - 11:59 PM",
-            "Sunday": "12:00 AM - 11:59 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a4/f0/05/frankfurter-wallanlagen.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Drachenburg Spielplatz",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Playgrounds",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
-    },
-    {
-        "name": "GruenGuertel-Radrundweg",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Biking Trails",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/00/31/a8/grungurtel-radrundweg.jpg?w=700&h=-1&s=1"
-    },
-    {
-        "name": "LILU - Licht- und Luftbad Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb"
-    },
-    {
-        "name": "Nextbike",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Biking Trails",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/7a/29/nextbike.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Volkspark Niddatal",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks \u2022 Forests",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/7d/93/86/aussicht-grunanlagen.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Rennbahnpark Niederrad",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/78/cf/a6/11-2020schon.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Elli-Lucht-park",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": {
-            "Monday": "12:00 AM - 11:59 PM",
-            "Tuesday": "12:00 AM - 11:59 PM",
-            "Wednesday": "12:00 AM - 11:59 PM",
-            "Thursday": "12:00 AM - 11:59 PM",
-            "Friday": "12:00 AM - 11:59 PM",
-            "Saturday": "12:00 AM - 11:59 PM",
-            "Sunday": "12:00 AM - 11:59 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/27/c7/54/elli-lucht-park.jpg?w=700&h=400&s=1"
-    },
-    {
-        "name": "Zeppelinpark Frankfurt",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Spielpark Goetheturm",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Spielplatz Zeppelinallee",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Niddahalle",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "EZB Basketball",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Parkwellcom",
-        "city": "Frankfurt",
-        "attraction_type": "Nature & Parks",
-        "spec_type": "Parks",
-        "operating_hours": null,
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1"
-    },
-    {
-        "name": "Mercedes-Benz Museum",
-        "city": "Stuttgart",
-        "attraction_type": "Sights & Landmarks",
-        "spec_type": "Speciality Museums \u2022 Points of Interest & Landmarks",
-        "operating_hours": {
-            "Tuesday": "9:00 AM - 6:00 PM",
-            "Wednesday": "9:00 AM - 6:00 PM",
-            "Thursday": "9:00 AM - 6:00 PM",
-            "Friday": "9:00 AM - 6:00 PM",
-            "Saturday": "9:00 AM - 6:00 PM",
-            "Sunday": "9:00 AM - 6:00 PM"
-        },
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/da/d6/1a/der-mercedes-benz-museum.jpg?w=700&h=400&s=1"
-    }
+  {
+    "name": "Galerie An Der Schirn",
+    "city": "Frankfurt",
+    "attraction_type": "Museums",
+    "spec_type": "Art Galleries",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Saasfee Pavillon",
+    "city": "Frankfurt",
+    "attraction_type": "Museums",
+    "spec_type": "Art Galleries",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Embury Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Tuesday": "5:00 PM - 1:00 AM",
+      "Wednesday": "5:00 PM - 1:00 AM",
+      "Thursday": "5:00 PM - 1:00 AM",
+      "Friday": "5:00 PM - 2:00 AM",
+      "Saturday": "5:00 PM - 2:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8b/2e/ef/bar.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Jazzkeller Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Jazz Bars",
+    "operating_hours": {
+      "Wednesday": "8:00 PM - 12:00 AM",
+      "Thursday": "8:00 PM - 12:00 AM",
+      "Friday": "8:00 PM - 12:00 AM",
+      "Saturday": "8:00 PM - 12:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f8/60/4c/margaritas-at-jazzkeller.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "low"
+  },
+  {
+    "name": "Hunky Dory Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/af/65/2b/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Alte Schiffsmeldestelle Hochst",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "11:00 AM - 12:00 AM",
+      "Tuesday": "11:00 AM - 12:00 AM",
+      "Wednesday": "11:00 AM - 12:00 AM",
+      "Thursday": "11:00 AM - 12:00 AM",
+      "Friday": "11:00 AM - 12:00 AM",
+      "Saturday": "11:00 AM - 12:00 AM",
+      "Sunday": "11:00 AM - 12:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1d/9f/e3/alte-schiffsmeldestelle.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Old Fashioned - Kultur Tanz Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/db/ff/83/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "die rote bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5e/45/d4/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Roomers Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "7:00 PM - 2:00 AM",
+      "Tuesday": "7:00 PM - 2:00 AM",
+      "Wednesday": "7:00 PM - 2:00 AM",
+      "Thursday": "7:00 PM - 2:00 AM",
+      "Friday": "7:00 PM - 2:00 AM",
+      "Saturday": "7:00 PM - 2:00 AM",
+      "Sunday": "7:00 PM - 11:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6e/e9/c2/photo0jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Myticket Jahrhunderthalle Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Jazz Bars \u2022 Dance Clubs & Discos",
+    "operating_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/65/8f/af/jahrhunderthalle-von.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "high"
+  },
+  {
+    "name": "Rot & Vogel",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/a2/4e/20180117-202516-largejpg.jpg?w=700&h=-1&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "The Palace - Fkk Saunaclub",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Spas",
+    "operating_hours": {
+      "Monday": "11:00 AM - 4:00 AM",
+      "Tuesday": "11:00 AM - 4:00 AM",
+      "Wednesday": "11:00 AM - 4:00 AM",
+      "Thursday": "11:00 AM - 4:00 AM",
+      "Friday": "10:00 AM - 5:00 AM",
+      "Saturday": "10:00 AM - 5:00 AM",
+      "Sunday": "10:00 AM - 4:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ed/ba/87/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "high"
+  },
+  {
+    "name": "Mercedes Reyes Cigarlounge & Factory",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Cigar Bars",
+    "operating_hours": {
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ce/41/6f/mercedes-reyes-zigarrenlounge.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Birmingham Pub",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Gay Bars",
+    "operating_hours": {
+      "Monday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Tuesday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Wednesday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Thursday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Friday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Saturday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM",
+      "Sunday": "12:00 PM - 6:00 AM 1:00 PM - 12:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/0b/c6/ef/birmingham-pub.jpg?w=600&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "The Gatsby Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "3:00 PM - 2:00 AM",
+      "Tuesday": "3:00 PM - 2:00 AM",
+      "Wednesday": "3:00 PM - 2:00 AM",
+      "Thursday": "3:00 PM - 2:00 AM",
+      "Friday": "3:00 PM - 3:00 AM",
+      "Saturday": "3:00 PM - 3:00 AM",
+      "Sunday": "3:00 PM - 2:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e3/76/e0/bar.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "22nd Lounge & Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/bc/25/33/img-20161015-223310-largejpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Butzenstubchen",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fa/c9/8b/abends-in-der-butze.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Zoom",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2e/bf/aa/photo0jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Rosterei Wissmuller",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Coffeehouses",
+    "operating_hours": {
+      "Monday": "8:00 AM - 6:30 PM",
+      "Tuesday": "8:00 AM - 6:30 PM",
+      "Wednesday": "8:00 AM - 6:30 PM",
+      "Thursday": "8:00 AM - 6:30 PM",
+      "Friday": "8:00 AM - 6:30 PM",
+      "Saturday": "9:00 AM - 5:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/cf/da/you-can-enjoy-your-coffee.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Speak Easy",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/6d/d9/e0/speak-easy-frankfurt.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Bananas Shisha Lounge",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/29/aa/sehr-schone-lounge.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Tanzhaus West",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/dc/7b/86/img-20180929-wa0051-largejpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Bar Lemons and Limes",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/eb/66/89/nice-presentation.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "The Anglo Irish Pub - Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/62/b5/5e/cozy-irish-pub.jpg?w=600&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Mandala Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "6:00 PM - 3:00 AM",
+      "Tuesday": "6:00 PM - 3:00 AM",
+      "Wednesday": "6:00 PM - 3:00 AM",
+      "Thursday": "6:00 PM - 3:00 AM",
+      "Friday": "6:00 PM - 3:00 AM",
+      "Saturday": "6:00 PM - 3:00 AM",
+      "Sunday": "6:00 PM - 3:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bf/5d/ba/bar-bereich-mit-den-2.jpg?w=700&h=-1&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Bull & Bear",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a7/75/cb/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Erdnusschen",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/2d/bc/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Das Bett",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0d/b6/f0/inside-club.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Hausbar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/86/0d/f0/aussenbereich-haus-bar.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Berliner Keller",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/f5/48/d7/ein-ort-zum-verweilen.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Long Island Lounge",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cc/18/34/abendlicher-ausblick.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "low"
+  },
+  {
+    "name": "Orange Peel",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Blues Bars",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/29/90/14/orange-peel.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Balalaika Bar & Music Venue",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/27/28/97/the-outside-small-but.jpg?w=500&h=300&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Logenhaus",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Wednesday": "9:00 PM - 2:00 AM",
+      "Thursday": "9:00 PM - 2:00 AM",
+      "Friday": "9:00 PM - 3:00 AM",
+      "Saturday": "9:00 PM - 3:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7b/23/41/daiquiri-mata-hari.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Nacht Leben",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ac/97/23/nachtleben.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Zum Alten Schlagbaum",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "2:00 PM - 1:00 AM",
+      "Tuesday": "2:00 PM - 1:00 AM",
+      "Wednesday": "2:00 PM - 1:00 AM",
+      "Thursday": "2:00 PM - 1:00 AM",
+      "Friday": "2:00 PM - 3:00 AM",
+      "Saturday": "12:00 PM - 3:00 AM",
+      "Sunday": "2:00 PM - 1:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/98/c9/85/great-pub.jpg?w=600&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Musiklokal S\u00fcdbahnhof",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Jazz Bars",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c6/30/2b/auftritt-der-die-komm.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Niddastrand",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d5/ac/31/niddastrand.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Lucky's Manhattan",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Gay Bars",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e2/b9/e8/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Old Fritz",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Tuesday": "6:00 PM - 1:00 AM",
+      "Wednesday": "6:00 PM - 1:00 AM",
+      "Thursday": "6:00 PM - 1:00 AM",
+      "Friday": "6:00 PM - 3:00 AM",
+      "Saturday": "6:00 PM - 3:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/98/6c/3e/photo1jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Melody Party Box - Myzeil",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Karaoke Bars",
+    "operating_hours": {
+      "Monday": "10:00 AM - 1:00 AM",
+      "Tuesday": "10:00 AM - 1:00 AM",
+      "Wednesday": "10:00 AM - 1:00 AM",
+      "Thursday": "10:00 AM - 1:00 AM",
+      "Friday": "10:00 AM - 1:00 AM",
+      "Saturday": "10:00 AM - 1:00 AM",
+      "Sunday": "3:00 PM - 1:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d1/50/37/room-saturn-up-to-20.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "high"
+  },
+  {
+    "name": "Apfelweinkontor",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Wine Bars",
+    "operating_hours": {
+      "Monday": "12:00 PM - 4:00 PM",
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM",
+      "Friday": "11:00 AM - 6:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a0/8f/19/the-magic-of-apfelwein.jpg?w=600&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "The Fox And Hound",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "9:00 AM - 12:00 AM",
+      "Tuesday": "9:00 AM - 1:00 AM",
+      "Wednesday": "9:00 AM - 1:00 AM",
+      "Thursday": "9:00 AM - 1:00 AM",
+      "Friday": "9:00 AM - 1:00 AM",
+      "Saturday": "3:00 PM - 1:00 AM",
+      "Sunday": "12:00 PM - 10:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e4/0a/33/welcome-to-the-fox-and.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Trinkhalle",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/37/24/de/lecker.jpg?w=500&h=300&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Gleis 25",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/99/f2/fe/tuesday-night-the-place.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Zum Schweijk",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Gay Bars",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Dachgarten im Hotel Nizza",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/77/c2/8e/night-view.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Central",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Gay Bars",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4d/cc/33/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Gibson Club",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Thursday": "9:00 PM - 4:00 AM",
+      "Friday": "11:00 PM - 5:00 AM",
+      "Saturday": "11:00 PM - 5:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/c4/eb/gibson-club-frankfurt.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "3 Faces Shisha Lounge Club",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "12:00 PM - 1:00 AM",
+      "Tuesday": "12:00 PM - 1:00 AM",
+      "Wednesday": "12:00 PM - 1:00 AM",
+      "Thursday": "12:00 PM - 1:00 AM",
+      "Friday": "12:00 PM - 4:00 AM",
+      "Saturday": "12:00 PM - 4:00 AM",
+      "Sunday": "12:00 PM - 1:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/47/8c/ad/3-faces-winter-garden.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Pasha Lounge",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/48/13/pasha-lounge.jpg?w=700&h=-1&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Theplacetobe / Souper",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "11:00 AM - 1:00 AM",
+      "Tuesday": "11:00 AM - 1:00 AM",
+      "Wednesday": "11:00 AM - 1:00 AM",
+      "Thursday": "11:00 AM - 1:00 AM",
+      "Friday": "11:00 AM - 1:00 AM",
+      "Saturday": "11:00 AM - 1:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d9/b7/98/souper.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Getdahooka Store",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Speciality & Gift Shops \u2022 Bars & Clubs",
+    "operating_hours": {
+      "Monday": "11:00 AM - 10:00 PM",
+      "Tuesday": "11:00 AM - 10:00 PM",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "11:00 AM - 10:00 PM",
+      "Friday": "11:00 AM - 12:00 AM",
+      "Saturday": "11:00 AM - 12:00 AM",
+      "Sunday": "12:00 PM - 10:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/9f/71/72/vor-unserem-getdahooka.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "One Ninety East",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d8/8a/79/caption.jpg?w=600&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "East Grape",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Tuesday": "4:00 PM - 12:00 AM",
+      "Wednesday": "4:00 PM - 12:00 AM",
+      "Thursday": "4:00 PM - 12:00 AM",
+      "Friday": "4:00 PM - 12:00 AM",
+      "Saturday": "4:00 PM - 12:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/f9/45/leidenschaft-und-wertschatzung.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Das Nord",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Tuesday": "6:30 PM - 1:00 AM",
+      "Wednesday": "6:30 PM - 1:00 AM",
+      "Thursday": "6:30 PM - 1:00 AM",
+      "Friday": "6:30 PM - 3:00 AM",
+      "Saturday": "6:30 PM - 3:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/43/55/b0/das-nord.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Grune Scheune",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs \u2022 Dance Clubs & Discos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6d/31/f9/veranstaltungsort-fur.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Diwan Shisha Lounge",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7a/81/95/photo3jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Sandbar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "6:00 PM - 2:00 AM",
+      "Tuesday": "6:00 PM - 2:00 AM",
+      "Wednesday": "6:00 PM - 2:00 AM",
+      "Thursday": "6:00 PM - 2:00 AM",
+      "Friday": "6:00 PM - 3:00 AM",
+      "Saturday": "6:00 PM - 3:00 AM",
+      "Sunday": "6:00 PM - 2:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ac/38/18/sandbar.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Luna Bar Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Chaplin Bar & Lounge",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": {
+      "Monday": "5:00 PM - 2:00 AM",
+      "Tuesday": "5:00 PM - 2:00 AM",
+      "Wednesday": "5:00 PM - 2:00 AM",
+      "Thursday": "5:00 PM - 2:00 AM",
+      "Friday": "5:00 PM - 3:00 AM",
+      "Saturday": "5:00 PM - 3:00 AM",
+      "Sunday": "5:00 PM - 1:00 AM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f9/dd/90/chaplin-bar-lounge.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Chillout Coffee & Shisha Bar",
+    "city": "Frankfurt",
+    "attraction_type": "Nightlife",
+    "spec_type": "Bars & Clubs",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ee/bd/22/pic-taken-24jul22.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Palmengarten Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Gardens",
+    "operating_hours": {
+      "Monday": "9:00 AM - 4:00 PM",
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM",
+      "Saturday": "9:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/94/99/24/photo3jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "low"
+  },
+  {
+    "name": "Zoo Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Zoos",
+    "operating_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/70/1a/zoologischer-garten-frankfurt.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "medium"
+  },
+  {
+    "name": "Chinesischer Garten",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Gardens",
+    "operating_hours": {
+      "Monday": "7:00 AM - 7:30 PM",
+      "Tuesday": "7:00 AM - 7:30 PM",
+      "Wednesday": "7:00 AM - 7:30 PM",
+      "Thursday": "7:00 AM - 7:30 PM",
+      "Friday": "7:00 AM - 7:30 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c8/93/ac/photo8jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Lohrpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/88/ff/47/the-local-mountain-and.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Gunthersburgpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3a/ef/a0/gunthersburgpark.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Bethmannpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b4/79/a3/img-20160530-wa0022-largejpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "River Main",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Bodies of Water",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c2/51/7e/river-main-frankfurt.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Schwanheimer D\u00fcne",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Nature & Wildlife Areas",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/68/63/52/photo2jpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Waldspielpark Heinrich-Kraft-Park",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks \u2022 Playgrounds",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/24/c7/ae/img-20190701-wa0011-largejpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Stadtwald",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/fd/02/05/stadtwald.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Koreanischer Garten",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Gardens",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/af/2f/36/caption.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Kobelt Zoo",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Zoos",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e0/ec/b4/20200710-120446-largejpg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Rothschildpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/c9/aa/6c/rothschildpark.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Alter Flugplatz",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ce/8a/d5/frankfurt-am-main-bonames.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Rebstockpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/81/35/12/rebstockpark.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Gruneburgpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "State Parks",
+    "operating_hours": {
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/89/ff/ce/gruneburgpark.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Main\u00c4ppelHaus Lohrberg Streuobstzentrum e.V.",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Nature & Wildlife Areas",
+    "operating_hours": {
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM",
+      "Friday": "11:00 AM - 6:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3f/2f/4e/lohr-wein-berg.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Hafenpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/00/0a/e3/caption.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Brentanopark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/20/7f/outono.jpg?w=600&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Ostpark",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/14/97/17/ostpark.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Frankfurter Wallanlagen",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks \u2022 Gardens",
+    "operating_hours": {
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a4/f0/05/frankfurter-wallanlagen.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Drachenburg Spielplatz",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Playgrounds",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "GruenGuertel-Radrundweg",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Biking Trails",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/00/31/a8/grungurtel-radrundweg.jpg?w=700&h=-1&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "LILU - Licht- und Luftbad Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e3/2c/72/caption.jpg?w=200&h=200&s=1&cx=1920&cy=1080&chk=v1_b0d07eac99eb19e09edb",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Nextbike",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Biking Trails",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/7a/29/nextbike.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Volkspark Niddatal",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks \u2022 Forests",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/7d/93/86/aussicht-grunanlagen.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Rennbahnpark Niederrad",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/78/cf/a6/11-2020schon.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Elli-Lucht-park",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": {
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/27/c7/54/elli-lucht-park.jpg?w=700&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Zeppelinpark Frankfurt",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Spielpark Goetheturm",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Spielplatz Zeppelinallee",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Niddahalle",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "EZB Basketball",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Parkwellcom",
+    "city": "Frankfurt",
+    "attraction_type": "Nature & Parks",
+    "spec_type": "Parks",
+    "operating_hours": null,
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/7d/4c/caption.jpg?w=800&h=400&s=1",
+    "location_setting": "outdoor",
+    "budget_tier": "free"
+  },
+  {
+    "name": "Mercedes-Benz Museum",
+    "city": "Stuttgart",
+    "attraction_type": "Sights & Landmarks",
+    "spec_type": "Speciality Museums \u2022 Points of Interest & Landmarks",
+    "operating_hours": {
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/da/d6/1a/der-mercedes-benz-museum.jpg?w=700&h=400&s=1",
+    "location_setting": "indoor",
+    "budget_tier": "medium"
+  }
 ]
