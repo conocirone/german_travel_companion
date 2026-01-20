@@ -1,0 +1,19 @@
+ Task: Classify the attractions in the json file based on the name and context. In case you are unsure about the price and the location setting look up online for the correct informations.
+    
+    1. location_setting: 'indoor' or 'outdoor'
+       - Museums, theaters, churches (interior visits) = indoor
+       - Parks, squares, streets, monuments, outdoor markets = outdoor
+    
+    2. budget_tier: Based on the BASE ENTRY FEE to access the attraction ITSELF.
+       - 'free': Public spaces (squares, streets, parks, neighborhoods, markets), monuments you can view from outside, churches with free entry, free museums
+       - 'low': 1€-10€ entry fee
+       - 'medium': 11€-20€ entry fee  
+       - 'high': >20€ entry fee
+       
+    IMPORTANT: 
+    - Ignore prices for guided tours, experiences, or activities - only consider the base entry fee.
+    - Public squares (like Alexanderplatz, Potsdamer Platz), streets, parks, and neighborhoods are ALWAYS 'free'.
+    - If unsure and it's a public outdoor space, default to 'free'.
+
+    Return ONLY a valid JSON file with JSON code. No intro text. You must add the two new fields to the ones which were already in the file
+    Example: {{"location_setting": "indoor", "budget_tier": "medium"}}
