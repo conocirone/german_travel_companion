@@ -6,7 +6,9 @@
         "duration": "50 - 100 minutes",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10892868041992,8.682210922241211"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10892868041992,8.682210922241211",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Hop-On, Hop-Off Grand or Express Bus Ticket",
@@ -15,7 +17,9 @@
         "duration": "Valid 1 day",
         "languages": "Spanish, English, French, German, Italian, Russian, Portuguese, Japanese",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11155700683594,8.681256294250488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11155700683594,8.681256294250488",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Rhine Valley Day Trip",
@@ -24,7 +28,9 @@
         "duration": "8 hours",
         "languages": "English, German",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt am Main: Night PubCrawl, Shots and Party",
@@ -33,7 +39,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "Frankfurt Römer by the Fountain of Justice. The tour guide will be wearing a bag with the tour logo PubCrawl Team.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11042404174805,8.6815767288208"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11042404174805,8.6815767288208",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Heidelberg, Castle and Old City Guided Tour",
@@ -42,7 +50,9 @@
         "duration": "5.5 hours",
         "languages": "English",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Virtual Reality Time Travel Experience Ticket",
@@ -51,7 +61,9 @@
         "duration": "45 minutes",
         "languages": "German, English",
         "meeting_point": "Look for the sign that says \"TimeRide.\" Please arrive 10 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11180877685547,8.681180953979492"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11180877685547,8.681180953979492",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt on Foot Daily Walking Tour in English",
@@ -60,7 +72,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "The Meeting Point is directly across from the Tourist Info on the Römerberg and in front of the Binding Schirn Pub, on the street. Our guide has a sign that says Frankfurt on Foot Walking Tours.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11077117919922,8.682222366333008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11077117919922,8.682222366333008",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Day Tour to Heidelberg with Local Guide",
@@ -69,7 +83,9 @@
         "duration": "5.5 hours",
         "languages": "German, English",
         "meeting_point": "Meet your tour guide at the bus stop in front of the \"Le Meridien\" hotel at Wiesenhüttenplatz 38, 60329, Frankfurt am Main. If you have booked 'Hotel Pick-up', please send the exact address via email to info@fuxfahrservice.de.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: New Old Town and Highlights German-Language Tour",
@@ -78,7 +94,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "In front of the Tourist Information Office Römer (Römerberg 27, 60311 Frankfurt am Main).",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110713958740234,8.68195629119873"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110713958740234,8.68195629119873",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Must-See Attractions Walking Tour with a Guide",
@@ -87,7 +105,9 @@
         "duration": "2 hours",
         "languages": "English, Spanish, German",
         "meeting_point": "Meet your guide near the Foundation of Justice",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110435485839844,8.682154655456543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110435485839844,8.682154655456543",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Germany: Excursion from Frankfurt to Heidelberg",
@@ -96,7 +116,9 @@
         "duration": "5 hours",
         "languages": "Spanish, English",
         "meeting_point": "You will meet the guide at the Mcdonald's at the station",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10714340209961,8.66378402709961"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10714340209961,8.66378402709961",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Scary Sightseeing Tour with The Hangman",
@@ -105,7 +127,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "Wait at the Domplatz in front of the main entrance of the cathedral. Your guide will be wearing a red robe and an executioner's mask.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11083984375,8.684879302978516"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11083984375,8.684879302978516",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: 1-Hour Panorama Boat Cruise on the river Main",
@@ -114,7 +138,9 @@
         "duration": "1 hour",
         "languages": "English, German",
         "meeting_point": "Look for the KD Ticket Office with the red, blue, and white KD logo, located on the Mainkai (close to the bridge Eisener Steg). Your boat will depart right in front of the ticket office. Proceed to board the ship and present your QR-Code ticket as you enter the ship. Getting to the landing-stage by public transport: Underground station Dom/Römer or tram stop Römer/Paulskirche, both of which are a 5-minute walk from the landing-stage. Getting to the landing-stage by car: The nearest multi-storey car park is Dom/Römer in Domstraße 1. On the car park routing system follow D = Dom. From there approx. 5 min. walk to the KD landing-stage.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Cocktail Escape Game",
@@ -123,7 +149,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Bitte an der Tür klingeln. Die Gäste werden abgeholt",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10097122192383,8.657639503479004"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10097122192383,8.657639503479004",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Lounge Abendfahrt Frankfurt",
@@ -132,7 +160,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Look for the KD Ticket Office, which is located right by the water. Look for the red, blue and white KD Logo. Your ship will depart right in front of the ticket office. Remember to have your GetYourGuide QR-Code ticket ready when boarding the ship. You can find your QR-Code ticket on your GetYourGuide App or in your E-Mail confirmation. Your ticket will be scanned upon entering the ship. Getting to the landing-stage by public transport: Underground station Dom/Römer or tram stop Römer/Paulskirche, both of which are a 5-minute walk from the landing-stage. Getting to the landing-stage by car: The nearest multi-storey car park is Dom/Römer in Domstraße 1. On the car park routing system follow D = Dom. From there approx. 5 min. walk to the KD landing-stage.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Discover the heart of Frankfurt - a city tour in German",
@@ -141,7 +171,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "MAIN ENTRANCE PAULSKIRCHE / SIGN \"EXPERIENCE FRANKFURT\" The guide will be waiting at the meeting point: in front of the main entrance to St. Paul's Church and can be recognized by the \"Erlebnis Frankfurt\" sign and the guide's pass.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Würzburg & Rothenburg Group or Private Day Tour",
@@ -150,7 +182,9 @@
         "duration": "10 hours",
         "languages": "Chinese, English",
         "meeting_point": "You will receive a group notice email with meeting point photos, instructions, and guide contact. Please arrive 15 minutes early and contact the guide if needed.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10420227050781,8.661937713623047"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10420227050781,8.661937713623047",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Horror theater with city tour \"Nosferatu's Resurrection\"",
@@ -159,7 +193,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "Meeting point at the Niddapark subway station, wait at the ticket machine down the stairs under the bridge. Parking is available on the street at Ginnheimer Wäldchen.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.142852783203125,8.642483711242676"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.142852783203125,8.642483711242676",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Romantic Road & Rothenburg ob der Tauber Tour",
@@ -168,7 +204,9 @@
         "duration": "10.5 hours",
         "languages": "English, German",
         "meeting_point": "meet at the Bus Terminal Frankfurt am Main (ZOB Frankfurt) Stuttgarter Straße 26, 60329 Frankfurt am Main (Flixbus) Bussteig 1",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10443878173828,8.662328720092773"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10443878173828,8.662328720092773",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Heidelberg, Rüdesheim & Rhine Valley Cruise",
@@ -177,7 +215,9 @@
         "duration": "9 hours",
         "languages": "Chinese, English",
         "meeting_point": "You will receive a group notice email with meeting point photos, instructions, and guide contact. Please arrive 15 minutes early and contact the guide if needed.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10420227050781,8.661937713623047"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10420227050781,8.661937713623047",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: \"Ready for take off\" - Flight Simulator B737",
@@ -186,7 +226,9 @@
         "duration": "1 - 2 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point 10 minutes before the start at the AiRail Check In. Please bring your ticket to the event.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.052669525146484,8.568172454833984"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.052669525146484,8.568172454833984",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Capture the most Photogenic Spots with a Local",
@@ -195,7 +237,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the entrance of OPERA Restaurant (at the right side of the Opera, facing the building facade, recognizable by red roof) to start our journey through Frankfurt's most picturesque spots.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11605453491211,8.672018051147461"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11605453491211,8.672018051147461",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Food Tour to 3-4 Local Food Spots",
@@ -204,7 +248,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "The tour guide has a black bag with the title \"SHARING PLATE\"",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110923767089844,8.682126998901367"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110923767089844,8.682126998901367",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt Instagram tour with a private photographer",
@@ -213,7 +259,9 @@
         "duration": "1 hour",
         "languages": "English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110286712646484,8.682154655456543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110286712646484,8.682154655456543",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: The Black Death Tour",
@@ -222,7 +270,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "Meetingpoint at the place before the main entrance of the CineStar Metropolis.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11819839477539,8.679137229919434"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11819839477539,8.679137229919434",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Romantic boat tour for two guests with skyline view",
@@ -231,7 +281,9 @@
         "duration": "1.5 hours",
         "languages": "German, English, Italian",
         "meeting_point": "Directly at the stairway leading down to the river, which is located almost parallel to this address: Untermainkai 66, 60329 Frankfurt am Main Your skipper will be waiting for you with the boat at this stairway.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10335922241211,8.667886734008789"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10335922241211,8.667886734008789",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Full-Day Baden-Baden and Strasbourg Trip",
@@ -240,7 +292,9 @@
         "duration": "11 hours",
         "languages": "English, German",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Private day trip from Frankfurt to Rhine Valley & back",
@@ -249,7 +303,9 @@
         "duration": "7 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point arrangements will be made after booking.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt am Main: Private boat tour with skyline view for up to 18 guests",
@@ -258,7 +314,9 @@
         "duration": "1.5 hours",
         "languages": "German, English, Italian",
         "meeting_point": "Right on the river, in front of the building of the FRANKFURTER KANU-VEREIN 1913, Schaumainkai 90, 60596 Frankfurt. The skipper will be waiting for you at the quay with the dark blue motorboat.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10102462768555,8.668598175048828"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10102462768555,8.668598175048828",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: \"The Sandman\" Nightmarish Walking Tour",
@@ -267,7 +325,9 @@
         "duration": "70 minutes",
         "languages": "German",
         "meeting_point": "Meet in front of the main entrance of the cathedral. Please arrive at the meeting point 15 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11085891723633,8.684855461120605"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11085891723633,8.684855461120605",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Walking tour between St. Paul's Church, Main & Old Town flair in German",
@@ -276,7 +336,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "MAIN ENTRANCE PAULSKIRCHE / SIGN \"EXPERIENCE FRANKFURT\" The guide will be waiting at the meeting point: in front of the main entrance to St. Paul's Church and can be recognized by the \"Erlebnis Frankfurt\" sign and the guide's pass.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "From Frankfurt: Heidelberg and Rothenburg Guided Day Trip",
@@ -285,7 +347,9 @@
         "duration": "9.5 hours",
         "languages": "English, German",
         "meeting_point": "Bus stop in front of the \"Le Meridien\" hotel, Wiesenhüttenplatz 38, 60329, Frankfurt am Main. The tour guide will pick you up there.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt : Highlights & hidden Gems Private Walking Tour",
@@ -294,7 +358,9 @@
         "duration": "3 hours",
         "languages": "English, Spanish, German",
         "meeting_point": "Meet your guide front of TARGOBANK",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11425018310547,8.679139137268066"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11425018310547,8.679139137268066",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Team Event in Frankfurt with Party",
@@ -303,7 +369,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105594635009766,8.690255165100098"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105594635009766,8.690255165100098",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Private Rhine Valley tour with river cruise & wine tasting",
@@ -312,7 +380,9 @@
         "duration": "8 hours",
         "languages": "English, German",
         "meeting_point": "Hotel pick-up available.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "FRANKFURT: VEGAN FOOD TOUR TO 3-4 LOCAL FOODSPOTS",
@@ -321,7 +391,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "The tour guide has a black bag with the title \"SHARING PLATE\"",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110923767089844,8.682126998901367"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110923767089844,8.682126998901367",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Main Tower with Tickets and Guided Old Town Tour",
@@ -330,7 +402,9 @@
         "duration": "2 hours",
         "languages": "English, Spanish, German, Russian, Italian",
         "meeting_point": "Meet your guide in front of the Souvenirs am Dom.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1102409362793,8.684863090515137"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1102409362793,8.684863090515137",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Höchst Walking Tour with a Local",
@@ -339,7 +413,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "We will meet in front of Dalberg-Haus to start our fun express walk together!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.09843063354492,8.54550838470459"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.09843063354492,8.54550838470459",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Criminal hunt at night",
@@ -348,7 +424,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "The meeting point is centrally located at Restaurant MyFrankfurt on Liebfrauenberg. Simply check in with the staff at MyFrankfurt, and your adventure will begin. Address: Restaurant MyFrankfurt, Liebfrauenberg 37, 60313 Frankfurt am Main (Report to staff on site).",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.112571716308594,8.681697845458984"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.112571716308594,8.681697845458984",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Verbrecherjagd und gefährlich leckeres Schnitzel",
@@ -357,7 +435,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "The meeting point at the MyFrankfurt restaurant is centrally located on Frankfurt's Liebfrauenberg. Simply register with the MyFrankfurt staff and your adventure begins.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11257553100586,8.681793212890625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11257553100586,8.681793212890625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Sip Wine Along the Rhine - Grape Day out from Frankfurt",
@@ -366,7 +446,9 @@
         "duration": "9 hours",
         "languages": "English",
         "meeting_point": "Hotel pick-up or central meeting point.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Private pub crawl with insider-guide & free shots",
@@ -375,7 +457,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "in front of the \"Zunftbrunnen\", your guide will be wearing an orange safety vest",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.104286193847656,8.690075874328613"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.104286193847656,8.690075874328613",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Jack the Ripper Fright Tour",
@@ -384,7 +468,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "opposite of the main entrance to the Bethanien hospital at the stairway to the underground car park.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.12922286987305,8.706809043884277"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.12922286987305,8.706809043884277",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Highlights and New Old Town English-Language Tour",
@@ -393,7 +479,9 @@
         "duration": "1.5 hours",
         "languages": "English",
         "meeting_point": "Please meet your guide in front of the Tourist Information Office Römer.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110713958740234,8.68195629119873"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110713958740234,8.68195629119873",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Old Town Horror Stories Walking Tour in German",
@@ -402,7 +490,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "Meet your guide in front of the main entrance to St Paul's Church, opposite the Ratskeller.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Guided Bike Tour",
@@ -411,7 +501,9 @@
         "duration": "2.5 hours",
         "languages": "English, German",
         "meeting_point": "Martin-May-Str. 7, 60594 Frankfurt Sachsenhausen Your tour guide will wait for you at the frankfurtbiketour office at Martin-May-Straße 7, holding a sign. Look for the red and white barrier at the entrance. Martin-May-Straße 7 is located in the heart of Sachsenhausen. Directions by car: Accessible via the A3 highway, exit Frankfurt Süd. Parking: Hedderichstraße, 60594 Frankfurt am Main Directions by public transport: Metro: lines U1, U2, and U3 to Südbahnhof metro station Train: lines S3, S4, S5, and S6 to Lokalbahnhof station Tram: lines 14, 15, 16, and 17 to Lokalbahnhof/Textorstraße tram stop",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10334014892578,8.689393997192383"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10334014892578,8.689393997192383",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt Self-Guided Historical Walking Tour",
@@ -420,7 +512,9 @@
         "duration": "Valid 2 days",
         "languages": "English, German, Italian, Spanish, French, Portuguese, Chinese",
         "meeting_point": "Start the tour at the Alte Oper Frankfurt. You can open the app anywhere in the area to start the game.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11605453491211,8.672018051147461"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11605453491211,8.672018051147461",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Bachelor party Frankfurt: Pub crawl & party for your bachelor party",
@@ -429,7 +523,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10547637939453,8.68972396850586"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10547637939453,8.68972396850586",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Private Walking Tour with a Local",
@@ -438,7 +534,9 @@
         "duration": "2 - 6 hours",
         "languages": "English",
         "meeting_point": "Flexible meeting point.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Discover the heart of Frankfurt – a city tour in Russian",
@@ -447,7 +545,9 @@
         "duration": "2 hours",
         "languages": "Russian",
         "meeting_point": "MAIN ENTRANCE PAULSKIRCHE / SIGN \"EXPERIENCE FRANKFURT\" The guide will be waiting at the meeting point: in front of the main entrance to St. Paul's Church and can be recognized by the \"Erlebnis Frankfurt\" sign and the guide's pass.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Frankfurt: Old Town Crime Mystery Game",
@@ -456,7 +556,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Your game master will be waiting for you at the Lucae Fountain on Opernplatz.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.115234375,8.671590805053711"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.115234375,8.671590805053711",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Heidelberg & Baden-Baden Full-Day Tour",
@@ -465,7 +567,9 @@
         "duration": "10.5 hours",
         "languages": "English, German",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt Guided Walking Tour with Apple Wine Experience",
@@ -474,7 +578,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Bushaltestelle Berliner Str. an der Paulskirche (Coach Parking Lane Berliner Str. at Paulskirche), Paulsplatz 11, 60311 Frankfurt am Main, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11128616333008,8.681082725524902"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11128616333008,8.681082725524902",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Guided tour of Frankfurt",
@@ -483,7 +589,9 @@
         "duration": "2 hours",
         "languages": "Spanish",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11076736450195,8.684691429138184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11076736450195,8.684691429138184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Old Town Historical Walking Tour with Geo Epoche",
@@ -492,7 +600,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "In front of the \"Goldene Waage\" coffee house",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110748291015625,8.684564590454102"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110748291015625,8.684564590454102",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Frankfurt: Heidelberg & Rothenburg Full-Day Tour",
@@ -501,7 +611,9 @@
         "duration": "9 hours",
         "languages": "English",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Day Trip to Rothenburg from Frankfurt",
@@ -510,7 +622,9 @@
         "duration": "9 hours",
         "languages": "English",
         "meeting_point": "Frankfurt Wiesenhuettenplatz 38 / SIDEWALK Your tourguide will pick you up there! The departure point is very close to the main railway station. Take note: Do not enter the hotel Le Meridien at this place, we do not pick up in the hotel lobby and also not directly at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Private Walking Tour With Local Guide",
@@ -519,7 +633,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "The guide will be standing with a signboard in front of Fountain of Justice, Römerberg, 60311 Frankfurt am Main, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110435485839844,8.682154655456543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110435485839844,8.682154655456543",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Frankfurt: Private custom tour with a local guide",
@@ -528,7 +644,9 @@
         "duration": "2 - 8 hours",
         "languages": "English, German, Spanish",
         "meeting_point": "Flexible meeting point.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stag Party Frankfurt: Celebration for Your Bachelor Party",
@@ -537,6 +655,8 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "Meet in front of \"Hooters\" in Old Sachsenhausen or at your preferred location within Old Sachsenhausen.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105953216552734,8.690438270568848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@50.105953216552734,8.690438270568848",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

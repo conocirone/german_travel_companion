@@ -6,7 +6,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet your guide at the square in front of the historic building \"Löwenhaus\" -Liefergasse 9. They will be equipped with a black backpack and a signature red nametag.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22798156738281,6.773391246795654"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22798156738281,6.773391246795654",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Altbier-Safari Beer Walking Tour",
@@ -15,7 +17,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22701644897461,6.771819591522217"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22701644897461,6.771819591522217",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Private city tour in a relaxed atmosphere with an insider guide",
@@ -24,7 +28,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "in front of the Jan Wellem equestrian statue",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22587203979492,6.772021293640137"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22587203979492,6.772021293640137",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: City Sightseeing Cruise on the Rhine",
@@ -33,7 +39,9 @@
         "duration": "1 hour",
         "languages": "German, English",
         "meeting_point": "Look for the ticket office with the red, blue, and white logo, located on the Rheinuferpromenade (Rheinwerft). Lat: 51.226716 / Lon: 6.770422 Your boat will depart right in front of the ticket office. Show your GetYourGuide QR-Code ticket when you enter the ship. If you have any questions, the ticket office staff or ship staff will be more than happy to help.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22665023803711,6.770479202270508"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22665023803711,6.770479202270508",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: 24-Hour Hop-On Hop-Off Ticket",
@@ -42,7 +50,9 @@
         "duration": "Valid 1 day",
         "languages": "Spanish, Chinese, Dutch, English, French, German, Italian, Japanese, Russian, Arabic",
         "meeting_point": "Meet at bus stop: Kö-Brücke Königsallee/Steinstraße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22306442260742,6.778853416442871"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22306442260742,6.778853416442871",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Düsseldorf: Night PubCrawl Through The Old Town with Shots",
@@ -51,7 +61,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "Meet next to the monument in front of the Deutsche Oper am Rhein. Your guide will be wearing a bag with the tour logo on it.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Sushi, Sake & Japanese Lifestyle Tour",
@@ -60,7 +72,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet in front of Clayton Hotel Düsseldorf which was formerly Hotel Nikko Düsseldorf (at Immermannstraße 41).",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22315979003906,6.788492679595947"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22315979003906,6.788492679595947",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Guided Tour with a Night Watchman",
@@ -69,7 +83,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide outside the Kunstakademie Düsseldorf, located at Eiskellerstraße 1.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.230411529541016,6.774909496307373"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.230411529541016,6.774909496307373",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Old Town & Altbier Tour",
@@ -78,7 +94,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet upstairs by the Heinrich-Heine-Alle underground station (exit Heinrich-Heine-Platz), in front of the Leonidas Düsseldorf Old Town.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563171386719,6.776390552520752"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563171386719,6.776390552520752",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Virtual Reality Escape Game",
@@ -87,7 +105,9 @@
         "duration": "1 hour",
         "languages": "German, English",
         "meeting_point": "7th Space Düsseldorf is located at Diepenstraße 83, 40625 Düsseldorf. It is part of Cosmo Sports Düsseldorf and can be accessed via the main entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.2334098815918,6.841546535491943"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.2334098815918,6.841546535491943",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Urban Art Walk / Street Art Tour",
@@ -96,7 +116,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet at the corner of Ellerstrasse and Willi Becker Allee",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21710205078125,6.792780876159668"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21710205078125,6.792780876159668",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: Manga, mochi & more – Düsseldorf's Little Tokyo",
@@ -105,7 +127,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meeting point in front of the Motel One Hotel, Immermannstraße 54",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22233200073242,6.79152250289917"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22233200073242,6.79152250289917",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: 2-Hour Evening Rhine River Cruise with Live DJ",
@@ -114,7 +138,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Look for the KD Ticket office. Red, blue and white logo! Located on the \"Rheinuferpromenade (Rheinwerft). Lat: 51.226716 / Lon: 6.770422 Your boat will depart right infront of the ticket office. Show your GetYourGuide QRcode ticket when you enter the ship. If you have any questions, the KD ticket office staff or KD ship staff will be more than happy to help.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.226966857910156,6.7703986167907715"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.226966857910156,6.7703986167907715",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: 1.5-Hour Comedy Bus Tour",
@@ -123,7 +149,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet in front of the Kunstakademie on Fritz-Röber-Strasse, Düsseldorf.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23094177246094,6.7742486000061035"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23094177246094,6.7742486000061035",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: MedienHafen Tour",
@@ -132,7 +160,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet at the entrance to Apollo Varieté, below Rheinkniebrücke.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.219852447509766,6.765521049499512"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.219852447509766,6.765521049499512",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: A guided tour of iconic and emblematic places",
@@ -141,7 +171,9 @@
         "duration": "75 minutes",
         "languages": "German, Spanish",
         "meeting_point": "In front of the parking lot on \"Gartenstraße 2\". You'll recognize me by the iPad in my hand.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.231300354003906,6.781063556671143"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.231300354003906,6.781063556671143",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Dusseldorf: Insta-Perfect Walk with a Local",
@@ -150,7 +182,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "When facing the Museum Kunstpalast we will meet on the left beside the sign on the wall saying Museum Kunstpalast.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23497009277344,6.772957801818848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23497009277344,6.772957801818848",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Team Event in Düsseldorf with Party",
@@ -159,7 +193,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "in front of the Monument of the Deustche Oper am Rhein, at Heinrich-Heine-Allee 16A, 40213 Düsseldorf",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: The Ultimate Team event (3 rooms - 9 games)",
@@ -168,7 +204,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.216697692871094,6.776680946350098"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.216697692871094,6.776680946350098",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "(H)Alt! 4 Bier! Brauhaus! Führung!",
@@ -177,7 +215,9 @@
         "duration": "2 - 2.5 hours",
         "languages": "German",
         "meeting_point": "U-Bahn Station Heinrich-Heine-Allee, Ausgang Bolkerstraße, oben bei den Fahrradständern und dem gelben Briefkasten.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22538375854492,6.777018070220947"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22538375854492,6.777018070220947",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: Classic City Segway Tour",
@@ -186,7 +226,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Please meet at Rathausufer 20, Düsseldorf.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22325897216797,6.769320964813232"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22325897216797,6.769320964813232",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Good morning Düsseldorf: The tour for early risers",
@@ -195,7 +237,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Castle Square, Castle Tower, Entrance to the Maritime Museum",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22686767578125,6.771883487701416"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22686767578125,6.771883487701416",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: Culinary Soul Guided Tour",
@@ -204,7 +248,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the Tourist-Information \"Visit Düsseldorf\", Rheintraße 3. The tour starts right on time, so please plan to arrive early.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Private Walking Tour with a Professional Guide",
@@ -213,7 +259,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Please meet your guide in front of the tourist office. Look for a 'Travmonde OÜ' guide.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22529220581055,6.7722086906433105"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22529220581055,6.7722086906433105",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Explore Düsseldorf with Passionate tour guides!",
@@ -222,7 +270,9 @@
         "duration": "2 hours",
         "languages": "English",
         "meeting_point": "Meeting point: In front of the chocolate store \"Leonidas\" the guide will be waiting there with a red umbrella. Meeting point on the map: https://maps.app.goo.gl/WL1Xo6MHqEP55Zfa6",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563171386719,6.776390552520752"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563171386719,6.776390552520752",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Düsseldorf: Altstadt Guided Tour",
@@ -231,7 +281,9 @@
         "duration": "1.5 - 2 hours",
         "languages": "German, English",
         "meeting_point": "Meet your guide at the Tourist-Information \"Visit Düsseldorf\", Rheintraße 3. The tour starts right on time, so please plan to arrive early.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Premium Party Düsseldorf: Celebrate Your Bachelor Party",
@@ -240,7 +292,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "please write us directly on whatsapp, no calls, only whatsapp support",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22623062133789,6.776062488555908"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22623062133789,6.776062488555908",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Flingern Food Tour",
@@ -249,7 +303,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Flingern S-Bahn and U-Bahn station, Dorotheenstraße exit at the end of the stairs and bridge.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22693634033203,6.811609268188477"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22693634033203,6.811609268188477",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: In a nutshell - the 60 minutes tour",
@@ -258,7 +314,9 @@
         "duration": "1 hour",
         "languages": "English, German",
         "meeting_point": "next to Brewery Uerige",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: Riddle Tour with live actor - The missing brewer",
@@ -267,7 +325,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "You will find your guide in front of the building. Please arrive at the meeting point 5 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22959518432617,6.775285243988037"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22959518432617,6.775285243988037",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf walk: The Old Town and a charming market square",
@@ -276,7 +336,9 @@
         "duration": "100 minutes",
         "languages": "German, English",
         "meeting_point": "First watch out for the Cartier shop. Opposite if the entrance is a Bridge. We meet at the corner where the Bridge starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22300338745117,6.779247283935547"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22300338745117,6.779247283935547",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Flanieren und Genißen: Highlights und optionaler Bierstopp",
@@ -285,7 +347,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22725296020508,6.775460720062256"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22725296020508,6.775460720062256",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Best of Düsseldorf – The Highlight-Tour",
@@ -294,7 +358,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet your guide at the Tourist-Information \"Visit Düsseldorf\", Rheintraße 3. The tour starts right on time, so please plan to arrive early.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Guided Night Watchman Tour through Kaiserswerth",
@@ -303,7 +369,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the monument in front of the Tonhalle (Restaurant) in Kaiserswerth.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3010368347168,6.7398881912231445"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3010368347168,6.7398881912231445",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Capture the most Photogenic Spots with a Local",
@@ -312,7 +380,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the Tonhalle Düsseldorf to start our journey through Dusseldorf's most picturesque spots.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Sweet Treats Guided Walking Tour of Old Town",
@@ -321,7 +391,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet your guide in front of Carlsplatz 18 on the corner of Mittelstrasse.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.223758697509766,6.77439022064209"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.223758697509766,6.77439022064209",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Kö-Bogen I & II: Düsseldorf’s New Landmarks",
@@ -330,7 +402,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Main entry of the german opera by the rhine.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf Old Town - Private Guided tour",
@@ -339,7 +413,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "At the Rider statue of Jan Wellem at Rathaus (city hall), your tour guide shall be waiting with a Signboard.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22585678100586,6.771989345550537"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22585678100586,6.771989345550537",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Explore the magical Mosaic Art Course",
@@ -348,7 +424,9 @@
         "duration": "3.5 hours",
         "languages": "English",
         "meeting_point": "Near Edeka & DM",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23612976074219,6.781533718109131"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.23612976074219,6.781533718109131",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: old city and the Rhine",
@@ -357,7 +435,9 @@
         "duration": "2.5 hours",
         "languages": "English, Portuguese, Spanish",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22599792480469,6.7714996337890625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22599792480469,6.7714996337890625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: 2-Hour Segway Tour along the Rhine",
@@ -366,7 +446,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Please meet at Rathausufer 20, Düsseldorf.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22325897216797,6.769320964813232"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22325897216797,6.769320964813232",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Express Walk with a Local in 60 minutes",
@@ -375,7 +457,9 @@
         "duration": "1 - 2 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the statue of the goddess Pallas Athena, on the left side from the entrance to the Concert Hall to start our fun express walk together!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: 2-hour Best Intro Walking Tour with a Local",
@@ -384,7 +468,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the statue of the goddess Pallas Athena, on the left side from the entrance to the Concert Hall to begin our discovery walk through the city.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.232093811035156,6.772627353668213",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: In the footsteps of elector Jan Wellem",
@@ -393,7 +479,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Next to the brewery Uerige",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Private pub crawl with insider-guide & shots",
@@ -402,7 +490,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Your guide will be wearing an orange safety vest",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563934326172,6.771953582763672"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22563934326172,6.771953582763672",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Tipping based - Old Town Walking Tour",
@@ -411,7 +501,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Head to Königsallee 56, look out for Cartier and go to the bridge on the other side of the road. Meet us where the bridge over the ditch begins. Another hint: There is a hop on hop off bus stop on the other side of the bridge.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22300338745117,6.779247283935547"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22300338745117,6.779247283935547",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Filmtour Düsseldorf: From Hollywood to Netflix",
@@ -420,7 +512,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide outside Clayton Hotel (formally known as Nikko Hotel) in Düsseldorf. They will have a red beer crate and a small DU Tours flag.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22315979003906,6.788492679595947"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22315979003906,6.788492679595947",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf : Highlights Walking tour with A Guide",
@@ -429,7 +523,9 @@
         "duration": "2 hours",
         "languages": "English, French, German",
         "meeting_point": "As a central location, it provides easy exploration of Düsseldorf's rich culture, history, and vibrant atmosphere, with lively cafes, shops, and cultural venues nearby. With its picturesque surroundings and diverse offerings, Dreischeibenhaus 1 serves as an ideal starting point for experiencing the charm of Düsseldorf.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22853469848633,6.782714366912842"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22853469848633,6.782714366912842",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Chocolatier Workshop & Chocolate Tasting",
@@ -438,7 +534,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.205379486083984,6.8296332359313965"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.205379486083984,6.8296332359313965",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Guided City Architecture Walking Tour",
@@ -447,7 +545,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet at Mannesmannufer 2.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22111511230469,6.767832279205322"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22111511230469,6.767832279205322",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Düsseldorf: 2 Nights PubCrawl Party through the Altstadt",
@@ -456,7 +556,9 @@
         "duration": "2 days",
         "languages": "English, German",
         "meeting_point": "vor dem Denkmal der Deutschen Oper am Rhein, Heinrich-Heine-Allee 16A, 40213 Düsseldorf",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.777365684509277",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Old Town Interactive Crime Tour with actor",
@@ -465,7 +567,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "The guide will contact you and tell you the next steps.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.2295036315918,6.77659273147583"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.2295036315918,6.77659273147583",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Düsseldorfs Altbier - & Craftbeer-Tour",
@@ -474,7 +578,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the Tourist-Information \"Visit Düsseldorf\", Rheintraße 3. The tour starts right on time, so please plan to arrive early.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22486877441406,6.771505832672119",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: E-Scooter City Tour",
@@ -483,7 +589,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Your guide will be waiting in the parking lot, near the entrance barrier, in front of the Rheinturm.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21794128417969,6.7616801261901855"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21794128417969,6.7616801261901855",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Cologne & Düsseldorf: Chocolate and Beer Private Guided Tour",
@@ -492,7 +600,9 @@
         "duration": "9 hours",
         "languages": "English, Spanish, German, Russian",
         "meeting_point": "N/A",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Old Town Historical Walking Tour with GEO EPOCHE",
@@ -501,7 +611,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Stadterhebungsmonument, Burgplatz, 40213 Düsseldorf Kreuzung von Josef- Wimmer-Gasse und Müller-Schlösser-Gasse",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.771910190582275"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22745132446289,6.771910190582275",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Guided Beer Tour with 4 Beers & a Flexible Route",
@@ -510,7 +622,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide in front of Ko(m)mödchen next to O´Reilly´s Irish pub.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22724914550781,6.775562763214111"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22724914550781,6.775562763214111",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Scavenger Hunt Self-Guided Tour",
@@ -519,7 +633,9 @@
         "duration": "3.5 hours",
         "languages": "N/A",
         "meeting_point": "This is the place where your Scavenger Hunt starts. Bring the Scavenger Hunt box, which you received via mail, with you. There will be no guide at the meeting point. You can start on any date and at any time you wish.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21982955932617,6.794478893280029"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.21982955932617,6.794478893280029",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Guided Old Town Tour with Beer Break",
@@ -528,7 +644,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the Tritonenbrunnen fountain statue at the north end of the moat on Königsallee. Look for the guide wearing a Stadtpfade badge with their name on it. The meeting point is directly at the end of the moat, at the water. Triton is a little bit hard to find because you can only see it when you are standing right at the moat. If you are standing next to a round fountain with many flowers around you. then you are at the wrong place. Please head to the moat.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22537612915039,6.77889347076416"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.22537612915039,6.77889347076416",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dusseldorf: Art and Culture Guided Tour with a Local",
@@ -537,7 +655,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "Meet at the Antes-Brunnen fountain, facing the train station.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.218788146972656,6.795701503753662"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.218788146972656,6.795701503753662",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Düsseldorf: Girls-only-tour with shots, party, fun & games",
@@ -546,6 +666,8 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the corner of Carlsplatz and Mittelstraße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.223758697509766,6.77439022064209"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.223758697509766,6.77439022064209",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

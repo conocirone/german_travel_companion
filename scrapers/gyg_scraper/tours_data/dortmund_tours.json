@@ -6,15 +6,20 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Phoenixplatz 2a, 44139 Dortmund - there is a large magenta-colored sign there \"sanfte-touren.de\"",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715"
-    },{
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
+    },
+    {
         "title": "German Football Museum",
         "price": "€20",
         "link": "https://www.getyourguide.com/dortmund-l136/dortmund-german-football-museum-t99648/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
         "duration": "Valid 1 day",
         "languages": "N/A",
         "meeting_point": "Platz der Deutschen Einheit 1, 44137 Dortmund.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51618194580078,7.457612037658691"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51618194580078,7.457612037658691",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Dortmund: Sundowner Skywalk Tour",
@@ -23,7 +28,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Look for “sanfte-touren.de”\nArrive 10 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4881706237793,7.488818645477295"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4881706237793,7.488818645477295",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Ruhrpott Carpaccio: Pott Comedy with the Unique Ruhr Comedian Fritze",
@@ -32,7 +39,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Right near the Konzerthaus Dortmund (about 100 m away)\nRed carpet in the entrance area",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51730728149414,7.464883327484131"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51730728149414,7.464883327484131",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund beer history - Guided tour with tasting",
@@ -41,7 +50,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51521301269531,7.453506946563721"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51521301269531,7.453506946563721",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Trinkhallen Tour Dortmund",
@@ -50,7 +61,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.50916290283203,7.447052478790283"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.50916290283203,7.447052478790283",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Büdchen KULTour - with the unique Ruhrpott character Fritze",
@@ -59,7 +72,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Please wait in the forecourt\nYou can spot the guide by their flat cap, yellow apron, and loose tongue.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.50520324707031,7.459282398223877"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.50520324707031,7.459282398223877",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Pub crawl – experience Dortmund's beer culture",
@@ -68,7 +83,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Hoher Wall 9-11: The meeting point is in front of the health department.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51284408569336,7.457255840301514"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51284408569336,7.457255840301514",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund: 2-hour Best Intro Walking Tour with a Local",
@@ -77,7 +94,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the Apostar Pharmacy to begin our discovery walk through the city.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.513450622558594,7.464400768280029"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.513450622558594,7.464400768280029",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund : Private Walking Tour With A guide (Private Tour)",
@@ -86,7 +105,9 @@
         "duration": "2 - 8 hours",
         "languages": "English",
         "meeting_point": "Pick-up at your centrally located hotel or a convenient meeting point in the city center.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stösschen-Kultour - Beer tasting & tour in the middle of Dortmund's unique Fritze",
@@ -95,7 +116,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.5128288269043,7.467303276062012"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.5128288269043,7.467303276062012",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "What made Dortmund rich: bike tour incl. drink",
@@ -104,7 +127,9 @@
         "duration": "3 hours",
         "languages": "German, English, French",
         "meeting_point": "Stairs on the street corner",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51543426513672,7.4615068435668945"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51543426513672,7.4615068435668945",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund: Skywalk and blast furnace scenery",
@@ -113,7 +138,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Phoenixplatz 2a, 44139 Dortmund - there's a big magenta sign that says \"sanfte-touren.de\"",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund: Private pub crawl with insider guide & free shots",
@@ -122,15 +149,20 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "Your guide wears an orange safety vest with the inscription \"PARTYGUIDE\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51704406738281,7.46736478805542"
-    },{
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51704406738281,7.46736478805542",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
+    },
+    {
         "title": "Schwerte: Ruhr Area Segway Tour",
         "price": "€79",
         "link": "https://www.getyourguide.com/dortmund-l136/schwerte-ruhr-area-segway-tour-t172974/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Liethstraße 36, 58239 Schwerte, Germany.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4344596862793,7.566400051116943"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4344596862793,7.566400051116943",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund: 24-Hour Hop-On Hop-Off Sightseeing Bus Ticket",
@@ -139,7 +171,9 @@
         "duration": "Valid 1 day",
         "languages": "German, English",
         "meeting_point": "You can start your tour anywhere between 13 bus stops in Dortmund. The bus stops include:\n\n- Central Station (Departures at 10:20 a.m., 12:20, 2:20 and 4:20 p.m.)\n\n- Kreuzviertel\n\n- Harbour\n\n- DASA\n\n- TU Dortmund\n\n- Stadion\n\n- Westfalenpark\n\n- Rombergpark\n\n- Phoenix Hall\n\n- Phoenix See\n\n- Town Hall\n\n- Reinoldi Church\n\n- Central Station (Arrivals at 12, 2, 4, and 6 p.m.)\n\nFor more information, please check the detailed timetables at the bus stops.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.513587951660156,7.465298175811768"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.513587951660156,7.465298175811768",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Beer & Steel: Bike Culture Tour with Dortmund's unique Fritze",
@@ -148,7 +182,9 @@
         "duration": "3.5 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51499938964844,7.453333377838135"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51499938964844,7.453333377838135",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund Private Guided Walking Tour",
@@ -157,7 +193,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "At the Bläserbrunnen fountain, Markt 3, 44137 Dortmund, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51382064819336,7.466464042663574"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51382064819336,7.466464042663574",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Tasting - \"Dortmund export beers\" walking tour and tasting",
@@ -166,7 +204,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund Phoenix Lake Segway Tour",
@@ -175,7 +215,9 @@
         "duration": "2 hours",
         "languages": "Spanish, English, German",
         "meeting_point": "Innogy Tower, Freistuhl 7, 44137 Dortmund.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51628112792969,7.461995601654053"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51628112792969,7.461995601654053",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund Soccer Segway Tour",
@@ -184,7 +226,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Innogy Tower, Freistuhl 7, 44137 Dortmund.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51628112792969,7.461995601654053"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51628112792969,7.461995601654053",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund: Guided Walking Tour with a Local",
@@ -193,7 +237,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "Meet your local guide outside the Regulatory Office in Dortmund.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51187515258789,7.464004993438721"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.51187515258789,7.464004993438721",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dortmund's Green Side Segway Tour",
@@ -202,6 +248,8 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Bergmann Brauerei GmbH, Elias-Bahn-Weg 2, 44263 Dortmund.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.489078521728516,7.487950801849365"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.489078521728516,7.487950801849365",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

@@ -6,7 +6,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.550262451171875,9.97006893157959"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.550262451171875,9.97006893157959",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 90-Minute Evening Lights Harbor Cruise",
@@ -15,7 +17,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your cruise operator at Landungsbrücken, Bridge 10 and show your voucher to a staff member at the booth of the local partner, Maritime Circle Line, to pick up your boarding pass.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54547119140625,9.963191986083984"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54547119140625,9.963191986083984",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1.5-Hour Harbor and Speicherstadt Day Cruise",
@@ -24,7 +28,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Once at the Überseebrücke bridge, start to walk down. Through the windows of the bridge, you will be able to see the boat on the left side of the bridge.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54355239868164,9.977668762207031"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54355239868164,9.977668762207031",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Line A Hop-On Hop-Off Sightseeing Tour",
@@ -33,7 +39,9 @@
         "duration": "Valid 1 day",
         "languages": "German",
         "meeting_point": "Hop onto the bus at the Central Station/Kirchenallee, St. Pauli Landungsbrücken 1-2, or any of the other 20 stops on the tour. Look for the red double-decker Hamburger Stadtrundfahrt bus. Please check our website (die-roten-doppeldecker.de) for information about timetable changes and stop relocations",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545433044433594,9.970842361450195"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545433044433594,9.970842361450195",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Moviegolf Experience",
@@ -42,7 +50,9 @@
         "duration": "1 - 1.5 hours",
         "languages": "German, English",
         "meeting_point": "Eingang zu unserer MovieGolf-Anlage",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.540523529052734,9.995684623718262"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.540523529052734,9.995684623718262",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: 1.5-Hour Evening Lights Harbour Cruise on a Ship",
@@ -51,7 +61,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet by pier 3 at Landungsbrücken and look for the local partner.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54518127441406,9.969911575317383"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54518127441406,9.969911575317383",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Insider Tour of the Reeperbahn & St. Pauli",
@@ -60,7 +72,9 @@
         "duration": "100 minutes",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.551090240478516,9.957605361938477"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.551090240478516,9.957605361938477",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Chocoversum Guided Tour with Tastings",
@@ -69,7 +83,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54792022705078,10.002545356750488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54792022705078,10.002545356750488",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Adults Only Reeperbahn Tour",
@@ -78,7 +94,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55017852783203,9.970049858093262"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55017852783203,9.970049858093262",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1-Hour Harbor Cruise",
@@ -87,7 +105,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545013427734375,9.970572471618652"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545013427734375,9.970572471618652",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: St. Pauli Green Bunker Tour in German",
@@ -96,7 +116,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "U-Bahn Feldstraße (subway station), entrance hall, by the elevator\n(Participants are asked to arrive 15 minutes early)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.556949615478516,9.968660354614258"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.556949615478516,9.968660354614258",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 2-Hour XXL Port of Hamburg Cruise Tour",
@@ -105,7 +127,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Please arrive at the agreed meeting point on time and ask the staff of Rainer Abicht Elbreederei where the ship will depart from. The ships may depart from St. Pauli Landungsbrücken, Bridge 1 or Bridges 4-10. Please check with the staff on site.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54521560668945,9.971750259399414"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54521560668945,9.971750259399414",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Amphibious River and Land Bus Ticket",
@@ -114,7 +138,9 @@
         "duration": "70 minutes",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54450607299805,9.993770599365234"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54450607299805,9.993770599365234",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1-Hour Harbor Sightseeing Cruise with HafenCity",
@@ -123,7 +149,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "The meeting point is at St. Pauli Landing Stages:\nBridge 1 (barges)\nBridge 4 (passenger ships)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54521179199219,9.97179126739502"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54521179199219,9.97179126739502",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Original Hamburg Pub Crawl Sex & Crime St. Pauli Tour",
@@ -132,7 +160,9 @@
         "duration": "4 hours",
         "languages": "English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55274200439453,10.00936222076416"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55274200439453,10.00936222076416",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Big Hamburg Pubcrawl - Shots, Games & VIP Bundle",
@@ -141,7 +171,9 @@
         "duration": "3.5 - 4 hours",
         "languages": "German, English, Russian, Spanish, Portuguese, French",
         "meeting_point": "The Tour Guides will meet you on the square.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.549835205078125,9.957292556762695"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.549835205078125,9.957292556762695",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Guided Walking Tour for Magic Fans",
@@ -150,7 +182,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet in front of the main entrance of the Townhall in Hamburg.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55043029785156,9.99233341217041"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55043029785156,9.99233341217041",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Reeperbahn tour with Daniel Schmidt from the Elbschlosskeller",
@@ -159,7 +193,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "We are on site and welcome our guests personally.\nRendsburger Straße 4 20359 Hamburg",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55137252807617,9.964325904846191"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55137252807617,9.964325904846191",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Night Watchman's Tour of St. Pauli in German",
@@ -168,7 +204,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide on the pedestrian bridge, located right outside the main exit of Landungsbrücken S-bahn and U-bahn station. Your guide will be wearing a nightguard costume.\n\nIf you arrive by train (underground or regular), please use the main exit to walk onto the bridge.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54597854614258,9.970625877380371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54597854614258,9.970625877380371",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Schanzenviertel Culinary Tour",
@@ -177,7 +215,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.564151763916016,9.969139099121094"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.564151763916016,9.969139099121094",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1-Hour Evening Harbor Lights Cruise",
@@ -186,7 +226,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "The departure of the evening Lights cruise starts at St. Pauli Landungsbrücken, Bridge 4. You will find the ship and the boarding area down by the water on the pontoon. You can also find Rainer Abicht staff members at Bridge 1 and Bridge 2 who can assist you. Please have your ticket ready as it will be scanned by the staff member at the gangway.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545196533203125,9.968628883361816"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.545196533203125,9.968628883361816",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Elbphilharmonie Highlights and Plaza Guided Tour",
@@ -195,7 +237,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Meet at the bus stop for the blue line, across from the old water police building. Your guide will be wearing a white shoulder bag with UNSER HAMBURG written on it.\nAttention: The meeting point is about 300 meters from the Elbphilharmonie.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54343032836914,9.983755111694336"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54343032836914,9.983755111694336",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Olivia Jones Tour with Iconic Barker Fabian",
@@ -204,7 +248,9 @@
         "duration": "100 minutes",
         "languages": "German",
         "meeting_point": "The tour starts at the Olivia Jones Bar, Große Freiheit 35.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55113220214844,9.957563400268555"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55113220214844,9.957563400268555",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: In the Footsteps of \"Olivia\" Reeperbahn Tour",
@@ -213,7 +259,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55080032348633,9.969943046569824"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55080032348633,9.969943046569824",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Pubcrawl & Nightlife Tour at St.Pauli",
@@ -222,7 +270,9 @@
         "duration": "4 hours",
         "languages": "English, German, Russian",
         "meeting_point": "Polizeiwache Davidwache",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5490608215332,9.96274471282959"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5490608215332,9.96274471282959",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Guided Grand Harbor Sightseeing Cruise by Ship",
@@ -231,7 +281,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Please proceed directly to the pier 3 and the company \"Prüsse\" to reach the correct boat.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54512405395508,9.97018814086914"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54512405395508,9.97018814086914",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Reeperbahn Quickie, The Short & Sexy St. Pauli Tour",
@@ -240,7 +292,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide on the stairs in front of the Davidwache next to the garage exit from Spielbudenplatz. Your guide will be holding a white bag.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.549041748046875,9.962718963623047"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.549041748046875,9.962718963623047",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Elbphilharmonie Plaza, Highlights & Surroundings",
@@ -249,7 +303,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Meet at the bus stop for the blue line, across from the old water police building. Your guide will be wearing a white shoulder bag with UNSER HAMBURG written on it.\nAttention: The meeting point is about 300 meters from the Elbphilharmonie.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54350662231445,9.983449935913086"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54350662231445,9.983449935913086",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1.5h Grand Harbor Evening Lights Cruise",
@@ -258,7 +314,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet by pier 3 at Landungsbrücken and look for the Prüsse company to board the cruise",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54509353637695,9.969847679138184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54509353637695,9.969847679138184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Mysterious Stairwells Guided Walking Tour",
@@ -267,7 +325,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Our meeting point is at the former main portal of St.Nikolai. The guide can easily be identified by the blue Stadtspuerer bag with the golden Mystix logo.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54745864868164,9.990671157836914"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54745864868164,9.990671157836914",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Speicherstadt and Hafencity Guided Tour",
@@ -276,7 +336,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "The meeting point is directly at Sandtorkai 74. This is the corner of Sandtorkai/Kaiserkai and there directly on the square in front of the stairs and on the white wall with the hole in the middle.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.542579650878906,9.984972953796387"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.542579650878906,9.984972953796387",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Night PubCrawl through the Reeperbahn",
@@ -285,7 +347,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Your guide will be wearing a bag with the tour logo on it. Beatles Platz 1, 20359 Hamburg, in front of the Beatles Monument.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55000305175781,9.957083702087402"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55000305175781,9.957083702087402",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Hop-On/ Hop-Off Sightseeing Tour Classic Line",
@@ -294,7 +358,9 @@
         "duration": "Valid 1 day",
         "languages": "German, English, Russian, Spanish, French, Italian, Danish",
         "meeting_point": "You can start your tour at any of the 15 stations on the route.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.554073333740234,10.00808048248291"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.554073333740234,10.00808048248291",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Elbphilharmonie Plaza Guided Tour",
@@ -303,7 +369,9 @@
         "duration": "1 hour",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54413986206055,9.981650352478027"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54413986206055,9.981650352478027",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "St. Pauli Nightlife Tour with Drag Queen in German",
@@ -312,7 +380,9 @@
         "duration": "100 minutes",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.551090240478516,9.957605361938477"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.551090240478516,9.957605361938477",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Crimes of St. Pauli Guided Walking Tour",
@@ -321,7 +391,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55282211303711,9.960633277893066"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55282211303711,9.960633277893066",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Harbor Cruise with Wine and Cheese",
@@ -330,7 +402,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Prior to boarding, please check in at the local partner's ticket office, located 20 steps behind the famous \"Fischbrötchenbude 10\" restaurant.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54546356201172,9.96320915222168"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54546356201172,9.96320915222168",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Elbphilharmonie Plaza and HafenCity Food Tour",
@@ -339,7 +413,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54023361206055,9.996465682983398"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54023361206055,9.996465682983398",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: St. Pauli Breweries Walking Tour with Tastings",
@@ -348,7 +424,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Look for your guide wearing a jacket with the Kiezjungs emblem. They are standing on the jetties in front of the Hard Rock Cafe.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54570770263672,9.967622756958008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54570770263672,9.967622756958008",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Die Kiez-Kapitän Reeperbahn & Beatles Kieztour Hamburg",
@@ -357,7 +435,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Vorplatz Polizeistation Davidwache",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5490608215332,9.96274471282959"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5490608215332,9.96274471282959",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: Harbor Cruise",
@@ -366,7 +446,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Departure:\n\nOur boats are located at the Pontonanlage in the Binnenhafen on the streets Kajen and Hohe Brücke, opposite the Miniatur Wunderland in the Speicherstadt. You reach the pontoon from the bridge Kehrwiedersteg.\n\nParking for cars and buses are available.\n\nThe nearest metro station is Baumwall with the U3 line.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54448699951172,9.985838890075684"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54448699951172,9.985838890075684",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Reeperbahn Lust & Laster Tour for Adults Only",
@@ -375,7 +457,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.550235748291016,9.969907760620117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.550235748291016,9.969907760620117",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Speicherstadt, HafenCity + Elbphilharmonie Tour",
@@ -384,7 +468,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Arrive 15 minutes before the activity starts outside the subway station, U Baumwall, at the Elbphilharmonie exit.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54415512084961,9.98122787475586"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54415512084961,9.98122787475586",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Hamburg: 2.5-Hour Beatles Music Tour",
@@ -393,7 +479,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meet in front of the entrance of the U-Bahn station Feldstraße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.556949615478516,9.968634605407715"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.556949615478516,9.968634605407715",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Panoramic Streetkart Tour",
@@ -402,7 +490,9 @@
         "duration": "2 - 3 hours",
         "languages": "German",
         "meeting_point": "When you need the shuttle, you must order this at least 3 days in advance.\n\nMetronom Trainstation Hittfeld (15min from Central Station) We are the last station included HVV Ticket.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.38618087768555,9.96012020111084"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.38618087768555,9.96012020111084",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Saturday Night Boat Party",
@@ -411,7 +501,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "If you are at the Überseebrücke, please walk down to the water. The boarding area is signposted below the Überseebrücke.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54256057739258,9.977585792541504"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54256057739258,9.977585792541504",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Grand Harbor Tour by Traditional Barge",
@@ -420,7 +512,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Please proceed directly to pier 3 and the company \"Prüsse\" to reach the correct boat.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54509353637695,9.969847679138184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54509353637695,9.969847679138184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg 3-Hour Bike Tour",
@@ -429,7 +523,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Gebrüder-Wolf-Platz (Hopfenstr. 15b)\nThe shop is on the square with a Aldi supermarket and a bakery.\nSouthern end of the street Taubenstraße 150m from the Reeperbahn.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.547916412353516,9.96503734588623"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.547916412353516,9.96503734588623",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Hop-On Hop-Off Bus with Harbor Cruise",
@@ -438,7 +534,9 @@
         "duration": "Valid 1 day",
         "languages": "Spanish, Chinese, Danish, English, French, German, Italian, Japanese, Arabic, Russian, Portuguese",
         "meeting_point": "The hop-on, hop-off bus has daily departures from:\n• Bus Stop 1: St. Pauli Landungsbrücken 1-2 (Harbour)\n• Bus Stop 7: Hauptbahnhof/Kirchenallee (Central Station)\n• Any of the 20 other bus stops\n\nThe harbor cruise departs from:\n• St. Pauli Landungsbrücken, Brücke 1",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54591369628906,9.969670295715332"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54591369628906,9.969670295715332",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "St. Pauli: Guided Food Tour with 5 Tastings",
@@ -447,7 +545,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.557090759277344,9.968526840209961"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.557090759277344,9.968526840209961",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Hamburg, Brunsbüttel or Cuxhaven: Day Trip to Helgoland",
@@ -456,7 +556,9 @@
         "duration": "6.5 - 11.5 hours",
         "languages": "Danish, English, French, German, Spanish",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.887447357177734,9.092194557189941"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.887447357177734,9.092194557189941",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Neighborhood tour with an ex-dominatrix",
@@ -465,7 +567,9 @@
         "duration": "2 hours",
         "languages": "German, English, Polish",
         "meeting_point": "We'll meet outside Mary's Treff at Gerhardstraße 1. You'll recognize the shop by the eye-catching red Tyskie sign – right next to it is the Hotel Hanseport.\n\nIf you're coming from Hans-Albers-Platz, just walk down Gerhardstraße to the very end – then you'll be there.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54764938354492,9.961118698120117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54764938354492,9.961118698120117",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Dialogue in the Dark (German Tour)",
@@ -474,7 +578,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.546226501464844,10.00145435333252"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.546226501464844,10.00145435333252",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Culinary Insider Tour of St. Georg",
@@ -483,7 +589,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "In front of the Ohnsorg Theater, Heidi-Kabel-Platz 1, 20099 Hamburg, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.554561614990234,10.007417678833008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.554561614990234,10.007417678833008",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Speicherstadt and HafenCity 2-Hour Tour",
@@ -492,7 +600,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Important!! Meet at Baumwall subway station, Kehrwiederspitze exit, at the bottom of the stairs in front of the kiosk named \"Back Shop\". The kiosk is located under the railway bridge.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54420852661133,9.981864929199219"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54420852661133,9.981864929199219",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Party Harbor Cruise with Olivia Jones",
@@ -501,7 +611,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Startpunkt: Anleger Altona (bei den Fischauktionshallen)\nGroße Elbstraße 9, 22767 Hamburg",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54479217529297,9.951708793640137"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54479217529297,9.951708793640137",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: Private Couples' Photoshoot and Walking Tour",
@@ -510,7 +622,9 @@
         "duration": "1.5 hours",
         "languages": "English, French, German, Spanish",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5497932434082,9.957281112670898"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.5497932434082,9.957281112670898",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 1.5-Hour Comedy Bus Tour in German",
@@ -519,7 +633,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Pickup from the meeting point in front of the \"Tanzende Türme\" on the Reeperbahn.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54962921142578,9.968090057373047"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54962921142578,9.968090057373047",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: After work Millerntor stadium tour with drinks",
@@ -528,7 +644,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "The stadium tour starts at the FC St. Pauli Museum on the first floor of the back straight (east stand) of the Millerntor Stadium, to the right of the St. Pauli fan store, the fan rooms and the AFM - adjacent to the Heiligengeistfeld.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55439376831055,9.968840599060059"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55439376831055,9.968840599060059",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hamburg: 2-Hour Harbor Cruise",
@@ -537,6 +655,8 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54386520385742,9.977495193481445"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54386520385742,9.977495193481445",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

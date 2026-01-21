@@ -6,7 +6,9 @@
         "duration": "Valid 1 - 2 days",
         "languages": "Spanish, English, French, German, Italian, Hebrew, Japanese, Chinese, Polish, Portuguese, Arabic, Turkish, Russian",
         "meeting_point": "Download the 'City Sightseeing Berlin' app to check the latest times and see a list of the stop locations.\nThe tour can be started from any of the bus stops along the route",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50351333618164,13.337827682495117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50351333618164,13.337827682495117",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Reichstag, Dome and Government District Guided Tour",
@@ -15,7 +17,9 @@
         "duration": "2 - 2.5 hours",
         "languages": "German, English",
         "meeting_point": "Meet at the intersection of Paul-Löbe-Allee and Konrad-Adenauer-Straße, next to the subway exit Bundestag (U5) exit D in front of the elevator.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51957702636719,13.373520851135254"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51957702636719,13.373520851135254",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Highest Swing in Europe",
@@ -24,7 +28,9 @@
         "duration": "5 minutes",
         "languages": "English, German",
         "meeting_point": "Please enter the lift and follow the signs to \"High Swing\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52312469482422,13.412765502929688"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52312469482422,13.412765502929688",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Sachsenhausen Concentration Camp Tour in English",
@@ -33,7 +39,9 @@
         "duration": "5.5 - 6 hours",
         "languages": "German, English",
         "meeting_point": "Meet your guide outside the Friedrichstraße train station on the square beside the '\"Traenenpalast\" (Palace of Tears) to begin the tour. Look for the guides holding the yellow umbrellas.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: 1-Hour City Tour by Boat with Guaranteed Seating",
@@ -42,7 +50,9 @@
         "duration": "1 hour",
         "languages": "English, French, Hebrew, Italian, Polish, Russian, Swedish, Dutch, German, Finnish, Portuguese, Chinese",
         "meeting_point": "The meeting point is on the corner of Friedrichstraße and Am Weidendamm, a 5-minute walk from Friedrichstraße S- and U-bahn station. Please wait at the Stern und Kreisschiffahrt sign.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521541595458984,13.38748836517334"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521541595458984,13.38748836517334",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Third Reich & Cold War Guided Walking Tour",
@@ -51,7 +61,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet in front of the tourist information point at Brandenburg Gate, Pariser Platz 1. Look for a guide with the pink umbrella at the Brandenburg Gate. The closest public transportation is the S-Bahn and U-Bahn station Brandenburger Tor (S1, S2, S25, S26 and U5) or buses 100 and 245.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.516075134277344,13.377978324890137"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.516075134277344,13.377978324890137",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Discover Berlin Walking Tour",
@@ -60,7 +72,9 @@
         "duration": "2 - 4 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523250579833984,13.40212631225586"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523250579833984,13.40212631225586",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Third Reich, Hitler, and WWII Walking Tour",
@@ -69,7 +83,9 @@
         "duration": "3 hours",
         "languages": "English, German, Spanish",
         "meeting_point": "You’ll find our guides outside the Friedrichstraße train station, on the square between the Tränenpalast (Palace of Tears) and the station. The guides will be wearing a blue lanyard and a yellow name tag holding yellow umbrellas",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Sachsenhausen Concentration Camp Memorial Tour",
@@ -78,7 +94,9 @@
         "duration": "5 hours",
         "languages": "English, Spanish, German",
         "meeting_point": "Your guide will be waiting next to the World Time Clock at Alexandreplatz. They will be wearing their Buendía accreditation.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521175384521484,13.413296699523926"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521175384521484,13.413296699523926",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Pub Crawl with Shots and VIP Club Entry",
@@ -87,7 +105,9 @@
         "duration": "6 hours",
         "languages": "English",
         "meeting_point": "Meet your guide at 21:00 at Generator Berlin Alexanderplatz, Otto-Braun-Straße 65, 10178 Berlin",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52396011352539,13.417952537536621"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52396011352539,13.417952537536621",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Big Bus Hop-On Hop-Off Sightseeing Tour & Currywurst",
@@ -96,7 +116,9 @@
         "duration": "Valid 1 - 2 days",
         "languages": "Spanish, Turkish, Chinese, Danish, Dutch, English, French, German, Italian, Japanese, Polish, Portuguese, Russian, Swedish",
         "meeting_point": "You can activate your ticket in one of two ways:\n1. Download the Big Bus app and use your Activity Provider Reference Number on this voucher to add your booking and activate your ticket when you are ready to travel. You can then board the bus at any Big Bus stop on the route.\n2. Present your printed or mobile voucher with a Big Bus team member at any stop on the route during operating hours. A recommended boarding point is Big Bus Stop 1 located at Alexanderstraße 3-5, 10178 Berlin (Opposite Park Inn Hotel). Both the red and blue routes depart from this stop.\nYour ticket includes a free currywurst. Simply show your booking to a Big Bus staff member at any stop to receive a printed voucher, which you can then use to collect your currywurst.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523685455322266,13.41457748413086"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523685455322266,13.41457748413086",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: 75-minute Trabi Safari",
@@ -105,7 +127,9 @@
         "duration": "75 minutes",
         "languages": "English, German",
         "meeting_point": "TrabiWorld, Zimmerstraße 97-100, at the corner of Wilhelmstraße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50767517089844,13.386751174926758"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50767517089844,13.386751174926758",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Sachsenhausen Concentration Camp and Potsdam Tour",
@@ -114,7 +138,9 @@
         "duration": "7 hours",
         "languages": "English, Spanish",
         "meeting_point": "Your guide will be waiting next to the World Time Clock at Alexandreplatz. They will be wearing their Buendía accreditation.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521175384521484,13.413296699523926"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521175384521484,13.413296699523926",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Pub Crawl & Party with Free Shots & VIP Club Access",
@@ -123,7 +149,9 @@
         "duration": "6 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52070617675781,13.40469741821289"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52070617675781,13.40469741821289",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Explore Berlin: See All The Iconic Sights & Some Hidden Gems",
@@ -132,7 +160,9 @@
         "duration": "3 hours",
         "languages": "English, German, Spanish",
         "meeting_point": "Meet outside Friedrichstrasse train station, on the square beside the 'Traenenpalast' (Palace of Tears), Reichstagufer 17, 10117 Berlin. Look for the guides holding yellow umbrellas for easy recognition",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52072525024414,13.386940956115723"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52072525024414,13.386940956115723",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: English Bus Tour to Sachsenhausen Concentration Camp",
@@ -141,7 +171,9 @@
         "duration": "4 hours",
         "languages": "English",
         "meeting_point": "Find your guide outside Friedrichstraße train station, on the square between the Tränenpalast (Palace of Tears) and the station. The guides will be wearing a blue lanyard and a yellow name tag holding yellow umbrellas.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52088165283203,13.387100219726562",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "BRLO BRWHOUSE Tour and Craft Beer Tasting",
@@ -150,7 +182,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Check-in with staff at the BRLO Brwhouse front desk.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50019454956055,13.373700141906738"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.50019454956055,13.373700141906738",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Government District Tour and Reichstag Dome Visit",
@@ -159,7 +193,9 @@
         "duration": "1.5 - 2.5 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point: In front of the Bundestag subway station, Exit B: Otto-von-Bismarck-Allee\n\nGoogle Maps:\nhttps://maps.app.goo.gl/H8pnuB7H3FfJ2xSa7\n\nInfo: Subway line U5 (Bundestag stop). The guide will be holding a \"TOUR\" sign. He will be waiting in front of Exit B (not inside the station).\n\nNote: We do not meet in front of the Reichstag building. We will reach the Reichstag entrance approximately 45 minutes after the tour through the government district. Please come to the meeting point.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520606994628906,13.373404502868652"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520606994628906,13.373404502868652",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Alternative Pub Crawl, Bars, Beats & Insider Stories",
@@ -168,7 +204,9 @@
         "duration": "5 hours",
         "languages": "English",
         "meeting_point": "Generator Berlin Mitte, Oranienburger Str. 65, 10117 Berlin, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52519989013672,13.391382217407227"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52519989013672,13.391382217407227",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Berlin Highlights: 3-Hour Bike Tour",
@@ -177,7 +215,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Unlimited Biking (Formerly Fat Tire Tours) Office at the base of the giant TV Tower (Fernsehturm) in Berlin's Alexanderplatz. The office is marked with Unlimited Biking/ Fat Tire Tours signs and flags.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52103042602539,13.409127235412598"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52103042602539,13.409127235412598",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Hidden Backyards Guided Walking Tour",
@@ -186,7 +226,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet your guide in front of the Entrance to the Butlers Store at Hackescher Markt 4.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523311614990234,13.402280807495117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523311614990234,13.402280807495117",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Reichstag, Plenary Chamber, Cupola & Government Tour",
@@ -195,7 +237,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "At the ARD studio, Wilhelmstraße 67 A (on the corner of Reichstagufer), next to the Marschallbrücke",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51880645751953,13.380489349365234"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51880645751953,13.380489349365234",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Hop-on Hop-off Bus Tour with Live Commentary",
@@ -204,7 +248,9 @@
         "duration": "Valid 1 day",
         "languages": "English, German",
         "meeting_point": "You can start your tour from any of the stops on the route:\n01 - Kurfürstendamm 231 (in front of Galeria); 02 - KaDeWe main entrance; 03 - Lützowplatz (an der Bushaltestelle); 04 – Philharmonic (an der Bushaltestelle); 05 - Potsdamer Platz (at Kolhoff Tower); 06 - Potsdamer Platz / Linkstraße; 07 - Topography of Terror; 08 - Checkpoint Charlie Wall Museum; 09 - Gendarmenmarkt, Markgrafenstr.; 10 - Alexanderplatz, TV Tower, Spandauer Str., between Red City Hall & Neptunbrunnen ; 11 - Karl-Liebknecht Str. 5 (to the boat); 12 – Museumsinsel / Humboldtforum; 13 - Unter den Linden 10 . Bud Spencer Museum; 14 - Unter den Linden 36 / Friedrichstraße; 15 - Unter den Linden 74, Madame Tussauds Berlin; 16 - Brandenburg Gate, Ebertstraße; 17 - Reichstag, Scheidemannstr; 18 - Hauptbahnhof, exit Washington Place; 19 - Haus der Kulturen der Welt (out of order); 20 - Bellevue Palace; 21 - Bikini Haus, Budapester Straße; 22 - U&S-Bahn station Zoologischer Garten.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.503719329833984,13.332924842834473"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.503719329833984,13.332924842834473",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Government District & Reichstag Hall Dome Visit",
@@ -213,7 +259,9 @@
         "duration": "1.5 - 3 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520606994628906,13.373404502868652"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520606994628906,13.373404502868652",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Live-Guided Evening Sightseeing Tour by Open-top Bus",
@@ -222,7 +270,9 @@
         "duration": "75 minutes",
         "languages": "German, English",
         "meeting_point": "Activate your mobile voucher or QR with a member of Big Bus staff at Stop #1: Alexanderplatz located at Alexanderstraße 3-5, 10178 Berlin (Opposite Park Inn Hotel).\n\nPlease arrive 15 minutes prior to the start time, to allow for an on time departure",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523685455322266,13.41457748413086"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.523685455322266,13.41457748413086",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "BMW Motorrad Production – See How Bikes Are Built",
@@ -231,7 +281,9 @@
         "duration": "100 - 130 minutes",
         "languages": "English, German",
         "meeting_point": "The meeting point is at the fireplace in the entrance area of BMW Motorrad Welt.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.53727340698242,13.222551345825195"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.53727340698242,13.222551345825195",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: 1.5-Hour Comedy Bus Tour in German",
@@ -240,7 +292,9 @@
         "duration": "80 minutes",
         "languages": "German",
         "meeting_point": "Meet your guide at Friedrichstadtpalast when the activity starts. They will be standing at the corner of Friedrichstrasse and Ziegelstrasse.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52381896972656,13.387866020202637"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52381896972656,13.387866020202637",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Berlin: Sachsenhausen Concentration Camp Museum Tour",
@@ -249,7 +303,9 @@
         "duration": "5 hours",
         "languages": "English",
         "meeting_point": "Look for the white umbrella in front of the Premier Inn Berlin Alexanderplatz Hotel. Please be on time as you need to catch the train.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52391052246094,13.417508125305176"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52391052246094,13.417508125305176",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: City Street Art Guided Walking Tour",
@@ -258,7 +314,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Meet your guide in front of Smack Burger.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.5081672668457,13.450797080993652"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.5081672668457,13.450797080993652",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Wine on Canvas - Paint Workshop and Wine Tasting",
@@ -267,7 +325,9 @@
         "duration": "2 hours",
         "languages": "English",
         "meeting_point": "Jacques' Wein-Depot",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.53091812133789,13.433460235595703"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.53091812133789,13.433460235595703",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Berlin Wall & East Side Gallery Walking Tour",
@@ -276,7 +336,9 @@
         "duration": "2 hours",
         "languages": "English, Spanish",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.505313873291016,13.448431968688965"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.505313873291016,13.448431968688965",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Berlin Charité Guided History Tour",
@@ -285,7 +347,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "in front of the Charité Tower (crossroads: Schumannstraße / Charitéplatz / Charitéstraße).\nThe tour will start on time.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52360534667969,13.378373146057129"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52360534667969,13.378373146057129",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "David Bowie & 1970s Berlin Guided Walking Tour",
@@ -294,7 +358,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Ständige Vertretung, a memorabilia-filled cafe. Address: Schiffbauerdamm 8, 10117 Berlin.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521183013916016,13.385375022888184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.521183013916016,13.385375022888184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: 1-hr Boat Tour with Bilingual Live Guide (DE/EN)",
@@ -303,7 +369,9 @@
         "duration": "1 hour",
         "languages": "English, German",
         "meeting_point": "Please look for the Pier of our company \"Reederei Hadynski\". The ship is waiting on the river directly next to the restaurant \"Alois Moser Alpenküche\". It´s close to the S-Bahn Station \"Hackescher Markt\". The ship always arrives about 25-minutes prior to departure. Please present your voucher to the staff before going down the stairs to the ship. Check-in ends 5 minuts prior to departure. You will be guaranteed a seat, but maybe not together if you arrive late. If you arrive more than 30 minutes prior to departure there might be still a ship from a different company. After they depart one of our ships \"Carola\" or \"Franziska\" will arrive. Unfortunately the ship won´t be able to wait for guests that are running late. Please find out how to get to the ship before the tour starts. If you want to take the tour with live moderation please stick to the time you booked and don´t take an earlier tour as that might be with an audio guide. Please ask!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52054214477539,13.401304244995117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52054214477539,13.401304244995117",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Berlin: Dinner Cruise on the Spree with Prosecco",
@@ -312,7 +380,9 @@
         "duration": "2.5 hours",
         "languages": "German, English",
         "meeting_point": "Please reach the meeting point and look for the Reederei Becker-Reederei sign.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520320892333984,13.307271003723145"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.520320892333984,13.307271003723145",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Charité Hospital Walking Tour of Medical History",
@@ -321,7 +391,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Meet by the Robert Koch statue in Robert-Koch-Platz – look for your guide holding an orange umbrella! Please dress warmly in cold weather as most of the tour takes place outside!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.527976989746094,13.37907600402832"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.527976989746094,13.37907600402832",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Sights and Highlights Bike Tour with a Local Guide",
@@ -330,7 +402,9 @@
         "duration": "3 - 3.5 hours",
         "languages": "Dutch, German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.54006576538086,13.413552284240723"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.54006576538086,13.413552284240723",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Downtown Food Tour with 8 Authentic Local Tastings",
@@ -339,7 +413,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Meet your guide at Fredrichs Bridge (Friedrichsbrucke) - Burgstraße 19, 10178 Berlin, Germany.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52053451538086,13.400323867797852"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52053451538086,13.400323867797852",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin Essentials: Private Photoshoot at Berlin's top sites",
@@ -348,7 +424,9 @@
         "duration": "30 minutes - 1 hour",
         "languages": "English, German",
         "meeting_point": "Head to Berlin Pavillon am Reichstag and one of our photographers will come and collect you.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51747512817383,13.373809814453125"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51747512817383,13.373809814453125",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Rooftop Breakfast at Käfer Restaurant Reichstag",
@@ -357,7 +435,9 @@
         "duration": "75 minutes",
         "languages": "German, English, French, Spanish, Italian, Polish, Portuguese, Russian, Turkish, Dutch, Chinese",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51861572265625,13.37602710723877"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.51861572265625,13.37602710723877",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Guided Street Food Tour with Tastings",
@@ -366,7 +446,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Meet your guide in front of The Sanctuary bakery on Torstraße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.528953552246094,13.39456844329834"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.528953552246094,13.39456844329834",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Best Berlin Shore Excursion from Warnemunde or Rostock Port",
@@ -375,7 +457,9 @@
         "duration": "10.5 - 11 hours",
         "languages": "English, Spanish, French, Portuguese, Chinese, Italian, Hebrew, Russian",
         "meeting_point": "Meet at Warnemünde/Rostock Cruise Ship Port. When you disembark from your cruise ship, please make your way outside to the terminal entrance. A representative will be waiting for you displaying a greeting sign that says \"Vexperio\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@54.1755485534668,12.093659400939941"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@54.1755485534668,12.093659400939941",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Kreuzberg: Culinary Food Tour",
@@ -384,7 +468,9 @@
         "duration": "3 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.49951171875,13.417587280273438"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.49951171875,13.417587280273438",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Graffiti Workshop at the Berlin Wall",
@@ -393,7 +479,9 @@
         "duration": "1.5 hours",
         "languages": "English, German, French",
         "meeting_point": "Meet your guide in front of the wall.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.54351043701172,13.403631210327148"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.54351043701172,13.403631210327148",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Berlin: Boat Tour Along the River Spree",
@@ -402,7 +490,9 @@
         "duration": "135 minutes",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52153396606445,13.38747787475586"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.52153396606445,13.38747787475586",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Bubble Planet: An Experience Museum for All Your Senses",
@@ -411,6 +501,8 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@52.49629592895508,13.45350456237793"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@52.49629592895508,13.45350456237793",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     }
 ]

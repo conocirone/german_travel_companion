@@ -6,7 +6,9 @@
         "duration": "1 - 2 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the entrance of the Select Hotel situated opposite of the Essen Main Railway Station to start our fun express walk together!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.452518463134766,7.015114784240723"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.452518463134766,7.015114784240723",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Adventure Darkness - Guided tour in the dark",
@@ -15,7 +17,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.44770431518555,6.993568420410156"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.44770431518555,6.993568420410156",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Essen private city tour including visit to Folkwang Museum",
@@ -24,6 +28,8 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "Any centrally located area in the city",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.457557678222656,7.022463321685791"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.457557678222656,7.022463321685791",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

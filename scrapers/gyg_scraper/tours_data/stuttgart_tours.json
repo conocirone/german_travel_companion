@@ -6,7 +6,9 @@
         "duration": "1 day",
         "languages": "Chinese, English, French, German, Italian, Portuguese, Russian, Spanish, Turkish, Arabic",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.7822151184082,9.182916641235352"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.7822151184082,9.182916641235352",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Guided Ghost Walking Tour",
@@ -15,7 +17,9 @@
         "duration": "1 - 1.5 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77490234375,9.177961349487305"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77490234375,9.177961349487305",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Stuttgart: Glow in the dark LED tour with Aquaman",
@@ -24,7 +28,9 @@
         "duration": "2.5 hours",
         "languages": "English",
         "meeting_point": "Riverhouse Stuttgart",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83159637451172,9.207234382629395"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83159637451172,9.207234382629395",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: A culinary world tour through Bad Cannstatt",
@@ -33,7 +39,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "KURSAAL Gastronomy & Event Location",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.808048248291016,9.223434448242188"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.808048248291016,9.223434448242188",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: City Highlights - Guided Walking Tour",
@@ -42,7 +50,9 @@
         "duration": "1 hour",
         "languages": "English, German",
         "meeting_point": "Meeting point is at the Tourist-Information \"Haus des Tourismus\" next to the historic market square fountain.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.775020599365234,9.178812026977539"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.775020599365234,9.178812026977539",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: 4-castle winter hike with costume tour",
@@ -51,7 +61,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Winter raft tour on the Neckar",
@@ -60,7 +72,9 @@
         "duration": "45 minutes",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart Wine Museum Wine Tasting",
@@ -69,7 +83,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.776397705078125,9.279149055480957"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.776397705078125,9.279149055480957",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Bean District Walking Tour with Swabian Food",
@@ -78,7 +94,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the Biergarten of Restaurant Amadeus.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: \"Kehrwoche\" Tour in Swabian",
@@ -87,7 +105,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Mulled wine hike with games and a bonfire in the panoramic beer garden",
@@ -96,7 +116,9 @@
         "duration": "2.5 hours",
         "languages": "German, English, French",
         "meeting_point": "Schnarrenberg Sports Field Parking Lot",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82493591308594,9.196788787841797"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82493591308594,9.196788787841797",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Guided Tour of the Stuttgart Market Hall",
@@ -105,7 +127,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet in front of the shop Merz and Benzing (Sporerstraße)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77616500854492,9.178800582885742"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77616500854492,9.178800582885742",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Taster tour of the Wine Museum incl. 0.1 l wine",
@@ -114,7 +138,9 @@
         "duration": "45 minutes",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.776397705078125,9.279149055480957"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.776397705078125,9.279149055480957",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Stuttgart city library - an architectural tour",
@@ -123,7 +149,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "Entrance opposite the Milaneo shopping center",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78999328613281,9.183067321777344"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78999328613281,9.183067321777344",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Stuttgart: 2-hour Best Intro Walking Tour with a Local",
@@ -132,7 +160,9 @@
         "duration": "2 hours",
         "languages": "English, German",
         "meeting_point": "We will meet at the Kreuser'sche Apotheke to begin our discovery walk through the city.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77695846557617,9.17524528503418"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77695846557617,9.17524528503418",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: The real fake news tour",
@@ -141,7 +171,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Tourist information, Marktstrasse 2, next to the town hall on the market square",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.774471282958984,9.179841041564941"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.774471282958984,9.179841041564941",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Vineyard Tour by Covered Wagon",
@@ -150,7 +182,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet at Riverhouse.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Hike & Science Info on the Solar System, Galaxies & Universe",
@@ -159,7 +193,9 @@
         "duration": "5 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point details provided upon booking.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Stäffele Guided Walking Tour",
@@ -168,7 +204,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.764381408691406,9.168075561523438"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.764381408691406,9.168075561523438",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Instagrammable Guided Tour with a Local",
@@ -177,7 +215,9 @@
         "duration": "1 hour",
         "languages": "English, Turkish, Romanian, Russian, Ukrainian, Persian, French",
         "meeting_point": "We will meet in front of the pig statue at the SchweineMuseum Stuttgart to start our journey through Stuttgart's most instagrammable spots.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78580856323242,9.219991683959961"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78580856323242,9.219991683959961",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Stuttgart. BMW, Mercedes, and Porsche Museum.",
@@ -186,7 +226,9 @@
         "duration": "10 hours",
         "languages": "English, German, Russian, Georgian",
         "meeting_point": "Pickup included from Munich.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart Nature Experience Day",
@@ -195,7 +237,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Riverhouse Austr. 370, 70376, Stuttgart",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Zugspitze, Eibsee & Neuschwanstein + austria. privat",
@@ -204,7 +248,9 @@
         "duration": "9 hours",
         "languages": "English, Russian, Georgian, German",
         "meeting_point": "Pickup included from Munich.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: E-bike wine tour including tasting",
@@ -213,7 +259,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Old wine press Fellbach",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80085754394531,9.271564483642578"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80085754394531,9.271564483642578",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Private pub crawl with insider-guide & free shots",
@@ -222,7 +270,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Your guide will be wearing an orange safety vest",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.773372650146484,9.181191444396973"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.773372650146484,9.181191444396973",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Baden-Baden: Event tour - Ghosts, Counts and Rumours",
@@ -231,7 +281,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Innenhof Schloss Solms, Solmsstraße 1, 76530 Baden-Baden",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.760555267333984,8.23416519165039"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.760555267333984,8.23416519165039",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Old Town Highlights Guided Walking Tour",
@@ -240,7 +292,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide with an orange bag at the music pavilion in front of the New Castle.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77885437011719,9.178963661193848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77885437011719,9.178963661193848",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Stuttgart: City History Guided Walking Tour",
@@ -249,7 +303,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Music pavilion on Schlossplatz, opposite the Königsbau",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.778873443603516,9.178882598876953"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.778873443603516,9.178882598876953",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Culinary Excursion through Bad Cannstatt",
@@ -258,7 +314,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Parkplatz des Restaurants Schreinerei Ecke Zaisgasse/Überkinger Straße.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80607986450195,9.214232444763184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80607986450195,9.214232444763184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Hops and malt in Stuttgart",
@@ -267,7 +325,9 @@
         "duration": "105 minutes",
         "languages": "German",
         "meeting_point": "in front of the bakery \"Zeit für Brot\"",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77519989013672,9.172484397888184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77519989013672,9.172484397888184",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Guided Glühwein Tour",
@@ -276,7 +336,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "S-Bahnhof Stuttgart-Untertürkheim, Exit Stadtmitte.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77994155883789,9.250814437866211"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77994155883789,9.250814437866211",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Mulled winetour before christmas in Stuttgart",
@@ -285,7 +347,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "we'll meet in front of the Wine Museum, Uhlbacher Platz",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.775482177734375,9.288189888000488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.775482177734375,9.288189888000488",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Wine hike with wine tasting",
@@ -294,7 +358,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide at the Bus Stop Stuttgart-Rotenberg, at the corner Stettner Straße and Württembergstraße, opposite the restaurant Rotenberger Weingärtle to begin the activity.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78337097167969,9.27099895477295"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78337097167969,9.27099895477295",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Mindful Hike to Lichtenstein Castle with Transfer",
@@ -303,7 +369,9 @@
         "duration": "6 hours",
         "languages": "German, English",
         "meeting_point": "Meeting Point is in the middle of the upper floor of the S-Bahn Station Echterdingen.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.69233322143555,9.168474197387695"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.69233322143555,9.168474197387695",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Private Custom Walking Tour with a Local Guide",
@@ -312,7 +380,9 @@
         "duration": "2 - 8 hours",
         "languages": "English",
         "meeting_point": "Pickup from your hotel or central meeting point in Stuttgart.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Winter sleigh covered wagon tour",
@@ -321,7 +391,9 @@
         "duration": "45 minutes",
         "languages": "English, German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Mercedes-Benz and Porsche Museum Day Trip (eng & esp)",
@@ -330,7 +402,9 @@
         "duration": "8 hours",
         "languages": "Spanish, English",
         "meeting_point": "Pickup included.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart City walk - Private tour",
@@ -339,7 +413,9 @@
         "duration": "1.5 hours",
         "languages": "English, German, French",
         "meeting_point": "At the Schiller memorial - Schillerplatz, your tour guide shall be waiting with a Signboard.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.777156829833984,9.178361892700195"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.777156829833984,9.178361892700195",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: From the Cellar to the Vine – Experience Wine Up Close",
@@ -348,7 +424,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "We'll meet in front of the train station, exit Stadtmitte, opposite the \"Letzte Instanz\" restaurant",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77982711791992,9.25044059753418"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77982711791992,9.25044059753418",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Mercedes-Benz Museum Guided Tour",
@@ -357,7 +435,9 @@
         "duration": "1.5 hours",
         "languages": "English",
         "meeting_point": "The guide will meet the guests outside the Mercedes benz museum. He/She will contact the guests by phone or WhatsApp upon arrival to ensure a smooth meeting.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78814697265625,9.23398208618164"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78814697265625,9.23398208618164",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Guided Vineyards Tour",
@@ -366,7 +446,9 @@
         "duration": "3.5 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82140350341797,9.235140800476074"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82140350341797,9.235140800476074",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Karlshöhe Crime Mystery Tour",
@@ -375,7 +457,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet your game manager at the Big Bathers statue.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77214813232422,9.163543701171875"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77214813232422,9.163543701171875",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Mercedes-Benz Museum Guided Tour",
@@ -384,7 +468,9 @@
         "duration": "75 minutes",
         "languages": "German, English",
         "meeting_point": "The meeting point is located in the atrium.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.7883415222168,9.233674049377441"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.7883415222168,9.233674049377441",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Wine Tour with wines of the best winemakers",
@@ -393,7 +479,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "In front of house Esslingerstrasse 160, 70734 Fellbach you will find a sitting area which is the meeting point.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80193328857422,9.268367767333984"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.80193328857422,9.268367767333984",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Sparkling Wine Tour",
@@ -402,7 +490,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "We meet in front of the Weinbaumuseum in Stuttgart-Uhlbach. Take the Bus 62 from S-Bahn Station Stuttgart-Obertürkheim and stop at Uhlbach. Please arrive 15 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77622604370117,9.278993606567383"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77622604370117,9.278993606567383",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Guided Wine Walk & Wine Tasting",
@@ -411,7 +501,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.801231384277344,9.272088050842285"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.801231384277344,9.272088050842285",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Private Walking Tour with a Local",
@@ -420,7 +512,9 @@
         "duration": "2 - 6 hours",
         "languages": "English",
         "meeting_point": "Pickup from your hotel or central meeting point in Stuttgart.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Stuttgart: Premium wine tasting experience with snacks in the vault",
@@ -429,7 +523,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.781246185302734,9.254972457885742"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.781246185302734,9.254972457885742",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich’s Highlights: Nymphenburg Palace & Dachau Memorial",
@@ -438,7 +534,9 @@
         "duration": "5 hours",
         "languages": "English",
         "meeting_point": "Pickup included.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Premium wine hike Stuttgart with games and winemaker's snack",
@@ -447,6 +545,8 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Schozacher Straße or Hallschlag subway station plus short walk to Parkplatz Sportplatz Schnarrenberg. You can also take a bus. If you arrive by car, there is a free car park.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82493591308594,9.196788787841797"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.82493591308594,9.196788787841797",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

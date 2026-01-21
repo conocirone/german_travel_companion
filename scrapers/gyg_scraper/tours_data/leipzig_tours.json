@@ -6,7 +6,9 @@
         "duration": "100 - 130 minutes",
         "languages": "German, English",
         "meeting_point": "Public Bus Station: „BMW Werk Zentralgebäude“. (Don’t exit at other Stops at the Plant, only at Zentralgebäude) Starting point is in the Welcome Lounge in the BMW Central Building. Your guide will be wearing a blue vest.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4084587097168,12.443358421325684"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.4084587097168,12.443358421325684",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Guided Tour with Night Watchman Bremme",
@@ -15,7 +17,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "exact meeting point: white memorial column between Nikolaikirchhof 4 and Nikolaikirche (Nikolaisäule)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34056091308594,12.379069328308105"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34056091308594,12.379069328308105",
+        "location_setting": "outdoor",
+        "budget_tier": "low"
     },
     {
         "title": "Leipzig: City History Canal Sightseeing Tour on a Motorboat",
@@ -24,7 +28,9 @@
         "duration": "70 minutes",
         "languages": "German",
         "meeting_point": "• Skip registration; go directly to the bridge and the boat dock will be on your right-hand side • The captain will guide you onto the boat, please show him the digital GetYourGuide voucher",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338836669921875,12.360033988952637"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338836669921875,12.360033988952637",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: 13-Stop Hop-on/Hop-off Bus Ticket",
@@ -33,7 +39,9 @@
         "duration": "Valid 1 day",
         "languages": "German",
         "meeting_point": "You must exchange your GetYourGuide voucher or mobile voucher with the bus driver before the tour begins. Please come directly to the blue and yellow double-decker bus at the Goethestraße bus stop. The list of stops are as follows: Start/Exit Goethestraße Thomaskirche/Dittrichring Goethestraße The Westin Hotel Zoo Gohlis Castle Red Bull Arena/Jahnallee Bootshaus Klingerweg (The Bootshaus Klingerweg stop has been RELOCATED due to construction work . Please use the LVB stop Nonnenstr. (near Klingerbrücke). From there it is about a 10-minute walk to the Bootshaus Klingerweg (Klingerweg 2). Karl-Liebknecht-Str./Südplatz Panometer Monument to the Battle of the Nations German National Library Arrival/Start Goethestraße",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34248352050781,12.381269454956055"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34248352050781,12.381269454956055",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig's Mystery Morning: Breakfast & Escape Game",
@@ -42,7 +50,9 @@
         "duration": "3 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34090042114258,12.372170448303223"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34090042114258,12.372170448303223",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 2-hour Auwald Motorboat Tour",
@@ -51,7 +61,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "directly to the jetty",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3389778137207,12.360015869140625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3389778137207,12.360015869140625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Mulled Wine Motorboat Tour",
@@ -60,7 +72,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Faktenbox: Highlights der Kanutour Länge der Tour: Leipzigs Wasserwege vom Stadthafen aus Dauer: ca. 60–70 Minuten Startpunkt: Stadthafen Leipzig, Leipzig Innenstadt Endpunkt: Stadthafen Leipzig Inklusive: Heißgetränk Erlebt Leipzigs Wasserwege in der kalten Jahreszeit auf besonders gemütliche Weise: an Bord unseres Kaminbootes! Ein Kamin sorgt für wohlige Atmosphäre, während ihr die winterliche Kulisse der Stadt vom Wasser aus genießt. Eure ca. 60minütige Fahrt startet am Stadthafen Leipzig und führt euch durch die romantischen Kanäle und Flussabschnitte der Stadt. Eingekuschelt in weiche Decken, mit einem heißen Glühwein oder Tee in der Hand, könnt ihr die besondere Ruhe und den Zauber des Winters erleben. Ob zu zweit, mit Familie oder Freunden – die Kaminbootfahrt ist ein unvergessliches Erlebnis für alle, die dem Alltag entfliehen wollen. Genießen Sie die Fahrt, entdecken Sie versteckte Orte – und sammeln Sie unvergessliche Eindrücke mitten in Leipzig!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33885955810547,12.360217094421387"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33885955810547,12.360217094421387",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: 3-Hour Sightseeing and Food Tour",
@@ -69,7 +83,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Arrive 10 minutes before the activity starts.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.343284606933594,12.372146606445312"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.343284606933594,12.372146606445312",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 90-Minute Trabi City Tour",
@@ -78,7 +94,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3291130065918,12.382567405700684"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3291130065918,12.382567405700684",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 3 dangerously delicious hours in Eisenbahnstraße",
@@ -87,7 +105,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "The meeting point is in front of the fountain.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.345149993896484,12.392245292663574"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.345149993896484,12.392245292663574",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Lindenauer Harbor Cruise",
@@ -96,7 +116,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Go directly to the river and meet the captain at the boat.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3389778137207,12.360015869140625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3389778137207,12.360015869140625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 2-Hour Guided Walking Tour in German",
@@ -105,7 +127,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Tourist-Information, Katharinenstr. 8, Leipzig",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig : Must-See Attractions Walking Tour With a Guide",
@@ -114,7 +138,9 @@
         "duration": "2 hours",
         "languages": "English, Spanish, German",
         "meeting_point": "Meet your guide front of Deutsche Bank Filiale",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33641815185547,12.374143600463867"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33641815185547,12.374143600463867",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Federal Administrative Court Leipzig: A journey into the heart of German justice",
@@ -123,7 +149,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet at Simsonplatz 1 in front of the Federal Administrative Court",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33319854736328,12.370387077331543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33319854736328,12.370387077331543",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: 1.5-Hour Historical Walking Tour in German",
@@ -132,7 +160,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Tours start at the Tourist Information Center, Katharinenstraße 8, Leipzig. Please arrive at the meeting point 15 minutes before the start of the tour.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig Spirits Manufacture: Guided Tour and Tasting",
@@ -141,7 +171,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "To get to our manufacture, you should use the entrance to the area from Limburger Straße. You will then see the entrance to the manufacture on the left side. Once you go up the metal stairs you will see a doorbell, in most cases your guide will pick you up at the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.322322845458984,12.334768295288086"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.322322845458984,12.334768295288086",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Best of Leipzig: Private Walking Tour with a Local",
@@ -150,7 +182,9 @@
         "duration": "1 - 6 hours",
         "languages": "English",
         "meeting_point": "Augustusplatz",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33876037597656,12.381487846374512"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33876037597656,12.381487846374512",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Music in Leipzig – Bach, Wagner and the Thomanerchor",
@@ -159,7 +193,9 @@
         "duration": "1.5 hours",
         "languages": "Spanish, English, French, German, Italian, Russian",
         "meeting_point": "Leipzig, Markt 1, Altes Rathaus (Old Town Hall), Museum Shop",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34036636352539,12.375309944152832"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34036636352539,12.375309944152832",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Brews & Views: A tour of Leipzig's craft beer scene",
@@ -168,7 +204,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Synde Bräu",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3289909362793,12.378538131713867"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3289909362793,12.378538131713867",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "1.5 hour walking tour through beautiful Leipzig",
@@ -177,7 +215,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "The meeting point is the New Bach Monument in the Thomaskirchhof (Thomaskirchhof 18, in front of Thomaskirche). Your guide will be holding a sign that reads \"Treffpunkt Leipzig\". Please arrive at least 5 minutes before the tour begins.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33911895751953,12.372634887695312"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33911895751953,12.372634887695312",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Comedy Tour through the Old Town (Tour in German)",
@@ -186,7 +226,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meeting point will be at the bus stop Oberer Dittrichring on the west side of St. Thomas Church, 04109 Leipzig.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33940124511719,12.371851921081543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33940124511719,12.371851921081543",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "St. Thomas Church Tower Tour",
@@ -195,7 +237,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "at the entrance to the tower, Thomaskirchhof",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33933639526367,12.372544288635254"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33933639526367,12.372544288635254",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Old Town Tour - innovative & entertaining",
@@ -204,7 +248,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meeting and end point: Stadtstromer base at Höfe am Brühl shopping center, Leipzig. Important: Access only from outside, between the two shopping center buildings at the corner near the bike and pedestrian path. (Not accessible through the mall.)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: \"SoKO Leipzig\", unique Escape Room, 66 minutes",
@@ -213,7 +259,9 @@
         "duration": "66 minutes",
         "languages": "German, English",
         "meeting_point": "Your game takes place in private villa. Please arrive 10 minutes ahead of your booked activity.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.341514587402344,12.388864517211914"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.341514587402344,12.388864517211914",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Gruseltour Leipzig: A Haunted Guided Tour",
@@ -222,7 +270,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "The meeting point is Augustusplatz 10, In front of the university and across from Hans im Gluck Burgergrill.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338443756103516,12.379473686218262"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338443756103516,12.379473686218262",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Bus Tour",
@@ -231,7 +281,9 @@
         "duration": "Valid 1 day",
         "languages": "German",
         "meeting_point": "The main stop is the Richard-Wagner-Straße 2 (across from Main Train Station/East Hall).",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34299850463867,12.380154609680176"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34299850463867,12.380154609680176",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 3-Hour City Canoe Tour",
@@ -240,7 +292,9 @@
         "duration": "3 hours",
         "languages": "English, German",
         "meeting_point": "Stadthafen Leipzig: Schreberstraße 20, 04109 Leipzig, Deutschland",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338836669921875,12.360033988952637"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.338836669921875,12.360033988952637",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Individual tour for a private group, attractive extras",
@@ -249,7 +303,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "If you haven't arranged for a pick-up from a hotel in the city center, your guide will be waiting for you in front of the City History Museum, Haus Böttchergäßchen.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34190368652344,12.376405715942383"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34190368652344,12.376405715942383",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Bar and Club Tour with Free Shots and VIP Entry",
@@ -258,7 +314,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "The meeting point is in front of the hotel entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.339691162109375,12.370786666870117"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.339691162109375,12.370786666870117",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Guided tour of the Federal Administrative Court of Leipzig",
@@ -267,7 +325,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet in the foyer of the Federal Administrative Court.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33319854736328,12.370387077331543"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33319854736328,12.370387077331543",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Mendelssohn Walking Tour (Museum and City)",
@@ -276,7 +336,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33626174926758,12.383245468139648"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33626174926758,12.383245468139648",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Red Bull Arena Leipzig: Stadium Access & Guided Walking Tour",
@@ -285,7 +347,9 @@
         "duration": "1 - 1.5 hours",
         "languages": "German",
         "meeting_point": "You will find the old north main building to the right of the main entrance to the stadium. There is the meeting point for your stadium tour.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34578323364258,12.348268508911133"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34578323364258,12.348268508911133",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Private pub crawl with insider-guide & free shots",
@@ -294,7 +358,9 @@
         "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "In front of \"Peterskirche\". Your guide will be wearing an orange safety vest.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33073425292969,12.375240325927734"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33073425292969,12.375240325927734",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig Night Watchman of the 21st Century: Modern Evening Tour",
@@ -303,7 +369,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "The meeting point is the Stadtstromer shop in downtown Leipzig, in the \"Höfe am Brühl\" center. The entrance is outside the center - between the two parts of the building, not through the mall. Please arrive a few minutes before the start.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Trabant Rental for your very own tour",
@@ -312,7 +380,9 @@
         "duration": "3 - 4 hours",
         "languages": "German, English",
         "meeting_point": "Parking lot \"Am Portikus des Bayerischen Bahnhofs\" https://goo.gl/maps/hVYdiJ3yqzHc598D8 - for entering into your navigation system use the address \"Straße des 18. Oktober 2\" which is actually behind the parking lot. Standing in front of Bayerische Bahnhof and looking at the Portikus (portico) the parking lot is left to the Portikus (paid parking). Using public transport? The stop \"Bayrischer Platz\" is right in front of our meeting point and can be reached by tram, train and bus.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.32938766479492,12.382318496704102"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.32938766479492,12.382318496704102",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Surprise City Tour guided by a Local",
@@ -321,7 +391,9 @@
         "duration": "1.5 hours",
         "languages": "English, German",
         "meeting_point": "Let's meet at the Felix Mendelsson monument",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33949279785156,12.371549606323242"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33949279785156,12.371549606323242",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Guided Tour of the Southern Cemetery",
@@ -330,7 +402,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "The guide will be waiting for you by the main entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.31149673461914,12.416427612304688"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.31149673461914,12.416427612304688",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Der Leipziger Passagen-Rundgang in der Altstadt",
@@ -339,7 +413,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Markt 1, 04109 Leipzig, Altes Rathaus. Meet in the passage under the tower at the entrance to the Stadtgeschichtliches Museum",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig - Old Town Historic Walking Tour",
@@ -348,7 +424,9 @@
         "duration": "1.5 hours",
         "languages": "English, German, Spanish, Russian",
         "meeting_point": "At the Bach statue in front of St. Thomas‘s Church, your tour guide shall be waiting with a Signboard.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3391227722168,12.372625350952148"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3391227722168,12.372625350952148",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Guided Crime-Themed Walking Tour",
@@ -357,7 +435,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet your guide outside the old town hall under the tower.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Scavenger Hunt Self-Guided Tour for Children",
@@ -366,7 +446,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "This is the place where your Scavenger Hunt starts. Bring the Scavenger Hunt box, which you received via mail, with you. There will be no guide at the meeting point. You can start on any date and at any time you wish.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34476089477539,12.380221366882324"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34476089477539,12.380221366882324",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: SCUDDY Tour – experience the city, parks, and more with a new kind of driving fun!",
@@ -375,7 +457,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Stadtstromer base in the Höfe am Brühl shopping center, Leipzig. Important: Access is only possible from the outside, between the two buildings of the shopping center on the corner near the bicycle and pedestrian path - not through the shopping center.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: 3-Hour Bike Tour",
@@ -384,7 +468,9 @@
         "duration": "3 hours",
         "languages": "German",
         "meeting_point": "Meet at Mobilitätszentrum der Leipziger Verkehrsbetriebe, opposite Hauptbahnhof-West",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34377670288086,12.378865242004395"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34377670288086,12.378865242004395",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Courtyards, Houses, Trade - Passage Tour in German",
@@ -393,7 +479,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Tourist information office, Katharinenstr. 8, Leipzig",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34217834472656,12.3751220703125",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: 1-Day Hop-On Hop-Off Bus and Leipzig Zoo Ticket",
@@ -402,7 +490,9 @@
         "duration": "Valid 1 day",
         "languages": "German",
         "meeting_point": "• Address: Goethestrasse (outside Leipzig's Main Station) • Your voucher needs to be exchanged for your tickets at the starting point of the hop-on hop-off tour",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34244155883789,12.381271362304688"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34244155883789,12.381271362304688",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Guided tour through the New Town Hall",
@@ -411,7 +501,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Leipzig, Neues Rathaus, Burgplatz, vor dem Ratskeller",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33668518066406,12.372846603393555"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33668518066406,12.372846603393555",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Combo Tour in Leipzig: Guided City Tour & City Sightseeing",
@@ -420,7 +512,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Meeting Point: Tourist Information, Katharinenstraße 8, 04109 Leipzig, at the counter for city tours",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.342288970947266,12.375101089477539"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.342288970947266,12.375101089477539",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig oil mill: guided tour & tasting",
@@ -429,7 +523,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "First courtyard, right.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.323028564453125,12.324390411376953"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.323028564453125,12.324390411376953",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig Graphisches Viertel: Outdoor Escape Game",
@@ -438,7 +534,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Your tour guide will be waiting for you in front of the Pentahotel by the flags.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34095001220703,12.386933326721191"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34095001220703,12.386933326721191",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Segway Evening Tour – Nighttime experience to the Monument to the Battle of the Nations!",
@@ -447,7 +545,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Your meeting point is our Stadtstromer store in the Höfe am Brühl. Important: The entrance is NOT in the mall, but outside between the two center buildings (on the footpath/cycle path of the continuation of Richard-Wagner-Straße).",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "University of Leipzig: Guided Campus Walking Tour",
@@ -456,7 +556,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet at the information counter on the ground floor of the New Augusteum building.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33869552612305,12.379135131835938"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33869552612305,12.379135131835938",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Segway Tour - Explore City, Zoo & a Stunning View",
@@ -465,7 +567,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Own external entrance at \"Höfe am Brühl\" centre",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34382629394531,12.37468433380127",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Schifffahrt auf dem Cospudener See",
@@ -474,7 +578,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Show your voucher before the cashier process",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: City Center Guided Walking Tour",
@@ -483,7 +589,9 @@
         "duration": "1.5 hours",
         "languages": "German, English, French",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Cross golf in Leipzig: a unique event for companies, friends, and family.",
@@ -492,7 +600,9 @@
         "duration": "2.5 hours",
         "languages": "German, English",
         "meeting_point": "Wilhelm-Külz-Park is located between the Monument to the Battle of the Nations and the Old Trade Fair in Leipzig.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.31586837768555,12.405635833740234"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.31586837768555,12.405635833740234",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Guided tour of the Federal Administrative Court",
@@ -501,7 +611,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Meet at the main entrance of the Federal Administrative Court, Simsonplatz 1, 04107 Leipzig",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.333824157714844,12.369568824768066"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.333824157714844,12.369568824768066",
+        "location_setting": "indoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Individual Trabi Tour with Guide",
@@ -510,7 +622,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meeting point arrangements will be made after booking.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: True or false? Walking Tour and Interactive Game",
@@ -519,7 +633,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Altes Rathaus, Markt 1, 04109 Leipzig Durchgang unterm Turm",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34049606323242,12.375358581542969"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34049606323242,12.375358581542969",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "City tour on foot, by S-Bahn and tram",
@@ -528,7 +644,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Altes Rathaus, Durchgang unterm Turm, Markt 1",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34177780151367,12.37641716003418"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34177780151367,12.37641716003418",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Private Walking Tour with a Professional Guide",
@@ -537,7 +655,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Meet your guide in front of the Old Town Hall.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34025192260742,12.375179290771484"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34025192260742,12.375179290771484",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Mulled wine ride in the Leipzig New Zealand",
@@ -546,7 +666,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Show your voucher before the cashier process",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig: Private walking tour - just for you",
@@ -555,7 +677,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "You can choose a meeting point in the city center.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3404541015625,12.379136085510254"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.3404541015625,12.379136085510254",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "1.5-Hour Historical Tour of Leipzig with Costumed Guide",
@@ -564,7 +688,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Passage at the Old Town Hall (Altes Rathaus), Leipzig",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34036636352539,12.375309944152832"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34036636352539,12.375309944152832",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Easter magic on the MS Cospuden",
@@ -573,7 +699,9 @@
         "duration": "1 hour",
         "languages": "German",
         "meeting_point": "Show your voucher before the cashier process",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.264320373535156,12.344138145446777",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Leipzig : Private Walking tour with A Guide (Private Tour)",
@@ -582,7 +710,9 @@
         "duration": "2 - 8 hours",
         "languages": "English, Spanish",
         "meeting_point": "Flexible meeting point in city center",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Leipzig: Historical Tour Waldstraßenviertel with GEO Epoche",
@@ -591,6 +721,8 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Your tour guide will be waiting for you at Jahnallee 18, 04109 Leipzig: Am Brunnen \"Tänzerin\" am Waldplatz",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34226608276367,12.359066009521484"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@51.34226608276367,12.359066009521484",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     }
 ]

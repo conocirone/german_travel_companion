@@ -6,7 +6,9 @@
         "duration": "10.5 hours",
         "languages": "English, German",
         "meeting_point": "Meet at Karlsplatz 21 (Stachus) next to Hotel Buddy. Coming from underground take exit \"G\" or exit \"F\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Third Reich & WWII Walking Tour",
@@ -15,7 +17,9 @@
         "duration": "2.5 hours - 165 minutes",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Andechs Monastery Private Day Trip",
@@ -24,7 +28,9 @@
         "duration": "6 hours",
         "languages": "English",
         "meeting_point": "N/A",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Neuschwanstein Castle Full-Day Trip",
@@ -33,7 +39,9 @@
         "duration": "10 hours",
         "languages": "English",
         "meeting_point": "Meet at the activity provider's, Radius Tours, office at Dachauer Straße 4 in Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Dachau Memorial Site Full-Day Tour",
@@ -42,7 +50,9 @@
         "duration": "6 hours",
         "languages": "English",
         "meeting_point": "Meet your guide on the Marienplatz, in front the department store Ludwig Beck (Marienplatz 11). Look for a white and blue umbrella and signs advertising the Dachau Tour. If you are running late or having difficulty finding the meeting point please call the local partner immediately using the emergency phone number provided.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13718032836914,11.57641315460205"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13718032836914,11.57641315460205",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Premium Neuschwanstein Castle & Linderhof Tour",
@@ -50,8 +60,10 @@
         "link": "https://www.getyourguide.com/munich-l26/from-munich-premium-neuschwanstein-castle-linderhof-tour-t91965/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
         "duration": "10.5 hours",
         "languages": "English",
-        "meeting_point": "Meet at house number Karlsplatz 21. Coming from underground, take exit G or F. The bus stop is located next to Buddy Hotel.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531"
+        "meeting_point": "Meet at house number Karlsplatz 21. Coming from underground, take exit G or F. The bus stop is located next to Hotel Buddy.",
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Rothenburg and Romantic Road Day Trip by Bus",
@@ -60,7 +72,9 @@
         "duration": "10.5 hours",
         "languages": "English, German",
         "meeting_point": "Meet at house number Karlsplatz 21 at the Gray Line, AutobusOberbayern bus lane. The bus stop is located next to Hotel Buddy. Coming from basement level, take exit G or F.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich Hop-On Hop-Off Tour: 1-Day or 2-Day Ticket",
@@ -69,7 +83,9 @@
         "duration": "1 - 2 days",
         "languages": "English, French, German, Norwegian, Russian, Spanish, Japanese",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1414680480957,11.561385154724121"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1414680480957,11.561385154724121",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Dachau Memorial Site Half-Day Trip",
@@ -78,7 +94,9 @@
         "duration": "5 hours",
         "languages": "English",
         "meeting_point": "Meet at the activity provider's office.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.141998291015625,11.560673713684082"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.141998291015625,11.560673713684082",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Oktoberfest Munich: Large Beer Tent Entry+Table Lunch/Dinner",
@@ -87,7 +105,9 @@
         "duration": "5 - 7 hours",
         "languages": "English, German, Italian, Spanish",
         "meeting_point": "Our meeting point is at the Italian restaurant Ristorante Ottantanove, located at Bayerstraße 89, just a 3-minute walk from Munich Central Station. There, you will receive your tickets and vouchers and meet your guide.\n\nYou are welcome to enjoy a pizza or a drink at the restaurant before the activity begins. Your guide will then accompany you on a 10–15-minute walk to your reserved Oktoberfest table. Along the way, there will be two short photo stops (skipped in case of large crowds): the first at the main Oktoberfest entrance, and the second in front of your booked beer tent.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13895034790039,11.551851272583008"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13895034790039,11.551851272583008",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Zugspitze Mountain Van Tour with Garmisch Town",
@@ -96,7 +116,9 @@
         "duration": "9 hours",
         "languages": "English",
         "meeting_point": "Pickup available from your hotel in Munich.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Beer & Beyond Tour",
@@ -105,7 +127,9 @@
         "duration": "3 hours",
         "languages": "English",
         "meeting_point": "Pickup is INSIDE the Euro Youth Hotel at the main Bar at 6:45 PM, leaving at about 7:10 PM.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13850021362305,11.560218811035156"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13850021362305,11.560218811035156",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Night PubCrawl Shots and Party!",
@@ -114,7 +138,9 @@
         "duration": "4 hours",
         "languages": "English, German",
         "meeting_point": "Your guide will be wearing a bag with the tour logo on it. In front of the fountain Brunnenbuberl\n\nNeuhauser Str. 20, 80331 München\n\nhttps://maps.app.goo.gl/qgWSHfuc4RriFe2c7",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1395263671875,11.567359924316406"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1395263671875,11.567359924316406",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Dachau Memorial Site Day Tour",
@@ -123,7 +149,9 @@
         "duration": "5 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137413024902344,11.575654983520508"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137413024902344,11.575654983520508",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Beer and Food Tour with Dinner & Oktoberfest Museum",
@@ -132,7 +160,9 @@
         "duration": "3.5 hours",
         "languages": "English",
         "meeting_point": "Meet at the office of Radius Tours.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Salzburg Day Trip by Train",
@@ -141,7 +171,9 @@
         "duration": "9.5 hours",
         "languages": "English",
         "meeting_point": "Meet at the local operator's office at Dachauer Straße 4, 80335 Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich Old Town - Guided Walking Tour in English",
@@ -150,7 +182,9 @@
         "duration": "2.5 hours",
         "languages": "German, English",
         "meeting_point": "We meet at the main gate of St. Peter Church. The guide will be waiting with the yellow umbrella of Walkative.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.136680603027344,11.575604438781738"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.136680603027344,11.575604438781738",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Brewery tour at Paulaner Bräuhaus Munich with beer tasting & snacks",
@@ -159,7 +193,9 @@
         "duration": "2 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.126304626464844,11.558832168579102"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.126304626464844,11.558832168579102",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Birthplace of the Third Reich Guided Walking Tour",
@@ -168,7 +204,9 @@
         "duration": "2.5 hours",
         "languages": "English",
         "meeting_point": "Meet at the Radius Tours office.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: City Bus Tour & FC Bayern Munich Allianz Arena Tour",
@@ -177,7 +215,9 @@
         "duration": "5 hours",
         "languages": "English, German",
         "meeting_point": "Meet your guide at Karlsplatz 21/Stachus.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13871383666992,11.564867973327637"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13871383666992,11.564867973327637",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Old Town Food Tour with 10+ Tastings, Beer & Pretzel",
@@ -186,7 +226,9 @@
         "duration": "3.5 hours",
         "languages": "English",
         "meeting_point": "We'll meet in front of the ceramics shop on the corner of Sebastian Platz -\nAddress: Sebastianspl. 11, 80331 München, Germany -\n\nOur guide will hold an orange umbrella, so we're easy to spot",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.134525299072266,11.57353687286377"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.134525299072266,11.57353687286377",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Viktualienmarkt Food Tour",
@@ -195,7 +237,9 @@
         "duration": "2.5 hours",
         "languages": "English, German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740921020508,11.575684547424316"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740921020508,11.575684547424316",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Neuschwanstein, Linderhof Group or Private Tour",
@@ -204,7 +248,9 @@
         "duration": "10 hours",
         "languages": "Chinese, English",
         "meeting_point": "Departure: 08:30 Meeting Point: Munich main train station nearby, Eden Hotel Wolff ,Arnulfstraße 4, 80335 München\nYou will receive a group notice email with meeting point photos, instructions, and guide contact. Please arrive 15 minutes early and contact the guide if needed.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14165496826172,11.5592041015625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14165496826172,11.5592041015625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Oktoberfest Table Reservation and Party Tour",
@@ -213,7 +259,9 @@
         "duration": "6 hours",
         "languages": "English, German, Spanish",
         "meeting_point": "We meet in front of the Hofbräuhaus-Oktoberfesttent. Look for a very large tent with a crown on top! If you have problems finding it. The last 2 pictures shown give you a clear direction on how to arrive. Since there will be a lot of people roaming around, come half an hour early.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13247299194336,11.549068450927734"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13247299194336,11.549068450927734",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Neuschwanstein Castle Full-Day Trip by Van",
@@ -222,7 +270,9 @@
         "duration": "10 hours",
         "languages": "English",
         "meeting_point": "Pickup available from your hotel/accommodation in Munich.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Neuschwanstein Castle Chinese Day Tour",
@@ -231,7 +281,9 @@
         "duration": "10.5 hours",
         "languages": "Chinese",
         "meeting_point": "We will meet at 8:10 and set off at 8:30.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14216995239258,11.54897403717041"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14216995239258,11.54897403717041",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich's Beer Halls and Breweries: 3-Hour Guided Tour",
@@ -240,7 +292,9 @@
         "duration": "3.5 hours",
         "languages": "English, German",
         "meeting_point": "Marienplatz, vor der Touristen Information der Stadt München im Gotischen Rathaus.\nDer Gästeführer steht vor der Touristen Information mit einem gelben Schilde mit dem Namen der Tour.\nBitte 15 Minuten vorher da sein.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich Food Tour: The Ultimate Bavarian Full Meal & Drinks",
@@ -249,7 +303,9 @@
         "duration": "3 hours",
         "languages": "English, German",
         "meeting_point": "Meeting by the entrance to the Deutsches Jagd- und Fischereimuseum (by the statue of the Wild Boar)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13837432861328,11.571601867675781"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13837432861328,11.571601867675781",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Berchtesgaden Foothills and Obersalzberg",
@@ -258,7 +314,9 @@
         "duration": "10 hours",
         "languages": "English",
         "meeting_point": "Meet at Karlsplatz 21-24 in the Gray Line, AutobusOberbayern bus lane.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Night Watchman Tour in English",
@@ -267,7 +325,9 @@
         "duration": "1.5 hours",
         "languages": "English",
         "meeting_point": "Mary´s Column in the CENTER of Marienplatz.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13723373413086,11.575515747070312"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13723373413086,11.575515747070312",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "From Munich: Zugspitze & Eibsee Group or Private Day Tour",
@@ -276,7 +336,9 @@
         "duration": "10 hours",
         "languages": "Chinese, English",
         "meeting_point": "You will receive a group notice email with meeting point photos, instructions, and guide contact. Please arrive 15 minutes early and contact the guide if needed.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14165496826172,11.5592041015625"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14165496826172,11.5592041015625",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich to Dachau: Guided tour of the Dachau Concentration Camp",
@@ -285,7 +347,9 @@
         "duration": "4 hours",
         "languages": "Spanish",
         "meeting_point": "The guide will be waiting with a green umbrella next to the Fischbrunnen (Fish Fountain) in Marienplatz.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13724136352539,11.576177597045898"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13724136352539,11.576177597045898",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Salzburg, St. Wolfgang, and the Salzkammergut",
@@ -294,7 +358,9 @@
         "duration": "11 hours",
         "languages": "English",
         "meeting_point": "Meet at Karlsplatz 21-24 at the Gray Line, AutobusOberbayern bus lane.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1387825012207,11.564460754394531",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Night Watchman Torch Tour in German",
@@ -303,7 +369,9 @@
         "duration": "2 hours",
         "languages": "German",
         "meeting_point": "Meet at the south side of Spielzeugmuseum, beneath the tower.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13676834106445,11.57693862915039"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13676834106445,11.57693862915039",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Munich: Old Town Guided Walking Tour",
@@ -312,7 +380,9 @@
         "duration": "2 hours",
         "languages": "English",
         "meeting_point": "Please arrive in front of the Tourist Information at the New Town Hall on Marienplatz approx. 10 minutes before your tour starts. Please show your booking confirmation printed out or on your mobile phone to your tour guide.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740539550781,11.576089859008789"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740539550781,11.576089859008789",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Munich: Bike Tour with Beer Garden Break",
@@ -321,7 +391,9 @@
         "duration": "4 hours",
         "languages": "English",
         "meeting_point": "Meet at Fat Tire Tours, Karlsplatz 4. From the Karlsplatz (Stachus) McDonalds, with your back to the city gate, turn right along Sonnenstrasse. After 50 meters, you will see the shop on the right-hand side in the courtyard of Karlsplatz 4.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.139923095703125,11.566725730895996"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.139923095703125,11.566725730895996",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Short & sweet: Tasting the Viktualienmarkt",
@@ -330,7 +402,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Marienplatz 8, 80331 Munich, at the Glockenspiel tower of the new town hall - at the bottom of the entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740921020508,11.57607364654541"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740921020508,11.57607364654541",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Königsee Day Tour by Van",
@@ -339,7 +413,9 @@
         "duration": "11 hours",
         "languages": "English, German",
         "meeting_point": "Pickup included at your hotel/apartment. Default meeting point: Le Meridien Hotel, Bayerstr. 41.",
-        "meeting_point_maps_link": "https://www.google.com/maps/search/?api=1&query=Le+Meridien+Hotel+Bayerstr.+41+Munich"
+        "meeting_point_maps_link": "https://www.google.com/maps/search/?api=1&query=Le+Meridien+Hotel+Bayerstr.+41+Munich",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Perfume Creation Workshop",
@@ -348,7 +424,9 @@
         "duration": "2 hours",
         "languages": "English, French, German",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.12437057495117,11.579217910766602"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.12437057495117,11.579217910766602",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Guided Tour of the historic Town Hall on Marienplatz",
@@ -357,7 +435,9 @@
         "duration": "2 hours",
         "languages": "English",
         "meeting_point": "• Meet in front of the tourist information at the New Town Hall at Marienplatz.\n• Please arrive 10 minutes before the tour starts.\n• Please show your booking confirmation printed out or on your mobile phone to your tour guide.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740539550781,11.576089859008789"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13740539550781,11.576089859008789",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Dachau Memorial Site Guided Tour",
@@ -366,7 +446,9 @@
         "duration": "5 hours",
         "languages": "English",
         "meeting_point": "Outside the Tourist Information Center and underneath the famous Glockenspiel on Marienplatz central Munich.\n\nSbahn and Ubahn station to Marienplatz.\n\nYour guide will have a white placard with Dachau Tour on it.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Big Bus Hop-On Hop-Off Tour by Open-Top Bus",
@@ -375,7 +457,9 @@
         "duration": "Valid 1 - 2 days",
         "languages": "German, English",
         "meeting_point": "Activate your mobile voucher or QR code at any Big Bus stop along the routes. Look out for the blue double-decker Big Bus or ask for “Münchener Stadtrundfahrten.” A recommended starting point is Stop 1 Karlsplatz 21, located next to the Buddy Hotel.\n\nYou can also board from any of the other stops along the route: 1. Karlsplatz, 2. Pinakotheken, 3. Odeonsplatz, 4. Eisbach / English Garden, 6. Marienplatz / Tal, 7. Max-Joseph-Platz, 8. Nymphenburg Palace, 9. Olympic Park / BMW Welt & Museum, 10. Schwabing.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13862228393555,11.564580917358398"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13862228393555,11.564580917358398",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich : Private Walking Tour with A Guide (Private tour)",
@@ -384,7 +468,9 @@
         "duration": "2 - 8 hours",
         "languages": "English, French, Spanish",
         "meeting_point": "Pickup from your accommodation/hotel in Munich.",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point_maps_link": "N/A",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Tour of Germany's Highest Peak Zugspitze",
@@ -393,7 +479,9 @@
         "duration": "8 hours",
         "languages": "English, German",
         "meeting_point": "Meet at Karlsplatz 21-24 in the Gray Line / AutobusOberbayern bus lane.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.138973236083984,11.564959526062012"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.138973236083984,11.564959526062012",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: BMW Museum & BMW Welt Private Guided Tour",
@@ -402,7 +490,9 @@
         "duration": "1.5 hours",
         "languages": "English",
         "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.17683029174805,11.559096336364746"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.17683029174805,11.559096336364746",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Oktoberfest Tent with a Local and After Party",
@@ -411,7 +501,9 @@
         "duration": "6 hours",
         "languages": "English, French, Spanish",
         "meeting_point": "I will send you details and photos of the meeting point on WhatsApp.\nPlease check your get your guide emails after your booking.\nI will send you a link to the WhatsApp chat group where I will mange the experience.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13089370727539,11.550941467285156"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13089370727539,11.550941467285156",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Old Town & Viktualienmarkt City Walk in German",
@@ -420,7 +512,9 @@
         "duration": "1.5 hours",
         "languages": "German",
         "meeting_point": "Marienplatz, right in front of the tourist information point in the Gothic Town Hall, Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Residenz Palace and Hofgarten Skip-the-Line Tour",
@@ -429,7 +523,9 @@
         "duration": "2.5 hours",
         "languages": "English",
         "meeting_point": "Meet your guide on the right side of the entrance to Bucherer - Rolex /Patek Philippe, Residenzstraße 11, 80333 Munich, Germany (48.139679264104394, 11.577312736938918). There is an inscription “Patek Philippe” above the shop doors. Do not enter the building, as the staff is not informed about the tour.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1397819519043,11.577286720275879"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1397819519043,11.577286720275879",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Night Watchman Tour for Kids (6 - 12 years) - 75 min",
@@ -438,7 +534,9 @@
         "duration": "75 minutes",
         "languages": "German",
         "meeting_point": "The exact meeting point is at Mariensäule - a column in the Center of Marienplatz.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13723373413086,11.57551097869873"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13723373413086,11.57551097869873",
+        "location_setting": "outdoor",
+        "budget_tier": "medium"
     },
     {
         "title": "Munich: Walking Tour Old Town and Viktualienmarkt",
@@ -447,7 +545,9 @@
         "duration": "1.5 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137229919433594,11.57551383972168"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137229919433594,11.57551383972168",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "From Munich: Herrenchiemsee Palace and Boat Trip Day-Tour",
@@ -456,7 +556,9 @@
         "duration": "9.5 hours",
         "languages": "English",
         "meeting_point": "Meet at the local operator's office at Dachauer Straße 4, 80335 Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich Oktoberfest All-Inclusive Tour",
@@ -465,7 +567,9 @@
         "duration": "7 hours",
         "languages": "English",
         "meeting_point": "Meet by St. Mary's Column (Mariensäule) on Marineplatz, Munich.\n\nDirections: Take any S-Bahn or U-Bahn train to Marienplatz Station. The meeting point is a 3-minute walk, directly above the station.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137229919433594,11.57551383972168"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137229919433594,11.57551383972168",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Old Town Beer and Pub Tour (4 beers)",
@@ -474,7 +578,9 @@
         "duration": "2.5 hours",
         "languages": "German",
         "meeting_point": "Tal 48, 80331 Munich at the Isartor S-Bahn station (exit Isartor in the direction of Viktualienmarkt/ Tal if you come by train)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13515090942383,11.581182479858398"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13515090942383,11.581182479858398",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich 3-Hour Guided Bike Tour",
@@ -483,7 +589,9 @@
         "duration": "3.5 hours",
         "languages": "German, English",
         "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137413024902344,11.575678825378418"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.137413024902344,11.575678825378418",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Third Reich and World War II Segway Tour of the City",
@@ -492,7 +600,9 @@
         "duration": "3 hours",
         "languages": "English, German",
         "meeting_point": "Meet your guide at Robot City Segway Tour München.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.16326904296875,11.591004371643066"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.16326904296875,11.591004371643066",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Spooky Tour of Old Town in German",
@@ -501,7 +611,9 @@
         "duration": "105 minutes",
         "languages": "German",
         "meeting_point": "Frauenkirche, directly in front of the main entrance between the two towers at the Frauenplatz, Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1385612487793,11.572724342346191"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1385612487793,11.572724342346191",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich: Königssee Day Tour with a Chinese Guide",
@@ -510,7 +622,9 @@
         "duration": "11 hours",
         "languages": "Chinese",
         "meeting_point": "Munich ZOB Gleis 8/ Munich Central Bus Station Platform 8",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14216995239258,11.54897403717041"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14216995239258,11.54897403717041",
+        "location_setting": "outdoor",
+        "budget_tier": "high"
     },
     {
         "title": "München: Oktoberfest Experience and Lunch in Tent",
@@ -519,7 +633,9 @@
         "duration": "3.5 hours",
         "languages": "English, German",
         "meeting_point": "We´ll meet with the Guide in front of the Postbank at Goetheplatz 1 in 80337 München.#\nThere are several ATM´s abd ouadvice is to take some cash at the Oktoberfest cause not all saes stand there used to accept cards in the past.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.12959289550781,11.557969093322754"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.12959289550781,11.557969093322754",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     },
     {
         "title": "Munich Nymphenburg Palace & Carriage Museum Fast-Track Tour",
@@ -528,6 +644,8 @@
         "duration": "2 hours",
         "languages": "English",
         "meeting_point": "Meet your guide next to Metzgerwirt, Nördliche Auffahrtsallee 69, 80638 Munich, Germany (48.158914041300356, 11.5116917460609). Please wait on the street opposite the tram stop, between Metzgerwirt and the Wirtsgarten beer garden. Do not go inside, as the staff is not informed about the tour.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.158905029296875,11.511839866638184"
+        "meeting_point_maps_link": "https://maps.google.com/?q=@48.158905029296875,11.511839866638184",
+        "location_setting": "indoor",
+        "budget_tier": "high"
     }
 ]
