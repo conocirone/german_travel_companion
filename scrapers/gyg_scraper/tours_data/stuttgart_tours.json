@@ -1,14 +1,5 @@
 [
     {
-        "title": "Mercedes-Benz Museum Entry Ticket",
-        "price": "€16",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-mercedes-benz-museum-entry-ticket-t753035/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "German, English, Italian, Spanish, French, Chinese, Japanese, Russian",
-        "meeting_point": "Please enter the Mercedes-Benz Museum directly through the main entrance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78814697265625,9.23398208618164"
-    },
-    {
         "title": "Stuttgart 24-Hour Hop-On Hop-Off Sightseeing Bus Tour",
         "price": "€24",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-24-hour-hop-on-hop-off-sightseeing-bus-tour-t37169/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
@@ -27,33 +18,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.77490234375,9.177961349487305"
     },
     {
-        "title": "StuttCard - One Card, All Attractions",
-        "price": "€25",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttcard-one-ticket-many-perks-t34227/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "1 - 3 days",
-        "languages": "N/A",
-        "meeting_point": "After booking your StuttCard, you will receive an email with your ticket. To receive discounts at the sights included in the card, present your ticket and guide directly at the attraction.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77584457397461,9.182931900024414"
-    },
-    {
-        "title": "Tickets SWR Fernsehturm Stuttgart",
-        "price": "€12",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-tv-tower-tickets-t201757/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Fernsehturm Stuttgart, Jahnstraße 120, 70597 Stuttgart",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.75607681274414,9.190225601196289"
-    },
-    {
-        "title": "Stuttgart: Ticket for the Miniature Worlds – Europe's biggest city model",
-        "price": "€9",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-ticket-for-the-miniature-worlds-europe-s-biggest-city-model-t789067/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Miniaturwelten Stuttgart is located directly opposite the main railway station and is easy to reach. The entrance is easily accessible from the nearby bus stops and the street.\n\nPlease note that there is one step; however, separate barrier-free access is available. Just let us know if you need assistance.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.78280258178711,9.180991172790527"
-    },
-    {
         "title": "Stuttgart: Glow in the dark LED tour with Aquaman",
         "price": "€29",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-glow-in-the-dark-led-tour-with-aquaman-t1057823/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
@@ -61,15 +25,6 @@
         "languages": "English",
         "meeting_point": "Riverhouse Stuttgart",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.83159637451172,9.207234382629395"
-    },
-    {
-        "title": "Hot tub and Relaxation",
-        "price": "€35",
-        "link": "https://www.getyourguide.com/stuttgart-l27/cocktail-massage-and-relaxation-t315382/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "45 minutes",
-        "languages": "German, English",
-        "meeting_point": "Riverhouse, Austraße 370, 70376 Stuttgart.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.207207679748535"
     },
     {
         "title": "Stuttgart: A culinary world tour through Bad Cannstatt",
@@ -94,15 +49,6 @@
         "price": "€32",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-4-castle-winter-hike-with-costume-tour-t1054059/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
         "duration": "3 hours",
-        "languages": "German, English",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
-    },
-    {
-        "title": "Stuttgart: Valentine's Day Candlelight Dinner",
-        "price": "€52",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-valentine-s-day-candlelight-dinner-t1055892/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "4 hours",
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
@@ -135,15 +81,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617"
     },
     {
-        "title": "Stuttgart: Winter BBQ - American Smoker Edition",
-        "price": "€49",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-winter-bbq-american-smoker-edition-t844095/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "4 hours",
-        "languages": "German",
-        "meeting_point": "Please come to our Riverview Vineyard House next to the Zaißerei",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.832950592041016,9.206886291503906"
-    },
-    {
         "title": "Stuttgart: \"Kehrwoche\" Tour in Swabian",
         "price": "€25",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-kehrwoche-tour-in-swabian-t326726/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
@@ -151,33 +88,6 @@
         "languages": "German",
         "meeting_point": "Meeting point may vary depending on the option booked.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.77585983276367,9.181699752807617"
-    },
-    {
-        "title": "Stuttgart: Winter BBQ",
-        "price": "€44",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-theme-days-easter-special-t446604/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "4 hours",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.207263946533203"
-    },
-    {
-        "title": "VR Single Player Experience",
-        "price": "€30",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-vr-single-player-experience-t533294/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "1 hour",
-        "languages": "German, English",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.85356140136719,9.13916015625"
-    },
-    {
-        "title": "Stuttgart: Winterbrunch",
-        "price": "€44",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-winterbrunch-t407815/?ranking_uuid=b283acc6-754a-4480-8ca9-4b3e20006eb5&closeTabOnNavigationBack=true",
-        "duration": "4 hours",
-        "languages": "German, English",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831634521484375,9.207235336303711"
     },
     {
         "title": "Stuttgart: Mulled wine hike with games and a bonfire in the panoramic beer garden",
@@ -248,7 +158,7 @@
         "link": "https://www.getyourguide.com/esslingen-l100497/stuttgart-hike-science-info-on-the-solar-system-galaxies-universe-t1167025/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
         "duration": "5 hours",
         "languages": "German, English",
-        "meeting_point": "N/A",
+        "meeting_point": "Meeting point details provided upon booking.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -275,17 +185,8 @@
         "link": "https://www.getyourguide.com/munich-l26/from-munich-stuttgart-bmw-mercedes-and-porsche-museum-t1063390/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
         "duration": "10 hours",
         "languages": "English, German, Russian, Georgian",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup included from Munich.",
         "meeting_point_maps_link": "N/A"
-    },
-    {
-        "title": "Stuttgart: Landesmuseum Württemberg Old Castle Entry Ticket",
-        "price": "€8",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-landesmuseum-wurttemberg-old-castle-entry-ticket-t640080/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.77686309814453,9.179654121398926"
     },
     {
         "title": "Stuttgart Nature Experience Day",
@@ -302,7 +203,7 @@
         "link": "https://www.getyourguide.com/munich-l26/munich-zugspitze-eibsee-neuschwanstein-austria-privat-t1111486/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
         "duration": "9 hours",
         "languages": "English, Russian, Georgian, German",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup included from Munich.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -313,15 +214,6 @@
         "languages": "German",
         "meeting_point": "Old wine press Fellbach",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.80085754394531,9.271564483642578"
-    },
-    {
-        "title": "Paintball Experience",
-        "price": "€58",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-paintball-experience-t533720/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.85356140136719,9.13916015625"
     },
     {
         "title": "Stuttgart: Private pub crawl with insider-guide & free shots",
@@ -360,15 +252,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.778873443603516,9.178882598876953"
     },
     {
-        "title": "Stuttgart: Indoor Lasertag Experience",
-        "price": "€30",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-indoor-lasertag-experience-t519416/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
-        "duration": "1.5 hours",
-        "languages": "German, English",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.8539924621582,9.138198852539062"
-    },
-    {
         "title": "Stuttgart: Culinary Excursion through Bad Cannstatt",
         "price": "€39",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-culinary-excursion-through-bad-cannstatt-t76513/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
@@ -376,15 +259,6 @@
         "languages": "German",
         "meeting_point": "Parkplatz des Restaurants Schreinerei Ecke Zaisgasse/Überkinger Straße.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.80607986450195,9.214232444763184"
-    },
-    {
-        "title": "Stuttgart: Veggie BBQ & Buffet",
-        "price": "€39",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-veggie-bbq-buffet-t1063228/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
-        "duration": "4 hours",
-        "languages": "German, English",
-        "meeting_point": "Riverhouse Locations",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
     },
     {
         "title": "Hops and malt in Stuttgart",
@@ -423,15 +297,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.78337097167969,9.27099895477295"
     },
     {
-        "title": "Stuttgart: Outdoor Escape Game – an exciting puzzle tour through the city's history",
-        "price": "€12",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-outdoor-escape-game-an-exciting-puzzle-tour-through-the-city-s-history-t1097754/?ranking_uuid=a1292e9b-a318-451d-994f-b2e92369f188&closeTabOnNavigationBack=true",
-        "duration": "2 - 3 hours",
-        "languages": "German",
-        "meeting_point": "The start and finish point is at the Jubilee Column on Schlossplatz in Stuttgart. The meeting point is very easy to reach by public transport, and there are several parking garages in the immediate vicinity.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.778629302978516,9.179640769958496"
-    },
-    {
         "title": "Stuttgart: Mindful Hike to Lichtenstein Castle with Transfer",
         "price": "€60",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-mindful-hike-to-lichtenstein-castle-with-transfer-t1055779/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
@@ -446,7 +311,7 @@
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-private-custom-tour-with-a-local-guide-t471330/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
         "duration": "2 - 8 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup from your hotel or central meeting point in Stuttgart.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -464,7 +329,7 @@
         "link": "https://www.getyourguide.com/stuttgart-l27/munich-mercedes-benz-and-porsche-museum-day-trip-t1008818/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
         "duration": "8 hours",
         "languages": "Spanish, English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup included.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -484,15 +349,6 @@
         "languages": "German",
         "meeting_point": "We'll meet in front of the train station, exit Stadtmitte, opposite the \"Letzte Instanz\" restaurant",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.77982711791992,9.25044059753418"
-    },
-    {
-        "title": "Stuttgart: In- or Outdoor Gel-Blaster Experience",
-        "price": "€245",
-        "link": "https://www.getyourguide.com/stuttgart-l27/gel-blaster-stuttgart-t489614/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German, English",
-        "meeting_point": "Follow the signs for “Laser Tag”.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.85386276245117,9.13869857788086"
     },
     {
         "title": "Stuttgart: Mercedes-Benz Museum Guided Tour",
@@ -540,15 +396,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.80193328857422,9.268367767333984"
     },
     {
-        "title": "Stuttgart: Curling rail rental",
-        "price": "€49",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-ice-stock-in-the-frozen-river-t395136/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "1 hour",
-        "languages": "German, English",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831634521484375,9.207235336303711"
-    },
-    {
         "title": "Stuttgart: Sparkling Wine Tour",
         "price": "€48",
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-sparkling-wine-tour-t399892/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
@@ -572,7 +419,7 @@
         "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-private-walking-tour-with-a-local-t105976/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
         "duration": "2 - 6 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup from your hotel or central meeting point in Stuttgart.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -590,35 +437,8 @@
         "link": "https://www.getyourguide.com/stuttgart-l27/from-munich-stuttgart-mercedes-museum-lake-constance-t1137452/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
         "duration": "5 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup included.",
         "meeting_point_maps_link": "N/A"
-    },
-    {
-        "title": "Stuttgart: Outdoor Escape Game in Killesberg",
-        "price": "€33",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-outdoor-escape-game-killesberg-t438345/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Start at the park benches opposite the Killesberg subway exit. If you come by subway: Walk in the direction of travel to the end of the tracks and take the exit.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.799678802490234,9.171574592590332"
-    },
-    {
-        "title": "Stuttgart: Exclusive Raft Boat Rental",
-        "price": "€549",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-exclusive-raft-boats-finne-flosse-t399597/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German, English",
-        "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.8316650390625,9.207244873046875"
-    },
-    {
-        "title": "Stuttgart: Canadian Canoe Rental",
-        "price": "€20",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-canadian-canoe-rental-t216033/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "1 - 2 hours",
-        "languages": "German, English",
-        "meeting_point": "Please meet at The Riverhouse, Austraße 370, 70376 Stuttgart.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917"
     },
     {
         "title": "Premium wine hike Stuttgart with games and winemaker's snack",
@@ -628,23 +448,5 @@
         "languages": "German, English",
         "meeting_point": "Schozacher Straße or Hallschlag subway station plus short walk to Parkplatz Sportplatz Schnarrenberg. You can also take a bus. If you arrive by car, there is a free car park.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.82493591308594,9.196788787841797"
-    },
-    {
-        "title": "Stuttgart: Exklusive Floßboote Finne & Fischle",
-        "price": "€959",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-wine-tapas-boat-tour-on-the-neckar-t447033/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "English, German",
-        "meeting_point": "Treffpunkt am Riverhouse in der Austraße 370",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.831668853759766,9.20726490020752"
-    },
-    {
-        "title": "Stuttgart: Stand Up Paddling Rental",
-        "price": "€15",
-        "link": "https://www.getyourguide.com/stuttgart-l27/stuttgart-stand-up-paddling-rental-t216402/?ranking_uuid=d4934ee0-59c6-4686-9367-795a4b402b09&closeTabOnNavigationBack=true",
-        "duration": "1 hour",
-        "languages": "German, English",
-        "meeting_point": "Riverhouse Stuttgart, Austraße 370, 70376 Stuttgart, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.83165740966797,9.2072172164917"
     }
 ]

@@ -72,15 +72,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.105567932128906,8.666763305664062"
     },
     {
-        "title": "EXPERIMINTA ScienceCenter Entry Ticket",
-        "price": "€13",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-experiminta-sciencecenter-entry-ticket-t439298/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11542892456055,8.647788047790527"
-    },
-    {
         "title": "Frankfurt: New Old Town and Highlights German-Language Tour",
         "price": "€19",
         "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-old-town-guided-walk-t196616/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
@@ -88,15 +79,6 @@
         "languages": "German",
         "meeting_point": "In front of the Tourist Information Office Römer (Römerberg 27, 60311 Frankfurt am Main).",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.110713958740234,8.68195629119873"
-    },
-    {
-        "title": "Frankfurt Card: Experience Frankfurt at the Best Price",
-        "price": "€12",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-card-1-day-for-1-person-t4397/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
-        "duration": "Valid 1 - 2 days",
-        "languages": "N/A",
-        "meeting_point": "For up-to-date information on the spot, simply visit our Tourist Information Office Römer (city center) at Römerberg 27, 60311 Frankfurt am Main, Germany. Check the current opening hours on the Tourist Information website: www.visitfrankfurt.travel/tourist-information",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11075973510742,8.681865692138672"
     },
     {
         "title": "Frankfurt: Must-See Attractions Walking Tour with a Guide",
@@ -130,7 +112,7 @@
         "price": "€17",
         "link": "https://www.getyourguide.com/frankfurt-l21/1-hour-panorama-trip-in-frankfurtmain-t2951/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
         "duration": "1 hour",
-        "languages": "N/A",
+        "languages": "English, German",
         "meeting_point": "Look for the KD Ticket Office with the red, blue, and white KD logo, located on the Mainkai (close to the bridge Eisener Steg). Your boat will depart right in front of the ticket office. Proceed to board the ship and present your QR-Code ticket as you enter the ship. Getting to the landing-stage by public transport: Underground station Dom/Römer or tram stop Römer/Paulskirche, both of which are a 5-minute walk from the landing-stage. Getting to the landing-stage by car: The nearest multi-storey car park is Dom/Römer in Domstraße 1. On the car park routing system follow D = Dom. From there approx. 5 min. walk to the KD landing-stage.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254"
     },
@@ -144,20 +126,11 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.10097122192383,8.657639503479004"
     },
     {
-        "title": "Soccerbeat - Germany's first football experience world in Frankfurt",
-        "price": "€19",
-        "link": "https://www.getyourguide.com/frankfurt-l21/soccerbeat-germany-s-first-football-experience-world-in-frankfurt-t999242/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
-        "duration": "Valid 1.5 hours",
-        "languages": "German, English",
-        "meeting_point": "MyZeil Shopping Center 2ND FLOOR",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.1151008605957,8.681350708007812"
-    },
-    {
         "title": "Frankfurt: Lounge Abendfahrt Frankfurt",
         "price": "€29",
         "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-lounge-abendfahrt-frankfurt-t959217/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
         "duration": "2 hours",
-        "languages": "N/A",
+        "languages": "English, German",
         "meeting_point": "Look for the KD Ticket Office, which is located right by the water. Look for the red, blue and white KD Logo. Your ship will depart right in front of the ticket office. Remember to have your GetYourGuide QR-Code ticket ready when boarding the ship. You can find your QR-Code ticket on your GetYourGuide App or in your E-Mail confirmation. Your ticket will be scanned upon entering the ship. Getting to the landing-stage by public transport: Underground station Dom/Römer or tram stop Römer/Paulskirche, both of which are a 5-minute walk from the landing-stage. Getting to the landing-stage by car: The nearest multi-storey car park is Dom/Römer in Domstraße 1. On the car park routing system follow D = Dom. From there approx. 5 min. walk to the KD landing-stage.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.10874557495117,8.681138038635254"
     },
@@ -178,15 +151,6 @@
         "languages": "Chinese, English",
         "meeting_point": "You will receive a group notice email with meeting point photos, instructions, and guide contact. Please arrive 15 minutes early and contact the guide if needed.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.10420227050781,8.661937713623047"
-    },
-    {
-        "title": "Hanau: Your ticket to the BODY WORLDS exhibition",
-        "price": "€21",
-        "link": "https://www.getyourguide.com/frankfurt-l21/hanau-your-ticket-to-the-body-worlds-exhibition-t1099990/?ranking_uuid=f3b66609-9fc1-47b4-b015-f4b5536d62db",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.13274383544922,8.91831111907959"
     },
     {
         "title": "Frankfurt: Horror theater with city tour \"Nosferatu's Resurrection\"",
@@ -223,15 +187,6 @@
         "languages": "German, English",
         "meeting_point": "Meeting point 10 minutes before the start at the AiRail Check In. Please bring your ticket to the event.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.052669525146484,8.568172454833984"
-    },
-    {
-        "title": "Frankfurt Airport: Fraport Visitor Center Entry Ticket",
-        "price": "€12",
-        "link": "https://www.getyourguide.com/frankfurt-airport-l36974/frankfurt-airport-fraport-visitor-center-t417441/?ranking_uuid=3ac8cc7d-6602-4b46-af55-63b73125b646",
-        "duration": "1.5 hours",
-        "languages": "English, German",
-        "meeting_point": "By airplane: The Fraport Visitor Center is located in Terminal 1, Departure Hall C, next to Gate C1, just a few steps from the gates. By car / parking facilities: The public parking garage of Frankfurt Airport is available to guests of the Visitor Center with more than 10,000 parking spaces. Drive into the P2 or P3 parking garage. From the parking garages, there is direct access to the terminal area where the Fraport Visitor Center is located. By cab / with your driver: Drive in the direction of Terminal 1, Departure C. Follow the signs to Gate C1. By public transport: From the regional train station, you can get directly to the Airport City Mall. Regional and long-distance buses stop in front of Terminal 1. Follow the signs to Terminal 1, Departure C, Gate 1.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.05038833618164,8.574368476867676"
     },
     {
         "title": "Frankfurt: Capture the most Photogenic Spots with a Local",
@@ -293,7 +248,7 @@
         "link": "https://www.getyourguide.com/frankfurt-l21/private-day-trip-from-frankfurt-to-rhine-valley-back-t755835/?ranking_uuid=3ac8cc7d-6602-4b46-af55-63b73125b646",
         "duration": "7 hours",
         "languages": "English, German",
-        "meeting_point": "N/A",
+        "meeting_point": "Meeting point arrangements will be made after booking.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -356,7 +311,7 @@
         "link": "https://www.getyourguide.com/frankfurt-l21/private-rhine-valley-tour-with-river-cruise-wine-tasting-t591803/?ranking_uuid=3ac8cc7d-6602-4b46-af55-63b73125b646",
         "duration": "8 hours",
         "languages": "English, German",
-        "meeting_point": "N/A",
+        "meeting_point": "Hotel pick-up available.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -410,7 +365,7 @@
         "link": "https://www.getyourguide.com/frankfurt-l21/sip-wine-along-the-rhine-grape-day-out-from-frankfurt-t981031/?ranking_uuid=3ac8cc7d-6602-4b46-af55-63b73125b646",
         "duration": "9 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Hotel pick-up or central meeting point.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -421,15 +376,6 @@
         "languages": "German, English",
         "meeting_point": "in front of the \"Zunftbrunnen\", your guide will be wearing an orange safety vest",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.104286193847656,8.690075874328613"
-    },
-    {
-        "title": "Darmstadt: Private Guided Walking Tour",
-        "price": "€241",
-        "link": "https://www.getyourguide.com/darmstadt-l255/darmstadt-private-guided-walking-tour-t457402/?ranking_uuid=3ac8cc7d-6602-4b46-af55-63b73125b646",
-        "duration": "1.5 hours",
-        "languages": "English, German",
-        "meeting_point": "Meet Giude at Luisen Square, Luisenpl. 15, 64283 Darmstadt, Germany",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@49.87276840209961,8.651179313659668"
     },
     {
         "title": "Frankfurt: Jack the Ripper Fright Tour",
@@ -457,15 +403,6 @@
         "languages": "German",
         "meeting_point": "Meet your guide in front of the main entrance to St Paul's Church, opposite the Ratskeller.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
-    },
-    {
-        "title": "Hanau: Private Guided Walking Tour",
-        "price": "€225",
-        "link": "https://www.getyourguide.com/germany-l169009/hanau-private-guided-walking-tour-t457669/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "1.5 hours",
-        "languages": "English, German",
-        "meeting_point": "At the Congress Park Hanau on Palace Square, Schloßpl. 1, 63450 Hanau",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.13825607299805,8.918452262878418"
     },
     {
         "title": "Frankfurt: Guided Bike Tour",
@@ -500,17 +437,8 @@
         "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-private-walking-tour-with-a-local-t104087/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
         "duration": "2 - 6 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Flexible meeting point.",
         "meeting_point_maps_link": "N/A"
-    },
-    {
-        "title": "Struwwelpeter Museum Entry Ticket w/Audio Guide",
-        "price": "€8",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-struwwelpeter-museum-entry-ticket-waudio-guide-t432719/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "Valid 1 day",
-        "languages": "English, French, Spanish, Chinese, Japanese, Korean, German",
-        "meeting_point": "Start your activity at the Struwwelpeter Museum.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11101531982422,8.683638572692871"
     },
     {
         "title": "Frankfurt: Discover the heart of Frankfurt – a city tour in Russian",
@@ -522,15 +450,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.1111946105957,8.680757522583008"
     },
     {
-        "title": "Frankfurt: Bad Homburg Scary Tour - The Eyes of Hell",
-        "price": "€19",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-bad-homburg-scary-tour-the-eyes-of-hell-t202810/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "75 minutes",
-        "languages": "German",
-        "meeting_point": "Near the entrance of the train station in Bad Homburg.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.220577239990234,8.621471405029297"
-    },
-    {
         "title": "Frankfurt: Old Town Crime Mystery Game",
         "price": "€33",
         "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-old-town-crime-mystery-game-and-walking-tour-t414496/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
@@ -538,24 +457,6 @@
         "languages": "German",
         "meeting_point": "Your game master will be waiting for you at the Lucae Fountain on Opernplatz.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.115234375,8.671590805053711"
-    },
-    {
-        "title": "Museum of Communication Exhibitions",
-        "price": "€9",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-museum-of-communication-entrance-ticket-t467072/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Head directly to Museum for Communication Frankfurt.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.10456085205078,8.676107406616211"
-    },
-    {
-        "title": "Frankfurt: RheinMainCard - Unlimited RMV Transportation",
-        "price": "€34",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-rheinmaincard-unlimited-rmv-transportation-t397329/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "Valid 2 days",
-        "languages": "N/A",
-        "meeting_point": "For up-to-date information on the spot, simply visit our Tourist Information Office Römer (city center) at Römerberg 27, 60311 Frankfurt am Main, Germany. Check the current opening hours our website: www.visitfrankfurt.travel/tourist-information",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.11075973510742,8.681865692138672"
     },
     {
         "title": "From Frankfurt: Heidelberg & Baden-Baden Full-Day Tour",
@@ -626,17 +527,8 @@
         "link": "https://www.getyourguide.com/frankfurt-l21/frankfurt-private-custom-tour-with-a-local-guide-t470128/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
         "duration": "2 - 8 hours",
         "languages": "English, German, Spanish",
-        "meeting_point": "N/A",
+        "meeting_point": "Flexible meeting point.",
         "meeting_point_maps_link": "N/A"
-    },
-    {
-        "title": "Frankfurter Kunstverein: Your Ticket to Art",
-        "price": "€10",
-        "link": "https://www.getyourguide.com/frankfurt-l21/frankfurter-kunstverein-your-ticket-to-art-t797940/?ranking_uuid=6923c469-a2ea-41f8-bc97-fa146d7b6bde",
-        "duration": "Valid 1 day",
-        "languages": "German, English",
-        "meeting_point": "Within sight of the Römer, right at the beginning of the New Old Town, is the Frankfurter Kunstverein in the Steinernes Haus, the oldest building in the center of the newly reconstructed Old Town.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.110755920410156,8.682792663574219"
     },
     {
         "title": "Stag Party Frankfurt: Celebration for Your Bachelor Party",
@@ -646,41 +538,5 @@
         "languages": "English, German",
         "meeting_point": "Meet in front of \"Hooters\" in Old Sachsenhausen or at your preferred location within Old Sachsenhausen.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@50.105953216552734,8.690438270568848"
-    },
-    {
-        "title": "Koblenz: Rhine Valley Castles and Palaces Boat Tour",
-        "price": "€18",
-        "link": "https://www.getyourguide.com/koblenz-l529/from-koblenz-2h-castles-and-palaces-boat-tour-t597159/?ranking_uuid=b376722d-2317-486c-a535-b74a3df81345",
-        "duration": "2 hours",
-        "languages": "German, English",
-        "meeting_point": "Go to Brücke 2 - Gilles Personenschifffahrt to begin your tour. Konrad-Adenauer-Ufer Brücke 2 (Rhine-River)",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@50.362422943115234,7.605787754058838"
-    },
-    {
-        "title": "Heidelberg: Neckar River Sightseeing Boat Tour with Drink",
-        "price": "€23",
-        "link": "https://www.getyourguide.com/heidelberg-l24/heidelberg-neckar-river-sightseeing-boattour-with-a-drink-t391162/?ranking_uuid=b376722d-2317-486c-a535-b74a3df81345",
-        "duration": "50 minutes",
-        "languages": "German",
-        "meeting_point": "The tour starts at pier no. 5, you can board the ship with your ticket immediately. For further info, check-in at the ticket office at the main pier.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@49.41290283203125,8.701295852661133"
-    },
-    {
-        "title": "Wine tasting with a guided tour at the Mesel Winery in the Palatinate",
-        "price": "€24",
-        "link": "https://www.getyourguide.com/bad-durkheim-l157395/wine-tasting-with-a-guided-tour-at-the-mesel-winery-in-the-palatinate-t1189500/?ranking_uuid=b376722d-2317-486c-a535-b74a3df81345",
-        "duration": "1.5 hours",
-        "languages": "German, English",
-        "meeting_point": "Just ring the bell at the farm sale!",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@49.46308135986328,8.193805694580078"
-    },
-    {
-        "title": "Würzburg: City Tour with the Bimmelbahn Train",
-        "price": "€11",
-        "link": "https://www.getyourguide.com/wurzburg-l133/wurzburg-sightseeing-train-tour-t362015/?ranking_uuid=b376722d-2317-486c-a535-b74a3df81345",
-        "duration": "40 minutes",
-        "languages": "German, English, French, Italian, Russian, Spanish",
-        "meeting_point": "You will receive the original tickets with the corresponding coffee voucher directly at the departure point before your journey. To do this, show the QR code (printed out or on your smartphone) at the sales stand. Please arrive at the departure point in good time - at least 15 minutes before departure.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@49.79234313964844,9.93624210357666"
     }
 ]

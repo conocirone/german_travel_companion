@@ -1,14 +1,5 @@
 [
     {
-        "title": "Dortmund: BVB Self-Guided Stadium Walk",
-        "price": "€12",
-        "link": "https://www.getyourguide.com/dortmund-l136/dortmund-bvb-self-guided-stadium-walk-t393462/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "German",
-        "meeting_point": "Meeting point is at the FanWelt at SIGNAL IDUNA PARK",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.49375534057617,7.45020866394043"
-    },
-    {
         "title": "Dortmund: Skywalk",
         "price": "€25",
         "link": "https://www.getyourguide.com/dortmund-l136/dortmund-skywalk-t400844/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
@@ -16,17 +7,7 @@
         "languages": "German",
         "meeting_point": "Phoenixplatz 2a, 44139 Dortmund - there is a large magenta-colored sign there \"sanfte-touren.de\"",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.487876892089844,7.4889044761657715"
-    },
-    {
-        "title": "Borusseum Borussia Dortmund Museum Entry Ticket",
-        "price": "€9",
-        "link": "https://www.getyourguide.com/dortmund-l136/dortmund-borusseum-borussia-dortmund-museum-entry-ticket-t437685/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.49369430541992,7.452528476715088"
-    },
-    {
+    },{
         "title": "German Football Museum",
         "price": "€20",
         "link": "https://www.getyourguide.com/dortmund-l136/dortmund-german-football-museum-t99648/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
@@ -104,7 +85,7 @@
         "link": "https://www.getyourguide.com/dortmund-l136/dortmund-private-custom-tour-with-a-local-guide-t470045/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
         "duration": "2 - 8 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pick-up at your centrally located hotel or a convenient meeting point in the city center.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -142,8 +123,7 @@
         "languages": "English, German",
         "meeting_point": "Your guide wears an orange safety vest with the inscription \"PARTYGUIDE\".",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.51704406738281,7.46736478805542"
-    },
-    {
+    },{
         "title": "Schwerte: Ruhr Area Segway Tour",
         "price": "€79",
         "link": "https://www.getyourguide.com/dortmund-l136/schwerte-ruhr-area-segway-tour-t172974/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
@@ -205,15 +185,6 @@
         "languages": "English, German",
         "meeting_point": "Innogy Tower, Freistuhl 7, 44137 Dortmund.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.51628112792969,7.461995601654053"
-    },
-    {
-        "title": "Dortmund Segway Tour",
-        "price": "€79",
-        "link": "https://www.getyourguide.com/dortmund-l136/dortmund-segway-tour-t1035817/?ranking_uuid=aaeb60db-c78c-4759-b3a4-82b74042d33b&closeTabOnNavigationBack=true",
-        "duration": "N/A",
-        "languages": "N/A",
-        "meeting_point": "N/A",
-        "meeting_point_maps_link": "N/A"
     },
     {
         "title": "Dortmund: Guided Walking Tour with a Local",

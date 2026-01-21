@@ -1,14 +1,5 @@
 [
     {
-        "title": "Titanic: An Immersive Journey",
-        "price": "€28",
-        "link": "https://www.getyourguide.com/leipzig-l25/titanic-an-immersive-journey-t1098695/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.28365707397461,12.391340255737305"
-    },
-    {
         "title": "Exclusive BMW & MINI Behind-the-Scenes Factory Tour",
         "price": "€25",
         "link": "https://www.getyourguide.com/leipzig-l25/leipzig-exclusive-bmw-mini-behind-the-scenes-factory-tour-t435257/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
@@ -16,15 +7,6 @@
         "languages": "German, English",
         "meeting_point": "Public Bus Station: „BMW Werk Zentralgebäude“. (Don’t exit at other Stops at the Plant, only at Zentralgebäude) Starting point is in the Welcome Lounge in the BMW Central Building. Your guide will be wearing a blue vest.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.4084587097168,12.443358421325684"
-    },
-    {
-        "title": "Leipzig: TRAUMFABRIK Exhibition Entry Ticket",
-        "price": "€18",
-        "link": "https://www.getyourguide.com/leipzig-l25/leipzig-traumfabrik-exhibition-entry-ticket-t1101278/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33064651489258,12.32146167755127"
     },
     {
         "title": "Leipzig: Guided Tour with Night Watchman Bremme",
@@ -72,24 +54,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.3389778137207,12.360015869140625"
     },
     {
-        "title": "Leipzig: Ticket for the immersive Viva Frida Kahlo exhibition",
-        "price": "€18",
-        "link": "https://www.getyourguide.com/leipzig-l25/leipzig-ticket-for-the-immersive-viva-frida-kahlo-exhibition-t1174366/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Enter through the pink container in front of the Kunstkraftwerk.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33018493652344,12.320429801940918"
-    },
-    {
-        "title": "Entry Ticket",
-        "price": "€19",
-        "link": "https://www.getyourguide.com/leipzig-l25/leipzig-zoo-entry-ticket-t695793/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.348487854003906,12.370970726013184"
-    },
-    {
         "title": "Leipzig: Mulled Wine Motorboat Tour",
         "price": "€19",
         "link": "https://www.getyourguide.com/leipzig-l25/mulled-wine-motorboat-tour-t303453/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
@@ -124,15 +88,6 @@
         "languages": "German",
         "meeting_point": "The meeting point is in front of the fountain.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.345149993896484,12.392245292663574"
-    },
-    {
-        "title": "House of Banksy Leipzig – An Unauthorized Exhibition",
-        "price": "€20",
-        "link": "https://www.getyourguide.com/leipzig-l25/house-of-banksy-leipzig-an-unauthorized-exhibition-t1010769/?ranking_uuid=78fa5470-2264-4bff-ae63-8810af28e6ac",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33945083618164,12.37765121459961"
     },
     {
         "title": "Leipzig: Lindenauer Harbor Cruise",
@@ -274,7 +229,7 @@
         "price": "€24",
         "link": "https://www.getyourguide.com/leipzig-l25/city-tour-in-a-double-decker-bus-and-tour-guide-t9591/?ranking_uuid=55485f18-db42-4fbb-b2ad-a2238d58e799",
         "duration": "Valid 1 day",
-        "languages": "N/A",
+        "languages": "German",
         "meeting_point": "The main stop is the Richard-Wagner-Straße 2 (across from Main Train Station/East Hall).",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.34299850463867,12.380154609680176"
     },
@@ -405,20 +360,11 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.34041976928711,12.375348091125488"
     },
     {
-        "title": "Leipzig: Mendelssohn House Entry Ticket",
-        "price": "€10",
-        "link": "https://www.getyourguide.com/leipzig-l25/leipzig-mendelssohn-house-entry-ticket-t1035633/?ranking_uuid=55485f18-db42-4fbb-b2ad-a2238d58e799",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Museumskasse direkt am Eingang",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.33626174926758,12.383245468139648"
-    },
-    {
         "title": "Leipzig: Scavenger Hunt Self-Guided Tour for Children",
         "price": "€39",
         "link": "https://www.getyourguide.com/leipzig-l25/leipzig-scavenger-hunt-for-families-school-kids-german-t49278/?ranking_uuid=55485f18-db42-4fbb-b2ad-a2238d58e799",
         "duration": "3 hours",
-        "languages": "N/A",
+        "languages": "German",
         "meeting_point": "This is the place where your Scavenger Hunt starts. Bring the Scavenger Hunt box, which you received via mail, with you. There will be no guide at the meeting point. You can start on any date and at any time you wish.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.34476089477539,12.380221366882324"
     },
@@ -563,7 +509,7 @@
         "link": "https://www.getyourguide.com/leipzig-l25/leipzig-individual-trabi-tour-with-guide-t55816/?ranking_uuid=1e544328-eabf-4d70-bafd-a5f9f14530d9",
         "duration": "2 hours",
         "languages": "German",
-        "meeting_point": "N/A",
+        "meeting_point": "Meeting point arrangements will be made after booking.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -635,7 +581,7 @@
         "link": "https://www.getyourguide.com/leipzig-l25/leipzig-private-custom-tour-with-a-local-guide-t471302/?ranking_uuid=1e544328-eabf-4d70-bafd-a5f9f14530d9",
         "duration": "2 - 8 hours",
         "languages": "English, Spanish",
-        "meeting_point": "N/A",
+        "meeting_point": "Flexible meeting point in city center",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -646,41 +592,5 @@
         "languages": "German",
         "meeting_point": "Your tour guide will be waiting for you at Jahnallee 18, 04109 Leipzig: Am Brunnen \"Tänzerin\" am Waldplatz",
         "meeting_point_maps_link": "https://maps.google.com/?q=@51.34226608276367,12.359066009521484"
-    },
-    {
-        "title": "Semperoper Tickets and Guided Tour",
-        "price": "€16",
-        "link": "https://www.getyourguide.com/dresden-l20/dresden-semperoper-tickets-and-45-minute-guided-tour-t38416/?ranking_uuid=1e6cc600-2aa0-401f-9d06-b56adc66cf79",
-        "duration": "45 minutes",
-        "languages": "German, English",
-        "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.0541877746582,13.735553741455078"
-    },
-    {
-        "title": "Dresden: Gala Concert in the Dresden Zwinger",
-        "price": "€35",
-        "link": "https://www.getyourguide.com/dresden-l20/dresden-gala-concert-in-the-dresden-zwinger-t67335/?ranking_uuid=1e6cc600-2aa0-401f-9d06-b56adc66cf79",
-        "duration": "1.5 hours",
-        "languages": "N/A",
-        "meeting_point": "Wallpavillon Zwinger Dresden Dresdner Zwinger, 01067 Dresden, The Wallpavillon is part of the baroque building complex of the Dresden Zwinger. Allow time for walking, the concert hall cannot be reached by car. From the café and restaurant “Alte Meister”, address: Theaterplatz 1a, take a short walk up the stairs up the so called \"Wall\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.05386734008789,13.73298454284668"
-    },
-    {
-        "title": "Halle (Saale): The Cathedral Tour",
-        "price": "€13",
-        "link": "https://www.getyourguide.com/halle-germany-l3458/halle-saale-the-cathedral-tour-t943047/?ranking_uuid=1e6cc600-2aa0-401f-9d06-b56adc66cf79",
-        "duration": "45 minutes",
-        "languages": "German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.48430252075195,11.964573860168457"
-    },
-    {
-        "title": "Dresden: 1-Day Hop-On-Hop-Off Bus Tour",
-        "price": "€25",
-        "link": "https://www.getyourguide.com/dresden-l20/dresden-1-day-hop-on-hop-off-bus-tour-t302763/?ranking_uuid=1e6cc600-2aa0-401f-9d06-b56adc66cf79",
-        "duration": "Valid 1 day",
-        "languages": "Arabic, Chinese, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Lithuanian, Polish, Portuguese, Russian, Spanish",
-        "meeting_point": "You can jump on the bus at any of the 22 stop to begin your activity. The main bus stop is Zwinger, Postplatz entrance, Ostra-Allee, 01067 Dresden. You can also join the bus tour at any other of the 22 stops. If you start after 4 PM, your ticket is also valid the next day.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@51.052268981933594,13.732462882995605"
     }
 ]

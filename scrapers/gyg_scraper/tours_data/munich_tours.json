@@ -36,15 +36,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
     },
     {
-        "title": "Munich: FC Bayern Museum + Arena View",
-        "price": "€19",
-        "link": "https://www.getyourguide.com/munich-l26/munich-fc-bayern-museum-arena-view-t826724/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "1.5 - 3 hours",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.21879577636719,11.624689102172852"
-    },
-    {
         "title": "From Munich: Dachau Memorial Site Full-Day Tour",
         "price": "€40",
         "link": "https://www.getyourguide.com/munich-l26/dachau-memorial-site-tour-from-munich-by-bus-and-train-t46973/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
@@ -52,15 +43,6 @@
         "languages": "English",
         "meeting_point": "Meet your guide on the Marienplatz, in front the department store Ludwig Beck (Marienplatz 11). Look for a white and blue umbrella and signs advertising the Dachau Tour. If you are running late or having difficulty finding the meeting point please call the local partner immediately using the emergency phone number provided.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.13718032836914,11.57641315460205"
-    },
-    {
-        "title": "Erding: 1-Day Spa Ticket at Therme Erding",
-        "price": "€52",
-        "link": "https://www.getyourguide.com/erding-l96310/erding-1-day-spa-ticket-at-therme-erding-t845221/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "English, German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.29022979736328,11.888577461242676"
     },
     {
         "title": "From Munich: Premium Neuschwanstein Castle & Linderhof Tour",
@@ -99,24 +81,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.141998291015625,11.560673713684082"
     },
     {
-        "title": "Munich: Deutsches Museum Entry Ticket",
-        "price": "€15",
-        "link": "https://www.getyourguide.com/munich-l26/munich-deutsches-museum-entry-ticket-t871208/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Main entrance at Museumsinsel 1 for Deutsches Museum",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13053894042969,11.58340072631836"
-    },
-    {
-        "title": "Magic Bavaria - Museum of Fun, Selfies and Illusions",
-        "price": "€23",
-        "link": "https://www.getyourguide.com/munich-l26/munich-magic-bavaria-museum-of-fun-selfies-and-illusions-t507893/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "1.5 hours",
-        "languages": "N/A",
-        "meeting_point": "Meet at Erlebnismuseum Magic Bavaria. The museum is located in the Mona shopping center on the 1st floor.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.182395935058594,11.530888557434082"
-    },
-    {
         "title": "Oktoberfest Munich: Large Beer Tent Entry+Table Lunch/Dinner",
         "price": "€199",
         "link": "https://www.getyourguide.com/munich-l26/oktoberfest-munich-large-beer-tent-entrytable-lunchdinner-t535989/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
@@ -126,21 +90,12 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.13895034790039,11.551851272583008"
     },
     {
-        "title": "Studio of Wonders Entry Ticket",
-        "price": "€20",
-        "link": "https://www.getyourguide.com/munich-l26/munich-entry-ticket-to-the-studio-of-wonders-t488715/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "1.5 hours",
-        "languages": "English, German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13603973388672,11.571610450744629"
-    },
-    {
         "title": "From Munich: Zugspitze Mountain Van Tour with Garmisch Town",
         "price": "€125",
         "link": "https://www.getyourguide.com/munich-l26/from-munich-zugspitze-mountain-van-tour-with-garmisch-town-t23215/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
         "duration": "9 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup available from your hotel in Munich.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -189,15 +144,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.14195251464844,11.560713768005371"
     },
     {
-        "title": "Day Ticket to Sea Life",
-        "price": "€21",
-        "link": "https://www.getyourguide.com/sea-life-munich-l6008/munich-day-ticket-to-sea-life-t22475/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "English, German",
-        "meeting_point": "Sea Life Munich\nWilli-Daume-Platz 1\n80809 Munich",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1740608215332,11.556390762329102"
-    },
-    {
         "title": "Munich Old Town - Guided Walking Tour in English",
         "price": "€25",
         "link": "https://www.getyourguide.com/munich-l26/munich-old-town-guided-walking-tour-t597871/?ranking_uuid=5e6aa2ac-88ed-4809-9c98-f30d4dd367a9&closeTabOnNavigationBack=true",
@@ -214,24 +160,6 @@
         "languages": "German, English",
         "meeting_point": "Open in Google Maps",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.126304626464844,11.558832168579102"
-    },
-    {
-        "title": "Munich: Classical Concert at the Residenz Palace",
-        "price": "€39",
-        "link": "https://www.getyourguide.com/munich-l26/munich-classical-concert-at-the-residenz-palace-t548906/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
-        "duration": "1 hour",
-        "languages": "N/A",
-        "meeting_point": "The Löweneingang (lion gate) to the Brunnenhof is near the Viscardigasse, opposite the Entrance of the Max-Joseph Hall.\n\nhttps://www.google.com/maps/place/Hofkapelle+der+Residenz/@48.1412413,11.5777294,19.83z/data=!3m1!5s0x479e758ce65a0841:0xd70b8e187bfe762a!4m6!3m5!1s0x479e758cc22ddca1:0xda3e4fa2fdd55d90!8m2!3d48.1411199!4d11.5779004!16s%2Fg%2F11g7zg20q_?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14107131958008,11.578007698059082"
-    },
-    {
-        "title": "\"Comedykills\" - das Open Mic im Glockenbachviertel",
-        "price": "€14",
-        "link": "https://www.getyourguide.com/munich-l26/-comedykills-das-open-mic-im-glockenbachviertel-t652526/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "German",
-        "meeting_point": "The bar is called: \"Beverly Kills\", it is located next to the fast food restaurant: \"Bazi Box\".",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.1312141418457,11.568394660949707"
     },
     {
         "title": "Munich: Birthplace of the Third Reich Guided Walking Tour",
@@ -293,26 +221,8 @@
         "link": "https://www.getyourguide.com/munich-l26/neuschwanstein-full-day-fairy-tale-castle-tour-t23212/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
         "duration": "10 hours",
         "languages": "English",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup available from your hotel/accommodation in Munich.",
         "meeting_point_maps_link": "N/A"
-    },
-    {
-        "title": "Nymphenburg Palace Entry Ticket",
-        "price": "€21",
-        "link": "https://www.getyourguide.com/munich-l26/munich-nymphenburg-palace-admission-ticket-t701906/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.158267974853516,11.503314018249512"
-    },
-    {
-        "title": "Munich: Gala Concert in the Cuvilliés Theatre",
-        "price": "€98",
-        "link": "https://www.getyourguide.com/munich-l26/munich-gala-concert-in-the-cuvillies-theatre-t27523/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "N/A",
-        "meeting_point": "Cuvilliés Theatre, Munich Residenz, Residenzstr. 1, 80333 Munich",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14090347290039,11.580103874206543"
     },
     {
         "title": "Munich: Neuschwanstein Castle Chinese Day Tour",
@@ -358,15 +268,6 @@
         "languages": "English",
         "meeting_point": "Mary´s Column in the CENTER of Marienplatz.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.13723373413086,11.575515747070312"
-    },
-    {
-        "title": "Munich: City Pass 45+ Top Attractions and Public Transport",
-        "price": "€31",
-        "link": "https://www.getyourguide.com/munich-l26/munich-city-pass-everything-you-need-in-one-pass-t490549/?ranking_uuid=0ccb3832-36bd-4a92-88ab-a66df1424a76&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 - 5 days",
-        "languages": "N/A",
-        "meeting_point": "There is no meeting point. All attractions information, you will find on your digital City Pass, which you will receive by e-mail after booking from Turbopass. The GetyourGuide voucher / GetYourGuide App will not be valid to redeem your entrances and activities in Munich.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13512420654297,11.58198070526123"
     },
     {
         "title": "From Munich: Zugspitze & Eibsee Group or Private Day Tour",
@@ -437,8 +338,8 @@
         "link": "https://www.getyourguide.com/munich-l26/konigssee-full-day-tour-from-munich-t23224/?ranking_uuid=cbda6382-54bf-4d78-be6e-e9d08e7ce967&closeTabOnNavigationBack=true",
         "duration": "11 hours",
         "languages": "English, German",
-        "meeting_point": "N/A",
-        "meeting_point_maps_link": "N/A"
+        "meeting_point": "Pickup included at your hotel/apartment. Default meeting point: Le Meridien Hotel, Bayerstr. 41.",
+        "meeting_point_maps_link": "https://www.google.com/maps/search/?api=1&query=Le+Meridien+Hotel+Bayerstr.+41+Munich"
     },
     {
         "title": "Munich: Perfume Creation Workshop",
@@ -468,15 +369,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.137393951416016,11.575448036193848"
     },
     {
-        "title": "Munich: Official City Card for Public Transport & Discounts",
-        "price": "€16",
-        "link": "https://www.getyourguide.com/munich-l26/munich-official-city-card-for-public-transport-discounts-t546456/?ranking_uuid=cbda6382-54bf-4d78-be6e-e9d08e7ce967&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 - 5 days",
-        "languages": "N/A",
-        "meeting_point": "There is no meeting point. You will receive your ticket via e-mail.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.13512420654297,11.58198070526123"
-    },
-    {
         "title": "Munich: Big Bus Hop-On Hop-Off Tour by Open-Top Bus",
         "price": "€23",
         "link": "https://www.getyourguide.com/munich-l26/munich-big-bus-hop-on-hop-off-tour-by-open-top-bus-t1767/?ranking_uuid=cbda6382-54bf-4d78-be6e-e9d08e7ce967&closeTabOnNavigationBack=true",
@@ -491,7 +383,7 @@
         "link": "https://www.getyourguide.com/munich-l26/munich-private-custom-tour-with-a-local-guide-t467589/?ranking_uuid=cbda6382-54bf-4d78-be6e-e9d08e7ce967&closeTabOnNavigationBack=true",
         "duration": "2 - 8 hours",
         "languages": "English, French, Spanish",
-        "meeting_point": "N/A",
+        "meeting_point": "Pickup from your accommodation/hotel in Munich.",
         "meeting_point_maps_link": "N/A"
     },
     {
@@ -520,15 +412,6 @@
         "languages": "English, French, Spanish",
         "meeting_point": "I will send you details and photos of the meeting point on WhatsApp.\nPlease check your get your guide emails after your booking.\nI will send you a link to the WhatsApp chat group where I will mange the experience.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@48.13089370727539,11.550941467285156"
-    },
-    {
-        "title": "Munich: CityTourCard | Free Public Transport | 100+ Savings",
-        "price": "€18",
-        "link": "https://www.getyourguide.com/munich-l26/munich-citytourcard-free-public-transport-100-savings-t38807/?ranking_uuid=cbda6382-54bf-4d78-be6e-e9d08e7ce967&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 - 6 days",
-        "languages": "N/A",
-        "meeting_point": "Meeting point may vary depending on the option booked.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@48.14026641845703,11.55999755859375"
     },
     {
         "title": "Old Town & Viktualienmarkt City Walk in German",

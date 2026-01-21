@@ -40,18 +40,9 @@
         "price": "€16",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-moviegolf-experience-t735308/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
         "duration": "1 - 1.5 hours",
-        "languages": "N/A",
+        "languages": "German, English",
         "meeting_point": "Eingang zu unserer MovieGolf-Anlage",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.540523529052734,9.995684623718262"
-    },
-    {
-        "title": "Hamburg Dungeon Admission Ticket",
-        "price": "€28",
-        "link": "https://www.getyourguide.com/hamburg-l23/scary-mondays-fridays-13-euro-entry-until-1500-t9129/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "1 hour",
-        "languages": "German, English",
-        "meeting_point": "The Hamburg Dungeon is situated in the heart of Hamburg, in the middle of the famous \"Hamburger Speicherstadt\", near the Hamburg harbor. It is only a few minutes walk away from the S-Bahn station Stadthausbrücke or the U-Bahn stations Baumwall or Überseequartier.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54388427734375,9.989470481872559"
     },
     {
         "title": "Hamburg: 1.5-Hour Evening Lights Harbour Cruise on a Ship",
@@ -90,15 +81,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.55017852783203,9.970049858093262"
     },
     {
-        "title": "Hamburg: Ticket for the Paradox Museum",
-        "price": "€24",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-ticket-for-the-paradox-museum-t951796/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "1.5 hours",
-        "languages": "N/A",
-        "meeting_point": "Go to reception to have your ticket validated",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.550498962402344,9.990691184997559"
-    },
-    {
         "title": "Hamburg: 1-Hour Harbor Cruise",
         "price": "€20",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-1-hour-harbor-cruise-t41367/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
@@ -124,15 +106,6 @@
         "languages": "German",
         "meeting_point": "Please arrive at the agreed meeting point on time and ask the staff of Rainer Abicht Elbreederei where the ship will depart from. The ships may depart from St. Pauli Landungsbrücken, Bridge 1 or Bridges 4-10. Please check with the staff on site.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.54521560668945,9.971750259399414"
-    },
-    {
-        "title": "Hamburg: Port des Lumières Vermeer & Van Gogh",
-        "price": "€18",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-port-des-lumieres-vermeer-van-gogh-t1095537/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Port des Lumières, Platz am 10. Längengrad 1 at Westfield Überseequartier in HafenCity\n20457 Hamburg\n\nPort des Lumières is located directly at the entrance to Westfield Überseequartier in HafenCity – you'll find our entrance at the corner of Osakaallee / Überseeallee / Magdeburger Brücke.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54084777832031,9.99947452545166"
     },
     {
         "title": "Hamburg: Amphibious River and Land Bus Ticket",
@@ -171,15 +144,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.549835205078125,9.957292556762695"
     },
     {
-        "title": "Hamburg: LEGO© Discovery Centre admission ticket",
-        "price": "€24",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-legoc-discovery-centre-admission-ticket-t1049586/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "The attraction is located in Westfield Hamburg Überseequartier.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.53962326049805,9.999895095825195"
-    },
-    {
         "title": "Hamburg: Guided Walking Tour for Magic Fans",
         "price": "€19",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-guided-walking-tour-for-harry-potter-and-magic-fans-t383643/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
@@ -187,24 +151,6 @@
         "languages": "German",
         "meeting_point": "Meet in front of the main entrance of the Townhall in Hamburg.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.55043029785156,9.99233341217041"
-    },
-    {
-        "title": "Hamburg: Hamburg City Card with Free Public Transportation",
-        "price": "€13",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-card-experience-the-hanseatic-city-t5099/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 - 5 days",
-        "languages": "N/A",
-        "meeting_point": "There is no need to exchange your HamburgCard. You can use the card directly on public transit or at any of the participating attractions.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55108642578125,9.993681907653809"
-    },
-    {
-        "title": "Hamburg: St. Pauli Comedy Club",
-        "price": "€25",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-st-pauli-comedy-club-t730029/?ranking_uuid=6ff2395d-d9e3-4d71-8df3-aa2a886726a9&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Herzlich Willkommen im St. Pauli Comedy Club\n\nWir befinden uns grade im Umbruch und es kommt was tolles auf euch zu. Doch leider hat das zur Folge, dass wir den St. Pauli Comedy Club, ab sofort bis zur Fertigstellung des neuen Clubs, vorübergehend ins Hause des Reeperbahn Comedy Club verlegen müssen.\n\n\nAlle unsere Shows aktuell:\nReeperbahn Comedy Club\nReeperbahn 25\n20359 Hamburg",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55012893676758,9.965970039367676"
     },
     {
         "title": "Hamburg: Reeperbahn tour with Daniel Schmidt from the Elbschlosskeller",
@@ -270,15 +216,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.55080032348633,9.969943046569824"
     },
     {
-        "title": "Kunsthalle Entrance Ticket",
-        "price": "€16",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-kunsthalle-entrance-ticket-t498066/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "English, German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.555511474609375,10.002545356750488"
-    },
-    {
         "title": "Hamburg: Pubcrawl & Nightlife Tour at St.Pauli",
         "price": "€18",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-pubcrawl-nightlife-tour-at-stpauli-t666703/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
@@ -342,15 +279,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.542579650878906,9.984972953796387"
     },
     {
-        "title": "Ticket to the Panoptikum Waxworks",
-        "price": "€10",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-ticket-to-the-panoptikum-waxworks-t54440/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "German, English",
-        "meeting_point": "Ticket office of the Panoptikum\nSpielbudenplatz 3, 20359 Hamburg\n\nDirections by public transport:\nSt. Pauli station (U3 metro line) and Reeperbahn station (S1 and S3 train lines) are within walking distance. Buses 6, 36, 37, 112, 601, 607, 608, 609, and 688 stop at St. Pauli station.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.549468994140625,9.966455459594727"
-    },
-    {
         "title": "Hamburg: Night PubCrawl through the Reeperbahn",
         "price": "€25",
         "link": "https://www.getyourguide.com/hamburg-l23/st-pauli-reeperbahn-pubcrawl-the-original-since-2008-t503252/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
@@ -367,24 +295,6 @@
         "languages": "German, English, Russian, Spanish, French, Italian, Danish",
         "meeting_point": "You can start your tour at any of the 15 stations on the route.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.554073333740234,10.00808048248291"
-    },
-    {
-        "title": "Hamburg St. Pauli: Bash Comedy, the Stand-Up Comedy Show",
-        "price": "€20",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-st-pauli-bash-comedy-the-stand-up-comedy-show-t1110186/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Please take the right door in the Klubhaus Pauli and go to the 3rd floor.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54921340942383,9.964154243469238"
-    },
-    {
-        "title": "International Maritime Museum Entrance Ticket",
-        "price": "€14",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-entrance-to-the-internationales-maritime-museum-t392577/?ranking_uuid=84b73490-c002-4bd0-ab8c-79ec818f6a82&closeTabOnNavigationBack=true",
-        "duration": "Valid 1 day",
-        "languages": "N/A",
-        "meeting_point": "Please go directly to the museum entrance, located at Koreastraße 1, 204457 Hamburg.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.54315948486328,9.999785423278809"
     },
     {
         "title": "Elbphilharmonie Plaza Guided Tour",
@@ -450,15 +360,6 @@
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.5490608215332,9.96274471282959"
     },
     {
-        "title": "Hamburg: Moin Comedy Club Stand Up Comedy Live Show Ticket",
-        "price": "€35",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-moin-comedy-club-stand-up-comedy-live-show-ticket-t601946/?ranking_uuid=1bdb198d-e1e2-4568-9956-c47f839cf124&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Der Club befindet sich im Tanzstudio \"Universo Tango\". Beim Schild in den Hinterhof gehen und dann die Treppe runter.",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55712890625,9.962464332580566"
-    },
-    {
         "title": "Hamburg: Harbor Cruise",
         "price": "€19",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-by-boat-1-hour-hanseatic-tour-t253532/?ranking_uuid=1bdb198d-e1e2-4568-9956-c47f839cf124&closeTabOnNavigationBack=true",
@@ -508,7 +409,7 @@
         "price": "€99",
         "link": "https://www.getyourguide.com/hamburg-l23/hamburg-saturday-night-boat-party-t437573/?ranking_uuid=1bdb198d-e1e2-4568-9956-c47f839cf124&closeTabOnNavigationBack=true",
         "duration": "3 hours",
-        "languages": "N/A",
+        "languages": "German, English",
         "meeting_point": "If you are at the Überseebrücke, please walk down to the water. The boarding area is signposted below the Überseebrücke.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.54256057739258,9.977585792541504"
     },
@@ -628,15 +529,6 @@
         "languages": "German",
         "meeting_point": "The stadium tour starts at the FC St. Pauli Museum on the first floor of the back straight (east stand) of the Millerntor Stadium, to the right of the St. Pauli fan store, the fan rooms and the AFM - adjacent to the Heiligengeistfeld.",
         "meeting_point_maps_link": "https://maps.google.com/?q=@53.55439376831055,9.968840599060059"
-    },
-    {
-        "title": "Hamburg: Reeperbahn Comedy Club",
-        "price": "€25",
-        "link": "https://www.getyourguide.com/hamburg-l23/hamburg-reeperbahn-comedy-club-t647498/?ranking_uuid=1bdb198d-e1e2-4568-9956-c47f839cf124&closeTabOnNavigationBack=true",
-        "duration": "2 hours",
-        "languages": "German",
-        "meeting_point": "Open in Google Maps",
-        "meeting_point_maps_link": "https://maps.google.com/?q=@53.55012893676758,9.965970039367676"
     },
     {
         "title": "Hamburg: 2-Hour Harbor Cruise",
