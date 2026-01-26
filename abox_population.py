@@ -143,11 +143,20 @@ class OntologyPopulator:
                     if setting_key in self.location_settings:
                         tour.hasLocationSetting = self.location_settings[setting_key]  
                 
+                
                 # Set duration
                 if 'duration' in tour_data and tour_data['duration']:
-                    duration_iri = f"duration_{self._sanitize_name_for_iri(tour_data['duration'])}_{idx}"
+                    duration_text = tour_data['duration']  # e.g., "2 hours"
+                    
+                    # Create unique IRI for duration individual
+                    duration_iri = f"duration_{self._sanitize_name_for_iri(duration_text)}_{idx}"
+                    
+                    # Create Duration individual and set its text value
                     duration = self.onto.Duration(duration_iri)
-                    tour.hasDuration = duration  
+                    duration.hasDurationValue = duration_text
+                    
+                    # Link tour to duration
+                    tour.hasDuration = duration 
                 
                 # Set meeting point
                 if 'meeting_point' in tour_data and tour_data['meeting_point']:
