@@ -4,17 +4,17 @@ import time
 import os
 import ollama
 
-# --- CONFIGURATION FROM YOUR PROVIDERS DATA ---
+
 INPUT_FILE = 'tripadvisor_data.json'
 OUTPUT_FILE = 'enriched_tripadvisor_data_local.json'
 API_URL = "http://localhost:3000/api/search"
 client = ollama.Client()
 model = "llama3.1:latest"
-# IDs from your JSON output
+
 OLLAMA_PROVIDER_ID = "5f4fce48-c818-4b41-9a6e-ee3e8d1c979e"
 TRANSFORMERS_PROVIDER_ID = "320d9526-5a69-4e79-a2ee-23497799d2f8"
 
-# Models (using llama3.1 for chat and a fast transformer for embedding)
+
 CHAT_MODEL_KEY = "llama3.1:latest"
 EMBED_MODEL_KEY = "Xenova/all-MiniLM-L6-v2" 
 
@@ -95,11 +95,11 @@ for i, item in enumerate(attractions):
 
     print(f"[{i+1}/{len(attractions)}] {item['name']}...")
     
-    # 1. Search & Summarize
+    #
     raw_info = get_perplexica_enrichment(item['name'], item['city'])
     
     if raw_info:
-        # 2. Convert to JSON fields
+        
         fields_str = parse_to_json(raw_info, item['name'], item['city'])
         try:
             fields = json.loads(fields_str)
@@ -109,11 +109,11 @@ for i, item in enumerate(attractions):
         except json.JSONDecodeError as e:
             print(f"  Failed to parse JSON response: {e}")
             print(f"  Raw response: {fields_str}")
-            # Fallback to unknown values
+            
             item.update({"location_setting": "unknown", "budget_tier": "unknown"})
             enriched_data.append(item)
 
-        # Save every 5 items
+       
         if len(enriched_data) % 5 == 0:
             with open(OUTPUT_FILE, 'w') as f:
                 json.dump(enriched_data, f, indent=4)

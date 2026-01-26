@@ -1,0 +1,338 @@
+The approaches we tried to scrape tripadvisor were the followings:
+- we tried with camoufox + playwright to not be detected as bot by tripadvisor but it was not enough since our ip was banned every now and then. 
+We tried to solve this problem by implementing proxy rotation but the quality of the free proxies found online was really bad and they barely worked. Also, once we found 
+a proxy which worked after few elements scraped trip advisor would ban them.
+- We looked up online for a new library and we found seleniumbase, which is a modified version of selenium which implements some anti-detection features, more specifically it implements an anti-detection mode which allowed us to scrape everything without getting our ip banned. 
+
+But scraping tripadvisor was not enough, in fact in our ontology we have two different classes which are LocationSetting (indoor/outdoor) and BudgetTier (free/low/medium/high). These informations were not on the website 
+so we ofc needed an LLM at least to determin if an activity would fall in the category indoor/outdoor. But then we realized that we also needed an API (e.g. Google API) to get the price of the activity.
+So our initial idea was to use a combination of the duckduckgo search python library and LLama 3.1. More specifically we would perform a web search on duckduckgo and then we would use the results to ask the LLM to classify the activity in the correct category. 
+But this approach was not enough since we realized that the duckduckgo search was not always accurate and provided a misleading context to the LLM.
+
+So we moved on to a different approach, we tried to combine Perplexica and lLama3.1. More specifically Perplexica is an AI based search engine and returned a much more accurate context to the LLM and then LLama 3.1 would classify the activity in the correct category.
+While this approach worked correctly, especially if we used Perplexica in reasoning mode, it was not the most efficient method more specifically because it was required too much time to get the results (around 1 minute per activity). 
+The big advantage of these two approaches was that everything ran locally and we could implement a simple pipeline which started from the scraping and then automatically enriched the json file with the location_setting and budget_tier.
+
+To keep the usage of LLM we decided to use Gemini 3 Pro. In fact it is a much more powerful LLM than Llama 3.1 and it is also much faster. Also the results are much more accurate. The prompt we used is the following:
+ Task: Classify the attractions in the json file based on the name and context. In case you are unsure about the price and the location setting look up online for the correct informations.
+    
+    1. location_setting: 'indoor' or 'outdoor'
+       - Museums, theaters, churches (interior visits) = indoor
+       - Parks, squares, streets, monuments, outdoor markets = outdoor
+    
+    2. budget_tier: Based on the BASE ENTRY FEE to access the attraction ITSELF.
+       - 'free': Public spaces (squares, streets, parks, neighborhoods, markets), monuments you can view from outside, churches with free entry, free museums
+       - 'low': 1€-10€ entry fee
+       - 'medium': 11€-20€ entry fee  
+       - 'high': >20€ entry fee
+       
+    IMPORTANT: 
+    - Ignore prices for guided tours, experiences, or activities - only consider the base entry fee.
+    - Public squares (like Alexanderplatz, Potsdamer Platz), streets, parks, and neighborhoods are ALWAYS 'free'.
+    - If unsure and it's a public outdoor space, default to 'free'.
+
+    Return ONLY a valid JSON file with JSON code. No intro text. You must add the two new fields to the ones which were already in the file
+    Example: {{"location_setting": "indoor", "budget_tier": "medium"}}
+So we gave the JSON to gemini and let him analyze it and enrich the file. 
+
+Loading data from trip_advisor_data_enriched_final.json...
+
+================================================================================
+                               📊 BASIC STATISTICS                               
+================================================================================
+
+Total Attractions: 1,922
+Total Cities: 9
+Total Attraction Types: 4
+Total Spec Types: 216
+
+================================================================================
+                            🏙️  ATTRACTIONS BY CITY                             
+================================================================================
+ 1. Hamburg                         240 attractions (12.49%)
+ 2. Cologne                         238 attractions (12.38%)
+ 3. Berlin                          235 attractions (12.23%)
+ 4. Dusseldorf                      235 attractions (12.23%)
+ 5. Munich                          232 attractions (12.07%)
+ 6. Stuttgart                       224 attractions (11.65%)
+ 7. Frankfurt                       213 attractions (11.08%)
+ 8. Essen                           160 attractions ( 8.32%)
+ 9. Dortmund                        145 attractions ( 7.54%)
+
+================================================================================
+                             🎭 ATTRACTIONS BY TYPE                              
+================================================================================
+ 1. Sights & Landmarks                   530 attractions (27.58%)
+ 2. Museums                              496 attractions (25.81%)
+ 3. Nightlife                            482 attractions (25.08%)
+ 4. Nature & Parks                       414 attractions (21.54%)
+
+================================================================================
+                              🎯 TOP 20 SPEC TYPES                               
+================================================================================
+ 1. Bars & Clubs                                        340 (17.69%)
+ 2. Parks                                               205 (10.67%)
+ 3. Speciality Museums                                  161 ( 8.38%)
+ 4. Art Galleries                                       141 ( 7.34%)
+ 5. Points of Interest & Landmarks                      121 ( 6.30%)
+ 6. Art Museums                                          55 ( 2.86%)
+ 7. Monuments & Statues                                  40 ( 2.08%)
+ 8. Bodies of Water                                      37 ( 1.93%)
+ 9. Bars & Clubs • Dance Clubs & Discos                  32 ( 1.66%)
+10. Arenas & Stadiums                                    31 ( 1.61%)
+11. Gardens                                              31 ( 1.61%)
+12. Churches & Cathedrals                                27 ( 1.40%)
+13. Architectural Buildings                              25 ( 1.30%)
+14. History Museums                                      25 ( 1.30%)
+15. Points of Interest & Landmarks • Architectural Buildings   19 ( 0.99%)
+16. Nature & Wildlife Areas                              19 ( 0.99%)
+17. Playgrounds                                          18 ( 0.94%)
+18. Speciality Museums • History Museums                 17 ( 0.88%)
+19. Historic Sites • Points of Interest & Landmarks      16 ( 0.83%)
+20. Neighborhoods                                        16 ( 0.83%)
+
+================================================================================
+                           💰 BUDGET TIER DISTRIBUTION                           
+================================================================================
+Free            1366 attractions (71.07%)
+Low              355 attractions (18.47%)
+Medium           156 attractions ( 8.12%)
+High              45 attractions ( 2.34%)
+
+================================================================================
+                        📍 LOCATION SETTING DISTRIBUTION                         
+================================================================================
+Indoor          1166 attractions (60.67%)
+Outdoor          756 attractions (39.33%)
+
+================================================================================
+                          🕐 OPERATING HOURS STATISTICS                          
+================================================================================
+With Operating Hours:     784 attractions (40.79%)
+Without Operating Hours: 1138 attractions (59.21%)
+
+================================================================================
+                       🏙️ 🎭 ATTRACTIONS BY CITY AND TYPE                        
+================================================================================
+
+Hamburg (240 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (25.00%)
+  • Museums                              60 (25.00%)
+  • Nightlife                            60 (25.00%)
+  • Nature & Parks                       60 (25.00%)
+
+Cologne (238 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (25.21%)
+  • Nightlife                            60 (25.21%)
+  • Museums                              59 (24.79%)
+  • Nature & Parks                       59 (24.79%)
+
+Berlin (235 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (25.53%)
+  • Nightlife                            60 (25.53%)
+  • Nature & Parks                       60 (25.53%)
+  • Museums                              55 (23.40%)
+
+Dusseldorf (235 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (25.53%)
+  • Museums                              60 (25.53%)
+  • Nightlife                            60 (25.53%)
+  • Nature & Parks                       55 (23.40%)
+
+Munich (232 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (25.86%)
+  • Museums                              60 (25.86%)
+  • Nightlife                            60 (25.86%)
+  • Nature & Parks                       52 (22.41%)
+
+Stuttgart (224 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (26.79%)
+  • Museums                              60 (26.79%)
+  • Nightlife                            60 (26.79%)
+  • Nature & Parks                       44 (19.64%)
+
+Frankfurt (213 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   60 (28.17%)
+  • Nightlife                            60 (28.17%)
+  • Museums                              59 (27.70%)
+  • Nature & Parks                       34 (15.96%)
+
+Essen (160 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   59 (36.88%)
+  • Museums                              42 (26.25%)
+  • Nightlife                            30 (18.75%)
+  • Nature & Parks                       29 (18.12%)
+
+Dortmund (145 total attractions)
+--------------------------------------------------------------------------------
+  • Sights & Landmarks                   51 (35.17%)
+  • Museums                              41 (28.28%)
+  • Nightlife                            32 (22.07%)
+  • Nature & Parks                       21 (14.48%)
+
+================================================================================
+                  🎯 TOP 5 SPEC TYPES PER CITY (Top 10 Cities)                   
+================================================================================
+
+Hamburg
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        40
+  2. Speciality Museums                                  31
+  3. Parks                                               25
+  4. Points of Interest & Landmarks                      14
+  5. Gardens                                              8
+
+Cologne
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        41
+  2. Parks                                               31
+  3. Speciality Museums                                  23
+  4. Art Galleries                                       19
+  5. Points of Interest & Landmarks                      11
+
+Berlin
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        31
+  2. Parks                                               22
+  3. Speciality Museums                                  17
+  4. Art Museums                                         11
+  5. Points of Interest & Landmarks                      10
+
+Dusseldorf
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        48
+  2. Art Galleries                                       31
+  3. Parks                                               28
+  4. Speciality Museums                                  14
+  5. Bodies of Water                                     12
+
+Munich
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        42
+  2. Parks                                               34
+  3. Speciality Museums                                  21
+  4. Points of Interest & Landmarks                      19
+  5. Art Museums                                         11
+
+Stuttgart
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        47
+  2. Parks                                               23
+  3. Art Galleries                                       22
+  4. Speciality Museums                                  17
+  5. Points of Interest & Landmarks                      11
+
+Frankfurt
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        41
+  2. Speciality Museums                                  20
+  3. Parks                                               19
+  4. Points of Interest & Landmarks                      14
+  5. Art Galleries                                       11
+
+Essen
+--------------------------------------------------------------------------------
+  1. Art Galleries                                       27
+  2. Bars & Clubs                                        26
+  3. Points of Interest & Landmarks                      22
+  4. Parks                                               10
+  5. Monuments & Statues                                  9
+
+Dortmund
+--------------------------------------------------------------------------------
+  1. Bars & Clubs                                        24
+  2. Art Galleries                                       20
+  3. Parks                                               13
+  4. Arenas & Stadiums                                   12
+  5. Points of Interest & Landmarks                       9
+
+================================================================================
+                     💰 BUDGET TIER BY CITY (Top 10 Cities)                      
+================================================================================
+
+Hamburg
+--------------------------------------------------------------------------------
+  Free            159 (66.25%)
+  Low              44 (18.33%)
+  Medium           27 (11.25%)
+  High             10 ( 4.17%)
+
+Cologne
+--------------------------------------------------------------------------------
+  Free            184 (77.31%)
+  Low              46 (19.33%)
+  Medium            6 ( 2.52%)
+  High              2 ( 0.84%)
+
+Berlin
+--------------------------------------------------------------------------------
+  Free            123 (52.34%)
+  Low              49 (20.85%)
+  Medium           50 (21.28%)
+  High             13 ( 5.53%)
+
+Dusseldorf
+--------------------------------------------------------------------------------
+  Free            189 (80.43%)
+  Low              28 (11.91%)
+  Medium           14 ( 5.96%)
+  High              4 ( 1.70%)
+
+Munich
+--------------------------------------------------------------------------------
+  Free            158 (68.10%)
+  Low              49 (21.12%)
+  Medium           20 ( 8.62%)
+  High              5 ( 2.16%)
+
+Stuttgart
+--------------------------------------------------------------------------------
+  Free            167 (74.55%)
+  Low              45 (20.09%)
+  Medium            8 ( 3.57%)
+  High              4 ( 1.79%)
+
+Frankfurt
+--------------------------------------------------------------------------------
+  Free            145 (68.08%)
+  Low              45 (21.13%)
+  Medium           19 ( 8.92%)
+  High              4 ( 1.88%)
+
+Essen
+--------------------------------------------------------------------------------
+  Free            133 (83.12%)
+  Low              23 (14.37%)
+  Medium            3 ( 1.88%)
+  High              1 ( 0.62%)
+
+Dortmund
+--------------------------------------------------------------------------------
+  Free            108 (74.48%)
+  Low              26 (17.93%)
+  Medium            9 ( 6.21%)
+  High              2 ( 1.38%)
+
+================================================================================
+                                   📈 SUMMARY                                    
+================================================================================
+
+    Dataset Overview:
+    • Total Attractions:        1,922
+    • Cities Covered:           9
+    • Attraction Types:         4
+    • Unique Spec Types:        216
+    
+    Top City:                   Hamburg (240 attractions)
+    Most Common Type:           Sights & Landmarks (530 attractions)
+    Most Common Budget Tier:    Free (1366 attractions)
+    Most Common Setting:        Indoor (1166 attractions)
+    

@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Script to analyze TripAdvisor attraction data and extract comprehensive statistics.
-"""
-
 import json
 from collections import Counter, defaultdict
 from typing import Dict, List, Any
