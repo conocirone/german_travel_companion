@@ -108,8 +108,9 @@ class OntologyPopulator:
         iri_name = f"hours_{day.lower()}_{open_time.hour}{open_time.minute}_{close_time.hour}{close_time.minute}"
         hours_individual = self.onto.OperatingHours(iri_name)
         hours_individual.appliesToDay = [self.days_of_week[day]]
-        hours_individual.opensAt = open_time
-        hours_individual.closesAt = close_time
+        # Store times as strings (HH:MM format) since xsd:time is not supported by OWL reasoners
+        hours_individual.opensAt = f"{open_time.hour:02d}:{open_time.minute:02d}"
+        hours_individual.closesAt = f"{close_time.hour:02d}:{close_time.minute:02d}"
         return hours_individual
 
     def populate_tours(self, tours_data: List[Dict]):
@@ -143,20 +144,11 @@ class OntologyPopulator:
                     if setting_key in self.location_settings:
                         tour.hasLocationSetting = self.location_settings[setting_key]  
                 
-                
                 # Set duration
                 if 'duration' in tour_data and tour_data['duration']:
-                    duration_text = tour_data['duration']  # e.g., "2 hours"
-                    
-                    # Create unique IRI for duration individual
-                    duration_iri = f"duration_{self._sanitize_name_for_iri(duration_text)}_{idx}"
-                    
-                    # Create Duration individual and set its text value
+                    duration_iri = f"duration_{self._sanitize_name_for_iri(tour_data['duration'])}_{idx}"
                     duration = self.onto.Duration(duration_iri)
-                    duration.hasDurationValue = duration_text
-                    
-                    # Link tour to duration
-                    tour.hasDuration = duration 
+                    tour.hasDuration = duration  
                 
                 # Set meeting point
                 if 'meeting_point' in tour_data and tour_data['meeting_point']:

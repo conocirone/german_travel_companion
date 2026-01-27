@@ -135,6 +135,7 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">opens at</rdfs:label>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The time at which a venue opens for the specified operating hours period.</rdfs:comment>
 </owl:DatatypeProperty>
@@ -143,6 +144,7 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdfs:domain rdf:resource="#OperatingHours"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">closes at</rdfs:label>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The time at which a venue closes for the specified operating hours period.</rdfs:comment>
 </owl:DatatypeProperty>
@@ -150,19 +152,18 @@
 <owl:DatatypeProperty rdf:about="#hasURL">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdfs:domain rdf:resource="#Tour"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has URL</rdfs:label>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The URL link to the tour booking or information page.</rdfs:comment>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has URL</rdfs:label>
 </owl:DatatypeProperty>
 
 <owl:DatatypeProperty rdf:about="#hasImageURL">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
   <rdfs:domain rdf:resource="#PhysicalVenue"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The URL link to an image representing a physical venue.</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has image URL</rdfs:label>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The URL link to an image representing the physical venue.</rdfs:comment>
 </owl:DatatypeProperty>
-
 
 <owl:Class rdf:about="#Activity">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
@@ -299,6 +300,48 @@
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A classification representing the category of a sight (e.g., Monument, Landmark, Historic Building).</rdfs:comment>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sight Type</rdfs:label>
 </owl:Class>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Activity"/>
+    <rdf:Description rdf:about="#City"/>
+    <rdf:Description rdf:about="#BudgetTier"/>
+    <rdf:Description rdf:about="#LocationSetting"/>
+    <rdf:Description rdf:about="#OperatingHours"/>
+    <rdf:Description rdf:about="#DayOfWeek"/>
+    <rdf:Description rdf:about="#Duration"/>
+    <rdf:Description rdf:about="#Language"/>
+    <rdf:Description rdf:about="#MeetingPoint"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Activity"/>
+    <rdf:Description rdf:about="#City"/>
+    <rdf:Description rdf:about="#BudgetTier"/>
+    <rdf:Description rdf:about="#LocationSetting"/>
+    <rdf:Description rdf:about="#OperatingHours"/>
+    <rdf:Description rdf:about="#DayOfWeek"/>
+    <rdf:Description rdf:about="#Duration"/>
+    <rdf:Description rdf:about="#Language"/>
+    <rdf:Description rdf:about="#MeetingPoint"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Activity"/>
+    <rdf:Description rdf:about="#City"/>
+    <rdf:Description rdf:about="#BudgetTier"/>
+    <rdf:Description rdf:about="#LocationSetting"/>
+    <rdf:Description rdf:about="#OperatingHours"/>
+    <rdf:Description rdf:about="#DayOfWeek"/>
+    <rdf:Description rdf:about="#Duration"/>
+    <rdf:Description rdf:about="#Language"/>
+    <rdf:Description rdf:about="#MeetingPoint"/>
+  </owl:members>
+</owl:AllDisjointClasses>
 
 <owl:AllDisjointClasses>
   <owl:members rdf:parseType="Collection">

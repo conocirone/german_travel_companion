@@ -1,0 +1,2046 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://PokemonTaxonomyBulbapedia.owl"
+         xmlns="http://PokemonTaxonomyBulbapedia.owl#">
+
+<owl:Ontology rdf:about="http://PokemonTaxonomyBulbapedia.owl"/>
+
+<owl:ObjectProperty rdf:about="#primaryType">
+  <rdfs:domain rdf:resource="#Pokemon"/>
+  <rdfs:range rdf:resource="#PokemonType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#secondaryType">
+  <rdfs:domain rdf:resource="#Pokemon"/>
+  <rdfs:range rdf:resource="#PokemonType"/>
+</owl:ObjectProperty>
+
+<owl:DatatypeProperty rdf:about="#johtoDexNumber">
+  <rdfs:domain rdf:resource="#Pokemon"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#nationalDexNumber">
+  <rdfs:domain rdf:resource="#Pokemon"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+</owl:DatatypeProperty>
+
+<owl:Class rdf:about="#PokemonType">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PokemonType</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#Pokemon">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pokemon</rdfs:label>
+</owl:Class>
+
+<owl:NamedIndividual rdf:about="#Normal">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Normal</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Fire">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fire</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Water">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Water</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Electric">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electric</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Grass">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grass</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ice">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ice</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Fighting">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fighting</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Poison">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poison</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ground">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ground</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Flying">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flying</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Psychic">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Psychic</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Bug">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bug</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Rock">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rock</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ghost">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghost</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dragon">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dragon</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dark">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dark</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Steel">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Steel</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Fairy">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fairy</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Stellar">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stellar</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#???">
+  <rdf:type rdf:resource="#PokemonType"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">???</rdfs:label>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Chikorita">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Bayleef">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Meganium">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Cyndaquil">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Quilava">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Typhlosion">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Totodile">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Croconaw">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Feraligatr">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pidgey">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pidgeotto">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pidgeot">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Spearow">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Fearow">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hoothoot">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Noctowl">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Rattata">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Raticate">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sentret">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Furret">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pichu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pikachu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Raichu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Caterpie">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Metapod">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Butterfree">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Weedle">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kakuna">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Beedrill">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ledyba">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ledian">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Spinarak">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ariados">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Geodude">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Graveler">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Golem">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Zubat">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Golbat">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Crobat">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Cleffa">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Clefairy">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Clefable">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Igglybuff">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Jigglypuff">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Wigglytuff">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Togepi">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Togetic">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sandshrew">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sandslash">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ekans">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Arbok">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dunsparce">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mareep">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Flaaffy">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ampharos">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Wooper">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Quagsire">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Gastly">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ghost"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Haunter">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ghost"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Gengar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ghost"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Unown">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Onix">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Steelix">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Steel"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Bellsprout">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Weepinbell">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Victreebel">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hoppip">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Skiploom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Jumpluff">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Paras">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Parasect">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Poliwag">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Poliwhirl">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Poliwrath">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Politoed">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magikarp">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Gyarados">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Goldeen">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Seaking">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Slowpoke">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Slowbro">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Slowking">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Oddish">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Gloom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Vileplume">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Bellossom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Drowzee">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hypno">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Abra">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kadabra">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Alakazam">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ditto">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pineco">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Forretress">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Steel"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidoran♀">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidorina">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidoqueen">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidoran♂">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidorino">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Nidoking">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Yanma">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Yanmega">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sunkern">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sunflora">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Exeggcute">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Exeggutor">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sudowoodo">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Wobbuffet">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Venonat">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Venomoth">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Scyther">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Scizor">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Steel"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pinsir">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Heracross">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Koffing">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Weezing">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Grimer">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Muk">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magnemite">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <secondaryType rdf:resource="#Steel"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magneton">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <secondaryType rdf:resource="#Steel"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Voltorb">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Electrode">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Aipom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ambipom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Snubbull">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Granbull">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Vulpix">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ninetales">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Growlithe">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Arcanine">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Stantler">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Marill">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Azumarill">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Diglett">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dugtrio">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mankey">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Primeape">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Meowth">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Persian">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Psyduck">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Golduck">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Machop">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Machoke">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Machamp">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tyrogue">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hitmonlee">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hitmonchan">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Hitmontop">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fighting"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Girafarig">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">203</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tauros">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Miltank">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magby">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magmar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Smoochum">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Jynx">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Elekid">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Electabuzz">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mr. Mime">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Smeargle">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Farfetch'd">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Natu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Xatu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Qwilfish">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tentacool">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tentacruel">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Krabby">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kingler">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Shuckle">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Bug"/>
+  <secondaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Staryu">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Starmie">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Shellder">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Cloyster">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Ice"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Corsola">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Remoraid">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Octillery">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Chinchou">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Lanturn">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Seel">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dewgong">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Ice"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Lickitung">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Lickilicky">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tangela">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tangrowth">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Eevee">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Vaporeon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Jolteon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Flareon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Espeon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Umbreon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dark"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Horsea">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Seadra">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kingdra">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Dragon"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Gligar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Delibird">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Swinub">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Piloswine">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mamoswine">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Teddiursa">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ursaring">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Phanpy">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Donphan">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mantine">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Skarmory">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Steel"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">203</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Doduo">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dodrio">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ponyta">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Rapidash">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Cubone">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Marowak">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kangaskhan">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Rhyhorn">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <secondaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Rhydon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ground"/>
+  <secondaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Murkrow">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dark"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Houndour">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dark"/>
+  <secondaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Houndoom">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dark"/>
+  <secondaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Slugma">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Magcargo">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <secondaryType rdf:resource="#Rock"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Sneasel">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dark"/>
+  <secondaryType rdf:resource="#Ice"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Misdreavus">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ghost"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Porygon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Porygon2">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Chansey">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Blissey">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Lapras">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <secondaryType rdf:resource="#Ice"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Omanyte">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Omastar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kabuto">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Kabutops">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Aerodactyl">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Snorlax">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Normal"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Bulbasaur">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ivysaur">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Venusaur">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Grass"/>
+  <secondaryType rdf:resource="#Poison"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Charmander">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Charmeleon">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Charizard">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Squirtle">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Wartortle">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Blastoise">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Articuno">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Ice"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Zapdos">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Moltres">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Raikou">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Electric"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Entei">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">244</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">244</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Suicune">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Water"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dratini">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dragon"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dragonair">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dragon"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Dragonite">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Dragon"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Larvitar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Pupitar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Ground"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Tyranitar">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Rock"/>
+  <secondaryType rdf:resource="#Dark"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Lugia">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Ho-Oh">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Fire"/>
+  <secondaryType rdf:resource="#Flying"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mewtwo">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mew">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</nationalDexNumber>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Celebi">
+  <rdf:type rdf:resource="#Pokemon"/>
+  <primaryType rdf:resource="#Psychic"/>
+  <secondaryType rdf:resource="#Grass"/>
+  <johtoDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</johtoDexNumber>
+  <nationalDexNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</nationalDexNumber>
+</owl:NamedIndividual>
+
+
+</rdf:RDF>
