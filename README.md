@@ -33,7 +33,8 @@ Python scripts and notebooks for the entire pipeline.
   - `analyze_statistics_gyg.py`: Generates statistics for tours.
   - `analyze_statistics_trip_advisor.py`: Generates statistics for attractions.
 - **`abox_population.py`**: The core script that takes the enriched JSON data and populates the base ontology to create the populated OWL file.
-- **`travel_companion.ipynb`**, **`rules_creation.ipynb`**: Notebooks for development.
+- **`travel_companion.ipynb`**: Notebook for TBox creation.
+- **`rules_creation.ipynb`**: Notebook for rules creation.
 
 ### 4. `queries/`
 - **`sparql_queries.md`**: A collection of Competency Questions and their corresponding SPARQL queries to demonstrate the capabilities of the ontology.

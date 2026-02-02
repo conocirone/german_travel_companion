@@ -130,8 +130,8 @@ WHERE {
   ?park :hasOperatingHours ?hours .
   ?hours :closesAt ?closingTime .
   
-  # Filter for closing times after 18:00
-  FILTER(?closingTime > "18:00:00"^^xsd:time)
+  # Filter for closing times after 18:00 (string comparison works for HH:MM format)
+  FILTER(?closingTime > "18:00")
 }
 ORDER BY ?closingTime
 ```
