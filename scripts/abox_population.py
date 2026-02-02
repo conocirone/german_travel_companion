@@ -10,11 +10,11 @@ from datetime import datetime
 import urllib.request
 ssl._create_default_https_context = ssl._create_unverified_context
 
-BASE_DIR = Path(__file__).parent
-ONTOLOGY_PATH = BASE_DIR / "german_city_tourism_final_d2.owl"
-TOURS_JSON_PATH = BASE_DIR / "data" / "all_cities_tours.json"
-ATTRACTIONS_JSON_PATH = BASE_DIR / "data" / "trip_advisor_data_enriched_final.json"
-OUTPUT_PATH = BASE_DIR / "german_city_tourism_populated.owl"
+BASE_DIR = Path(__file__).parent.parent
+ONTOLOGY_PATH = BASE_DIR / "ontologies" / "base_structure" / "german_city_tourism_final_d2.owl"
+TOURS_JSON_PATH = BASE_DIR / "data" / "post_llm_processing" / "all_cities_tours.json"
+ATTRACTIONS_JSON_PATH = BASE_DIR / "data" / "post_llm_processing" /"trip_advisor_data_enriched_final.json"
+OUTPUT_PATH = BASE_DIR / "ontologies" / "populated" / "german_city_tourism_populated.owl"
 
 class OntologyPopulator:
 

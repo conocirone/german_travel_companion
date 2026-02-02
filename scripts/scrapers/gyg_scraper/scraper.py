@@ -15,8 +15,7 @@ MY_CITIES = {
     'Stuttgart': 'https://www.getyourguide.com/stuttgart-l27/',
     'Dusseldorf': 'https://www.getyourguide.com/dusseldorf-l125/',
     'Dortmund': 'https://www.getyourguide.com/dortmund-l136/',
-    'Essen': 'https://www.getyourguide.com/essen-l145/',
-    'Leipzig': 'https://www.getyourguide.com/leipzig-l25/',
+    'Essen': 'https://www.getyourguide.com/essen-l145/'
 }
 
 def scrape_getyourguide(city_name, city_url):

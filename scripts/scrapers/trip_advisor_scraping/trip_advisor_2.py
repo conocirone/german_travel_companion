@@ -5,7 +5,7 @@ import json
 import os
 
 STATE_FILE = "./processed_attractions_final.json"
-DATA_FILE = "./tripadvisor_data_final.json"
+DATA_FILE = "../../../data/pre_llm_processing/tripadvisor_data_final.json"
 index_spec_type_container = 0
 
 MY_CITIES = {
@@ -17,8 +17,7 @@ MY_CITIES = {
     'Stuttgart': "https://www.tripadvisor.com/Attractions-g187291-Activities-a_allAttractions.true-Stuttgart_Baden_Wurttemberg.html",
     'Dusseldorf': "https://www.tripadvisor.com/Attractions-g187373-Activities-a_allAttractions.true-Dusseldorf_North_Rhine_Westphalia.html",
     'Dortmund': "https://www.tripadvisor.com/Attractions-g187372-Activities-a_allAttractions.true-Dortmund_North_Rhine_Westphalia.html",
-    'Essen': "https://www.tripadvisor.com/Attractions-g187375-Activities-a_allAttractions.true-Essen_North_Rhine_Westphalia.html",
-    'Leipzig': "https://www.tripadvisor.com/Attractions-g187400-Activities-c42-Leipzig_Saxony.html"
+    'Essen': "https://www.tripadvisor.com/Attractions-g187375-Activities-a_allAttractions.true-Essen_North_Rhine_Westphalia.html"
 }
 
 
@@ -174,9 +173,9 @@ def run_scraper():
                     # Try to click using the div that contains the category text
                     category_selector = f'div.biGQs._P:contains("{category}")'
                     sb.click(category_selector)
-                    print(f"✓ Clicked on category: {category}")
+                    print(f"Clicked on category: {category}")
                 except Exception as e:
-                    print(f"✗ Failed to click category {category}: {e}")
+                    print(f"Failed to click category {category}: {e}")
                     continue
                 sb.sleep(random.uniform(3, 5))
 
