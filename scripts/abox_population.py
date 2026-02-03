@@ -34,24 +34,24 @@ class OntologyPopulator:
 
     def _initialize_shared_individuals(self):
 
-            for tier in ['free', 'low', 'medium', 'high']:
-                individual = self.onto.BudgetTier(f"budget_{tier}")
-                self.budget_tiers[tier] = individual
+        for tier in ['free', 'low', 'medium', 'high']:
+            individual = self.onto.BudgetTier(f"budget_{tier}")
+            self.budget_tiers[tier] = individual
 
-            for setting in ['indoor', 'outdoor']:
-                individual = self.onto.LocationSetting(f'location_{setting}')
-                self.location_settings[setting] = individual
+        for setting in ['indoor', 'outdoor']:
+            individual = self.onto.LocationSetting(f'location_{setting}')
+            self.location_settings[setting] = individual
 
-            days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-            for day in days:
-                individual = self.onto.DayOfWeek(f'day_{day.lower()}')
-                self.days_of_week[day] = individual
+        days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+        for day in days:
+            individual = self.onto.DayOfWeek(f'day_{day.lower()}')
+            self.days_of_week[day] = individual
 
-            cities = ['Berlin', 'Cologne', 'Munich', 'Hamburg', 'Frankfurt', 'Stuttgart', 'Dusseldorf', 'Dortmund', 'Essen', 'Leipzig']
-            for city in cities:
-                individual = self.onto.City(f'city_{city.lower()}')
-                # Store with lowercase key to match lookup logic
-                self.cities[city.lower()] = individual
+        cities = ['Berlin', 'Cologne', 'Munich', 'Hamburg', 'Frankfurt', 'Stuttgart', 'Dusseldorf', 'Dortmund', 'Essen', 'Leipzig']
+        for city in cities:
+            individual = self.onto.City(f'city_{city.lower()}')
+            # Store with lowercase key to match lookup logic
+            self.cities[city.lower()] = individual
 
     def _get_or_create_language(self, language_name: str) -> Thing:
         if language_name not in self.languages:
@@ -151,11 +151,17 @@ class OntologyPopulator:
                     tour.hasDuration = duration  
                 
                 # Set meeting point
-                if 'meeting_point' in tour_data and tour_data['meeting_point']:
                     meeting_point_iri = f"meeting_point_{idx}"
                     meeting_point = self.onto.MeetingPoint(meeting_point_iri)
-                    tour.hasMeetingPoint = meeting_point  
-                
+                    tour.hasMeetingPoint = meeting_point
+                    
+                    # Populate dynamic properties
+                    if 'meeting_point' in tour_data and tour_data['meeting_point']:
+                        meeting_point.hasMeetingPointDescription = tour_data['meeting_point']
+                    
+                    if 'meeting_point_maps_link' in tour_data and tour_data['meeting_point_maps_link']:
+                        meeting_point.hasMapLink = tour_data['meeting_point_maps_link']
+                    
                 # Set languages
                 if 'languages' in tour_data and tour_data['languages']:
                     languages_str = tour_data['languages']
