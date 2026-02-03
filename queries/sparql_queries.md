@@ -1,7 +1,6 @@
 
 ## Query 1: Which outdoor activities in Berlin have a "Free" budget?
 
-**Competency Question:** Which outdoor activities in Berlin have a "Free" budget?
 
 ```sparql
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
@@ -29,13 +28,9 @@ WHERE {
 ORDER BY ?activity
 ```
 
-**Expected Results:** List of tours and venues in Berlin that are outdoor and free.
 
----
 
 ## Query 2: Is there any Museum in Munich that operates on Sundays?
-
-**Competency Question:** Is there any Museum in Munich that operates on Sundays?
 
 **Boolean Version (Yes/No answer):**
 ```sparql
@@ -55,8 +50,6 @@ ASK {
 ---
 
 ## Query 3: What is the category of the "Mercedes-Benz Museum"?
-
-**Competency Question:** What is the category of the "Mercedes-Benz Museum"?
 
 ```sparql
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
@@ -79,7 +72,6 @@ WHERE {
 
 ## Query 4: How many indoor Nightlife Venues in Hamburg have a "Medium" budget?
 
-**Competency Question:** How many indoor Nightlife Venues in Hamburg have a "Medium" budget?
 
 ```sparql
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
@@ -110,7 +102,6 @@ WHERE {
 
 ## Query 5: Which park in Hamburg close after 18:00?
 
-**Competency Question:** Which park in Hamburg close after 18:00?
 
 ```sparql
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
@@ -142,7 +133,6 @@ ORDER BY ?closingTime
 
 ## Query 6: What is the duration of the guided tour "Old Town Walk"?
 
-**Competency Question:** What is the duration of the guided tour "Old Town Walk"?
 
 ```sparql
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
