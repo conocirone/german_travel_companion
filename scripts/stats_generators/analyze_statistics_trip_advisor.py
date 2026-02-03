@@ -44,7 +44,7 @@ def main():
     # Path to data file: ../../../data/post_llm_processing/trip_advisor_data_enriched_final.json
     data_path = os.path.join(script_dir, '../../data/post_llm_processing/trip_advisor_data_enriched_final.json')
     # Path to output file: ../../../stats/trip_advisor_stats.md (Project Root Stats)
-    output_path = os.path.join(script_dir, '../../stats/trip_advisor_stats.md')
+    output_path = os.path.join(script_dir, '../../stats/trip_advisor_stats.txt')
     
     # Create stats directory if it doesn't exist
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
