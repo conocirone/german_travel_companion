@@ -40,5 +40,5 @@ Python scripts and notebooks for the entire pipeline.
 - **`sparql_queries.md`**: A collection of Competency Questions and their corresponding SPARQL queries to demonstrate the capabilities of the ontology.
 
 ### 5. `stats/`
-- Contains Markdown reports (`gyg_stats.md`, `trip_advisor_stats.md`) summarizing the data distribution (e.g., number of tours per city, budget distribution).
+- Contains text reports (`gyg_stats.txt`, `trip_advisor_stats.txt`) summarizing the data distribution (e.g., number of tours per city, budget distribution).
 
