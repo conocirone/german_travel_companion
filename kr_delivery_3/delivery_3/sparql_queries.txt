@@ -104,6 +104,8 @@ ORDER BY ?closingTime
 
 
 Query 6: What is the duration of the guided tour "Old Town Walk"?
+NOte: When we submitted the competency questions file we still didn't know that there was more than one Old Town Walk Tour.
+So this query actually returns the duration for each Old Town Walk Tour in our knowledge graph.
 
 PREFIX : <http://www.semanticweb.org/german_tourism_activities#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
