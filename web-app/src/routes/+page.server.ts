@@ -1,6 +1,10 @@
-import type { PageServerLoad } from './$types';
-import { executeSparqlQuery, SPARQL_PREFIXES, ONTOLOGY_PREFIX } from '$lib/sparql';
+import type { Actions, PageServerLoad } from './$types';
+import { ONTOLOGY_PREFIX } from '$env/static/private';
+import { SPARQL_PREFIXES } from '$lib/sparql';
+import { executeSparqlQuery } from '$lib/sparql';
 import { BUDGET_OPTIONS, LOCATION_SETTING_OPTIONS, DAY_OPTIONS, type City } from '$lib/types';
+import { searchFormSchema, type SearchFormErrors } from '$lib/validation';
+import { fail } from '@sveltejs/kit';
 
 async function fetchCities(): Promise<City[]> {
 	const query = `${SPARQL_PREFIXES}
@@ -35,4 +39,44 @@ export const load: PageServerLoad = async () => {
 		locationSettingOptions: LOCATION_SETTING_OPTIONS,
 		dayOptions: DAY_OPTIONS
 	};
+};
+
+export const actions: Actions = {
+    search: async ({ request }) => {
+        const formData = await request.formData();
+        const rawData = {
+            city: formData.get('city')?.toString(),
+            day: formData.get('day')?.toString(),
+            hour: formData.get('hour')?.toString(),
+            locationSetting: formData.get('locationSetting')?.toString(),
+            budget: formData.get('budget')?.toString()
+        };
+
+        const result = searchFormSchema.safeParse(rawData);
+
+        if (!result.success) {
+            const errors: SearchFormErrors = {};
+            for (const issue of result.error.issues) {
+                const field = issue.path[0] as keyof SearchFormErrors;
+                if (!errors[field]) {
+                    errors[field] = [];
+                }
+                errors[field]!.push(issue.message);
+            }
+
+            return fail(400, {
+                errors,
+                values: rawData
+            });
+        }
+
+        // Form is valid - return the validated data
+        // Query execution will be implemented in the next phase
+        console.log('Valid search request:', result.data);
+
+        return {
+            success: true,
+            searchParams: result.data
+        };
+    }
 };

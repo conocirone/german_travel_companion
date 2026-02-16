@@ -1,35 +1,37 @@
-export const TRIPLYDB_ENDPOINT = 'https://api.triplydb.com/datasets/ConoCirone/TRAVELCOMPANIONAKR/sparql';
-export const ONTOLOGY_PREFIX = 'http://www.semanticweb.org/german_tourism_activities#';
+import { TRIPLYDB_ENDPOINT, ONTOLOGY_PREFIX } from '$env/static/private';
+
 
 export interface SparqlBinding {
-	type: string;
-	value: string;
+    type: string;
+    value: string;
 }
 
 export interface SparqlResult {
-	head: {
-		vars: string[];
-	};
-	results: {
-		bindings: Record<string, SparqlBinding>[];
-	};
+    head: {
+        vars: string[];
+    };
+    results: {
+        bindings: Record<string, SparqlBinding>[];
+    };
 }
 
 export async function executeSparqlQuery(query: string): Promise<SparqlResult> {
-	const response = await fetch(TRIPLYDB_ENDPOINT, {
-		method: 'POST',
-		headers: {
-			'Content-Type': 'application/sparql-query',
-			'Accept': 'application/sparql-results+json'
-		},
-		body: query
-	});
+    console.log("Triply db", TRIPLYDB_ENDPOINT, ONTOLOGY_PREFIX)
+    const response = await fetch(TRIPLYDB_ENDPOINT, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/sparql-query',
+            'Accept': 'application/sparql-results+json'
+        },
+        body: query
+    });
 
-	if (!response.ok) {
-		throw new Error(`SPARQL query failed: ${response.status} ${response.statusText}`);
-	}
+    if (!response.ok) {
+        throw new Error(`SPARQL query failed: ${response.status} ${response.statusText}`);
+    }
 
-	return response.json();
+    console.log('SPARQL query executed successfully');
+    return response.json();
 }
 
 export const SPARQL_PREFIXES = `
