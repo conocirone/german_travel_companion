@@ -9,11 +9,3 @@ export const searchFormSchema = z.object({
 });
 
 export type SearchFormData = z.infer<typeof searchFormSchema>;
-
-export interface SearchFormErrors {
-    city?: string[];
-    day?: string[];
-    hour?: string[];
-    locationSetting?: string[];
-    budget?: string[];
-}

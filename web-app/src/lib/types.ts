@@ -38,3 +38,29 @@ export interface QueryFormData {
 	locationSetting: string;
 	budget: string;
 }
+
+export type ActivityType = 'Tour' | 'Museum' | 'Park' | 'Sight' | 'NightlifeVenue';
+
+export interface Activity {
+	uri: string;
+	name: string;
+	type: ActivityType;
+	city: string;
+	budget?: string;
+	locationSetting?: string;
+	imageUrl?: string;
+	url?: string;
+	duration?: string;
+	languages?: string;
+	meetingPoint?: string;
+}
+
+export interface PaginatedResults<T> {
+	items: T[];
+	totalCount: number;
+	page: number;
+	pageSize: number;
+	totalPages: number;
+}
+
+export const PAGE_SIZE = 12;
