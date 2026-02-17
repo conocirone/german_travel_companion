@@ -7,208 +7,115 @@
 
     let { activity }: Props = $props();
 
-    const typeColors: Record<string, string> = {
-        Tour: '#6366f1',
-        Museum: '#8b5cf6',
-        Park: '#22c55e',
-        Sight: '#f59e0b',
-        NightlifeVenue: '#ec4899'
+    const typeConfig: Record<string, { color: string; bg: string; icon: string }> = {
+        Tour: { color: '#6366f1', bg: '#eef2ff', icon: '🚶' },
+        Museum: { color: '#7c3aed', bg: '#f5f3ff', icon: '🏛️' },
+        Park: { color: '#16a34a', bg: '#f0fdf4', icon: '🌳' },
+        Sight: { color: '#d97706', bg: '#fffbeb', icon: '📍' },
+        NightlifeVenue: { color: '#db2777', bg: '#fdf2f8', icon: '🎉' }
     };
 
-    const budgetColors: Record<string, string> = {
-        free: '#22c55e',
-        low: '#3b82f6',
-        medium: '#f59e0b',
-        high: '#ef4444'
+    const budgetConfig: Record<string, { color: string; bg: string; label: string }> = {
+        free: { color: '#16a34a', bg: '#f0fdf4', label: 'Free' },
+        low: { color: '#2563eb', bg: '#eff6ff', label: 'Low' },
+        medium: { color: '#d97706', bg: '#fffbeb', label: 'Medium' },
+        high: { color: '#dc2626', bg: '#fef2f2', label: 'High' }
     };
 
-    const typeColor = $derived(typeColors[activity.type] || '#6b7280');
-    const budgetColor = $derived(activity.budget ? budgetColors[activity.budget] || '#6b7280' : '#6b7280');
+    const type = $derived(typeConfig[activity.type] || { color: '#6b7280', bg: '#f3f4f6', icon: '📍' });
+    const budget = $derived(activity.budget ? budgetConfig[activity.budget] : null);
 
-    function formatType(type: string): string {
-        if (type === 'NightlifeVenue') return 'Nightlife';
-        return type;
-    }
-
-    function formatBudget(budget: string): string {
-        return budget.charAt(0).toUpperCase() + budget.slice(1);
+    function formatType(t: string): string {
+        if (t === 'NightlifeVenue') return 'Nightlife';
+        return t;
     }
 </script>
 
-<article class="card">
-    <div class="card-image">
+<article class="group bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-300 flex flex-col">
+    <!-- Image / Placeholder -->
+    <div class="relative h-44 overflow-hidden">
         {#if activity.imageUrl}
-            <img src={activity.imageUrl} alt={activity.name} loading="lazy" />
+            <img
+                src={activity.imageUrl}
+                alt={activity.name}
+                loading="lazy"
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+            />
+            <div class="absolute inset-0 bg-linear-to-t from-black/30 to-transparent"></div>
         {:else}
-            <div class="placeholder-image" style="background: linear-gradient(135deg, {typeColor}22, {typeColor}44);">
-                <span class="placeholder-icon">
-                    {#if activity.type === 'Tour'}🚶
-                    {:else if activity.type === 'Museum'}🏛️
-                    {:else if activity.type === 'Park'}🌳
-                    {:else if activity.type === 'Sight'}📍
-                    {:else if activity.type === 'NightlifeVenue'}🎉
-                    {:else}📍
-                    {/if}
-                </span>
+            <div
+                class="w-full h-full flex items-center justify-center"
+                style="background: linear-gradient(135deg, {type.bg}, {type.color}15);"
+            >
+                <span class="text-5xl opacity-80 group-hover:scale-110 transition-transform duration-300">{type.icon}</span>
             </div>
         {/if}
-        <span class="type-badge" style="background-color: {typeColor};">{formatType(activity.type)}</span>
+        <!-- Type badge -->
+        <span
+            class="absolute top-3 right-3 px-3 py-1 rounded-full text-white text-xs font-bold uppercase tracking-wide shadow-md"
+            style="background-color: {type.color};"
+        >
+            {formatType(activity.type)}
+        </span>
     </div>
 
-    <div class="card-content">
-        <h3 class="card-title">{activity.name}</h3>
+    <!-- Content -->
+    <div class="flex-1 p-4 flex flex-col gap-2.5">
+        <h3 class="text-base font-bold text-gray-900 leading-snug line-clamp-2">
+            {activity.name}
+        </h3>
 
-        <div class="card-meta">
-            {#if activity.budget}
-                <span class="budget-badge" style="background-color: {budgetColor}15; color: {budgetColor}; border: 1px solid {budgetColor}40;">
-                    {formatBudget(activity.budget)}
+        <!-- Tags row -->
+        <div class="flex flex-wrap gap-1.5">
+            {#if budget}
+                <span
+                    class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold"
+                    style="background-color: {budget.bg}; color: {budget.color};"
+                >
+                    💰 {budget.label}
                 </span>
             {/if}
-
             {#if activity.locationSetting}
-                <span class="setting-badge">
-                    {#if activity.locationSetting === 'indoor'}🏢 Indoor{:else}🌤️ Outdoor{/if}
+                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-gray-100 text-gray-600">
+                    {activity.locationSetting === 'indoor' ? '🏢 Indoor' : '🌤️ Outdoor'}
                 </span>
             {/if}
         </div>
 
-        {#if activity.duration}
-            <p class="card-duration">⏱️ {activity.duration}</p>
-        {/if}
-
-        {#if activity.languages}
-            <p class="card-languages" title={activity.languages}>🌐 {activity.languages.slice(0, 50)}{activity.languages.length > 50 ? '...' : ''}</p>
-        {/if}
-
-        {#if activity.meetingPoint}
-            <p class="card-meeting-point" title={activity.meetingPoint}>📍 {activity.meetingPoint.slice(0, 60)}{activity.meetingPoint.length > 60 ? '...' : ''}</p>
-        {/if}
+        <!-- Details -->
+        <div class="flex flex-col gap-1 mt-auto text-sm text-gray-500">
+            {#if activity.duration}
+                <p class="flex items-center gap-1.5 m-0">
+                    <span class="text-xs">⏱️</span> {activity.duration}
+                </p>
+            {/if}
+            {#if activity.languages}
+                <p class="flex items-center gap-1.5 m-0 truncate" title={activity.languages}>
+                    <span class="text-xs">🌐</span> {activity.languages.slice(0, 45)}{activity.languages.length > 45 ? '...' : ''}
+                </p>
+            {/if}
+            {#if activity.meetingPoint}
+                <p class="flex items-center gap-1.5 m-0 truncate" title={activity.meetingPoint}>
+                    <span class="text-xs">📍</span> {activity.meetingPoint.slice(0, 50)}{activity.meetingPoint.length > 50 ? '...' : ''}
+                </p>
+            {/if}
+        </div>
     </div>
 
+    <!-- Action -->
     {#if activity.url}
-        <div class="card-actions">
-            <a href={activity.url} target="_blank" rel="noopener noreferrer" class="card-link">
-                View Details →
+        <div class="px-4 py-3 border-t border-gray-50 bg-gray-50/50">
+            <a
+                href={activity.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm font-semibold text-primary-600 hover:text-primary-800 no-underline transition-colors"
+            >
+                View Details
+                <svg class="w-4 h-4 group-hover:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                </svg>
             </a>
         </div>
     {/if}
 </article>
-
-<style>
-    .card {
-        background: white;
-        border-radius: 12px;
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
-        overflow: hidden;
-        display: flex;
-        flex-direction: column;
-        transition: box-shadow 0.2s, transform 0.2s;
-    }
-
-    .card:hover {
-        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        transform: translateY(-2px);
-    }
-
-    .card-image {
-        position: relative;
-        height: 180px;
-        overflow: hidden;
-    }
-
-    .card-image img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .placeholder-image {
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .placeholder-icon {
-        font-size: 3rem;
-    }
-
-    .type-badge {
-        position: absolute;
-        top: 12px;
-        right: 12px;
-        padding: 4px 10px;
-        border-radius: 20px;
-        color: white;
-        font-size: 0.75rem;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 0.025em;
-    }
-
-    .card-content {
-        padding: 1rem;
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-
-    .card-title {
-        font-size: 1.1rem;
-        font-weight: 600;
-        color: #1f2937;
-        margin: 0;
-        line-height: 1.3;
-    }
-
-    .card-meta {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.5rem;
-        margin-top: 0.25rem;
-    }
-
-    .budget-badge,
-    .setting-badge {
-        padding: 2px 8px;
-        border-radius: 12px;
-        font-size: 0.75rem;
-        font-weight: 500;
-    }
-
-    .setting-badge {
-        background-color: #f3f4f6;
-        color: #4b5563;
-    }
-
-    .card-duration,
-    .card-languages,
-    .card-meeting-point {
-        font-size: 0.85rem;
-        color: #6b7280;
-        margin: 0;
-        line-height: 1.4;
-    }
-
-    .card-actions {
-        padding: 0.75rem 1rem;
-        border-top: 1px solid #f3f4f6;
-        background-color: #fafafa;
-    }
-
-    .card-link {
-        display: inline-block;
-        color: #3b82f6;
-        font-size: 0.9rem;
-        font-weight: 500;
-        text-decoration: none;
-        transition: color 0.2s;
-    }
-
-    .card-link:hover {
-        color: #1d4ed8;
-        text-decoration: underline;
-    }
-</style>

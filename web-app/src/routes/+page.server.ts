@@ -63,6 +63,7 @@ export const actions: Actions = {
 
 			// Fetch ALL results — pagination is handled client-side
 			const query = buildActivitySearchQuery(searchParams);
+			console.log('Generated SPARQL query:', query);
 			const sparqlResult = await executeSparqlQuery(query);
 			const activities: Activity[] = parseActivityResults(sparqlResult.results.bindings, searchParams);
 

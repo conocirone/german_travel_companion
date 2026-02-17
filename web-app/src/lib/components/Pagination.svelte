@@ -55,31 +55,33 @@
     }
 </script>
 
-<nav class="pagination" aria-label="Pagination">
-    <div class="pagination-info">
-        Showing <strong>{startItem}</strong> - <strong>{endItem}</strong> of <strong>{totalCount}</strong> results
+<nav class="flex flex-col items-center gap-4 py-6" aria-label="Pagination">
+    <div class="text-sm text-gray-500">
+        Showing <span class="font-semibold text-gray-700">{startItem}</span> – <span class="font-semibold text-gray-700">{endItem}</span> of <span class="font-semibold text-gray-700">{totalCount}</span> results
     </div>
 
-    <div class="pagination-controls">
+    <div class="flex items-center gap-1.5">
         <button
-            class="pagination-btn"
+            class="px-3.5 py-2 text-sm font-medium text-gray-600 bg-white border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-gray-300 disabled:opacity-40 disabled:cursor-not-allowed transition-all"
             type="button"
             disabled={currentPage <= 1}
             onclick={() => goToPage(currentPage - 1)}
             aria-label="Previous page"
         >
-            ← Previous
+            ← Prev
         </button>
 
-        <div class="pagination-pages">
+        <div class="flex items-center gap-1">
             {#each visiblePages as page, i}
                 {#if page === 'ellipsis'}
-                    <span class="pagination-ellipsis" aria-hidden="true">…</span>
+                    <span class="w-8 text-center text-gray-400 text-sm" aria-hidden="true">…</span>
                 {:else}
                     <button
-                        class="pagination-page"
+                        class="min-w-9 h-9 px-2 text-sm font-medium rounded-lg transition-all
+                            {page === currentPage
+                                ? 'bg-primary-600 text-white border border-primary-600 shadow-sm'
+                                : 'text-gray-600 bg-white border border-gray-200 hover:bg-gray-50 hover:border-gray-300'}"
                         type="button"
-                        class:active={page === currentPage}
                         onclick={() => goToPage(page)}
                         aria-label="Go to page {page}"
                         aria-current={page === currentPage ? 'page' : undefined}
@@ -91,7 +93,7 @@
         </div>
 
         <button
-            class="pagination-btn"
+            class="px-3.5 py-2 text-sm font-medium text-gray-600 bg-white border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-gray-300 disabled:opacity-40 disabled:cursor-not-allowed transition-all"
             type="button"
             disabled={currentPage >= totalPages}
             onclick={() => goToPage(currentPage + 1)}
@@ -101,106 +103,3 @@
         </button>
     </div>
 </nav>
-
-<style>
-    .pagination {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 1rem;
-        padding: 1.5rem 0;
-    }
-
-    .pagination-info {
-        color: #6b7280;
-        font-size: 0.9rem;
-    }
-
-    .pagination-info strong {
-        color: #374151;
-    }
-
-    .pagination-controls {
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-    }
-
-    .pagination-btn {
-        padding: 0.5rem 1rem;
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: #374151;
-        background-color: white;
-        border: 1px solid #d1d5db;
-        border-radius: 6px;
-        cursor: pointer;
-        transition: all 0.2s;
-    }
-
-    .pagination-btn:hover:not(:disabled) {
-        background-color: #f9fafb;
-        border-color: #9ca3af;
-    }
-
-    .pagination-btn:disabled {
-        color: #9ca3af;
-        cursor: not-allowed;
-        opacity: 0.6;
-    }
-
-    .pagination-pages {
-        display: flex;
-        align-items: center;
-        gap: 0.25rem;
-    }
-
-    .pagination-page {
-        min-width: 2.5rem;
-        height: 2.5rem;
-        padding: 0 0.5rem;
-        font-size: 0.9rem;
-        font-weight: 500;
-        color: #374151;
-        background-color: white;
-        border: 1px solid #d1d5db;
-        border-radius: 6px;
-        cursor: pointer;
-        transition: all 0.2s;
-    }
-
-    .pagination-page:hover:not(.active) {
-        background-color: #f9fafb;
-        border-color: #9ca3af;
-    }
-
-    .pagination-page.active {
-        background-color: #3b82f6;
-        border-color: #3b82f6;
-        color: white;
-    }
-
-    .pagination-ellipsis {
-        min-width: 2rem;
-        text-align: center;
-        color: #6b7280;
-    }
-
-    @media (max-width: 640px) {
-        .pagination-controls {
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-
-        .pagination-btn {
-            padding: 0.5rem 0.75rem;
-            font-size: 0.85rem;
-        }
-
-        .pagination-page {
-            min-width: 2rem;
-            height: 2rem;
-            font-size: 0.85rem;
-        }
-    }
-</style>
