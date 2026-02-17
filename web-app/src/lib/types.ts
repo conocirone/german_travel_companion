@@ -33,6 +33,12 @@ export const DAY_OPTIONS: SelectOption[] = [
 
 export type ActivityType = 'Tour' | 'Museum' | 'Park' | 'Sight' | 'NightlifeVenue';
 
+export interface OperatingHour {
+	day: string;
+	opensAt: string;
+	closesAt: string;
+}
+
 export interface Activity {
 	uri: string;
 	name: string;
@@ -43,8 +49,10 @@ export interface Activity {
 	imageUrl?: string;
 	url?: string;
 	duration?: string;
-	languages?: string;
+	languages?: string[];
 	meetingPoint?: string;
+	mapLink?: string;
+	operatingHours?: OperatingHour[];
 }
 
 export interface PaginatedResults<T> {

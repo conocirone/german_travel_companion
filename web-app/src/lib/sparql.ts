@@ -1,5 +1,5 @@
 import { TRIPLYDB_ENDPOINT, ONTOLOGY_PREFIX } from '$env/static/private';
-import type { Activity, ActivityType } from './types';
+import type { Activity, ActivityType, OperatingHour } from './types';
 
 export { ONTOLOGY_PREFIX };
 
@@ -276,7 +276,7 @@ export function buildActivitySearchQuery(params: SearchParams, limit?: number, o
     }
     
     return `${SPARQL_PREFIXES}
-SELECT DISTINCT ?activity ?activityType ?budget ?locationSetting ?imageUrl ?url ?duration ?languages ?meetingPointDesc WHERE {
+SELECT DISTINCT ?activity ?activityType ?budget ?locationSetting ?imageUrl ?url ?duration ?langUri ?meetingPointDesc ?mapLink ?hoursDay ?opensAt ?closesAt WHERE {
     ?activity rdf:type ?activityType .
     ?activityType rdfs:subClassOf* :Activity .
     FILTER(?activityType != :Activity && ?activityType != :PhysicalVenue)
@@ -288,10 +288,20 @@ SELECT DISTINCT ?activity ?activityType ?budget ?locationSetting ?imageUrl ?url 
     OPTIONAL { ?activity :hasImageURL ?imageUrl }
     OPTIONAL { ?activity :hasURL ?url }
     OPTIONAL { ?activity :hasDuration ?durationObj . ?durationObj rdfs:label ?duration }
-    OPTIONAL { ?activity :hasLanguage ?langObj . ?langObj rdfs:label ?languages }
-    OPTIONAL { ?activity :hasMeetingPoint ?meetingPointObj . ?meetingPointObj :hasMeetingPointDescription ?meetingPointDesc }
+    OPTIONAL { ?activity :hasLanguage ?langUri }
+    OPTIONAL {
+        ?activity :hasMeetingPoint ?meetingPointObj .
+        ?meetingPointObj :hasMeetingPointDescription ?meetingPointDesc .
+        OPTIONAL { ?meetingPointObj :hasMapLink ?mapLink }
+    }
+    OPTIONAL {
+        ?activity :hasOperatingHours ?hoursObj .
+        ?hoursObj :appliesToDay ?hoursDay .
+        ?hoursObj :opensAt ?opensAt .
+        ?hoursObj :closesAt ?closesAt .
+    }
 }
-ORDER BY ?activity${paginationClause}
+ORDER BY ?activity ?hoursDay${paginationClause}
 `;
 }
 
@@ -426,6 +436,26 @@ function extractCity(activityUri: string, params: SearchParams): string {
 }
 
 /**
+ * Extracts the day name from a day URI (e.g. `:day_monday` → `Monday`).
+ */
+function formatDay(dayUri?: string): string | undefined {
+    if (!dayUri) return undefined;
+    const localName = extractLocalName(dayUri);
+    const dayName = localName.replace('day_', '');
+    return dayName.charAt(0).toUpperCase() + dayName.slice(1);
+}
+
+/**
+ * Extracts the language name from a language URI (e.g. `#lang_english` → `English`).
+ */
+function formatLanguage(langUri?: string): string | undefined {
+    if (!langUri) return undefined;
+    const localName = extractLocalName(langUri);
+    const langName = localName.replace('lang_', '');
+    return langName.charAt(0).toUpperCase() + langName.slice(1);
+}
+
+/**
  * Transforms raw SPARQL result bindings into typed {@link Activity} objects
  * suitable for rendering in the UI.
  *
@@ -434,25 +464,76 @@ function extractCity(activityUri: string, params: SearchParams): string {
  * 1. Extracts and formats the activity name from its URI (via {@link formatActivityName}).
  * 2. Determines the concrete activity type from the `?activityType` URI (via {@link determineActivityType}).
  * 3. Formats budget and location setting URIs into display labels.
- * 4. Passes through optional string properties (imageUrl, url, duration, languages, meetingPoint)
+ * 4. Passes through optional string properties (imageUrl, url, duration, meetingPoint, mapLink)
  *    directly from the bindings, using `undefined` for any missing OPTIONAL values.
+ * 5. Groups operating hours by activity and collects them into an array.
+ * 6. Collects multiple languages into an array.
  *
  * @param bindings - The `results.bindings` array from a {@link SparqlResult}.
  * @param params - The original search parameters (used to derive the city name).
  * @returns An array of {@link Activity} objects ready for display.
  */
 export function parseActivityResults(bindings: Record<string, SparqlBinding>[], params: SearchParams): Activity[] {
-    return bindings.map((binding) => ({
-        uri: binding.activity.value,
-        name: formatActivityName(binding.activity.value),
-        type: determineActivityType(binding.activityType.value),
-        city: extractCity(binding.activity.value, params),
-        budget: formatBudget(binding.budget?.value),
-        locationSetting: formatLocationSetting(binding.locationSetting?.value),
-        imageUrl: binding.imageUrl?.value,
-        url: binding.url?.value,
-        duration: binding.duration?.value,
-        languages: binding.languages?.value,
-        meetingPoint: binding.meetingPointDesc?.value
-    }));
+    // Group bindings by activity URI to collect operating hours and languages
+    const activityMap = new Map<string, {
+        binding: Record<string, SparqlBinding>;
+        operatingHours: OperatingHour[];
+        languages: Set<string>;
+    }>();
+
+    for (const binding of bindings) {
+        const uri = binding.activity.value;
+        
+        if (!activityMap.has(uri)) {
+            activityMap.set(uri, {
+                binding,
+                operatingHours: [],
+                languages: new Set()
+            });
+        }
+        
+        const entry = activityMap.get(uri)!;
+        
+        // Add language if present (parse from URI)
+        const langName = formatLanguage(binding.langUri?.value);
+        if (langName) {
+            entry.languages.add(langName);
+        }
+        
+        // Add operating hours if present
+        const day = formatDay(binding.hoursDay?.value);
+        const opensAt = binding.opensAt?.value;
+        const closesAt = binding.closesAt?.value;
+        
+        if (day && opensAt && closesAt) {
+            // Avoid duplicates
+            if (!entry.operatingHours.some(h => h.day === day)) {
+                entry.operatingHours.push({ day, opensAt, closesAt });
+            }
+        }
+    }
+
+    // Sort days in week order
+    const dayOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+    
+    return Array.from(activityMap.values()).map(({ binding, operatingHours, languages }) => {
+        // Sort operating hours by day of week
+        operatingHours.sort((a, b) => dayOrder.indexOf(a.day) - dayOrder.indexOf(b.day));
+        
+        return {
+            uri: binding.activity.value,
+            name: formatActivityName(binding.activity.value),
+            type: determineActivityType(binding.activityType.value),
+            city: extractCity(binding.activity.value, params),
+            budget: formatBudget(binding.budget?.value),
+            locationSetting: formatLocationSetting(binding.locationSetting?.value),
+            imageUrl: binding.imageUrl?.value,
+            url: binding.url?.value,
+            duration: binding.duration?.value,
+            languages: languages.size > 0 ? Array.from(languages) : undefined,
+            meetingPoint: binding.meetingPointDesc?.value,
+            mapLink: binding.mapLink?.value,
+            operatingHours: operatingHours.length > 0 ? operatingHours : undefined
+        };
+    });
 }
