@@ -4,6 +4,8 @@ import { executeSparqlQuery, buildActivitySearchQuery, parseActivityResults } fr
 import { BUDGET_OPTIONS, LOCATION_SETTING_OPTIONS, DAY_OPTIONS, type City, type Activity } from '$lib/types';
 import { searchFormSchema } from '$lib/validation';
 import { fail } from '@sveltejs/kit';
+import { superValidate, setError } from 'sveltekit-superforms';
+import { zod4 } from 'sveltekit-superforms/adapters';
 
 async function fetchCities(): Promise<City[]> {
 	const query = `${SPARQL_PREFIXES}
@@ -29,8 +31,10 @@ ORDER BY ?city
 
 export const load: PageServerLoad = async () => {
 	const cities = await fetchCities();
+	const form = await superValidate(zod4(searchFormSchema));
 
 	return {
+		form,
 		cities,
 		budgetOptions: BUDGET_OPTIONS,
 		locationSettingOptions: LOCATION_SETTING_OPTIONS,
@@ -40,28 +44,13 @@ export const load: PageServerLoad = async () => {
 
 export const actions: Actions = {
 	search: async ({ request }) => {
-		const formData = await request.formData();
-		const rawData = {
-			city: formData.get('city')?.toString(),
-			day: formData.get('day')?.toString(),
-			hour: formData.get('hour')?.toString(),
-			locationSetting: formData.get('locationSetting')?.toString(),
-			budget: formData.get('budget')?.toString()
-		};
+		const form = await superValidate(request, zod4(searchFormSchema));
 
-		const result = searchFormSchema.safeParse(rawData);
-
-		if (!result.success) {
-			const errors: Record<string, string[]> = {};
-			for (const issue of result.error.issues) {
-				const field = issue.path[0] as string;
-				if (!errors[field]) errors[field] = [];
-				errors[field].push(issue.message);
-			}
-			return fail(400, { errors, values: rawData });
+		if (!form.valid) {
+			return fail(400, { form });
 		}
 
-		const { city, day, hour, locationSetting, budget } = result.data;
+		const { city, day, hour, locationSetting, budget } = form.data;
 
 		try {
 			const searchParams = {
@@ -75,21 +64,18 @@ export const actions: Actions = {
 			// Fetch ALL results — pagination is handled client-side
 			const query = buildActivitySearchQuery(searchParams);
 			const sparqlResult = await executeSparqlQuery(query);
-			const activities = parseActivityResults(sparqlResult.results.bindings, searchParams);
+			const activities: Activity[] = parseActivityResults(sparqlResult.results.bindings, searchParams);
 
 			return {
-				success: true as const,
+				form,
 				activities,
 				totalCount: activities.length,
-				searchCity: city.charAt(0).toUpperCase() + city.slice(1),
-				searchParams: result.data
+				searchCity: city.charAt(0).toUpperCase() + city.slice(1)
 			};
 		} catch (error) {
 			console.error('Search query failed:', error);
-			return fail(500, {
-				errors: { city: ['Search failed. Please try again.'] },
-				values: rawData
-			});
+			setError(form, 'city', 'Search failed. Please try again.');
+			return fail(500, { form });
 		}
 	}
 };

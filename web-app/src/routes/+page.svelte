@@ -1,63 +1,41 @@
 <script lang="ts">
-    import { enhance } from '$app/forms';
+    import { superForm } from 'sveltekit-superforms';
     import type { PageProps } from './$types';
     import type { Activity } from '$lib/types';
-    import type { SearchFormData } from '$lib/validation';
     import { PAGE_SIZE } from '$lib/types';
     import ActivityCard from '$lib/components/ActivityCard.svelte';
     import Pagination from '$lib/components/Pagination.svelte';
 
-    let { data, form }: PageProps = $props();
+    let { data }: PageProps = $props();
 
-    let isSubmitting = $state(false);
+    // Search results state
+    let activities = $state<Activity[]>([]);
+    let searchCity = $state('');
+    let searchComplete = $state(false);
     let currentPage = $state(1);
 
-    // Type guard for successful results
-    function hasResults(f: typeof form): f is {
-        success: true;
-        activities: Activity[];
-        totalCount: number;
-        searchCity: string;
-        searchParams: SearchFormData;
-    } {
-        return f !== null && f !== undefined && 'success' in f && f.success === true;
-    }
+    const { form: formData, errors, enhance, submitting } = superForm(data.form, {
+        resetForm: false,
+        onResult({ result }) {
+            if (result.type === 'success' && result.data) {
+                const { activities: acts, searchCity: city } = result.data as {
+                    activities: Activity[];
+                    searchCity: string;
+                };
+                activities = acts;
+                searchCity = city;
+                searchComplete = true;
+                currentPage = 1;
+            }
+        }
+    });
 
-    // Client-side pagination derived from form action result
-    let allActivities = $derived(hasResults(form) ? form.activities : []);
-    let totalCount = $derived(allActivities.length);
-    let searchCity = $derived(hasResults(form) ? form.searchCity : '');
+    // Client-side pagination
+    let totalCount = $derived(activities.length);
     let totalPages = $derived(Math.ceil(totalCount / PAGE_SIZE));
     let paginatedActivities = $derived(
-        allActivities.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE)
+        activities.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE)
     );
-
-    // Preserve form values after submission
-    const cityValue = $derived.by(() => {
-        if (hasResults(form)) return form.searchParams.city ?? '';
-        if (form?.values) return (form.values as Record<string, string>).city ?? '';
-        return '';
-    });
-    const dayValue = $derived.by(() => {
-        if (hasResults(form)) return form.searchParams.day ?? '';
-        if (form?.values) return (form.values as Record<string, string>).day ?? '';
-        return '';
-    });
-    const hourValue = $derived.by(() => {
-        if (hasResults(form)) return form.searchParams.hour ?? '';
-        if (form?.values) return (form.values as Record<string, string>).hour ?? '';
-        return '';
-    });
-    const locationSettingValue = $derived.by(() => {
-        if (hasResults(form)) return form.searchParams.locationSetting ?? '';
-        if (form?.values) return (form.values as Record<string, string>).locationSetting ?? '';
-        return '';
-    });
-    const budgetValue = $derived.by(() => {
-        if (hasResults(form)) return form.searchParams.budget ?? '';
-        if (form?.values) return (form.values as Record<string, string>).budget ?? '';
-        return '';
-    });
 
     function handlePageChange(page: number) {
         currentPage = page;
@@ -72,31 +50,24 @@
     <form
         method="POST"
         action="?/search"
-        use:enhance={() => {
-            isSubmitting = true;
-            return async ({ update }) => {
-                isSubmitting = false;
-                currentPage = 1;
-                await update();
-            };
-        }}
+        use:enhance
     >
         <div class="form-group">
             <label for="city">City</label>
-            <select id="city" name="city" required value={cityValue}>
+            <select id="city" name="city" required bind:value={$formData.city}>
                 <option value="">Select a city...</option>
                 {#each data.cities as city}
                     <option value={city.name}>{city.displayName}</option>
                 {/each}
             </select>
-            {#if form?.errors?.city}
-                <span class="error">{form.errors.city.join(', ')}</span>
+            {#if $errors.city}
+                <span class="error">{$errors.city}</span>
             {/if}
         </div>
 
         <div class="form-group">
             <label for="day">Day</label>
-            <select id="day" name="day" value={dayValue}>
+            <select id="day" name="day" bind:value={$formData.day}>
                 <option value="">Any day...</option>
                 {#each data.dayOptions as day}
                     <option value={day.value}>{day.label}</option>
@@ -106,12 +77,12 @@
 
         <div class="form-group">
             <label for="hour">Hour</label>
-            <input type="time" id="hour" name="hour" value={hourValue} placeholder="HH:MM" />
+            <input type="time" id="hour" name="hour" bind:value={$formData.hour} placeholder="HH:MM" />
         </div>
 
         <div class="form-group">
             <label for="locationSetting">Location Setting</label>
-            <select id="locationSetting" name="locationSetting" value={locationSettingValue}>
+            <select id="locationSetting" name="locationSetting" bind:value={$formData.locationSetting}>
                 <option value="">Any setting...</option>
                 {#each data.locationSettingOptions as setting}
                     <option value={setting.value}>{setting.label}</option>
@@ -121,7 +92,7 @@
 
         <div class="form-group">
             <label for="budget">Budget</label>
-            <select id="budget" name="budget" value={budgetValue}>
+            <select id="budget" name="budget" bind:value={$formData.budget}>
                 <option value="">Any budget...</option>
                 {#each data.budgetOptions as budget}
                     <option value={budget.value}>{budget.label}</option>
@@ -129,12 +100,12 @@
             </select>
         </div>
 
-        <button type="submit" disabled={isSubmitting}>
-            {isSubmitting ? 'Searching...' : 'Search Activities'}
+        <button type="submit" disabled={$submitting}>
+            {$submitting ? 'Searching...' : 'Search Activities'}
         </button>
     </form>
 
-    {#if hasResults(form)}
+    {#if searchComplete}
         <section class="results-section">
             <div class="results-header">
                 <h2>Activities in {searchCity}</h2>

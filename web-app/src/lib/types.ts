@@ -31,14 +31,6 @@ export const DAY_OPTIONS: SelectOption[] = [
 	{ value: 'sunday', label: 'Sunday' }
 ];
 
-export interface QueryFormData {
-	city: string;
-	day: string;
-	hour: string;
-	locationSetting: string;
-	budget: string;
-}
-
 export type ActivityType = 'Tour' | 'Museum' | 'Park' | 'Sight' | 'NightlifeVenue';
 
 export interface Activity {
