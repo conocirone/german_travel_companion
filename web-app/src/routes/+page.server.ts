@@ -67,6 +67,12 @@ export const actions: Actions = {
 			const sparqlResult = await executeSparqlQuery(query);
 			const activities: Activity[] = parseActivityResults(sparqlResult.results.bindings, searchParams);
 
+			// Shuffle activities so results aren't grouped by type
+			for (let i = activities.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[activities[i], activities[j]] = [activities[j], activities[i]];
+			}
+
 			return {
 				form,
 				activities,
