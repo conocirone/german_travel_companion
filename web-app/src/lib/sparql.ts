@@ -254,26 +254,14 @@ function buildFilters(params: SearchParams): string {
  * Eliminates duplicate rows that can arise when an activity has multiple values
  * for an optional property (e.g. multiple languages).
  *
- * ### ORDER BY + pagination
+ * ### ORDER BY
  * Results are ordered alphabetically by activity URI for stable ordering.
- * Optional LIMIT/OFFSET clauses enable server-side pagination (currently unused
- * as pagination is handled client-side).
  *
  * @param params - The user's search criteria.
- * @param limit - Optional maximum number of results to return.
- * @param offset - Optional number of results to skip (for pagination).
  * @returns A complete SPARQL query string ready to be sent to the endpoint.
  */
-export function buildActivitySearchQuery(params: SearchParams, limit?: number, offset?: number): string {
+export function buildActivitySearchQuery(params: SearchParams): string {
     const filters = buildFilters(params);
-
-    let paginationClause = '';
-    if (limit !== undefined) {
-        paginationClause = `\nLIMIT ${limit}`;
-        if (offset !== undefined && offset > 0) {
-            paginationClause += `\nOFFSET ${offset}`;
-        }
-    }
     
     return `${SPARQL_PREFIXES}
 SELECT DISTINCT ?activity ?activityType ?budget ?locationSetting ?imageUrl ?url ?duration ?langUri ?meetingPointDesc ?mapLink ?hoursDay ?opensAt ?closesAt WHERE {
@@ -301,32 +289,7 @@ SELECT DISTINCT ?activity ?activityType ?budget ?locationSetting ?imageUrl ?url 
         ?hoursObj :closesAt ?closesAt .
     }
 }
-ORDER BY ?activity ?hoursDay${paginationClause}
-`;
-}
-
-/**
- * Builds a SPARQL query that counts matching activities without fetching their
- * metadata. Uses the same static core and dynamic filters as
- * {@link buildActivitySearchQuery} but projects only `COUNT(DISTINCT ?activity)`.
- *
- * Used for pagination to determine the total number of results
- * without transferring all the data.
- *
- * @param params - The user's search criteria.
- * @returns A SPARQL query string that returns a single `?count` binding.
- */
-export function buildActivityCountQuery(params: SearchParams): string {
-    const filters = buildFilters(params);
-    
-    return `${SPARQL_PREFIXES}
-SELECT (COUNT(DISTINCT ?activity) AS ?count) WHERE {
-    ?activity rdf:type ?activityType .
-    ?activityType rdfs:subClassOf* :Activity .
-    FILTER(?activityType != :Activity && ?activityType != :PhysicalVenue)
-    
-    ${filters}
-}
+ORDER BY ?activity ?hoursDay
 `;
 }
 
