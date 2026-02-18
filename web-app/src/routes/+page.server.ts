@@ -30,7 +30,7 @@ ORDER BY ?city
 }
 
 export const load: PageServerLoad = async () => {
-	const cities = await fetchCities();
+	const cities = (await fetchCities()).filter(city => city.name !== 'leipzig'); // Filter out 'unknown' city if it exists
 	const form = await superValidate(zod4(searchFormSchema));
 
 	return {
