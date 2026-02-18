@@ -21,9 +21,9 @@
 
     const budgetConfig: Record<string, { color: string; bg: string; label: string; priceRange: string }> = {
         free: { color: '#16a34a', bg: '#f0fdf4', label: 'Free', priceRange: '€0' },
-        low: { color: '#2563eb', bg: '#eff6ff', label: 'Budget', priceRange: '~€5-15' },
-        medium: { color: '#d97706', bg: '#fffbeb', label: 'Moderate', priceRange: '~€15-30' },
-        high: { color: '#dc2626', bg: '#fef2f2', label: 'Premium', priceRange: '€30+' }
+        low: { color: '#2563eb', bg: '#eff6ff', label: 'Low', priceRange: '~€1-10' },
+        medium: { color: '#d97706', bg: '#fffbeb', label: 'Moderate', priceRange: '~€11-20' },
+        high: { color: '#dc2626', bg: '#fef2f2', label: 'High', priceRange: '€20+' }
     };
 
     const type = $derived(typeConfig[activity.type] || { color: '#6b7280', bg: '#f3f4f6', icon: '📍' });

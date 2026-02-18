@@ -352,23 +352,26 @@ function extractLocalName(uri: string): string {
 /**
  * Converts an activity URI into a human-readable display name.
  *
- * Ontology activity URIs follow the pattern `{type}_{descriptive_name}`, e.g.:
- * - `tour_berlin_walking_tour` → "Berlin Walking Tour"
- * - `museum_pergamon` → "Pergamon"
+ * Ontology activity URIs follow the pattern `{type}_{descriptive_name}_{index}`, e.g.:
+ * - `tour_berlin_walking_tour_42` → "Berlin Walking Tour"
+ * - `venue_pergamon_museum_6` → "Pergamon Museum"
  *
  * Steps:
  * 1. Extract the local name from the URI via {@link extractLocalName}.
- * 2. Strip the type prefix (`tour_`, `museum_`, `park_`, `sight_`, `nightlifevenue_`).
- * 3. Replace underscores with spaces.
- * 4. Title-case each word.
+ * 2. Strip the type prefix (`tour_`, `venue_`).
+ * 3. Strip the trailing index number (`_123`).
+ * 4. Replace underscores with spaces.
+ * 5. Title-case each word.
  *
  * @param uri - The full URI of an activity individual.
  * @returns A formatted, title-cased display name.
  */
 function formatActivityName(uri: string): string {
     const localName = extractLocalName(uri);
-    // Remove prefixes like "tour_", "museum_", "park_", "sight_", "nightlifevenue_"
-    const namePart = localName.replace(/^(tour|museum|park|sight|nightlifevenue)_/i, '');
+    // Remove prefixes like "tour_", "venue_"
+    const withoutPrefix = localName.replace(/^(tour|venue)_/i, '');
+    // Remove trailing index number (e.g. "_42")
+    const namePart = withoutPrefix.replace(/_\d+$/, '');
     // Replace underscores with spaces and convert to title case
     return namePart
         .replace(/_/g, ' ')
