@@ -294,6 +294,117 @@ ORDER BY ?activity ?hoursDay
 }
 
 /**
+ * The shared OPTIONAL metadata block used by both the regular search query
+ * and shortcut queries. Fetches all display properties for activities.
+ */
+const OPTIONAL_METADATA_BLOCK = `
+    OPTIONAL { ?activity :hasBudget ?budget }
+    OPTIONAL { ?activity :hasLocationSetting ?locationSetting }
+    OPTIONAL { ?activity :hasImageURL ?imageUrl }
+    OPTIONAL { ?activity :hasURL ?url }
+    OPTIONAL { ?activity :hasDuration ?durationObj . ?durationObj rdfs:label ?duration }
+    OPTIONAL { ?activity :hasLanguage ?langUri }
+    OPTIONAL {
+        ?activity :hasMeetingPoint ?meetingPointObj .
+        ?meetingPointObj :hasMeetingPointDescription ?meetingPointDesc .
+        OPTIONAL { ?meetingPointObj :hasMapLink ?mapLink }
+    }
+    OPTIONAL {
+        ?activity :hasOperatingHours ?hoursObj .
+        ?hoursObj :appliesToDay ?hoursDay .
+        ?hoursObj :opensAt ?opensAt .
+        ?hoursObj :closesAt ?closesAt .
+    }`;
+
+/**
+ * Map from SWRL-inferred class key to the SPARQL pattern that selects
+ * matching activities. Uses UNION of direct rdf:type (if materialized by
+ * reasoner) and the emulated SWRL rule conditions.
+ */
+const SHORTCUT_RULE_PATTERNS: Record<string, { rulePattern: string; typeScaffold: string }> = {
+    BudgetFriendlyActivity: {
+        typeScaffold: `
+    ?activity rdf:type ?activityType .
+    ?activityType rdfs:subClassOf* :Activity .
+    FILTER(?activityType NOT IN (:Activity, :PhysicalVenue, :BudgetFriendlyActivity, :BadWeatherOption, :EnglishFriendlyTour, :OpenOnWeekend))`,
+        rulePattern: `
+    {
+        { ?activity rdf:type :BudgetFriendlyActivity }
+        UNION
+        { ?activity :hasBudget ?bTier . FILTER(?bTier IN (:budget_free, :budget_low)) }
+    }`
+    },
+    BadWeatherOption: {
+        typeScaffold: `
+    ?activity rdf:type ?activityType .
+    ?activityType rdfs:subClassOf* :Activity .
+    FILTER(?activityType NOT IN (:Activity, :PhysicalVenue, :BudgetFriendlyActivity, :BadWeatherOption, :EnglishFriendlyTour, :OpenOnWeekend))`,
+        rulePattern: `
+    {
+        { ?activity rdf:type :BadWeatherOption }
+        UNION
+        { ?activity :hasLocationSetting :location_indoor }
+    }`
+    },
+    EnglishFriendlyTour: {
+        typeScaffold: `
+    ?activity rdf:type ?activityType .
+    ?activityType rdfs:subClassOf* :Tour .
+    FILTER(?activityType NOT IN (:EnglishFriendlyTour))`,
+        rulePattern: `
+    {
+        { ?activity rdf:type :EnglishFriendlyTour }
+        UNION
+        { ?activity :hasLanguage :lang_english }
+    }`
+    },
+    OpenOnWeekend: {
+        typeScaffold: `
+    ?activity rdf:type ?activityType .
+    ?activityType rdfs:subClassOf* :PhysicalVenue .
+    FILTER(?activityType NOT IN (:PhysicalVenue, :OpenOnWeekend))`,
+        rulePattern: `
+    {
+        { ?activity rdf:type :OpenOnWeekend }
+        UNION
+        { ?activity :hasOperatingHours ?ohRule . ?ohRule :appliesToDay ?wdRule . FILTER(?wdRule IN (:day_saturday, :day_sunday)) }
+    }`
+    }
+};
+
+/**
+ * Builds a SPARQL query for a SWRL-inferred class shortcut.
+ *
+ * The query uses UNION of the direct rdf:type (for reasoner-materialized triples)
+ * and the emulated SWRL rule conditions, so it works regardless of whether
+ * the triplestore has run a reasoner.
+ *
+ * Unlike the regular search query, shortcuts query across **all cities**, so
+ * `?cityUri` is projected for per-result city extraction.
+ *
+ * @param ruleKey - One of the SHORTCUT_RULES keys (e.g. 'BudgetFriendlyActivity').
+ * @returns A complete SPARQL query string.
+ * @throws If the ruleKey is not recognized.
+ */
+export function buildShortcutQuery(ruleKey: string): string {
+    const pattern = SHORTCUT_RULE_PATTERNS[ruleKey];
+    if (!pattern) {
+        throw new Error(`Unknown shortcut rule: ${ruleKey}`);
+    }
+
+    return `${SPARQL_PREFIXES}
+SELECT DISTINCT ?activity ?activityType ?cityUri ?budget ?locationSetting ?imageUrl ?url ?duration ?langUri ?meetingPointDesc ?mapLink ?hoursDay ?opensAt ?closesAt WHERE {
+    ${pattern.typeScaffold}
+    ${pattern.rulePattern}
+
+    ?activity :isInCity ?cityUri .
+${OPTIONAL_METADATA_BLOCK}
+}
+ORDER BY ?activity ?hoursDay
+`;
+}
+
+/**
  * Extracts the local name (fragment) from a full URI.
  *
  * Ontology URIs may use either `#` or `/` as the namespace separator:
@@ -389,16 +500,13 @@ function formatLocationSetting(settingUri?: string): string | undefined {
 }
 
 /**
- * Returns the display name for the city. Since all results are already filtered
- * to a single city via the SPARQL query, we can use the search parameter directly
- * rather than parsing it from each activity URI.
- *
- * @param activityUri - The activity URI (unused, kept for potential future use).
- * @param params - The search parameters containing the city name.
- * @returns The city name with the first letter capitalized.
+ * Extracts a human-readable city name from a city URI.
+ * E.g. `http://...#city_berlin` → `Berlin`
  */
-function extractCity(activityUri: string, params: SearchParams): string {
-    return params.city.charAt(0).toUpperCase() + params.city.slice(1);
+export function extractCityFromUri(cityUri: string): string {
+    const localName = extractLocalName(cityUri);
+    const cityName = localName.replace('city_', '');
+    return cityName.charAt(0).toUpperCase() + cityName.slice(1);
 }
 
 /**
@@ -439,7 +547,10 @@ function formatLanguage(langUri?: string): string | undefined {
  * @param params - The original search parameters (used to derive the city name).
  * @returns An array of {@link Activity} objects ready for display.
  */
-export function parseActivityResults(bindings: Record<string, SparqlBinding>[], params: SearchParams): Activity[] {
+export function parseActivityResults(
+    bindings: Record<string, SparqlBinding>[],
+    cityResolver: (binding: Record<string, SparqlBinding>) => string
+): Activity[] {
     // Group bindings by activity URI to collect operating hours and languages
     const activityMap = new Map<string, {
         binding: Record<string, SparqlBinding>;
@@ -490,7 +601,7 @@ export function parseActivityResults(bindings: Record<string, SparqlBinding>[], 
             uri: binding.activity.value,
             name: formatActivityName(binding.activity.value),
             type: determineActivityType(binding.activityType.value),
-            city: extractCity(binding.activity.value, params),
+            city: cityResolver(binding),
             budget: formatBudget(binding.budget?.value),
             locationSetting: formatLocationSetting(binding.locationSetting?.value),
             imageUrl: binding.imageUrl?.value,

@@ -1,7 +1,7 @@
 import type { Actions, PageServerLoad } from './$types';
 import { SPARQL_PREFIXES, ONTOLOGY_PREFIX } from '$lib/sparql';
-import { executeSparqlQuery, buildActivitySearchQuery, parseActivityResults } from '$lib/sparql';
-import { BUDGET_OPTIONS, LOCATION_SETTING_OPTIONS, DAY_OPTIONS, type City, type Activity } from '$lib/types';
+import { executeSparqlQuery, buildActivitySearchQuery, buildShortcutQuery, parseActivityResults, extractCityFromUri } from '$lib/sparql';
+import { BUDGET_OPTIONS, LOCATION_SETTING_OPTIONS, DAY_OPTIONS, SHORTCUT_RULES, type City, type Activity } from '$lib/types';
 import { searchFormSchema } from '$lib/validation';
 import { fail } from '@sveltejs/kit';
 import { superValidate, setError } from 'sveltekit-superforms';
@@ -65,7 +65,11 @@ export const actions: Actions = {
 			const query = buildActivitySearchQuery(searchParams);
 			console.log('Generated SPARQL query:', query);
 			const sparqlResult = await executeSparqlQuery(query);
-			const activities: Activity[] = parseActivityResults(sparqlResult.results.bindings, searchParams);
+			const cityName = city.charAt(0).toUpperCase() + city.slice(1);
+			const activities: Activity[] = parseActivityResults(
+				sparqlResult.results.bindings,
+				() => cityName
+			);
 
 			// Shuffle activities so results aren't grouped by type
 			for (let i = activities.length - 1; i > 0; i--) {
@@ -77,12 +81,49 @@ export const actions: Actions = {
 				form,
 				activities,
 				totalCount: activities.length,
-				searchCity: city.charAt(0).toUpperCase() + city.slice(1)
+				searchCity: city.charAt(0).toUpperCase() + city.slice(1),
+				searchTitle: `Activities in ${city.charAt(0).toUpperCase() + city.slice(1)}`
 			};
 		} catch (error) {
 			console.error('Search query failed:', error);
 			setError(form, 'city', 'Search failed. Please try again.');
 			return fail(500, { form });
+		}
+	},
+
+	shortcut: async ({ request }) => {
+		const formData = await request.formData();
+		const rule = formData.get('rule')?.toString() ?? '';
+
+		const validKeys = SHORTCUT_RULES.map((r) => r.key);
+		if (!validKeys.includes(rule)) {
+			return fail(400, { error: `Invalid shortcut rule: ${rule}` });
+		}
+
+		try {
+			const ruleInfo = SHORTCUT_RULES.find((r) => r.key === rule)!;
+			const query = buildShortcutQuery(rule);
+			console.log('Generated shortcut SPARQL query:', query);
+			const sparqlResult = await executeSparqlQuery(query);
+			const activities: Activity[] = parseActivityResults(
+				sparqlResult.results.bindings,
+				(binding) => binding.cityUri ? extractCityFromUri(binding.cityUri.value) : 'Unknown'
+			);
+
+			// Shuffle activities so results aren't grouped by type
+			for (let i = activities.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[activities[i], activities[j]] = [activities[j], activities[i]];
+			}
+
+			return {
+				activities,
+				totalCount: activities.length,
+				searchTitle: ruleInfo.label
+			};
+		} catch (error) {
+			console.error('Shortcut query failed:', error);
+			return fail(500, { error: 'Shortcut query failed. Please try again.' });
 		}
 	}
 };

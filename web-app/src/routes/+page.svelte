@@ -1,8 +1,9 @@
 <script lang="ts">
     import { superForm } from 'sveltekit-superforms';
+    import { enhance as kitEnhance } from '$app/forms';
     import type { PageProps } from './$types';
     import type { Activity } from '$lib/types';
-    import { PAGE_SIZE } from '$lib/types';
+    import { PAGE_SIZE, SHORTCUT_RULES } from '$lib/types';
     import ActivityCard from '$lib/components/ActivityCard.svelte';
     import Pagination from '$lib/components/Pagination.svelte';
 
@@ -10,25 +11,42 @@
 
     // Search results state
     let activities = $state<Activity[]>([]);
-    let searchCity = $state('');
+    let searchTitle = $state('');
     let searchComplete = $state(false);
     let currentPage = $state(1);
+    let shortcutSubmitting = $state<string | null>(null);
 
     const { form: formData, errors, enhance, submitting } = superForm(data.form, {
         resetForm: false,
         onResult({ result }) {
             if (result.type === 'success' && result.data) {
-                const { activities: acts, searchCity: city } = result.data as {
+                const { activities: acts, searchTitle: title } = result.data as {
                     activities: Activity[];
-                    searchCity: string;
+                    searchTitle: string;
                 };
                 activities = acts;
-                searchCity = city;
+                searchTitle = title;
                 searchComplete = true;
                 currentPage = 1;
             }
         }
     });
+
+    function handleShortcutSubmit(ruleKey: string) {
+        return ({ result }: { result: any }) => {
+            shortcutSubmitting = null;
+            if (result.type === 'success' && result.data) {
+                const { activities: acts, searchTitle: title } = result.data as {
+                    activities: Activity[];
+                    searchTitle: string;
+                };
+                activities = acts;
+                searchTitle = title;
+                searchComplete = true;
+                currentPage = 1;
+            }
+        };
+    }
 
     // Client-side pagination
     let totalCount = $derived(activities.length);
@@ -55,8 +73,8 @@
     };
 
     let heroImage = $derived(
-        searchCity
-            ? cityImages[searchCity.toLowerCase()] || cityImages.default
+        searchTitle && searchTitle.startsWith('Activities in')
+            ? cityImages[searchTitle.replace('Activities in ', '').toLowerCase()] || cityImages.default
             : cityImages.default
     );
 </script>
@@ -223,13 +241,24 @@
     <section class="results-section max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <!-- Results header -->
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-6">
-            <div>
-                <h2 class="text-2xl md:text-3xl font-bold text-gray-900">
-                    Activities in <span class="text-primary-600">{searchCity}</span>
-                </h2>
-                <p class="text-gray-500 mt-1">
-                    {totalCount} {totalCount === 1 ? 'activity' : 'activities'} found
-                </p>
+            <div class="flex items-center gap-3">
+                <button
+                    onclick={() => { searchComplete = false; activities = []; searchTitle = ''; currentPage = 1; }}
+                    class="inline-flex items-center justify-center w-9 h-9 rounded-xl bg-gray-100 text-gray-500 hover:bg-gray-200 hover:text-gray-700 transition-colors cursor-pointer border-0 shrink-0"
+                    title="Back to shortcuts"
+                >
+                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+                    </svg>
+                </button>
+                <div>
+                    <h2 class="text-2xl md:text-3xl font-bold text-gray-900">
+                        <span class="text-primary-600">{searchTitle}</span>
+                    </h2>
+                    <p class="text-gray-500 mt-1">
+                        {totalCount} {totalCount === 1 ? 'activity' : 'activities'} found
+                    </p>
+                </div>
             </div>
             {#if totalCount > 0}
                 <div class="flex items-center gap-2 text-sm text-gray-400">
@@ -268,25 +297,44 @@
         {/if}
     </section>
 {:else}
-    <!-- Default state: City showcase cards -->
+    <!-- Default state: SWRL Rule Shortcut Cards -->
     <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <h2 class="text-xl font-bold text-gray-800 mb-6 text-center">Popular Destinations</h2>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
-            {#each [
-                { name: 'Berlin', emoji: '🏛️', desc: 'History & Culture', color: 'from-blue-500 to-blue-700' },
-                { name: 'Munich', emoji: '🏰', desc: 'Bavarian Charm', color: 'from-emerald-500 to-emerald-700' },
-                { name: 'Hamburg', emoji: '⚓', desc: 'Maritime Spirit', color: 'from-cyan-500 to-cyan-700' },
-                { name: 'Cologne', emoji: '⛪', desc: 'Gothic Grandeur', color: 'from-purple-500 to-purple-700' }
-            ] as city}
-                <div class="bg-linear-to-br {city.color} rounded-2xl p-6 text-white shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300 cursor-default">
-                    <div class="text-3xl mb-2">{city.emoji}</div>
-                    <h3 class="text-lg font-bold">{city.name}</h3>
-                    <p class="text-white/70 text-sm mt-1">{city.desc}</p>
-                </div>
+        <h2 class="text-xl font-bold text-gray-800 mb-2 text-center">Quick Discover</h2>
+        <p class="text-center text-gray-500 text-sm mb-6">Browse activities inferred by our ontology rules</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+            {#each SHORTCUT_RULES as rule (rule.key)}
+                <form
+                    method="POST"
+                    action="?/shortcut"
+                    use:kitEnhance={() => {
+                        shortcutSubmitting = rule.key;
+                        return handleShortcutSubmit(rule.key);
+                    }}
+                >
+                    <input type="hidden" name="rule" value={rule.key} />
+                    <button
+                        type="submit"
+                        disabled={shortcutSubmitting !== null}
+                        class="w-full text-left bg-linear-to-br {rule.color} rounded-2xl p-6 text-white shadow-lg hover:shadow-xl hover:-translate-y-1 active:translate-y-0 transition-all duration-300 cursor-pointer disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:translate-y-0 disabled:hover:shadow-lg border-0"
+                    >
+                        {#if shortcutSubmitting === rule.key}
+                            <div class="flex items-center gap-2 mb-2">
+                                <svg class="animate-spin h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                                </svg>
+                            </div>
+                        {:else}
+                            <div class="text-3xl mb-2">{rule.emoji}</div>
+                        {/if}
+                        <h3 class="text-lg font-bold">{rule.label}</h3>
+                        <p class="text-white/70 text-sm mt-1">{rule.description}</p>
+                    </button>
+                </form>
             {/each}
         </div>
         <p class="text-center text-gray-400 text-sm mt-8">
-            Select a city above to start exploring activities
+            Or use the search above to filter by city, day, and more
         </p>
     </section>
 {/if}

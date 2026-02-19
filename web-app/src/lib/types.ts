@@ -64,3 +64,43 @@ export interface PaginatedResults<T> {
 }
 
 export const PAGE_SIZE = 12;
+
+/** Metadata for each SWRL-inferred class shortcut card. */
+export interface ShortcutRule {
+	key: string;
+	label: string;
+	emoji: string;
+	description: string;
+	color: string;
+}
+
+export const SHORTCUT_RULES: ShortcutRule[] = [
+	{
+		key: 'BudgetFriendlyActivity',
+		label: 'Budget Friendly',
+		emoji: '💰',
+		description: 'Free or low-cost activities across all cities',
+		color: 'from-emerald-500 to-emerald-700'
+	},
+	{
+		key: 'BadWeatherOption',
+		label: 'Bad Weather Options',
+		emoji: '🌧️',
+		description: 'Indoor activities for rainy days',
+		color: 'from-cyan-500 to-cyan-700'
+	},
+	{
+		key: 'EnglishFriendlyTour',
+		label: 'English Friendly Tours',
+		emoji: '🌐',
+		description: 'Tours available in English for international visitors',
+		color: 'from-indigo-500 to-indigo-700'
+	},
+	{
+		key: 'OpenOnWeekend',
+		label: 'Open on Weekends',
+		emoji: '📅',
+		description: 'Venues with Saturday or Sunday hours',
+		color: 'from-purple-500 to-purple-700'
+	}
+];
